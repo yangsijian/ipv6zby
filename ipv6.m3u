@@ -1,64 +1,340 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/tv-test.png" group-title="测试",IPTV维护
+http://129.226.149.79:4785/html/testvideo.php?id=testvideo06
 
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:15 欧洲杯小组赛 克罗地亚vs意大利 黄健翔,徐阳,李金羽,余霜
-https://livednow.com/migu/918677239?sign=gAAAAABmeUcYF8uiRgnng9zuVlF6Zo5JzHYu289tSbgazgQSuCVd-A8rgtiAe1RCFRmPDXumZ5aqzMCaByoGEV-XRp1nzI7EoBI0YO-jiJ7ejcJxixLXQzvVIkWWlYKew2Urk63CORZ9sVYMG5dDmMKSEKyku5bjJa76xGbYV4KQgOxnjzyHI9xkfkRSz-fFeu9Q3FccwjU4-q4nCGrEpbaAVUPHkj6W7A%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:15 欧洲杯小组赛 克罗地亚vs意大利 刘腾,贺宇
-https://livednow.com/migu/918672504?sign=gAAAAABmeUcYkm90LkTkIPEt_GexsC4tgY7c7dYzKC-GMtoKMfMe5jhid0JcSTwJi0O8orJJMuMLTNfNBI7scYWH5Zaci57lf_dv1_xUCebayn9AG-txFU1j9CRL8d6CJMa9ljDaMOUNLp2Hdrot5tl07ng1b-zWA3ksZwh3T1R7UAIRYCY1nxLViP_m65BdIk_TVetjPuoVxJXWgPPnlJMTQ5gqU2YZ3Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:15 欧洲杯小组赛 克罗地亚vs意大利 江忠德
-https://livednow.com/migu/918811078?sign=gAAAAABmeUcYMQA4q9d5sJbD1RQBhZGetV99ZKojyD4sV7dB-u5NWi5ML54tVtnMdmBgba1YsnqKWsi0khEfd1tKBe0meX7Hm2rxmRfvmcMN1L8JySrgS2al3nxLqbp0i7-gOJeMP0LFJUoSb9_6GGmBItZK6orZ1Iq6ffdRp6N0zwGm4wsmxMa2Jnk56rwm976NXq8bWeNZxxGLQgoTLE9u70gw2UkhmQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:15 欧洲杯小组赛 克罗地亚vs意大利 赛场原声
-https://livednow.com/migu/918678411?sign=gAAAAABmeUcYtoPgtGYigyoyLMp2QtBtgVLmphKuODaghVh9DjeNXq2_eWgZqNWJC6IMH98TOziEwMS48mQmeAePfLKAoTiookf8ha2dFT0ApkV4U_R_grNXX_uy5506vjssyu9FfeRBeZN-exdfRQWJGq5odvSf4_7kUaaAxccvqT1hYhIhfdjz9XAjJmvTIduKqgdfHsKLSYjTkVtUiivLy0ZuxFSxvQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:15 欧洲杯小组赛 克罗地亚vs意大利 AVS3
-https://livednow.com/migu/918677396?sign=gAAAAABmeUcYpET-Casq-xCH-5ST-OrDvkFxzV3-Gqr1RPUPKvUl-7NShuFldWlpLAJulfiwCtVZXz5HtKyLqsSW99uutCIYIH89bg4IcY3Waw-s_YZMD5fkosa8UjEPe8GvL2Oqxe22qZGMA1NPG0LlZnPCVcmglNCUl_re0jbXpThxO2a3Fa53QxrVhXZFudC5k1RsfTPzCk9KuaARapB5GlR3YteTBA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:30 欧洲杯小组赛 阿尔巴尼亚vs西班牙 解说
-https://livednow.com/migu/918677130?sign=gAAAAABmeUcYoFwWTIkNN4-GUKeKmy5SsCjrRLpdmat-1koJsCubVGD9sRaAu9ZGuVbvBl0Wq2IYpRGqUyX73LhJMmB92kZ3-eQJlWzddAxa2GS2wh7GFJ2U0vEIVrPCT6ZZi3oG4KKIDXs_17-8DSLyPHH1OlFTiSRVl8EaHabxJyknvqfVD6CQp3Tv5KRFn6EVn-IfY_VAvIsipSBFGGP4pxfTlVGd2Q%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:30 欧洲杯小组赛 阿尔巴尼亚vs西班牙 解说
-https://livednow.com/migu/918672178?sign=gAAAAABmeUcYrbckDoE-LyoZzlMbpaD5x1Ynd3-txeqPLnp8ubOxfxUoZxmuSwPZoAK8TxK_tYq2UvdkdP2nk9r1sooCZkZ5vzSjdG5kKBEQ6GyMlceDS0SxD0FoVzt7WA8JwtNBqoy5aMfIxCDuMJAG7iwQ3ry8z3TuwfYPL5t1zuSXwCg4qtbsWFp08Q7RzEytqDi6auW62WtXwkUW_qhaPp-Ii9vnwQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:30 欧洲杯小组赛 阿尔巴尼亚vs西班牙 粤语解说
-https://livednow.com/migu/918809079?sign=gAAAAABmeUcYb9WbTspTYQfANLDNSrW7CqejzA00e7zEdq-VE2Gbtc30Dk3nSlcEvBX0h58ruPm8pVvSvzHnompCwrpzuoABdn3Iqn6EOgozaLpsJzYM3qIFobM4lhNOTKLmQXN9cndBsNS5_arXgSsVr_AQUQ44FxB-ltJAW1azSNOQtsLNF5xT8IoyZytpHK5-WX2TAg4lOprmw0t4C2CMJkimrLZqeg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 02:30 欧洲杯小组赛 阿尔巴尼亚vs西班牙 赛场原声
-https://livednow.com/migu/918676023?sign=gAAAAABmeUcYV6fmd5LH-o2NxpKOIlmK1SFdph3yUdeHXLHfhl5DM5fyEsR5g4LxP89foXernvbBB6UC7pipA3jfW24B-eQKIK1vRI6a2FOvLLFfIaf4oUmjwU1ElWlIiIn9sLv_qQrsMslX3pZ5dG-3SJwWLZ1AoMr3caWwCsvTSO7MLvayyAD7wyNIulCZExSlqj_O5UqcVXSzdDAMVriNFzxHTo4WeA%3D%3D
+#EXTINF:-1,tvg-id="10041" tvg-name="赛事-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="综合赛事",体育赛事-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline01
+#EXTINF:-1,tvg-id="10042" tvg-name="赛事-2" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive2.png" group-title="综合赛事",体育赛事-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline02
+#EXTINF:-1,tvg-id="10043" tvg-name="赛事-3" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive3.png" group-title="综合赛事",体育赛事-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline03
+#EXTINF:-1,tvg-id="10044" tvg-name="赛事-4" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive4.png" group-title="综合赛事",体育赛事-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline04
+#EXTINF:-1,tvg-id="10045" tvg-name="赛事-5" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive5.png" group-title="综合赛事",体育赛事-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline05
+#EXTINF:-1,tvg-id="10046" tvg-name="赛事-6" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive6.png" group-title="综合赛事",体育赛事-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline06
+#EXTINF:-1,tvg-id="10047" tvg-name="赛事-7" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive7.png" group-title="综合赛事",体育赛事-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline07
+#EXTINF:-1,tvg-id="10048" tvg-name="赛事-8" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive8.png" group-title="综合赛事",体育赛事-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline08
+#EXTINF:-1,tvg-id="10049" tvg-name="赛事-9" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive9.png" group-title="综合赛事",体育赛事-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline09
+#EXTINF:-1,tvg-id="10050" tvg-name="赛事-10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive10.png" group-title="综合赛事",体育赛事-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=spline10
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 4K 欧洲杯 1
+
+
+#EXTINF:-1,tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline01
+#EXTINF:-1,tvg-id="10032" tvg-name="英超-2" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline02
+#EXTINF:-1,tvg-id="10033" tvg-name="英超-3" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline03
+#EXTINF:-1,tvg-id="10034" tvg-name="英超-4" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline04
+#EXTINF:-1,tvg-id="10035" tvg-name="英超-5" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline05
+#EXTINF:-1,tvg-id="10036" tvg-name="英超-6" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline06
+#EXTINF:-1,tvg-id="10037" tvg-name="英超-7" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline07
+#EXTINF:-1,tvg-id="10038" tvg-name="英超-8" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline08
+#EXTINF:-1,tvg-id="10039" tvg-name="英超-9" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline09
+#EXTINF:-1,tvg-id="10040" tvg-name="英超-10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="英超",英超线路-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=ycline10
+
+
+#EXTINF:-1,tvg-id="YJ01" tvg-name="意甲01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb11
+#EXTINF:-1,tvg-id="YJ02" tvg-name="意甲02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb12
+#EXTINF:-1,tvg-id="YJ03" tvg-name="意甲03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb13
+#EXTINF:-1,tvg-id="YJ04" tvg-name="意甲04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb14
+#EXTINF:-1,tvg-id="YJ05" tvg-name="意甲05" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb15
+#EXTINF:-1,tvg-id="YJ06" tvg-name="意甲06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb16
+#EXTINF:-1,tvg-id="YJ07" tvg-name="意甲07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb17
+#EXTINF:-1,tvg-id="YJ08" tvg-name="意甲08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb18
+#EXTINF:-1,tvg-id="YJ09" tvg-name="意甲09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb19
+#EXTINF:-1,tvg-id="YJ10" tvg-name="意甲10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-YJ.png" group-title="意甲",意甲-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb20
+
+
+#EXTINF:-1,tvg-id="XJ01" tvg-name="西甲01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb21
+#EXTINF:-1,tvg-id="XJ02" tvg-name="西甲02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb22
+#EXTINF:-1,tvg-id="XJ03" tvg-name="西甲03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb23
+#EXTINF:-1,tvg-id="XJ04" tvg-name="西甲04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb24
+#EXTINF:-1,tvg-id="XJ05" tvg-name="西甲05" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb25
+#EXTINF:-1,tvg-id="XJ06" tvg-name="西甲06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb26
+#EXTINF:-1,tvg-id="XJ07" tvg-name="西甲07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb27
+#EXTINF:-1,tvg-id="XJ08" tvg-name="西甲08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb28
+#EXTINF:-1,tvg-id="XJ09" tvg-name="西甲09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb29
+#EXTINF:-1,tvg-id="XJ10" tvg-name="西甲10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-XJ.png" group-title="西甲",西甲-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb30
+
+#EXTINF:-1,tvg-id="DJ01" tvg-name="德甲01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb31
+#EXTINF:-1,tvg-id="DJ02" tvg-name="德甲02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb32
+#EXTINF:-1,tvg-id="DJ03" tvg-name="德甲03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb33
+#EXTINF:-1,tvg-id="DJ04" tvg-name="德甲04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb34
+#EXTINF:-1,tvg-id="DJ05" tvg-name="德甲05" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb35
+#EXTINF:-1,tvg-id="DJ06" tvg-name="德甲06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb36
+#EXTINF:-1,tvg-id="DJ07" tvg-name="德甲07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb37
+#EXTINF:-1,tvg-id="DJ08" tvg-name="德甲08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb38
+#EXTINF:-1,tvg-id="DJ09" tvg-name="德甲09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb39
+#EXTINF:-1,tvg-id="DJ10" tvg-name="德甲10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-DJ.png" group-title="德甲",德甲-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb40
+
+#EXTINF:-1,tvg-id="FJ01" tvg-name="法甲01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb41
+#EXTINF:-1,tvg-id="FJ02" tvg-name="法甲02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb42
+#EXTINF:-1,tvg-id="FJ03" tvg-name="法甲03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb43
+#EXTINF:-1,tvg-id="FJ04" tvg-name="法甲04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb44
+#EXTINF:-1,tvg-id="FJ05" tvg-name="法甲05" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb45
+#EXTINF:-1,tvg-id="FJ06" tvg-name="法甲06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb46
+#EXTINF:-1,tvg-id="FJ07" tvg-name="法甲07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb47
+#EXTINF:-1,tvg-id="FJ07" tvg-name="法甲08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb48
+#EXTINF:-1,tvg-id="FJ09" tvg-name="法甲09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb49
+#EXTINF:-1,tvg-id="FJ10" tvg-name="法甲10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-FJ.png" group-title="法甲",法甲-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb50
+
+
+#EXTINF:-1,tvg-id="10001" tvg-name="NBA01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline01
+#EXTINF:-1,tvg-id="10002" tvg-name="NBA02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline02
+#EXTINF:-1,tvg-id="10003" tvg-name="NBA03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline03
+#EXTINF:-1,tvg-id="10004" tvg-name="NBA04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline04
+#EXTINF:-1,tvg-id="10005" tvg-name="NBA05" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline05
+#EXTINF:-1,tvg-id="10006" tvg-name="NBA06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline06
+#EXTINF:-1,tvg-id="10007" tvg-name="NBA07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline07
+#EXTINF:-1,tvg-id="10008" tvg-name="NBA08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline08
+#EXTINF:-1,tvg-id="10009" tvg-name="NBA09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline09
+#EXTINF:-1,tvg-id="10010" tvg-name="NBA10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline10
+#EXTINF:-1,tvg-id="10011" tvg-name="NBA11" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline11
+#EXTINF:-1,tvg-id="10012" tvg-name="NBA12" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveNBA.png" group-title="NBA",NBA-12
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mgline12
+
+
+#EXTINF:-1,tvg-id="10001" tvg-name=NBA01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline01
+#EXTINF:-1,tvg-id="10002" tvg-name=NBA02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline02
+#EXTINF:-1,tvg-id="10003" tvg-name=NBA03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline03
+#EXTINF:-1,tvg-id="10004" tvg-name=NBA04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline04
+#EXTINF:-1,tvg-id="10005" tvg-name=NBA05" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline05
+#EXTINF:-1,tvg-id="10006" tvg-name=NBA06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline06
+#EXTINF:-1,tvg-id="10007" tvg-name=NBA07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline07
+#EXTINF:-1,tvg-id="10008" tvg-name=NBA08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline08
+#EXTINF:-1,tvg-id="10009" tvg-name=NBA09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline09
+#EXTINF:-1,tvg-id="10010" tvg-name=NBA10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline10
+#EXTINF:-1,tvg-id="10011" tvg-name=NBA11" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline11
+#EXTINF:-1,tvg-id="10012" tvg-name=NBA12" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-ZXNBA.png" group-title="帧享NBA",帧享NBA-12
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=zxline12
+
+
+
+#EXTINF:-1,tvg-id="CBA01" tvg-name="CBA01"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb01
+#EXTINF:-1,tvg-id="CBA02" tvg-name="CBA02"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb02
+#EXTINF:-1,tvg-id="CBA03" tvg-name="CBA03"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb03
+#EXTINF:-1,tvg-id="CBA04" tvg-name="CBA04"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb04
+#EXTINF:-1,tvg-id="CBA05" tvg-name="CBA05"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb05
+#EXTINF:-1,tvg-id="CBA06" tvg-name="CBA06"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb06
+#EXTINF:-1,tvg-id="CBA07" tvg-name="CBA07"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb07
+#EXTINF:-1,tvg-id="CBA08" tvg-name="CBA08"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb08
+#EXTINF:-1,tvg-id="CBA09" tvg-name="CBA09"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb09
+#EXTINF:-1,tvg-id="CBA10" tvg-name="CBA10"tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SP-CBA.png" group-title="CBA",CBA-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb10
+
+
+
+#EXTINF:-1,tvg-id="SP01" tvg-name="体育赛事01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-01
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb51
+#EXTINF:-1,tvg-id="SP02" tvg-name="体育赛事02" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-02
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb52
+#EXTINF:-1,tvg-id="SP03" tvg-name="体育赛事03" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-03
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb53
+#EXTINF:-1,tvg-id="SP04" tvg-name="体育赛事04" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-04
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb54
+#EXTINF:-1,tvg-id="SP05" tvg-name="体育赛事05" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-05
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb55
+#EXTINF:-1,tvg-id="SP06" tvg-name="体育赛事06" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-06
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb56
+#EXTINF:-1,tvg-id="SP07" tvg-name="体育赛事07" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-07
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb57
+#EXTINF:-1,tvg-id="SP08" tvg-name="体育赛事08" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-08
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb58
+#EXTINF:-1,tvg-id="SP09" tvg-name="体育赛事09" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb59
+#EXTINF:-1,tvg-id="SP10" tvg-name="体育赛事10" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb60
+#EXTINF:-1,tvg-id="SP11" tvg-name="体育赛事11" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-11
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb61
+#EXTINF:-1,tvg-id="SP12" tvg-name="体育赛事12" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-12
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb62
+#EXTINF:-1,tvg-id="SP13" tvg-name="体育赛事13" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-13
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb63
+#EXTINF:-1,tvg-id="SP14" tvg-name="体育赛事14" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-14
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb64
+#EXTINF:-1,tvg-id="SP15" tvg-name="体育赛事15" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/mg-SPLIVE.png" group-title="体育赛事",体育赛事-15
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg1zb65
+
+
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",CCTV-5
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb01
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",CCTV-5+
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb02
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",CCTV-16
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb03
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",五星体育
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb04
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",新视觉
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb05
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",劲爆体育
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb06
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",魅力足球
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb07
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",广东体育
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb08
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道09
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb09
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道10
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb10
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道11
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb11
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道12
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb12
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道13
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb13
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道14
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb14
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道15
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb15
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道16
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb16
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道17
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb17
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道18
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb18
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道19
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb19
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道20
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb20
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道21
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb21
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道22
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb22
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道23
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb23
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道24
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb24
+#EXTINF:-1,tvg-id="10000" tvg-name="体育频道" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SportC04.png" group-title="体育频道",体育频道25
+http://129.226.149.79:4785/html/SPlive.php?access_token=DY0621_SP_QQ632872875&id=mg2zb25
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 23:30 欧洲杯小组赛 荷兰vs奥地利 梁祥宇、董路、林梦鸽
+https://livednow.com/migu/918677811?sign=gAAAAABmepgEDyBlP0XPyu-SuCkDdcXC1eBJPDmhqDeJAl_O8ZQA3cdCjwaotO2MSNoI6-Z-31XpP5EaL6ZR-BgJESQE4NJT4YQhHBTnQDnd-nIJetwD64z1dzbnPk_9Wc81UVGcV19-C4jb8gBFyn-wZZgZ72Z7THgzD23ZSwkgK2Mv1gP5be4J-mHvFrwDl9_tPvAHOxbPIsobY2coN6yD1W7e6HtnNg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 23:30 欧洲杯小组赛 荷兰vs奥地利 刘腾、贺宇
+https://livednow.com/migu/918672645?sign=gAAAAABmepgEDF1v5oa0M-rFNnMaYeuYMH0Z1Yd9lkXR4L499r06lMIFMQNaBBlulYOO4DmHAS-P1skvn-qPFFwuB_E4XF1VTqsacQ4_3soajH78reCMBYREKaOHFaBsaXRGazIlTqKwUfGEqyP_PgBfbJmQpkR5PMUFCg5FSQULj2azTEPag20xVTaU7GdFP5-_GXFY7EB-T7Ta2o4It16yt_6h1fetmQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 23:30 欧洲杯小组赛 荷兰vs奥地利 陈凯冬
+https://livednow.com/migu/918809704?sign=gAAAAABmepgEdeHiXqBZG1_rn0VrNSzu1mSzDwbn_2QmhIzTNwi5fJY-sfYobHUa_seA_g_giR0gnm4Z0-aRyZ1ANsDYVLDeE6ElOZuclQnGHEJbO1Sd75SJK4xbGCUvephJadfgNVyDS7YnDvd2elbAnX6IHYBLGdihUNCOHN3LRuAUDdEjYdvxx1DRzUCZp3B9O4AuHNDaXBQw7KEZNZDghnLMGbkdrw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 23:30 欧洲杯小组赛 法国vs波兰 黄健翔,徐阳,余霜
+https://livednow.com/migu/918678109?sign=gAAAAABmepgExpfDJpyd24CNFk6Lw0Pl1ULhUjBxkp_64tqZdzcmBUkaDYzr78EoAwNZOzBW93zbAdp6HgJ0OCmqJTqYTnJ0jXPc_XXQlOyGaOHsumHtM5aI1v7RA8LMRPaD-TdwC56Mws7fuYzxuneRa77VY-j-NipKAjr2cdEq-q93qTxAo-Us95q7Oys5aB49HAk4vtbdwgobeiosjKcSf0FzuE9FJw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 23:30 欧洲杯小组赛 法国vs波兰 鹿中原,邵煊
+https://livednow.com/migu/918672803?sign=gAAAAABmepgEk5SvWKW8k21_F9hphB5hSZPM8IuqvYMC-7rP3ROS_OsguFPplq9v_O2TyyWiLzt55Ax2nsndTLjVjI0pfSlcrmFxpblnWNi64L73imb7BFvgrsj1XnTqkfx8fZyH7twf-8hrcUC1gAbkcfTrEGhrTlL4JPTdpZnimhzuGx4N6CswG6OclC2zifg0cTDLOWvW8PNWRFDoWjxQ2dxU5Ond6g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 23:30 欧洲杯小组赛 法国vs波兰 江忠德
+https://livednow.com/migu/918809995?sign=gAAAAABmepgEcjL9XwqxclErKrqfmpBxraJK0deYYTl4Xe9cUs0CEqJjzeOAuhJr7sXbUyAJRMyeGRghvT_tZM8id3ohwYF8rEhQLgjpc3X1iDcDdLLqh2x7eX3-jiy0Moy_JidAQFgQjeccaYDMNB3247jp5UnI6IGDnftcn7RNGWLpeNKhtYpcgedPh1Y9BxPpHkfetf7iMDF8yhOxjd3_VMRkmGgw3Q%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 23:30 欧洲杯小组赛 法国vs波兰 赛场原声
+https://livednow.com/migu/918678722?sign=gAAAAABmepgEW3tjz0OsMVfAFi-FKy__gyBmzrxcAzH_d9g8YrWttGkA8zdPmkHufQSf9F4LHM8CHNzRR253clE9et9jq396P_s8s7hk6PB_t19fDQYTPpXT34S8Js_Ar4fDJjiE4dtNJ-8b0EvBqXAqZRvDCev14TyeB6QZyJYMvbyoB9DHqLrCf6DQ0R4x0nPmvt6jAFtqb8rHDDG0pl20R208OcrJjA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/25 23:30 欧洲杯小组赛 法国vs波兰 AVS3
+https://livednow.com/migu/918678306?sign=gAAAAABmepgEijPxFYtrBbG2sRQ7jUuPPqBgTZwnke4asQPVigVY-XCrBNww8gcXA1FkSdI0SqmueiyOMZk8YUGldE7qMOuq7EftHwY5PVmjoDRgO7-diICr5_osNACGoJJ4vgh4laa5fEj9SsseZtxIl-0HB-wvxLSotzEpZqIXgkkTtjX8N0T9miTwmwbbGTrnZRNygxQZYZpn2m2bRVQ2IdH466qyWg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/26 02:30 欧洲杯小组赛 丹麦vs塞尔维亚 刘腾、李毅、李子琪
+https://livednow.com/migu/918680080?sign=gAAAAABmepgE9J0OFbkfMp1SRdTokuaAndMpvPxb1J6xLce0mRh20ixtza_fJXu0azYdSKpsaUQ88iZUEmUAv9kAjmwRd7SMK11JJgnE6vPPLrONYE7_KZ3KZS7uycwwykkZLn7NZQ3RH3GTBYO03Nu-enDTOyX_Ei_YZy31b8Ly3uD5-dcjZwnZxL8WeamUYwXzASe4Ptan3Zwgb8PApOteTq3Wx76pSA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/26 02:30 欧洲杯小组赛 丹麦vs塞尔维亚 赛场原声
+https://livednow.com/migu/918679855?sign=gAAAAABmepgEcJa-xsbcE_K1yYHtJY80PGDHcJ5tsDS5umOR40jLjxE3yHy0lJarBfgA4JX-dWz0Y8pmZz9ZLh0_O5yJ7BA_M_zZB9rGx3W_I2AdNzZKj8_5RsFkwfR0JBXNAgbgLikH9kC6bAbaJ8nGW4ePCp2n48BV-YP7jvw1vXJcl0Nfcsmbf93FCPKj0zombKKUiqy6X-DavlgunavnBCRZKneNQA%3D%3D
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 欧洲杯 1
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 4K 欧洲杯 2
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 欧洲杯 2
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 4K 欧洲杯 3
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 欧洲杯 3
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 HD 欧洲杯 1
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 HD 欧洲杯 1(ipv6)
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 HD 欧洲杯 2
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 HD 欧洲杯 2(ipv6)
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 HD 欧洲杯 3
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 HD 欧洲杯 3 (ipv6)
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",CCTV5
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",CCTV-5 体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",Nowe Sports 618（直连
-https://live.9528.eu.org/04858914623db89373039e9bb115de55.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",NOW体育618
-http://ali.hlspull.yximgs.com/live/5PaMJhRvVjHuxU2JlMZaFxN8m58slT93.flv
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",NOW体育618
-https://histar.zapi.us.kg/?id=now-sports-618 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",NOW体育618
-http://111.160.76.101:80/香蕉哥/now体育3.live.ts
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Sports 618 欧洲杯
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Sports 619 欧洲杯
-http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Lucky 688 欧洲杯
-http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Sports 3
-http://histar.zapi.us.kg/?id=now-sports-3
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",Now Sports 3
 http://cdn.1678520.xyz/xsj.php?id=now-sports-3
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",ViuTV
-http://m.glx008.com:8000/bysid/99.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",ViuTV
 http://zsntlqj.xicp.net:8895/bysid/99.m3u8
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",ViuTV
-http://histar.zapi.us.kg/?id=viutv
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",DE| EURO FUSSBALL.TV1 4K「需魔法」
-http://live.9528.eu.org/live.dmtn.com:8080/live/592881.m3u8?token=ed2ca82bc3bbcf7807c2cd42eb5c522c
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",德国欧洲杯原声: FUSSBALL.TV 1 FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639321.m3u8
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",德国欧洲杯原声: FUSSBALL.TV 1ᵁᴴᴰ
@@ -1585,6 +1861,7 @@ http://extraott.com:80/live/7921751389/6097373662/32910.m3u8
 #EXTINF:-1 group-title="🐉4K-8K频道",贝因体育 3 4K
 http://extraott.com:80/live/7921751389/6097373662/32909.m3u8
 
+
 #EXTINF:-1 group-title="🐉国内体育",JJ斗地主
 http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 #EXTINF:-1 group-title="🐉国内体育",JJ斗地主
@@ -2413,6 +2690,8 @@ http://nz171l122.bb60246.ctm.net:8892/bysid/83.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="🐉香港频道「线路3」",凤凰卫视香港台
 http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
 
+
+
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="🐉湾湾频道「线路1」",纬来体育
 http://154.12.50.54:123/smt.php?id=videolandsport
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="🐉湾湾频道「线路1」",纬来日本
@@ -2903,6 +3182,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉湾湾频道「线路2」",靖宇综合
 http://stream8.jlntv.cn/jytv/sd/live.m3u8
 
+
 #EXTINF:-1 group-title="🐉日本频道🦮",👉此处以下频道需要魔法👈
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 #EXTINF:-1 group-title="🐉日本频道🦮",JP| QVC JAPAN
@@ -3339,6 +3619,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS311&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🐉日本频道🦮",Music Japan
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS323&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 
 #EXTINF:-1 group-title="🐉韩国频道🦆",👉此处以下频道需要魔法👈
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
@@ -3810,6 +4091,7 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道🦆",ANTV(5G专线)
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="🐉国际频道🌏",👉此处以下频道需要魔法👈
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
