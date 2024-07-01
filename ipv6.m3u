@@ -1,4 +1,5 @@
 
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-①💥",CCTV1
 rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="🐉高码率线路-①💥",CCTV2
@@ -2140,7 +2141,6 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032474&ext
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道「线路2」",NOW 体育 7台
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1032473&extension=ts&play_token=TZmKFnaAi2
 
-
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🐉香港频道「线路3」",凤凰资讯
 http://dms.yryyj.site:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="🐉香港频道「线路3」",凤凰资讯
@@ -2257,6 +2257,7 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPla
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉香港频道「线路3」",港台RTHK34HD
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉湾湾频道「线路1」",👉以下频道需要魔法👈
 https://7692.kstore.space/4.mp4
@@ -3966,7 +3967,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 group-title="🐉日本频道🦮",Music Japan
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS323&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-
 #EXTINF:-1 group-title="🐉韩国频道🦆",👉此处以下频道需要魔法👈
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",All the Kpop
@@ -5224,305 +5224,418 @@ http://doubleclicktv.live:80/70376812/52663544/253199
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",👉此处以下频道需要魔法👈
 https://7692.kstore.space/4.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",新闻频道
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=229422&extension=ts&play_token=4hVhb6szir
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK| BBC NEWS HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45331&extension=ts&play_token=1RTf1HeX5t
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK| BBC NEWS HEVC
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111541&extension=ts&play_token=03nlAumNv7
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK| BBC WORLD NEWS HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1468854&extension=ts&play_token=yK6wNiBvFN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| BBC PARLIAMENT
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=317211&extension=ts&play_token=JfeFH70iCm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| BBC ARABIC
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=459638&extension=ts&play_token=YRoIYQXybz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| CNN FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30553&extension=ts&play_token=kSFiCebHgv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| CNN INTERNATIONAL
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=459632&extension=ts&play_token=Ze3NJjmdyd
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="🐉英国频道🦁",UK| SKY NEWS HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30504&extension=ts&play_token=SKU5ZzhWV0
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="🐉英国频道🦁",UK| SKY NEWS FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1081655&extension=ts&play_token=i2QKDAHIK1
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="🐉英国频道🦁",UK| BLOOMBERG HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=49214&extension=ts&play_token=qkevBX3vNS
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="🐉英国频道🦁",UK| BLOOMBERG HEVC
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111549&extension=ts&play_token=dvrrm01KOS
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="🐉英国频道🦁",UK| FRANCE 24
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149653&extension=ts&play_token=rijOLCGCKC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| RT AMERICA HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149646&extension=ts&play_token=Mbnilr77bX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| RT DOCUMENTRY HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149647&extension=ts&play_token=3jnKofO4Q6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| RT NEWS HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149648&extension=ts&play_token=6MgTFSIXty
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| RT UK HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149649&extension=ts&play_token=3MHSGfM1zw
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="🐉英国频道🦁",UK| AL JAZEERA EN HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=229460&extension=ts&play_token=DZhBYTxV0H
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TRT WORLD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111539&extension=ts&play_token=icSUPa94RX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NBC NEWS NOW FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=875304&extension=ts&play_token=kSyp3O0yQT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NEW MEDIA FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=875303&extension=ts&play_token=3VBPLVWZs7
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="🐉英国频道🦁",UK| CNBC
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164037&extension=ts&play_token=47esBJVCih
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| I24NEWS EN
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=459634&extension=ts&play_token=T88JaFNIMq
-#EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="🐉英国频道🦁",UK| EURONEWS EN HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=459631&extension=ts&play_token=0MrElfU186
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| GB NEWS FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=622483&extension=ts&play_token=jIYzGjC1Ar
-#EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="🐉英国频道🦁",UK| EURONEWS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=75866&extension=ts&play_token=nT893cIq9K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| RT FHD RUSSIAN (Temp 
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014209&extension=ts&play_token=msQlXa0bZk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| PTV GLOBAL
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014208&extension=ts&play_token=9LcXipbB9g
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NHK WORLD FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014207&extension=ts&play_token=k8LIoXDS1L
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| RTE NEWS NOW
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014206&extension=ts&play_token=07PmvFh2g7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| ARISE NEWS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014205&extension=ts&play_token=iH4A27f4cf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| GEO NEWS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014203&extension=ts&play_token=a3fcPeCAYV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TVC NEWS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014202&extension=ts&play_token=QppLMRxsCF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| BBC ONE NORTHERN IREL
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014201&extension=ts&play_token=DBPpiqtTrZ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| BBC ONE CI
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014200&extension=ts&play_token=nsPndYtMO2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| WION FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014198&extension=ts&play_token=lpmgfSa3s5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DW NEWS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=992267&extension=ts&play_token=pyrNwnT7mh
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="🐉英国频道🦁",16K | NATIONAL GEOGRAPHIC
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",8K | NATIONAL GEOGRAPHIC
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/150542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",NL | NATIONAL GEOGRAPHICr
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK | NATIONAL GEOGRAPHIC
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",NL| NATIONAL GEOGRAPHIC F
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283043&extension=ts&play_token=4xf2oDtohJ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",NL| NATIONAL GEOGRAPHIC C
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283272&extension=ts&play_token=yXn3RGHq5L
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",PL| NATIONAL GEOGRAPHIC F
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=880438&extension=ts&play_token=InHRSUchT4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",ARG | NATIONAL GEOGRAPHIC
-http://doubleclicktv.live:80/70376812/52663544/325178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",|MX| National Geographic
-http://doubleclicktv.live:80/70376812/52663544/7753
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",USA Animal Planet UHD
-http://doubleclicktv.live:80/70376812/52663544/269009
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",USA Animal Planet East
-http://doubleclicktv.live:80/70376812/52663544/508
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",USA Animal Planet West
-http://doubleclicktv.live:80/70376812/52663544/507
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",UK Animal Planet
-http://doubleclicktv.live:80/70376812/52663544/277117
+http://doubleclicktv.live/70376812/52663544/277194
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK BBC NEWS FHD
+http://doubleclicktv.live/70376812/52663544/277195
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK BBC News
+http://doubleclicktv.live/70376812/52663544/277194
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK CNN UK
+http://doubleclicktv.live/70376812/52663544/277193
+#EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="🐉英国频道🦁",UK Euronews
+http://doubleclicktv.live/70376812/52663544/277192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK London Live
+http://doubleclicktv.live/70376812/52663544/277191
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="🐉英国频道🦁",UK Sky News HD
+http://doubleclicktv.live/70376812/52663544/277190
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="🐉英国频道🦁",UK Sky News
+http://doubleclicktv.live/70376812/52663544/277189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Dunya News
+http://doubleclicktv.live/70376812/52663544/277188
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="🐉英国频道🦁",UK FRANCE 24 FHD
+http://doubleclicktv.live/70376812/52663544/277187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK GEO News
+http://doubleclicktv.live/70376812/52663544/277186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK IRE  RTE News
+http://doubleclicktv.live/70376812/52663544/277185
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="🐉英国频道🦁",UK CNBC HD
+http://doubleclicktv.live/70376812/52663544/277184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK PBS America
+http://doubleclicktv.live/70376812/52663544/277183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK GB News
+http://doubleclicktv.live/70376812/52663544/277182
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK CNN HD
+http://doubleclicktv.live/70376812/52663544/277181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TRT World HD
+http://doubleclicktv.live/70376812/52663544/277180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Russia Today HD
+http://doubleclicktv.live/70376812/52663544/277179
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="🐉英国频道🦁",UK Sky News FHD
+http://doubleclicktv.live/70376812/52663544/277178
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="🐉英国频道🦁",UK France 24 HD
+http://doubleclicktv.live/70376812/52663544/277177
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="🐉英国频道🦁",UK Bloomberg HD
+http://doubleclicktv.live/70376812/52663544/277176
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK BBC News HD
+http://doubleclicktv.live/70376812/52663544/277175
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="🐉英国频道🦁",UK Al Jazeera HD
+http://doubleclicktv.live/70376812/52663544/277174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Info Wars
+http://doubleclicktv.live/70376812/52663544/277173
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Talk TV
+http://doubleclicktv.live/70376812/52663544/277172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Court TV
+http://doubleclicktv.live/70376812/52663544/277171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Hum Europe
+http://doubleclicktv.live/70376812/52663544/277170
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",体育频道
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230681&extension=ts&play_token=jqyREeFuH6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT ULTIMATE 4K
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1379047&extension=ts&play_token=Lb13USFnqS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT BOX OFFICE FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1019933&extension=ts&play_token=O0ukIPHqsA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT SPORTS ESPN FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30564&extension=ts&play_token=AREMCGPY2F
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT SPORTS 1 FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30567&extension=ts&play_token=d6BfCT5l6S
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT SPORTS 2 FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30566&extension=ts&play_token=t2U5HCRQcZ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT SPORTS 3 FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30565&extension=ts&play_token=B1XFvyAaFB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT SPORTS 4 FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1019935&extension=ts&play_token=85U8VzCJ1K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT SPORTS 5 FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1004548&extension=ts&play_token=m1sjGuuYIP
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS MAIN EVENT
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30496&extension=ts&play_token=ztk9Ibnfpc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS PL FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30493&extension=ts&play_token=WDw1tiWoeC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS FOOTBALL F
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30498&extension=ts&play_token=ALYgMwaNwQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS ACTION FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30501&extension=ts&play_token=vow1UL9pID
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS ARENA FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30500&extension=ts&play_token=MbM9t8Au64
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS CRICKET FH
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30502&extension=ts&play_token=qlAkNtOzNt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS F1 FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30499&extension=ts&play_token=NHZXWOvNlC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS GOLF FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30497&extension=ts&play_token=F9VYgxZvYO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS MIX FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30495&extension=ts&play_token=eESV3dq4UE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS NEWS FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30494&extension=ts&play_token=7UxGO69D60
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS RACING FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=77373&extension=ts&play_token=4tRCTVaKjA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPORTS ACTION FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=929003&extension=ts&play_token=84SM1S9Uz5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SPOIRTS TENNIS FH
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1454232&extension=ts&play_token=n5jJEgqSGW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TNT SPORTS BOX OFFICE
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458650&extension=ts&play_token=3ZtrgXEK4y
-#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK| EUROSPORTS 1  HEVC FH
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458649&extension=ts&play_token=aOMguhMNmh
-#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK| EUROSPORTS 2 HEVC FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458648&extension=ts&play_token=rpJdytZIXp
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| PREMIER SPORTS 1 IREL
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458647&extension=ts&play_token=L7S1Lr2ogQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| PREMIER SPORTS 2 IREL
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458812&extension=ts&play_token=Non3xmADue
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DAZN PPV HEVC FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458638&extension=ts&play_token=i72D0ng96O
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| VIAPLAY 1 HEVC FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458646&extension=ts&play_token=4Vom8WVoDx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| VIAPLAY 2 HEVC FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458645&extension=ts&play_token=5MWjg5O7fX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| LFC HEVC FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458774&extension=ts&play_token=6FgcftfuRU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| MUTV HEVC FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458773&extension=ts&play_token=vtEzCceUWB
+http://doubleclicktv.live/70376812/52663544/277194
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Main Event FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276918
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports F1 FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276927
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Tennis FHD 50fps
+http://doubleclicktv.live/70376812/52663544/318045
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Arena FHD
+http://doubleclicktv.live/70376812/52663544/276933
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Cricket FHD
+http://doubleclicktv.live/70376812/52663544/276930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Football FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276924
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Golf FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276921
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Mix FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports News FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276912
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Action FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276909
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Premier League 50fps
+http://doubleclicktv.live/70376812/52663544/276906
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Racing FHD 50fps
+http://doubleclicktv.live/70376812/52663544/276903
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport Ultimate 4K
+http://doubleclicktv.live/70376812/52663544/276789
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 1 50FPS
+http://doubleclicktv.live/70376812/52663544/276802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 2 50FPS
+http://doubleclicktv.live/70376812/52663544/276801
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 3 50FPS
+http://doubleclicktv.live/70376812/52663544/276800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 4 50FPS
+http://doubleclicktv.live/70376812/52663544/276799
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 5
+http://doubleclicktv.live/70376812/52663544/276890
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 6
+http://doubleclicktv.live/70376812/52663544/276889
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 7
+http://doubleclicktv.live/70376812/52663544/276888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 8
+http://doubleclicktv.live/70376812/52663544/276887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 9
+http://doubleclicktv.live/70376812/52663544/276886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 10
+http://doubleclicktv.live/70376812/52663544/276885
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK DAZN1 FHD
+http://doubleclicktv.live/70376812/52663544/276786
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Boxnation HD
+http://doubleclicktv.live/70376812/52663544/276884
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BoxNation
+http://doubleclicktv.live/70376812/52663544/276883
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sporty Stuff HD
+http://doubleclicktv.live/70376812/52663544/276882
+#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 1
+http://doubleclicktv.live/70376812/52663544/276881
+#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 2
+http://doubleclicktv.live/70376812/52663544/276879
+#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 3
+http://doubleclicktv.live/70376812/52663544/276819
+#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 4
+http://doubleclicktv.live/70376812/52663544/276818
+#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 5
+http://doubleclicktv.live/70376812/52663544/276817
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Xtra  FHD
+http://doubleclicktv.live/70376812/52663544/276877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK LaLigaTV FHD
+http://doubleclicktv.live/70376812/52663544/276875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK MUTV FHD
+http://doubleclicktv.live/70376812/52663544/276873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Sports 1 FHD
+http://doubleclicktv.live/70376812/52663544/276870
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Sports UK 1 HD
+http://doubleclicktv.live/70376812/52663544/276869
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Sports 2  FHD
+http://doubleclicktv.live/70376812/52663544/276866
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Sports UK 2 HD
+http://doubleclicktv.live/70376812/52663544/276865
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Racing TV  FHD
+http://doubleclicktv.live/70376812/52663544/276862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Racing TV HD
+http://doubleclicktv.live/70376812/52663544/276861
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 1
+http://doubleclicktv.live/70376812/52663544/276858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 2
+http://doubleclicktv.live/70376812/52663544/276857
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 3
+http://doubleclicktv.live/70376812/52663544/276856
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 4
+http://doubleclicktv.live/70376812/52663544/276855
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 5
+http://doubleclicktv.live/70376812/52663544/276854
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 6
+http://doubleclicktv.live/70376812/52663544/276853
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 7
+http://doubleclicktv.live/70376812/52663544/276852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 8
+http://doubleclicktv.live/70376812/52663544/276851
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 9
+http://doubleclicktv.live/70376812/52663544/276850
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 10
+http://doubleclicktv.live/70376812/52663544/276849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 11
+http://doubleclicktv.live/70376812/52663544/276848
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 12
+http://doubleclicktv.live/70376812/52663544/276847
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 13
+http://doubleclicktv.live/70376812/52663544/276846
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 14
+http://doubleclicktv.live/70376812/52663544/276845
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 15
+http://doubleclicktv.live/70376812/52663544/276844
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK LFC TV FHD
+http://doubleclicktv.live/70376812/52663544/276843
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BT Sport Mosaic 1
+http://doubleclicktv.live/70376812/52663544/276840
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BT Sport Mosaic 2
+http://doubleclicktv.live/70376812/52663544/276835
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",WWE Network,
+http://doubleclicktv.live/70376812/52663544/276834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",CBS Sports Network
+http://doubleclicktv.live/70376812/52663544/276833
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Willow Cricket
+http://doubleclicktv.live/70376812/52663544/276832
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UFC FIGHT PASS
+http://doubleclicktv.live/70376812/52663544/276831
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Arena FHD
+http://doubleclicktv.live/70376812/52663544/276830
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Cricket FHD
+http://doubleclicktv.live/70376812/52663544/276829
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports F1 FHD HEVC
+http://doubleclicktv.live/70376812/52663544/276828
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Football FH
+http://doubleclicktv.live/70376812/52663544/276827
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Golf FHD HE
+http://doubleclicktv.live/70376812/52663544/276826
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Main Event 
+http://doubleclicktv.live/70376812/52663544/276825
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Mix FHD HEV
+http://doubleclicktv.live/70376812/52663544/276824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports News FHD HE
+http://doubleclicktv.live/70376812/52663544/276823
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports NFL/ACTION 
+http://doubleclicktv.live/70376812/52663544/276822
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Premier League
+http://doubleclicktv.live/70376812/52663544/276821
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Racing FHD 
+http://doubleclicktv.live/70376812/52663544/276820
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 01
+http://doubleclicktv.live/70376812/52663544/276816
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 02
+http://doubleclicktv.live/70376812/52663544/276815
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 03
+http://doubleclicktv.live/70376812/52663544/276814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 04
+http://doubleclicktv.live/70376812/52663544/276813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 05
+http://doubleclicktv.live/70376812/52663544/276812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 06
+http://doubleclicktv.live/70376812/52663544/276811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 07
+http://doubleclicktv.live/70376812/52663544/276810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 08
+http://doubleclicktv.live/70376812/52663544/276809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 09
+http://doubleclicktv.live/70376812/52663544/276808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 10
+http://doubleclicktv.live/70376812/52663544/276807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 11
+http://doubleclicktv.live/70376812/52663544/276798
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 12
+http://doubleclicktv.live/70376812/52663544/276797
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 13
+http://doubleclicktv.live/70376812/52663544/276796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 14
+http://doubleclicktv.live/70376812/52663544/276795
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 15
+http://doubleclicktv.live/70376812/52663544/276794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 16
+http://doubleclicktv.live/70376812/52663544/276793
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 17
+http://doubleclicktv.live/70376812/52663544/276792
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 18
+http://doubleclicktv.live/70376812/52663544/276791
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 19
+http://doubleclicktv.live/70376812/52663544/276790
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Premier Sport 1 (IRE)
+http://doubleclicktv.live/70376812/52663544/276788
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Premier Sport 2 (IRE)
+http://doubleclicktv.live/70376812/52663544/276787
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",少儿频道
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230673&extension=ts&play_token=RG5qI8UUwU
-#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="🐉英国频道🦁",UK| BOOMERANG FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45295&extension=ts&play_token=fXjA6ctRLx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| CARTOON NETWORK FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30556&extension=ts&play_token=5FDkjqQDKs
-#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="🐉英国频道🦁",UK| NICKELODEON FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30524&extension=ts&play_token=VJw0YbfZnK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY KIDS HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45328&extension=ts&play_token=qv03kAVfDX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| BABY TV
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45318&extension=ts&play_token=0YN7lYO9AZ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| CARTOONITO
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164013&extension=ts&play_token=VIKBZgJVA0
-#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="🐉英国频道🦁",UK| NICKELODEON HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=228579&extension=ts&play_token=AZnHJ9f0ln
-#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK| NICK JR FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014233&extension=ts&play_token=Kdha05cMKg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NICK JUNIOR
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45260&extension=ts&play_token=YpVaeQCf8J
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NICK JUNIOR +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45259&extension=ts&play_token=QMymfNKWrn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NICK JUNIOR TOO
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45261&extension=ts&play_token=OkvYu5Wo4j
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NICK TOONS
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45258&extension=ts&play_token=LVlZMDQjdt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TINY POP
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45240&extension=ts&play_token=x1hag4K08D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TINY POP +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=77374&extension=ts&play_token=uAUgKgu4xy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| POP
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45254&extension=ts&play_token=zkJkpEt88u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| POP +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=79705&extension=ts&play_token=J8PffTg9Zr
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| POP MAX
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=114749&extension=ts&play_token=4EgVrqjVbx
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| POP MAX+1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=114750&extension=ts&play_token=mVaX1bPwZM
-#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="🐉英国频道🦁",UK| DISNEY CHANNEL FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=396314&extension=ts&play_token=60CzCisZBi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DAVE & AVA HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1206422&extension=ts&play_token=21v01WWLRN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",娱乐频道
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DAYSTAR HEVC
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111552&extension=ts&play_token=z7YapwMvcp
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| EDEN FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30544&extension=ts&play_token=sLNqrv4Rk5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| GOLD FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30537&extension=ts&play_token=TN5oj6t7FU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DAVE FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30550&extension=ts&play_token=EEYCbuCfmj
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| E! ENTERTAINMENT HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45278&extension=ts&play_token=nYrUhjtVZW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| MORE 4 FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30528&extension=ts&play_token=B1KMDownm0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| QUEST FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45334&extension=ts&play_token=0SdysSPlxQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| UTV FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230677&extension=ts&play_token=84MZuyequX
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SYFY FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30492&extension=ts&play_token=aUCWQy8Rcd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY ARTS FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30519&extension=ts&play_token=Jz7hb0r5Wd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY ATLANTIC FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30518&extension=ts&play_token=7v8SEUazCo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY MAX FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=741954&extension=ts&play_token=6Uz6Q2yszy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY SHOWCASE FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=741952&extension=ts&play_token=cPLwkRf7jo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY WITNESS HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=83704&extension=ts&play_token=0rCLNrZxXZ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| TLC FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30489&extension=ts&play_token=qqCjNtvvDc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| STV FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45323&extension=ts&play_token=GrKoeY6ZuU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| COMEDY CENTRAL FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30552&extension=ts&play_token=JlW5cDeQkI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| COMEDY CENT XTRA+1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45285&extension=ts&play_token=UvsgtIgqy1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| YESTERDAY FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1393321&extension=ts&play_token=A7gZJwNAkV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",纪录片频道
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY NATURE FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164071&extension=ts&play_token=Tu9JxavvrA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DISCOVERY +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164044&extension=ts&play_token=Wx548Wrnig
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DISCOVERY FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30549&extension=ts&play_token=pZ1osCOiyZ
-#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="🐉英国频道🦁",UK| DISCOVERY SCIENCE
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45281&extension=ts&play_token=LhHgybrwuT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DISCOVERY TURBO
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45279&extension=ts&play_token=zmQ4hNWwiK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| EARTHX TV
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283923&extension=ts&play_token=axIlQVzba7
-#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="🐉英国频道🦁",UK| CRIME INVESTIGATION F
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30551&extension=ts&play_token=qQedvNSGMH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| SKY DOCUMENTARIES FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164072&extension=ts&play_token=qG5om8VU9l
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NAT GEO WILD FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30525&extension=ts&play_token=Q8R7RRZivK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NAT GEO FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30526&extension=ts&play_token=05kigXVnd3
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK| HISTORY FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30534&extension=ts&play_token=dtsdMP4QpW
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK| HISTORY 2 FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30535&extension=ts&play_token=59L7xt0tGf
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",UK| ANIMAL PLANET FHD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30582&extension=ts&play_token=Bl6JaK5nwi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| ANIMAL PLNT +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164033&extension=ts&play_token=4mzup2FTkr
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="🐉英国频道🦁",UK| INVESTIGATION DISCOVE
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45270&extension=ts&play_token=bIHG4FeOYO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| ID +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164051&extension=ts&play_token=NBZKLSuzS0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| 5ACTION HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=79737&extension=ts&play_token=CQEatHFSJZ
-#EXTINF:-1 tvg-id="6170" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="🐉英国频道🦁",UK| DMAX
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164004&extension=ts&play_token=Y9r83r4vze
-#EXTINF:-1 tvg-id="6170" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="🐉英国频道🦁",UK| DMAX +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164042&extension=ts&play_token=L2EhZYhQDn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| DISCOVERY TURBO +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014338&extension=ts&play_token=m8ZgOvLZBu
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| INVESTIGATION DISCOVE
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014337&extension=ts&play_token=cOYtGI8LYJ
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK| SKY HISTORY/H2 HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014336&extension=ts&play_token=kf1C7c9uDQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| NAT GEO +1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014334&extension=ts&play_token=oPxznEiJmv
-#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="🐉英国频道🦁",UK| CRIME INVESTIGATION +
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014333&extension=ts&play_token=OsVpTZiXSD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK| 5 SELECT
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164005&extension=ts&play_token=TSTcwlBEXP
-#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="🐉英国频道🦁",UK| TRAVEL CHANNEL
-http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=79718&extension=ts&play_token=CyIdNH2W9t
+http://doubleclicktv.live/70376812/52663544/277194
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BabyTV
+http://doubleclicktv.live/70376812/52663544/277152
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="🐉英国频道🦁",UK Boomerang
+http://doubleclicktv.live/70376812/52663544/277151
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="🐉英国频道🦁",UK Boomerang+1
+http://doubleclicktv.live/70376812/52663544/277150
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="🐉英国频道🦁",UK Boomerang FHD
+http://doubleclicktv.live/70376812/52663544/277149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Cartoon Network FHD
+http://doubleclicktv.live/70376812/52663544/277148
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Cartoon Network
+http://doubleclicktv.live/70376812/52663544/277147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Cartoonito
+http://doubleclicktv.live/70376812/52663544/277146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK CBBC FHD
+http://doubleclicktv.live/70376812/52663544/277145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK CBeebies FHD
+http://doubleclicktv.live/70376812/52663544/277144
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK Nick Jr. FHD
+http://doubleclicktv.live/70376812/52663544/277143
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK Nick Jr.
+http://doubleclicktv.live/70376812/52663544/277142
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK Nick Jr. +1
+http://doubleclicktv.live/70376812/52663544/277141
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK Nick  Jr. Too
+http://doubleclicktv.live/70376812/52663544/277140
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="🐉英国频道🦁",UK Nickelodeon FHD
+http://doubleclicktv.live/70376812/52663544/277139
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="🐉英国频道🦁",UK Nickelodeon +1
+http://doubleclicktv.live/70376812/52663544/277138
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="🐉英国频道🦁",UK Nickelodeon
+http://doubleclicktv.live/70376812/52663544/277137
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Nicktoons
+http://doubleclicktv.live/70376812/52663544/277136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK POP
+http://doubleclicktv.live/70376812/52663544/277135
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK POP+1
+http://doubleclicktv.live/70376812/52663544/277134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK POP Max
+http://doubleclicktv.live/70376812/52663544/277133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK POP Max+1
+http://doubleclicktv.live/70376812/52663544/277132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Tiny Pop
+http://doubleclicktv.live/70376812/52663544/277131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Tiny Pop+1
+http://doubleclicktv.live/70376812/52663544/277130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Kids FHD
+http://doubleclicktv.live/70376812/52663544/277120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Discovery FHD
+http://doubleclicktv.live/70376812/52663544/277114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Discovery+1
+http://doubleclicktv.live/70376812/52663544/277112
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK Disc.History+1
+http://doubleclicktv.live/70376812/52663544/277110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Disc.Sci+1
+http://doubleclicktv.live/70376812/52663544/277108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Disc.Turbo+1
+http://doubleclicktv.live/70376812/52663544/277106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Nat Geo FHD
+http://doubleclicktv.live/70376812/52663544/277101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Nat Geo Wild FHD
+http://doubleclicktv.live/70376812/52663544/277100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Crime FHD
+http://doubleclicktv.live/70376812/52663544/277097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Documentries FHD
+http://doubleclicktv.live/70376812/52663544/277095
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK Sky History FHD
+http://doubleclicktv.live/70376812/52663544/277094
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK Sky History 2 FHD
+http://doubleclicktv.live/70376812/52663544/277093
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Nature FHD
+http://doubleclicktv.live/70376812/52663544/277092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",娱乐综合
+http://doubleclicktv.live/70376812/52663544/277194
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",UK Animal Planet
+http://doubleclicktv.live/70376812/52663544/277117
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",UK Animal Planet +1
+http://doubleclicktv.live/70376812/52663544/277116
+#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="🐉英国频道🦁",UK Crime & Investigation 
+http://doubleclicktv.live/70376812/52663544/277115
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="🐉英国频道🦁",UK Food Network
+http://doubleclicktv.live/70376812/52663544/277105
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="🐉英国频道🦁",UK Food Network+1
+http://doubleclicktv.live/70376812/52663544/277104
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="🐉英国频道🦁",UK Investigation Discover
+http://doubleclicktv.live/70376812/52663544/277103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Investigation Discover
+http://doubleclicktv.live/70376812/52663544/277102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One South East
+http://doubleclicktv.live/70376812/52663544/276783
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One NI FHD
+http://doubleclicktv.live/70376812/52663544/276782
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One Wal FHD
+http://doubleclicktv.live/70376812/52663544/276781
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Two Wal FHD
+http://doubleclicktv.live/70376812/52663544/276780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One ScotFHD
+http://doubleclicktv.live/70376812/52663544/276778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Anglia East HD
+http://doubleclicktv.live/70376812/52663544/276777
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Meridian North HD
+http://doubleclicktv.live/70376812/52663544/276774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Meridian South HD
+http://doubleclicktv.live/70376812/52663544/276773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Tyne Tees HD
+http://doubleclicktv.live/70376812/52663544/276772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Wales HD
+http://doubleclicktv.live/70376812/52663544/276771
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV West Country West 
+http://doubleclicktv.live/70376812/52663544/276770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK STV Central East Regio
+http://doubleclicktv.live/70376812/52663544/276769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK STV Central West Regio
+http://doubleclicktv.live/70376812/52663544/276768
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉英国频道🦁",UK STV North Region (UK R
+http://doubleclicktv.live/70376812/52663544/276767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Ireland
+http://doubleclicktv.live/70376812/52663544/276766
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Scotland
+http://doubleclicktv.live/70376812/52663544/276765
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One London
+http://doubleclicktv.live/70376812/52663544/276764
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One North West
+http://doubleclicktv.live/70376812/52663544/276763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV London
+http://doubleclicktv.live/70376812/52663544/276762
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Two NI
+http://doubleclicktv.live/70376812/52663544/276761
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Central West
+http://doubleclicktv.live/70376812/52663544/276760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Alba
+http://doubleclicktv.live/70376812/52663544/276759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One West Midlands
+http://doubleclicktv.live/70376812/52663544/276758
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One East Midlands
+http://doubleclicktv.live/70376812/52663544/276757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One North East & C
+http://doubleclicktv.live/70376812/52663544/276756
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One FHD
+http://doubleclicktv.live/70376812/52663544/276755
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Two FHD
+http://doubleclicktv.live/70376812/52663544/276752
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Three HD
+http://doubleclicktv.live/70376812/52663544/276749
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Entertainment
+http://doubleclicktv.live/70376812/52663544/276748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV FHD
+http://doubleclicktv.live/70376812/52663544/276747
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV+1
+http://doubleclicktv.live/70376812/52663544/276744
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Channel 4 FHD
+http://doubleclicktv.live/70376812/52663544/276743
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Channel 4+1
+http://doubleclicktv.live/70376812/52663544/276740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Channel 5 FHD
+http://doubleclicktv.live/70376812/52663544/276739
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Channel 5+1
+http://doubleclicktv.live/70376812/52663544/276736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV2 FHD
+http://doubleclicktv.live/70376812/52663544/276735
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV3 FHD
+http://doubleclicktv.live/70376812/52663544/276731
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV4 FHD
+http://doubleclicktv.live/70376812/52663544/276727
+
 
 #EXTINF:-1 group-title="🐉电影频道🎥",超级电影
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -6689,7 +6802,6 @@ https://www.goodiptv.club/douyu/11980632
 https://www.goodiptv.club/douyu/11988070
 #EXTINF:-1 group-title="🐉斗鱼轮播🦈",保修期内不保修
 https://www.goodiptv.club/douyu/12016395
-
 
 #EXTINF:-1 group-title="🐉虎牙轮播🐯",校长
 http://148.135.93.213:81/live/huya/77357
@@ -11746,24 +11858,27 @@ https://fanmingming.com/fm?id=1320
 #EXTINF:-1 group-title="🐉广播剧场🎙",奉贤电台阳光959
 https://fanmingming.com/fm?id=2515
 
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",咪咕低延时 意大利vs瑞士
-http://gslbflvmgsplive.miguvideo.com/mglive/4kvivid03_221406.flv?msisdn=52d14f9cff409fb795ace980107be528&mdspid=&spid=800033&netType=4&sid=7510249751&pid=2028597139&timestamp=20240629233142&Channel_ID=0116_2600026000-99000-200300220100002&ProgramID=919744630&ParentNodeID=-99&assertID=7510249751&client_ip=240e:390:890:6180:38a7:ef4:539e:7ebe&SecurityKey=20240629233142&promotionId=&mvid=7510124539&mcid=500020&mpid=120000500592&playurlVersion=WX-A1-7.6.3-RELEASE&userid=1140026260&jmhm=52d14f9cff409fb795ace980107be528&videocodec=h265&mgdbId=120000500592&bean=mgspad&puData=ed7a1fc486ab33ca9dc52852f5719b50&ddCalcu=0e5d4b729a91107f5cf428568a2b53c3dc9a&playUrlSsn=485395af31d8f046c13ae657af3ec54a1719675101596&prlId=485395af31d8f046c13ae657af3ec54a1719675101609&jid=485395af31d8f046c13ae657af3ec54a1719675101637V&LegoPageID=null&is_advertise=0&sjid=subsession_1719675145666&pos=-1000
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/29 23:00 欧洲杯1/8决赛 瑞士vs意大利 解说
-https://livednow.com/migu/919744276?sign=gAAAAABmgAy2clF_vbjxm2Vm4LcFC7yY4o_LYM-jzhA8-52WeT3GFiRqo-Ottkq1JE6H51Nv566rS3c7_QJ-Fq12lGV0aVG6vTb2tD1-qlUgCVLlUH87b4VdxT4pqSRV9w0ZAaEYuGFpwsRK4iEKZcqzapJ4PM6GzLuLTnB2wF19xLvIwX-LzFMnQUEq7Z00DKV5X-gykNflitLhZX0otxncL7RUrS56bw%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/29 23:00 欧洲杯1/8决赛 瑞士vs意大利 解说
-https://livednow.com/migu/919744630?sign=gAAAAABmgAy2pS0gIN8Zn26ly37RMhyRITfphLzyTReiOfgXzkQM-CRgI8i09AYJXeHZM4cY375kPz_K7n1SZYIEQUYdm1LOMgi5K_euz7Bx0XvHnuaPyTxuqzh75ym4qdycTMTEcxil5S9jKSIN2CyaEhlYsUvP1eth5Snv4P2ugda2XSihCWGrNjfSDwle7LGejPJCnBSZu0nkMxvr_XE-np4pR8bD6w%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/29 23:00 欧洲杯1/8决赛 瑞士vs意大利 解说
-https://livednow.com/migu/919744524?sign=gAAAAABmgAy2v4Wrl8aimHt0yZnB8nPJjmssS1pd-NT0xV4rLAYexpOdjYroAJ8QxRsHcQGWoUiHGvQP_UUfc10MKJ0UiEuxd3_FDIpBP7GsD3uRYDuVASt_lUDg4NtnEZM7Rr4AhVEIah-p3CC94wG5JHpXJf38I_Cvh6tBRw3H0FNaX8TyElwyAQuGLfyRNpd9lzEo7vASAnhrBr42EgtGVuz5MC9aPg%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/29 23:00 欧洲杯1/8决赛 瑞士vs意大利 AVS3
-https://livednow.com/migu/919747025?sign=gAAAAABmgAy2MHylI_i9hachi0Ye0sQtaxvoJXN18IGgCyl8vuiV9bv8IYIF_0bx0pnsKst_O4xmTDQMd6nR4_bpG55PefNTRvOGIGbKlOpExRMMSLiSHAHTYTfe2OBwcsMK2lDNqsVV7Gvqfu-QeD64RHInminhpBvnwHikkQzoqfk8qfx5mOfqRFxpEqdNiUraW9h4JtYytzRM-1p7m2CcP7DhM0p8EQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/30 02:20 欧洲杯1/8决赛 德国vs丹麦 解说
-https://livednow.com/migu/919744958?sign=gAAAAABmgAy2OeS6nh7idb33DbU9zuXnm2QkLTSQJlPtHMulegutKi921o1fBKlGD6pGUb8gNmRdYcwZD1xs2IKU12y-Klp1-60vT4dMXEfbM4PO3R1SOW0kCktw4qieXCy2B1ltGDrD8nKVOx0eKttzHPUA7xllvMwrtP3uhfJ8R_FXYBXYc_cQpLlL2RqB_HNtLwv3MBtDQIK1Btygi0-SYAYWUDBDJQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/30 02:20 欧洲杯1/8决赛 德国vs丹麦 解说
-https://livednow.com/migu/919744816?sign=gAAAAABmgAy2KDjOfyEHvqMi3vWc81noS9iAkc_NLPukS-gAm1epf4pWowyfkEzVbKhklqHkGafzCS217EKrr9bDoH7PMJ4Tfirlikn7mhXuLCC08BfRaqa_CLVw9f6UYHivkgHLCvQl-ERr4bABNKgV2hjv_OhUgTPvOs6qnRQebhLSDIq-j3qbeo7fRpJdk8rZKLtIi2JzMnhm1Y9zpGil-xOSiV1OiQ%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/30 02:20 清流播出2
-https://livednow.com/migu/919746107?sign=gAAAAABmgAy24PJbiy1W0pDi2EtOK2f4RLYQ1XWfmXUdE1QRKixIy6B4nFrG2JksfCg19HtvrH8k0ikPK1BNAWD8DIR98reKv84jhFh_j_UwRD89nEG4kkn5pMGLsvev4QtBUFJ--ZDoT9QNm_6uh1PGpZTRGlQFfA2w18a1v5iWX2FF3PoLCBVJwAxBtt97slPklYrDP8vc5bItNvvorO9t9wuOYM7YeA%3D%3D
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",06/30 02:20 欧洲杯1/8决赛 德国vs丹麦 AVS3
-https://livednow.com/migu/919748193?sign=gAAAAABmgAy2zWK60zdwQmNVu2GuQhwLWaCznk2xS_ttrNLQdpVJpDpFU0Cm0G3jtYB5rpNz_eJG_WfDCeAhuj1UqEisXbgBXJvkd28L0FED4GkuJLwBgrJ4WF0e8jwrL9wo20R8RXlrefWFke9xwCNmCLoh1Q9OO0NSwY7SkQvUeUierFdIZClVKt1HrDp42AiGuTUErsCPvs1JJ0aV4wLmBWj9kqonSA%3D%3D
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/01 23:20 欧洲杯1/8决赛 法国vs比利时 解说
+https://livednow.com/migu/919746473?sign=gAAAAABmgrGUokiyYFZljz1w_6qykwcM2uqavvKQdDfwKTKu1VAlYS2wzclPAUUHL3RRi4qZfgnIcr3pPwVuKR5O-PL__CKcuuYy1JIdTMkliy0y-pxPQRLoVlmeiql1xKoXPmXHiLARqFdjMSdck17YRw6hmOOR4F6RVjDx57tsZ6r33R41V6aoZgSVkxS49B9BwiwOYX-PNmagB4g9sEiDYDAtOWxNQA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/01 23:20 欧洲杯1/8决赛 法国vs比利时 解说
+https://livednow.com/migu/919745508?sign=gAAAAABmgrGU2tcqmu0QBBnDmS9BTFsSxvu-HthPnsUu_1evrQ1fvqB9jufiP6ckPUiWIiYVgnxIeEfPm7Q_T9yYEg-uHCjt_Lg6EYQ9okVNu3lEvXuDgWW5v6L-Fzt5maZrNL2jC3KyfdGqF7JvwpGRANan7aYWd5lYkrF357XYhBvuyX_04msxCy84WR_WGkvw77QZsaSNf6BaVnQ92LvmublDtIhEZg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/01 23:20 清流播出1
+https://livednow.com/migu/919747302?sign=gAAAAABmgrGUcnSyJvYIimtPnXD959VZVCphnNwJGAUDk5I9CP1xEdwoIoB_rSnk1--vO6FQ8YvYUxMFthOszErvYc3U9G-LPmYBAMvo2Ow7n5pYfqp8A3xXhVe-SvuKBykWhHP-OGM2WrJEo8_uzxWklBkx9uz9K7KnVcr3MtbI5e7O9Fm4S_6wrkhRjKzX4CAAxzjBIZF3mkwwWbNR1VJzKvNgAAqWgw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/01 23:20 欧洲杯1/8决赛 法国vs比利时 AVS3
+https://livednow.com/migu/919749050?sign=gAAAAABmgrGUluz8z9yKZMtYT9lqBvbYI5bmHPJqPwSpTSDd4YsEb1w3xvI_y4V3IsAb7fcsUaZwwPXCTkA5fMRvGG8pxbMQsz7v9JSC_xTm8Hw2f4COw34nlzl8Im-walw86LKeiSCkIMscR_EBwnLGewB4ydMKz6-HbSDaC0BB06dwFQwNygXD3xRmwLIGzODRP7d7cvas8Eqa6RJ64UncFIR2rb5Asg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/01 23:20 狂欢Yeah
+https://livednow.com/migu/919745601?sign=gAAAAABmgrGUr4vb9ArhWb2vnfHxf6Ki4iiYAS-Mo_y9NZVqio7bjXdkPUgOFytFRXEW02Krcvf_YMV5KKQiJW84LKOa0qH5pt7l-sq3hyViWywOAdvppTL9pcQ9uKtD0FLOtx2rcdo_y31Hrlj01mYNlnX5xv78-BKzmjBizKor4u_dHNs5L7jhvIHlnrczvQftncwy3SOkfyz31HqKYtC371pdLKHGFw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/02 02:20 欧洲杯1/8决赛 葡萄牙vs斯洛文尼亚 解说
+https://livednow.com/migu/919746608?sign=gAAAAABmgrGUgLhuNdemf67eBQC8VeRlRQg6ZnjzhLDgASnXOquNB_32HEjPoQHHYXqHeHDekla473JcWeqJGXSAbAZRV2WWb0DLp1uWs5GPBcn9NjgzUjn4gzmA03aQQy9qIZuLnQ17gS-XqSU0CrYOOLCORUAC5UUlGpPlqOS-PAXhp10MJb7iwsUSZv1t1MD73Kl2gINRDtQ8hb3igCjHujdDnhhbLg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/02 02:20 欧洲杯1/8决赛 葡萄牙vs斯洛文尼亚 解说
+https://livednow.com/migu/919747765?sign=gAAAAABmgrGU14aFj_N7WMsdIaGoAU9Zk9nATdKQ4yXDITC9Z_vrOwxXdVJPEBGTuBDSWyULIOOfriAq4sszu3YsU45vxHy73WbyqzyNkpj-iJqyuwXtBE83jhrSA13sVE1tfyiAYat1SQhpQ6_T4HI77_odDSeLi1e60uRgZlNXO9OSA899H97jjw7efsY8ek43IPzT6Ln7Sp2VJdw6bmHLTkaF8ccOPA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/02 02:20 欧洲杯1/8决赛 葡萄牙vs斯洛文尼亚 粤语解说
+https://livednow.com/migu/919748179?sign=gAAAAABmgrGUqh1mVQOopygjoHDtOTqcD_9sRin7XBoB7E4hrxK3spRofS2GylIPXhP0SxLvVlNe3F3FMQvoaEGwQKZnqyC0aKGQMe8vxZ9x5suWqBnqOJbGx2izQebmhBqD9xZoM09s7tUq8Dx4BQR89UkOwCzPDxSYNAdHMSz8hEA_HRWxHOToX7Snto6m95f-ncZnLb9oNEpe-Drhf39FeEW5nStmuw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/02 02:20 清流播出2
+https://livednow.com/migu/919747956?sign=gAAAAABmgrGUr6AYdwCaZ8nYjSeKHkgg8hy62g2Mtmvy2aGgqLulNGzumjte6s4uVG4Kg2g81zlOOsnX5O6mjkLvBLPbArk4o3aVn4suJOo2w78aiIUz2IZBqc8a8ZS-k_xJJY2MsWe1bzBcyii6nPnKFPGmzndrQDwQaflUp1Ib5QNudtItkM3ctfB9gGU3RoTtm6rnwQxGDE8SwefbiY-IqtK_SGgwag%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",07/02 02:20 欧洲杯1/8决赛 葡萄牙vs斯洛文尼亚 AVS3
+https://livednow.com/migu/919749276?sign=gAAAAABmgrGU-gErMLmMFGRcErXQq8B64xhG9HaP8dKh113oPDIC73y69SeVFkOv7attvqPseGhrC0c3rjkoiNeO53EchaJHxbWwmuYrHnMxORZ8zbwk7r7R3-q3VTEfaP6FCVHR8KE7eXmCVrOI2OsUGvbvZxQXGXvv3VYbR_WuhDY_ARKXauOz8pRRkaebeQAeObg4WHbS6QvoUw-iH-oQ_-quzR70Mw%3D%3D
 
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 欧洲杯 1
@@ -11808,7 +11923,6 @@ http://doubleclicktv.live/70376812/52663544/250784
 http://doubleclicktv.live/70376812/52663544/325457
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/06/15/6LMM56850U4M.png" group-title="🏆欧洲杯赛事🏆",beIN体育 HD
 http://doubleclicktv.live/70376812/52663544/325455
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/tv-test.png" group-title="测试",IPTV维护
