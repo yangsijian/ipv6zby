@@ -1,4 +1,26 @@
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml"
 
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🎉春晚专用🎉",CCTV4K 超高清
+https://d1--cn-gotcha207.bilivideo.com/live-bvc/719178/live_1922214722_bs_4401370_maxhdr/index.m3u8?expires=1738068447&len=0&oi=666697771&pt=web&qn=20000&trid=10073c95e7c37067d1ad6569a4029e6798c3&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha207&sign=a14a83dc753f76d7dce15082e0dafbd2&site=b13ea76c17d879329b86f038fe5ea315&free_type=0&mid=8716155&sche=ban&bvchls=1&trace=64&isp=cm&rg=East&pv=Zhejiang&suffix=maxhdr&p2p_type=1&deploy_env=prod&score=100&origin_bitrate=810125&sl=1&source=puv3_onetier&pp=rtmp&flvsk=9704db541507a3fa27dcd4ff66d3781b&sk=d98dba1d356ecd77f0eeb216fe817a87&info_source=hot_cache&hot_cdn=852356&vd=bc&src=puv3&order=1
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="🎉春晚专用🎉",辽宁卫视
+https://bdrmlivezb.lnyun.com.cn/bdrm2/xczb2.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="🎉春晚专用🎉",辽宁卫视
+https://newtvsuper.com/NBc0101/S1889/7499
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="🎉春晚专用🎉",山东卫视
+https://newtvsuper.com/NBc0101/S1889/7502
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="🎉春晚专用🎉",广东卫视
+https://newtvsuper.com/NBc0101/S1889/7473
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🎉春晚专用🎉",CCTV-1
+http://z.b.bkpcp.top/m.php?id=cctv1
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="🎉春晚专用🎉",CCTV-3
+http://z.b.bkpcp.top/m.php?id=cctv3
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🎉春晚专用🎉",CCTV-4
+http://z.b.bkpcp.top/m.php?id=cctv4
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🎉春晚专用🎉",CCTV-7
+http://z.b.bkpcp.top/m.php?id=cctv7
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🎉春晚专用🎉",CCTV-13
+http://z.b.bkpcp.top/m.php?id=cctv13
 
 
 
@@ -425,6 +447,8 @@ http://two.loiey.top:58888/migu/608917627.m3u8?migutoken=bec3afc5d246da2ce0b5039
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" group-title="🐉央视卫视-③💥",海峡卫视
 http://two.loiey.top:58888/migu/849119120.m3u8?migutoken=d3c10b98644b3859940b023437e460be69a759ebb732221c2c403c183bb53e1fd334de5a211b20e6649baf5c7e2ffdc71143e90e116a3b737eeeac28abb22ace5488f74949678a93d771f8297b
 
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉央视卫视-④💥",👉此线路需要改UA👈
+https://d.kstore.dev/download/7692/6H.mp4
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🐉央视卫视-④💥",CCTV1
 http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-HD-265-5M&ace
@@ -834,28 +858,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 
 
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🎉春晚专用🎉",CCTV4K 超高清
-https://d1--cn-gotcha207.bilivideo.com/live-bvc/719178/live_1922214722_bs_4401370_maxhdr/index.m3u8?expires=1738068447&len=0&oi=666697771&pt=web&qn=20000&trid=10073c95e7c37067d1ad6569a4029e6798c3&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha207&sign=a14a83dc753f76d7dce15082e0dafbd2&site=b13ea76c17d879329b86f038fe5ea315&free_type=0&mid=8716155&sche=ban&bvchls=1&trace=64&isp=cm&rg=East&pv=Zhejiang&suffix=maxhdr&p2p_type=1&deploy_env=prod&score=100&origin_bitrate=810125&sl=1&source=puv3_onetier&pp=rtmp&flvsk=9704db541507a3fa27dcd4ff66d3781b&sk=d98dba1d356ecd77f0eeb216fe817a87&info_source=hot_cache&hot_cdn=852356&vd=bc&src=puv3&order=1
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="🎉春晚专用🎉",辽宁卫视
-https://bdrmlivezb.lnyun.com.cn/bdrm2/xczb2.m3u8
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="🎉春晚专用🎉",辽宁卫视
-https://newtvsuper.com/NBc0101/S1889/7499
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="🎉春晚专用🎉",山东卫视
-https://newtvsuper.com/NBc0101/S1889/7502
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="🎉春晚专用🎉",广东卫视
-https://newtvsuper.com/NBc0101/S1889/7473
-
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🎉春晚专用🎉",CCTV-1
-http://z.b.bkpcp.top/m.php?id=cctv1
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="🎉春晚专用🎉",CCTV-3
-http://z.b.bkpcp.top/m.php?id=cctv3
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🎉春晚专用🎉",CCTV-4
-http://z.b.bkpcp.top/m.php?id=cctv4
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🎉春晚专用🎉",CCTV-7
-http://z.b.bkpcp.top/m.php?id=cctv7
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🎉春晚专用🎉",CCTV-13
-http://z.b.bkpcp.top/m.php?id=cctv13
-
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🐉4K-UHD",CCTV-1 4K
@@ -953,8 +955,6 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491187&e
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491188&extension=ts&play_token=RF6bF0Tb4g
 #EXTINF:-1 tvg-id="1491189" tvg-name="4K| SKY PRIMAFILA 9 UHD" tvg-logo="http://103.176.90.118/piconsnew/skyprimafila.png" group-title="🐉4K-UHD",4K| SKY PRIMAFILA 9 UHD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=1491189&extension=ts&play_token=HYyQsclz23
-
-
 
 
 #EXTINF:-1 tvg-id="755394" tvg-name="UK: Eurosport 1" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="🐉海外体育",UK: Eurosport 1
@@ -1469,7 +1469,6 @@ http://doubleclicktv.live/70376812/52663544/253019
 http://doubleclicktv.live/70376812/52663544/253018
 
 
-
 #EXTINF:-1 tvg-id="提示" tvg-name="请挂梯子使用此分类" tvg-logo="" group-title="🐉湾湾频道①",👉请使用湾湾节点观看👈
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="🐉湾湾频道①",东森电影
@@ -1908,7 +1907,6 @@ http://iptv.vip-tptv.xyz/litv.php?id=litv-longturn03
 http://iptv.vip-tptv.xyz/litv.php?id=litv-longturn21
 
 
-
 #EXTINF:-1 tvg-id="提示" tvg-name="请挂梯子使用此分类" tvg-logo="" group-title="🐉湾湾频道③",👉请使用湾湾节点观看👈
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 
@@ -1981,7 +1979,6 @@ http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1,tvg-id="食尚玩家" tvg-name="食尚玩家" tvg-logo="https://epg.112114.xyz/logo/食尚玩家.png" group-title="🐉湾湾频道④",食尚玩家
 http://125.227.210.55:8187/VideoInput/play.ts
-
 
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉日本频道",👉以下频道需要魔法👈
@@ -2164,7 +2161,6 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉美国频道🦅",👉以下频道需要魔法👈
@@ -3273,6 +3269,7 @@ http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 #EXTINF:-1,tvg-id="南国都市频道" tvg-name="南国都市频道" tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="🐉虎牙轮播🐯",南国都市频道
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+
 
 #EXTINF:-1,tvg-id="漫威影院" tvg-name="漫威影院" tvg-logo="https://epg.112114.xyz/logo/漫威影院.png" group-title="🐉斗鱼轮播🦈",漫威影院
 http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/斗鱼.php?id=6140589
