@@ -4,252 +4,246 @@ https://13888.kstore.space/55555.MOV
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉以获取最新链接👈",👉以获取最新链接👈
 https://13888.kstore.space/44444.MOV
 
+#EXTM3U
+#EXTINF:-1,28 AI 智慧賽馬
+http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+#EXTINF:-1,Channel 5 HD
+http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1,Channel 8 HD
+http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1,Channel U HD
+http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1,myTV SUPER 18台
+http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,PopC
+http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1,ROCK Action
+http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,TVB Plus
+http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvN
+http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,中天新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+#EXTINF:-1,千禧經典台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,娛樂新聞台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+#EXTINF:-1,寰宇新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+#EXTINF:-1,明珠剧集台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1,明珠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,無線新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+#EXTINF:-1,美亞電影台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1,翡翠剧集台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1,翡翠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1,翡翠台 4K
+http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+#EXTINF:-1,翡翠综合台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,鳳凰中文
+http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,鳳凰資訊
+http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,鳳凰香港
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+#EXTINF:-1,黃金翡翠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,AXN
+http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,Love Nature HD
+http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,National Geographic
+http://aktv-stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
+#EXTINF:-1,无线新闻台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1,東森新聞
+http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1,Animax(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1,DW
+http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1,France 24
+http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1,KIX
+http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,NHK World-Japan
+http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1,NHK東京総合
+http://aktv-stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1,Nick Jr
+http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1,Nickelodeon
+http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1,Thrill
+http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,Xite Hits
+http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+#EXTINF:-1,Xite Rock
+http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+#EXTINF:-1,ZooMoo
+http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1,亞洲新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,東方衛視國際頻道
+http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+#EXTINF:-1,無線衛星新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,Celestial Movies
+http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+#EXTINF:-1,CINEMAWORLD
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1,FIGHT SPORTS
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1,Mediacorp Entertainment Chinese
+http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+#EXTINF:-1,NBA TV
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1,Sukan
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+#EXTINF:-1,TV9
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+#EXTINF:-1,TVB Jade
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1,TVB Xing He
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+#EXTINF:-1,Unifi Sport
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1,曼聯電視頻道
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1,朝鮮恩情台
+http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+#EXTINF:-1,ELTV生活英語台
+http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+#EXTINF:-1,三立新聞iNEWS
+http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+#EXTINF:-1,中視
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+#EXTINF:-1,中視新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1,倪珍英語新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
+#EXTINF:-1,台視
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+#EXTINF:-1,台視新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
+#EXTINF:-1,華視
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+#EXTINF:-1,龍華偶像台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+#EXTINF:-1,龍華日韓台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1,龍華經典台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+#EXTINF:-1,龍華電影台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1,Astro Football
+http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1,Astro IQIYI
+http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1,Astro QJ
+http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+#EXTINF:-1,Astro 欢喜台
+http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+#EXTINF:-1,NTV NEWS 24
+http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+#EXTINF:-1,viuTV
+http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-#EXTINF:-1 group-title="港澳台直连",28 AI 智慧賽馬
-http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Channel 5 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Channel 8 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Channel U HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",myTV SUPER 18台
-http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",PopC
-http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",ROCK Action
-http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",TVB Plus
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",tvN
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",中天新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",千禧經典台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",娛樂新聞台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",寰宇新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",明珠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",明珠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",無線新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",美亞電影台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",翡翠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",翡翠台 4K
-http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",翡翠综合台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",鳳凰中文
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",鳳凰資訊
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",鳳凰香港
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",黃金翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",AXN
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Love Nature HD
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",National Geographic
-http://aktv_stream1.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",无线新闻台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",東森新聞
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Animax(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",DW
-http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",France 24
-http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",KIX
-http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",NHK World-Japan
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",NHK東京総合
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Nick Jr
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Nickelodeon
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Thrill
-http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Xite Hits
-http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Xite Rock
-http://aktv_stream1.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",ZooMoo
-http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",亞洲新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",東方衛視國際頻道
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",無線衛星新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Celestial Movies
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",CINEMAWORLD
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",FIGHT SPORTS
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Mediacorp Entertainment Chinese
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",NBA TV
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Sukan
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",TV9
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",TVB Jade
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",TVB Xing He
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Unifi Sport
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",曼聯電視頻道
-http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",朝鮮恩情台
-http://aktv_stream1.m16tv.cfd/stream/nknews/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",ELTV生活英語台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",三立新聞iNEWS
-http://aktv_stream1.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",中視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",中視新聞
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",倪珍英語新聞
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",台視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",台視新聞
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",華視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",龍華偶像台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",龍華日韓台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",龍華經典台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",龍華電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Astro Football
-http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Astro IQIYI
-http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Astro QJ
-http://aktv_stream1.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",Astro 欢喜台
-http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",NTV NEWS 24
-http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
-#EXTINF:-1 group-title="港澳台直连",viuTV
-http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV1综合
-http://live.20191209.xyz:5888/migu/608807420.m3u8?migutoken=f8423e91a4a6460edf992f3c1e28a8a75cc43b3903880a8ed5eff42a53038b857cff74cc690d4597d78b6e8124748551e02de2b9c665df399b10893c90dff29cee0a860a7bc55e24b90f6c17
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV2财经
-http://live.20191209.xyz:5888/migu/631780532.m3u8?migutoken=f6a3f85c3cf17eb71ca639cb729c7784a9c92a9f6d7969e287e5bbfe557882ea84d489a8181cf4e8f718e9d118fd539044c365297939b49be845ccbc2e32800e2ad91b09dd8aa2793bf932dc
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV3综艺
-http://live.20191209.xyz:5888/migu/624878271.m3u8?migutoken=003c853c014b40b941e43341399c895781f71acdb54ec04617a35d3a8b9b8a142e466e29136b87d7866fa85484033035f20d54ba0b5675e47f5c3778650f02898a6491ca013a063aa2dfd75c
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/947/202204010054_1626679457281_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV4中文国际
-http://live.20191209.xyz:5888/migu/631780421.m3u8?migutoken=5cf548eb0cae6c082ed6c23b611acf0814ceaf392229031e7202b5a9d20bbdd66b7dbbba13d39d5de8ed28c946ac3e8df622b949d01a913e7fda31dbd4c2e8ddba290a8a93de1f29fd6ec59a
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV5体育
-http://live.20191209.xyz:5888/migu/641886683.m3u8?migutoken=372e2727d81f21b8c684094a95a19e84bb35694f754372e8cacca79909e9663f9d25d377649361be1a5d1e8915f1d301630652b51ecd99bbc93168b19fae67aafe7fd73554548626be7a9d3e
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/288/202204010048_1626679726956_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV5+体育赛事
-http://live.20191209.xyz:5888/migu/641886773.m3u8?migutoken=27c47464941b7049282ebac9c6a773fe0cb8bd8966b84ff74d1afa474dc2ae2c2bcfdd433228291e87c41221c85f5a80442e417f2a69bf32622f83c12734e83e409fbb5f911cf810ad23db66
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/872/202204010054_1626679942827_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV6电影
-http://live.20191209.xyz:5888/migu/624878396.m3u8?migutoken=3c7da0900518d3a3fc9161bdbe9f548efdf298be8a8d0c01fd8e7821612144c6fffad604e6e5bab00c075cde693d9907131d1c631decb3e177a48253b8c75e20994c2621c1cdc90696bbbf00
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/622/202204010054_1626680072401_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV7国防军事
-http://live.20191209.xyz:5888/migu/673168121.m3u8?migutoken=f676bc66f820b74025b77b8808a36961b224b159b2f82cc8677ea34e14ce01bbccb7eacebcb71131746bddd06f09baad154af649dd487d377c37c4b8a56388860e1bcda4a015c18b30b2e1b7
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/868/202204010049_1626677144094_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV8电视剧
-http://live.20191209.xyz:5888/migu/624878356.m3u8?migutoken=dbf69ef08c5415bb3355879b9c44b5dcbefbe15fba432ec49ac383a74e3a9f2fd54f9b4b81335fa80df7b7142ef37784030b810e6fb25ba2bfe252b44ccd80da42a1140ef1c01de9d200e18f
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/624/202204010054_1626677492322_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV9纪录
-http://live.20191209.xyz:5888/migu/673168140.m3u8?migutoken=ed97b9769d43a9ee7c76fd22edce5985e089311ad8c1a0b3ad854c5201e2ac42bccf3b03f4804c9e8b70f08ddbe33314b435b9512fc4073bd28ac09ac68a100e79f14c245432e88f2fcae73c
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/874/202204010054_1626677759168_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV10科教
-http://live.20191209.xyz:5888/migu/624878405.m3u8?migutoken=016ad80cfc3ca3ccba678aba56e183c41635e56ca995a85cb888f3d9a08ba1f82116df8b7e4b251041be03694166e89d251f79f41caf50c53f0861d9f148ab8398ecd8f34bd26f062c0cc1cd
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/988/610/202204010054_1626677917611_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV11戏曲
-http://live.20191209.xyz:5888/migu/667987558.m3u8?migutoken=fcd4e6bc0c4921955f636ea108f9ead8a8a1493805be777b494826958c6d1edab67d200fbc8ce068efeb249f0f94d20ea35eebd03b33dc97b843dccb0b6ed1d25c24b585a7c261dbc3cf2d0c
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/627/202204010053_1626678104342_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV12社会与法
-http://live.20191209.xyz:5888/migu/673168185.m3u8?migutoken=7db52237ed59b3678546a66b102f38a889def9c320bfd38fab388f7d64a79a6ce0cfeacdfcd5390e978789a292c659ae3764d19cd9ac812e079d595f19b21ae154bd4b873de33df934c587a8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/208/864/202204010051_2202208864_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV13新闻
-http://live.20191209.xyz:5888/migu/608807423.m3u8?migutoken=b2cf85f9813569a75dc5fb781ba1d3e3c024105fa5886fb749db11ddc3ccd7c146ac122e23febbfbd162a66ad288d2d5927d1e18a9e6559fc41e7de9c97962ca464fcdf80368d31e4cfdedd6
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/875/202204010054_1626678143105_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV14少儿
-http://live.20191209.xyz:5888/migu/624878440.m3u8?migutoken=1fb24cb409e30b4d9a650fd0d2c5ea5dee5bda78faf18d0f668d59d0f4f46155fd4bdef694b2f82d5a63a168891b34d2082f1af6e771a0fd3e88b6d2976dfff370fc95d43e4e3bb412b1b694
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV15音乐
-http://live.20191209.xyz:5888/migu/673168223.m3u8?migutoken=93727991e4add095a5898c05397c1b21625912a184c9f4fb31d291e6794d30010ce289cbd11e0063d68c9983fe6b3cbcef4655dd4b94c7c709828f0b8fde50948474b125709cfad5f369f4a4
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV17农业农村
-http://live.20191209.xyz:5888/migu/673168256.m3u8?migutoken=83ba2fcd269beaf3ba959cd6ffa4c04902e3fa0e035f8a3f03adb55ea6ad976f93d03016a838689f31945478fdfb0869d068269f273db3c9777569f4c3fe5bd0f20eed515bd0cb63f2a2b5cc
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/315/202204010055_1626831001078_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV4欧洲
-http://live.20191209.xyz:5888/migu/608807419.m3u8?migutoken=0c8c16a2634031a44652f7516eb0308771719ba7a4e37be4189366343d1049901985c9a95b84f2e355b986cc095e7287d4dc988f6f90fe6dd7c124041f50194e9ac8bf8b4348d105998e021e
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/344/202204010055_1626830735444_H169_1080.jpg" group-title="🐉央视卫视-①💥", CCTV4美洲
-http://live.20191209.xyz:5888/migu/608807416.m3u8?migutoken=ee5a1201b7975ed453627ef10b9f15da73bdfeb117e726336369c2d99cca7d0bfaf168995218259a4b178f569a12911bcc1afdb9beac16e99a53ea0ae1c7628d7a144bbcdf09cb7df70d04b5
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/356/202502251602_1740470533820_H169_1080.jpg" group-title="🐉央视卫视-①💥", CGTN外语记录
-http://live.20191209.xyz:5888/migu/609006487.m3u8?migutoken=aae977f2980369baa8913b4e32d4fb3755ca181e8da51b7d021e3d54bfcbfb1bffc7a78d77688e7b3c61b44f5b29e1e293c44e84c7383ea91aad64b9edcacc2bb1a2d108488a555e350d7648
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/303/202502251557_1740470224929_H169_1080.jpg" group-title="🐉央视卫视-①💥", CGTN阿拉伯语
-http://live.20191209.xyz:5888/migu/609154345.m3u8?migutoken=9dedaa110ad6d2dc219b7feada8cc1a77c9b91b92235269e018e62a9d7016f2179d76afbd7145e5142c8890eecb4f92fd4f2f55e7551adaf90b02c3224fe3888910afa31f50a3a9ba8a753a8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/337/202502251600_1740470429939_H169_1080.jpg" group-title="🐉央视卫视-①💥", CGTN西班牙语
-http://live.20191209.xyz:5888/migu/609006450.m3u8?migutoken=c9a1f4129de01dc74b867ee5aa2b879f5caef7915364f3b85ddf202ea10cc6b6235889f8ca04c396708b9dc0938f0a52cedee1d7535a128a244829bd72fe526f429e37aa1b8a2340b79f443a
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/324/202502251559_1740470364968_H169_1080.jpg" group-title="🐉央视卫视-①💥", CGTN法语
-http://live.20191209.xyz:5888/migu/609006476.m3u8?migutoken=70d6e3990bc7738bbf29d530eb71cc6cff46c2e91c0707cccc1bcbf8108d038f4f7d8057e9913b380cdce54c58d1f6b2272041a13b0ea9be4c3df3e91d42fd203fdf94dd469416b798175298
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/332/202502251558_1740470310039_H169_1080.jpg" group-title="🐉央视卫视-①💥", CGTN俄语
-http://live.20191209.xyz:5888/migu/609006446.m3u8?migutoken=e53f00ab2b25552cd430604d73a693ffbe577a5c66adcd886299abee5c186bca77e90f075536eb881bb827adbcb1ca493c42138d3d1b90156407e2dbea503ede6e8a8e2296bb42e53da14d86
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/002/202405081702_1715158642984_H169_1080.jpg" group-title="🐉央视卫视-①💥", 老故事
-http://live.20191209.xyz:5888/migu/884121956.m3u8?migutoken=460ff17c42d5439c579e15d93b589398ee7809f609107e25701033b76c6932c63b21c3eaabacd4a329c7696d65c3dc2b7494b7e8c29199d1e0cc2c1d216d5777a97dfdbbb6d3ebdc4269e678
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="🐉央视卫视-①💥", 发现之旅
-http://live.20191209.xyz:5888/migu/624878970.m3u8?migutoken=138c1861db8b0373d5423a3892f679bc133ec902ed149a4bd7d0ff0a995a502787eef4c2556898755f84f994f5af3c9cdb24937b3e6db8a2be6fb18cdbc2903d57f70a0826c8e45a5d5b2ace
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/355/202405081702_1715158104256_H169_1080.jpg" group-title="🐉央视卫视-①💥", 中学生
-http://live.20191209.xyz:5888/migu/708869532.m3u8?migutoken=a256cdb4fedd2f922c312d04dcaedbf0e20a8f59346a59ca41336754e84a1ca2f85f5c3d5ceec8919001a7daf3fa40cb9544dd169821b5019f02355df9660b300e0b460be54b6c88c37041c3
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/196/407/202204010052_1642124762081_H169_1080.jpg" group-title="🐉央视卫视-①💥", CGTN
-http://live.20191209.xyz:5888/migu/609017205.m3u8?migutoken=9734b9ddcbccc39a8c44de81c0f87856d080b85b9c554befd15b51885e93df2eb6c95fd10c0c61d17aa0244e495e94f8c26811d90209342ea607cec75ab1f070b0037adaa5093c83f52159fd
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/150/202407181432_1721283643483_H169_1080.jpg" group-title="🐉央视卫视-①💥", CETV1
-http://live.20191209.xyz:5888/migu/923287154.m3u8?migutoken=9e34a5ecaacc29f9f2d9ea15e97ed46308ebfe200d4e5c6511903c18827e8c8d9f8a80e997b0d722bb0047b61d9a204dbbdb8b684a0284aaa40607df85fd4c92e90823d67ad10855e7b38eb0
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/152/202407181432_1721283773509_H169_1080.jpg" group-title="🐉央视卫视-①💥", CETV2
-http://live.20191209.xyz:5888/migu/923287211.m3u8?migutoken=e839c8228b33835fd1b58a057fbab915476537e05b2e356e434da7a751a7e257f0ce621d89c383f3c4bc950639f387334e1f15e83c95c54ef5091d171aa671ae68a6cef40d3d057dee6f78eb
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="🐉央视卫视-①💥", CETV4
-http://live.20191209.xyz:5888/migu/923287339.m3u8?migutoken=3d7665856bb2b0c139732eaae502469add791f3c0e8281ccda1f252519e081b8e3e1f81d2093168758cb29ae2e7814340143a65462a1dfb6275d12fe7a4bbf04f3d90172779ee108f3297387
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🐉央视卫视-①💥",CCTV-1综合
+http://z.b.bkpcp.top/m.php?id=cctv1
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="🐉央视卫视-①💥",CCTV-2财经
+http://z.b.bkpcp.top/m.php?id=cctv2
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="🐉央视卫视-①💥",CCTV-3综艺
+http://z.b.bkpcp.top/m.php?id=cctv3
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🐉央视卫视-①💥",CCTV-4中文国际
+http://z.b.bkpcp.top/m.php?id=cctv4
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🐉央视卫视-①💥",CCTV-4美洲
+http://z.b.bkpcp.top/m.php?id=cctv4m
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🐉央视卫视-①💥",CCTV-4欧洲
+http://z.b.bkpcp.top/m.php?id=cctv4o
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="🐉央视卫视-①💥",CCTV-5体育
+http://z.b.bkpcp.top/m.php?id=cctv5
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="🐉央视卫视-①💥",CCTV-5+体育赛事
+http://z.b.bkpcp.top/m.php?id=cctv5p
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="🐉央视卫视-①💥",CCTV-6电影
+http://z.b.bkpcp.top/m.php?id=cctv6
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🐉央视卫视-①💥",CCTV-7国防军事
+http://z.b.bkpcp.top/m.php?id=cctv7
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="🐉央视卫视-①💥",CCTV-8电视剧
+http://z.b.bkpcp.top/m.php?id=cctv8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="🐉央视卫视-①💥",CCTV-9纪录
+http://z.b.bkpcp.top/m.php?id=cctv9
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="🐉央视卫视-①💥",CCTV-10科教
+http://z.b.bkpcp.top/m.php?id=cctv10
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="🐉央视卫视-①💥",CCTV-11戏曲
+http://z.b.bkpcp.top/m.php?id=cctv11
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="🐉央视卫视-①💥",CCTV-12社会与法
+http://z.b.bkpcp.top/m.php?id=cctv12
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🐉央视卫视-①💥",CCTV-13新闻
+http://z.b.bkpcp.top/m.php?id=cctv13
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="🐉央视卫视-①💥",CCTV-14少儿
+http://z.b.bkpcp.top/m.php?id=cctv14
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="🐉央视卫视-①💥",CCTV-15音乐
+http://z.b.bkpcp.top/m.php?id=cctv15
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="🐉央视卫视-①💥",CCTV-16奥运
+https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="🐉央视卫视-①💥",CCTV-17农业农村
+http://z.b.bkpcp.top/m.php?id=cctv17
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="🐉央视卫视-①💥",CHC家庭影院
+http://z.b.bkpcp.top/m.php?id=jtyy
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="🐉央视卫视-①💥",CHC动作电影
+http://z.b.bkpcp.top/m.php?id=dzdy
+#EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="🐉央视卫视-①💥",CCTV发现之旅
+http://z.b.bkpcp.top/m.php?id=fxzl
+#EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://epg.112114.xyz/logo/中学生.png" group-title="🐉央视卫视-①💥",CCTV中学生
+http://z.b.bkpcp.top/m.php?id=zxs
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="🐉央视卫视-①💥",CGTN
+http://z.b.bkpcp.top/m.php?id=cgtn
+#EXTINF:-1,tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="🐉央视卫视-①💥",CGTN纪录
+http://z.b.bkpcp.top/m.php?id=cgtnjl
+#EXTINF:-1,tvg-id="CCTV西班牙语" tvg-name="CCTV西班牙语" tvg-logo="https://epg.112114.xyz/logo/CCTV西班牙语.png" group-title="🐉央视卫视-①💥",CCTV西班牙语
+http://z.b.bkpcp.top/m.php?id=cgtne
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="🐉央视卫视-①💥",CCTV法语
+http://z.b.bkpcp.top/m.php?id=cgtnf
+#EXTINF:-1,tvg-id="CCTV阿拉伯语" tvg-name="CCTV阿拉伯语" tvg-logo="https://epg.112114.xyz/logo/CCTV阿拉伯语.png" group-title="🐉央视卫视-①💥",CCTV阿拉伯语
+http://z.b.bkpcp.top/m.php?id=cgtna
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="🐉央视卫视-①💥",CCTV俄语
+http://z.b.bkpcp.top/m.php?id=cgtnr
+#EXTINF:-1,tvg-id="CETV 1 中国教育" tvg-name="CETV 1 中国教育" tvg-logo="https://epg.112114.xyz/logo/CETV1中国教育.png" group-title="🐉央视卫视-①💥",CETV 1 中国教育
+http://z.b.bkpcp.top/m.php?id=cetv1
+#EXTINF:-1,tvg-id="CETV 2 中国教育" tvg-name="CETV 2 中国教育" tvg-logo="https://epg.112114.xyz/logo/CETV2中国教育.png" group-title="🐉央视卫视-①💥",CETV 2 中国教育
+http://z.b.bkpcp.top/m.php?id=cetv2
+#EXTINF:-1,tvg-id="CETV 4 中国教育" tvg-name="CETV 4 中国教育" tvg-logo="https://epg.112114.xyz/logo/CETV4中国教育.png" group-title="🐉央视卫视-①💥",CETV 4 中国教育
+http://z.b.bkpcp.top/m.php?id=cetv4
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="🐉央视卫视-①💥",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="🐉央视卫视-①💥",北京卫视
 http://119.36.78.50:9981/tsfile/live/1069_1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="🐉央视卫视-①💥",湖南卫视
 http://119.36.78.50:9981/tsfile/live/1065_1.m3u8
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/058/351/202106171938_5100043384_H169_1080.jpg" group-title="🐉央视卫视-①💥", 东方卫视
-http://live.20191209.xyz:5888/migu/651632648.m3u8?migutoken=1c53812a28d29bb871584d37e030fb74ca5379211605904b6319b137c2860d4e3048cf88b3b87bd31e938748a290f2b73a3966b85e6543b1876968743f10ccd2b896caec4716fd53f3d49bdf
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/199/408/202104022140_5100156802_H169_1080.jpg" group-title="🐉央视卫视-①💥", 江苏卫视
-http://live.20191209.xyz:5888/migu/623899368.m3u8?migutoken=02c211e777b2c79bf81500b7957631a4f034f86b92fa036bb75ce770add8dbe1ff77ee3594c3261130eeae9014a341c0aca5ae1cd72106b303b76b5d781bbb0a8ce19842dba1d9ad43cba46e
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="🐉央视卫视-①💥", 广东卫视
-http://live.20191209.xyz:5888/migu/608831231.m3u8?migutoken=763b035cb0ea66e80edc7b9f219ca5091d16f8d97e8513df7ad5a6134d8e4aa966179ce51d618ce9b30e0e03970ef6445d4673e69c438984b89798be806e7d1ac1d07302b607cd23a3f15959
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="🐉央视卫视-①💥", 江西卫视
-http://live.20191209.xyz:5888/migu/783847495.m3u8?migutoken=b453fe2da167d85e8f39735e146596cd1618a3bc5adf103208ca830e099092ce42aedb7417557cb981867a1b5f49468763d3afff296d485d7ec4478a374df22e3b3ed9d7c40e593aed10dbf9
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/585/202304031400_1679994685582_H169_1080.jpg" group-title="🐉央视卫视-①💥", 河南卫视
-http://live.20191209.xyz:5888/migu/790187291.m3u8?migutoken=bdaad5a03e6acef3d83731655ac2372b3d4671d1a14505921683c6263a96cf6f91402bb9c96c1f8c4922b83d76e458928bbd084acce95a127c2343fecf3cbcd3f05713de931b4f3138919159
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/020/475/202207191732_1658131375175_H169_1080.jpg" group-title="🐉央视卫视-①💥", 陕西卫视
-http://live.20191209.xyz:5888/migu/738910838.m3u8?migutoken=db7c3eee46250621811cbcb7740985ef61d93275ab8e030d6e748afe06fd1ae7c5a31196f2d98d2963a549f0ca9b5832368cfa16eb1f7d640f9fb13a07bee37490697ff84133b45ab50fca76
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/322/852/202304081513_1677570732561_H169_1080.jpg" group-title="🐉央视卫视-①💥", 大湾区卫视
-http://live.20191209.xyz:5888/migu/608917627.m3u8?migutoken=05d9f63263b3ab684df3e39e3ce083c3443e933bc62894b42dc4bdece5166440b36be763bb702f2ff223ebe75c1750246361ebde91b2494f7b3e426325037b1d8b4498cc6263f8546309c335
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/163/202501231715_1658138621263_H169_1080.jpg" group-title="🐉央视卫视-①💥", 湖北卫视
-http://live.20191209.xyz:5888/migu/947472496.m3u8?migutoken=fda2d8dcc4ca798d1061b94397190a6081296a8b091035e26119e11942a9d4bef731a06131a45ac025c043fda88c3de963d260ddb8c8a8bb935a6d729a8862c393587100d2e3e61757b63dee
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/164/202501231715_1658138745288_H169_1080.jpg" group-title="🐉央视卫视-①💥", 吉林卫视
-http://live.20191209.xyz:5888/migu/947472500.m3u8?migutoken=4dfd4ad2b818be98b29623ca21366d10499e16a67dcd48055e775e1c75a57ccac35b3df239efc6a76bcf7098d41c0f22d31dc2b31cbab7119de2312f9b99232bdacb708973667ab79d48c9d3
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/166/202501231715_1658138568499_H169_1080.jpg" group-title="🐉央视卫视-①💥", 青海卫视
-http://live.20191209.xyz:5888/migu/947472506.m3u8?migutoken=07ea42aa73ec7a57f33ebac90c74dce86e734254f34e6b89e348b27b6060f8a6e4cca399cf26fb502a04a1fa69efdf494b876abee0625d05ac20e401508db26f0cc0fa1f9aced30564dc844b
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/896/202308111117_1690875139589_H169_1080.jpg" group-title="🐉央视卫视-①💥", 东南卫视
-http://live.20191209.xyz:5888/migu/849116810.m3u8?migutoken=32d452454c33cc29948884d467b07a0638d6656204ce2a20ef3e2dd153f8932e2c3c6ca86f10615842ee24668e248e161587a472596486e2cfbef3da095547f98b83356dccf2065feb140929
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/165/202501231715_1658138887282_H169_1080.jpg" group-title="🐉央视卫视-①💥", 海南卫视
-http://live.20191209.xyz:5888/migu/947472502.m3u8?migutoken=f3038d5c2d19221624a00711d0e7deec5b81a0d91bf4dab6cc97a679c9b3c2cba33fc2857983927a476fe627ed68b9e50da801d194f0163916aee6741c53ea088ab76ebe42b5caefcb15aafe
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/897/202308111126_1690875414853_H169_1080.jpg" group-title="🐉央视卫视-①💥", 海峡卫视
-http://live.20191209.xyz:5888/migu/849119120.m3u8?migutoken=f32458b4fd550204836b65637ae964b88e276c1b2a0662b8ef9494855a7d21b7f8f3ceae3e82c51167f4b76b579ec20bd64ac1f04baa6dbe5bfbf23ae7aa66ddb1ae199d09b235be213d38f8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="🐉央视卫视-①💥",广东卫视
+http://z.b.bkpcp.top/m.php?id=gdws
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="🐉央视卫视-①💥",江苏卫视
+http://z.b.bkpcp.top/m.php?id=jsws
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="🐉央视卫视-①💥",东方卫视
+http://z.b.bkpcp.top/m.php?id=dfws
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="🐉央视卫视-①💥",陕西卫视
+http://z.b.bkpcp.top/m.php?id=sxws
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="🐉央视卫视-①💥",江西卫视
+http://z.b.bkpcp.top/m.php?id=jxws
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="🐉央视卫视-①💥",湖北卫视
+http://z.b.bkpcp.top/m.php?id=hubws
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="🐉央视卫视-①💥",河南卫视
+http://z.b.bkpcp.top/m.php?id=hnws
+#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="🐉央视卫视-①💥",大湾区卫视
+http://z.b.bkpcp.top/m.php?id=dwqws
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="🐉央视卫视-①💥",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="🐉央视卫视-①💥",内蒙古卫视
@@ -260,66 +254,65 @@ http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="🐉央视卫视-①💥",西藏卫视
 http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/260/553/202104022139_5100186455_H169_1080.jpg" group-title="🐉央视卫视-①💥", 优漫卡通
-http://live.20191209.xyz:5888/migu/626064703.m3u8?migutoken=711c9eece56228cbd2736e3540c7ead68020843f5fa9638b48cf481d261bf80edc428d41d88c941c15b271ae3c27988fa08ff967a6a7db9b9ad73f3ded8ac034e018e4b87a66047fc6be6062
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/172/388/202304101530_2206172388_H169_1080.jpg" group-title="🐉央视卫视-①💥", 嘉佳卡通
-http://live.20191209.xyz:5888/migu/614952364.m3u8?migutoken=7452f495c664756fc0803b8de0b8bb6c9f66c2993cce0ec302b4161e49b0e0afd6924e375c3170b6aab51fa0f07ef1296616c9ca16176eeb4fe6d0c183f0c51b925ccc7931262690400fead2
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="🐉央视卫视-①💥", 经典动画大集合
-http://live.20191209.xyz:5888/migu/629942219.m3u8?migutoken=8c7d4eb88d474215f95a921309f1a9b31a9dfc8001a462d79e8750d2ef85b81775f0363f334fcd951be9d478a1d298da30eb552dc80d23f780f5845d15f0a552787d6382dca69bbc7e0ae44b
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/795/202308221159_1692676692674_H169_1080.jpg" group-title="🐉央视卫视-①💥", CHC动作电影
-http://live.20191209.xyz:5888/migu/644368714.m3u8?migutoken=3c9326fea65514013da3e1573627e13f2ebea851b495aa2b07b05f6a7eca2c98f26ade72dab9e69e2cf333be491d871316f8a4953c44fa09647b974173206059e54698a3078d45d9ffb342b6
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="🐉央视卫视-①💥", CHC家庭影院
-http://live.20191209.xyz:5888/migu/644368373.m3u8?migutoken=884e5cfa7a565cbca1b038a7f6c681ca2670309c619a47c3339929938ee580078bc6252144c6c8abee9afcee043271fdc630c27c2da362ecadf5e51d1e3c5099ac4dabace5ffb830f74595e0
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202308221005_1692669894186_H169_1080.jpg" group-title="🐉央视卫视-①💥", 经典香港电影
-http://live.20191209.xyz:5888/migu/625703337.m3u8?migutoken=ca1d9d901a647d434fffb7792875a6b7c3479beb79ee120106464b9d98d36a5d855ce8959cd4ca0481741f65cccd6e112890f21303dd932b815c4c40db855fa19089df059fcde96ed560d16a
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/717/202406101432_1718000751139_H169_1080.jpg" group-title="🐉央视卫视-①💥", 军迷大片
-http://live.20191209.xyz:5888/migu/617432318.m3u8?migutoken=72cbe21731d7a0e7f2701ca4248a92304129fc509102cda7dacaa66e99c4ad6bd074cc14ceddf4a3cb96b3d6ae7c38c357fe86024b3f8000ecdf14aab7337392b400b32eebc4a09d31279d08
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202405061742_1714988181593_H169_1080.jpg" group-title="🐉央视卫视-①💥", 新片放映厅
-http://live.20191209.xyz:5888/migu/619495952.m3u8?migutoken=3b00a3ded4c8dd6d8bd6cc1417f0cb68080aece61fd1577f62bad4610b4f4d0521ef4c34a5bb1a1d496d8dce6738719d49a31b6c30ffc82f367545afaddb53e120df33a8e8bba68422b5ff6f
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="🐉央视卫视-①💥", 高清大片
-http://live.20191209.xyz:5888/migu/629943678.m3u8?migutoken=78288a5e0414f736b6208e59b0cd76a63ab77220a3c1ede99d202f68b66f921bcf33faecacf74b504d2384489d0444fc73d1098ce4b9a3ae9469eafd90427fd661705450b2a80272558da12b
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg" group-title="🐉央视卫视-①💥", 南方影视
-http://live.20191209.xyz:5888/migu/614961829.m3u8?migutoken=8d20b7a0e503392ca487b65b3a71e73fcb2da80470088efe87313e4ac2c9c307682c95c3049dd7049b83ebd2f4910ad437aa898c422cdda88cb59fe999c0c95e349d362e2a33d89344510638
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="🐉央视卫视-①💥", 咪咕体育台
-http://live.20191209.xyz:5888/migu/654102378.m3u8?migutoken=eed22ca212f1b484e6c376ad4c3cd0f49fd652f73cf10787bf153d6f0825a6a60fb15907680a326039ca02a0b8c023ebdb9ce19a36d2673e6283c92c9e07ac3151b74721b62495640725c5d9
+#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="🐉央视卫视-①💥",广东影视
+http://z.b.bkpcp.top/m.php?id=gdys
+#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="🐉央视卫视-①💥",上海新闻综合
+http://z.b.bkpcp.top/m.php?id=shxw
+#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="🐉央视卫视-①💥",上海东方影视
+http://z.b.bkpcp.top/m.php?id=shys
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="🐉央视卫视-①💥",欢笑剧场
+http://z.b.bkpcp.top/m.php?id=hxjc
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="🐉央视卫视-①💥",SiTV 魅力足球
+http://z.b.bkpcp.top/m.php?id=mlzq
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="🐉央视卫视-①💥",SiTV 游戏风云
+http://z.b.bkpcp.top/m.php?id=yxfy
+#EXTINF:-1,tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.112114.xyz/logo/法治天地.png" group-title="🐉央视卫视-①💥",SiTV 法治天地
+http://z.b.bkpcp.top/m.php?id=fztd
+#EXTINF:-1,tvg-id="SiTV 乐游" tvg-name="SiTV 乐游" tvg-logo="https://epg.112114.xyz/logo/SITV乐游.png" group-title="🐉央视卫视-①💥",SiTV 乐游
+http://z.b.bkpcp.top/m.php?id=ly
 
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🐉央视卫视-②💥",CCTV1-综合
-http://www.peanutbar.cn:8099/tsfile/live/0001_1.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="🐉央视卫视-②💥",CCTV2-财经
-http://www.peanutbar.cn:8099/tsfile/live/0002_1.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="🐉央视卫视-②💥",CCTV3-综艺
-http://www.peanutbar.cn:8099/tsfile/live/0003_1.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🐉央视卫视-②💥",CCTV4-国际
-http://www.peanutbar.cn:8099/tsfile/live/0004_1.m3u8
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="🐉央视卫视-②💥",CCTV5-体育
-http://www.peanutbar.cn:8099/tsfile/live/0005_1.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="🐉央视卫视-②💥",CCTV5+-赛事
-http://119.36.78.50:9981/tsfile/live/1063_1.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="🐉央视卫视-②💥",CCTV6-电影
-http://www.peanutbar.cn:8099/tsfile/live/0006_1.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🐉央视卫视-②💥",CCTV7-军农
-http://www.peanutbar.cn:8099/tsfile/live/0007_1.m3u8
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="🐉央视卫视-②💥",CCTV8-电视剧
-http://www.peanutbar.cn:8099/tsfile/live/0008_1.m3u8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="🐉央视卫视-②💥",CCTV9-纪录
-http://www.peanutbar.cn:8099/tsfile/live/0009_1.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="🐉央视卫视-②💥",CCTV10-科教
-http://www.peanutbar.cn:8099/tsfile/live/0010_1.m3u8
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="🐉央视卫视-②💥",CCTV11-戏曲
-http://www.peanutbar.cn:8099/tsfile/live/0011_1.m3u8
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="🐉央视卫视-②💥",CCTV12-社会与法
-http://www.peanutbar.cn:8099/tsfile/live/0012_1.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🐉央视卫视-②💥",CCTV13-新闻
-http://www.peanutbar.cn:8099/tsfile/live/0013_1.m3u8
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="🐉央视卫视-②💥",CCTV14-少儿
-http://www.peanutbar.cn:8099/tsfile/live/0014_1.m3u8
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="🐉央视卫视-②💥",CCTV15-音乐
-http://www.peanutbar.cn:8099/tsfile/live/0015_1.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="🐉央视卫视-②💥",CCTV16-奥运
-http://119.36.78.50:9981/tsfile/live/1001_1.m3u8
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="🐉央视卫视-②💥",CCTV17-农村
-http://119.36.78.50:9981/tsfile/live/1062_1.m3u8
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🐉央视卫视-②💥",CCTV-1
+http://fn.tmde.top:35455/gaoma/cctv1.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="🐉央视卫视-②💥",CCTV-2
+http://fn.tmde.top:35455/gaoma/cctv2.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="🐉央视卫视-②💥",CCTV-3
+http://fn.tmde.top:35455/gaoma/cctv3.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="🐉央视卫视-②💥",CCTV-4
+http://fn.tmde.top:35455/gaoma/cctv4.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="🐉央视卫视-②💥",CCTV-5
+http://fn.tmde.top:35455/gaoma/cctv5.m3u8
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="🐉央视卫视-②💥",CCTV-5+
+http://fn.tmde.top:35455/gaoma/cctv5p.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="🐉央视卫视-②💥",CCTV-6
+http://fn.tmde.top:35455/gaoma/cctv6.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="🐉央视卫视-②💥",CCTV-7
+http://fn.tmde.top:35455/gaoma/cctv7.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="🐉央视卫视-②💥",CCTV-8
+http://fn.tmde.top:35455/gaoma/cctv8.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="🐉央视卫视-②💥",CCTV-9
+http://fn.tmde.top:35455/gaoma/cctv9.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="🐉央视卫视-②💥",CCTV-10
+http://fn.tmde.top:35455/gaoma/cctv10.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="🐉央视卫视-②💥",CCTV-11
+http://fn.tmde.top:35455/gaoma/cctv11.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="🐉央视卫视-②💥",CCTV-12
+http://fn.tmde.top:35455/gaoma/cctv12.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="🐉央视卫视-②💥",CCTV-13
+http://fn.tmde.top:35455/gaoma/cctv13.m3u8
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="🐉央视卫视-②💥",CCTV-14
+http://fn.tmde.top:35455/gaoma/cctv14.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="🐉央视卫视-②💥",CCTV-15
+http://fn.tmde.top:35455/gaoma/cctv15.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="🐉央视卫视-②💥",CCTV-16
+http://fn.tmde.top:35455/gaoma/cctv16.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="🐉央视卫视-②💥",CCTV-17
+http://fn.tmde.top:35455/gaoma/cctv17.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="🐉央视卫视-②💥",CCTV-4k
+http://fn.tmde.top:35455/gaoma/cctv4k.m3u8
+#EXTINF:-1,tvg-id="CCTV-8k" tvg-name="CCTV-8k" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="🐉央视卫视-②💥",CCTV-8k
+http://fn.tmde.top:35455/gaoma/cctv8k_36m.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="🐉央视卫视-②💥",北京卫视
 http://www.peanutbar.cn:8099/tsfile/live/0122_1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="🐉央视卫视-②💥",江苏卫视
@@ -657,193 +650,6 @@ http://148.135.93.213/phenix.php?id=fhzw
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png" group-title="🐉央视卫视-④💥",凤凰香港
 http://148.135.93.213/phenix.php?id=fhhk
 
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛
-http://live.20191209.xyz:5888/txsport/100002:20253944/301066/1383170700.m3u8?txtoken=fbe386948322f10320afba0f1e87cbe0279e3d5c1ec24fb700fc5efccc9939ecc0fb709c29014aaec1fda35e40f8e5e3ebeaa567871e0eea2bcec76570da71d8bc00e62371d61679815db7734f4b54892373b15e59cc1ac1052279ba2f4ff40536318de54096f1f58e14252905fa67886c43cdbad7896cd6e3e0893c7f
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛_2号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253944/301066/1767959300.m3u8?txtoken=0036391ba344c5e7da5e254272ec416a7c9b284909cb98174c2d5e0f62cc48203983c69264a6dceba2c0bea8e4d418638fcfcb65fdd549cef2f03d5a5967356979d48cf989da86af09178b1ed2565b05ecc8f2d15d44d066ba7a1af37bf139639fcf5376ea38e9107943e35291963256d119c6a30e10e18cbb885355da
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛_3号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253944/301066/1767959400.m3u8?txtoken=469a9b43fe930354f3476390fc1ce3b0f637127691c1267ef2f4340e3abb18aff949ecc872ef98462966da47764042edc61f1254045c97c54c2db486ba2d389b0ad415411200f7dc995677aaca4f39674261e05a89c676b6c24fd83739af9fe6aebbb44b5e44815d79491e29f596b34824b6ca6a43edeb3d8bc35095be
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛_4号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253944/301066/1383170800.m3u8?txtoken=18f281d22f2a69c183c7bed5bb9d80335beffca33ade753247eac00e8e8b2fb33860dc13641cb314e448059b2b3af66f5276f69c4339873f1109fcd50c38ae213f91df8c152110d96d2d344df9cc0349caf201e4fcd9b8a0d5bc3d263478bafdc24a2aecd24d21cabc84d74955958849381d5d6577d61782ed3039a0c0
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛_5号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253944/301066/1383171100.m3u8?txtoken=a2c8e58e10a8b623b769ff6f0c73c24f8d61bd132d0ad6cb5c3eda95899f879b50ef2cbe7cadfde29ea3380d89585754629784ae0169c3679d6b78150b2321815e4c44cf11fa49bf735b6cd1af98273992574215d4988e80007e0ab17b182d4f23c9ab0809fca27834738dd2e3d9714446bfd6ae19fa6b82b5a448cc79
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="篮球直播节目", 2025-03-24 19:00:00_篮球直播节目_有球必应：现今NBA联盟，各项技能之王分别是谁？
-http://live.20191209.xyz:5888/txsport/100002:20253634/300024/1382857200.m3u8?txtoken=f94cc16414677107f32cc2b10aa8221af0e704e5f876ef7fcb07ff213367135aef251d20baf96023bacc4ba9548a62960b196095c73cba2ea9bab78af975f3843e48b032e4412bff415d06122873d6d97de4e223778241f0738af6df4267d3f596828128ffb1d22db467790c66c485c5035ae85740b97bf4a42fce2d7f
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA1000迈阿密站", 2025-03-24 23:00:00_WTA1000迈阿密站_WTA1000迈阿密站第4轮：斯瓦泰克、高芙、萨巴伦卡冲击8强_陈孝康 单文强
-http://live.20191209.xyz:5888/txsport/100002:20253835/300649/1767846700.m3u8?txtoken=2a1e2736467bb871cbaa2ce797aa3f066cd076961e71c9856f65c17d2e95bd9aa4c4ff8ac829b5273970783c8b655f62be321c61f136c93972d21f9aa01313c3770d5eddc341073db2d3b1cb2bef5b865ffb7834e53692d0e1694c4f6cc30bbaa4d532df9ed684fd40746ed1e443d17e88fe7eb8f46b1de6b3603726a7
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA1000迈阿密站", 2025-03-24 23:00:00_WTA1000迈阿密站_WTA1000迈阿密站第4轮：斯瓦泰克、高芙、萨巴伦卡冲击8强_赛场原声
-http://live.20191209.xyz:5888/txsport/100002:20253835/300649/1383046500.m3u8?txtoken=6dceeb5ef6773c240623ea9c1b3bb506249d52b42448a0e9c3b123075177a0c6ccba0ab31f18d43672d205e62cf5c0e165b8b5b1865624df3b6d4872a992321834c758c8bc18e5cb78d8ac0b8c495ac9e810d32be504bc991576de53e7937ead0918f9efe53de1d603ac9441d452177e219ccec08c4da0752fc3d2c4db
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100308.png" group-title="WTA1000迈阿密站1/8决赛", 2025-03-25 01:10:00_WTA1000迈阿密站1/8决赛_克鲁格 vs 郑钦文_刘钟鸣 胡力涛
-http://live.20191209.xyz:5888/txsport/100308:3222/301193/1383275400.m3u8?txtoken=a7307872cddca50cb0c54487c859eea0ebde777e794c3c9d880d3947dfd99eed16a3643d30e0536bebc76be20441232723ac522f385cac4edf7bb3c48e203faff7ad7b12013ef9e1052079479c97f2b7322766f7eb1010eb9c5313515662c715eb38a784133f97ed93a5e89c89d6fc873a752df740a37f6be0fd2df3cd
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100308.png" group-title="WTA1000迈阿密站1/8决赛", 2025-03-25 01:10:00_WTA1000迈阿密站1/8决赛_克鲁格 vs 郑钦文_赛场原声
-http://live.20191209.xyz:5888/txsport/100308:3222/301193/1383275500.m3u8?txtoken=368a0e09a8599922f57e94b64dd9029b6f52e08a9603e47cc25d805729076db331724c732beef9ff2b62e05b3eb6c83c9b87bdad0a4262ed3e2cbdd82363fb9d4bb436f417204833d4caf70806f81c1184a93fdcf43a75951ec9a37d1e1a4817f7d6cb6d00c81767911141f5f32760db4215b680e8b2ad92d2a28de7f0
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_步行者 vs 森林狼_王子星 沈知渝 辰辰
-http://live.20191209.xyz:5888/txsport/100000:10022401037/300936/1383257200.m3u8?txtoken=eac8a4a4a504e23e07d7353bc47ae717b65fbd1b861086c34630f8f010d2dc2f723fb4e67c3d441680b9622c3cc19569fcce060f6df870a6fbd5604d329dfdb3df6c6d0522a5725d0fe4d3fb32369a09acc77df4ebbb8f47094a1fbc41de67dc75cf4e9b28da5da236d088e1986d0ccc88bc211e9f289b91ca16e16135
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_步行者 vs 森林狼_英文原声
-http://live.20191209.xyz:5888/txsport/100000:10022401037/300936/1383257300.m3u8?txtoken=9754066ac3d5eb039893bb630e11ede3ec694f47e20f82841207daf66a29fa2c596a5128a8b8bc93512c3b2e7a67d979d5b5a4e610ba706184032e3fa3da961016d484b03440e845826e8cac80ef30a5375c100281beb802dccc0db633adc9c6d92028b0f094eae6893a82a931c79e97238b9137623a711b6be7813418
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_魔术 vs 湖人_王猛 苏群 美娜
-http://live.20191209.xyz:5888/txsport/100000:10022401038/300937/1767927900.m3u8?txtoken=ab8747f466af135089b3f16cb1be9eb9109d24abec420264eb3d9dc5e8f4fc8183bce328e9150b0ce1625527e9ce3af96f4f1e3c9e97182b24289de9c160722ed5f697e684d0a48c6835fdc601381e9cbfacd19fdbf2c677234ecff00310958e06dc13239d3c53d80390b4fbdc4982fc6cbd0cf2184ca6d159973f0bcb
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_魔术 vs 湖人_英文原声
-http://live.20191209.xyz:5888/txsport/100000:10022401038/300937/1383140200.m3u8?txtoken=4c0829efdcbcaa090a253e125ab3d92e77179c03e7b91055a953df0bc0f6c7c25c928d91bb6cd71daeb9ee24b57166f5e2c2f60a1131b9f0974ee30f16872364705b117da9ff1748cb3dfe2087bebf840f6daf2770a43510fa68890dc7e11b722de656beb55e68095baf925df23131369b16d1bcaec696dfc2f0867878
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_魔术 vs 湖人_球星视角
-http://live.20191209.xyz:5888/txsport/100000:10022401038/300937/1767928000.m3u8?txtoken=1ef242214172093034591fb604b6b3712ad19229a7411c9e51273747c3c3b801ca6ee79d78871c7e0225086e74f2509c5f34708bafe8cd987b3c7765040094ef634eca7878df0ca056f8f1a1393b845907438a123de7671d01d6ae2457e82765a07cc3ad8ad90ed561de37af64b8eb96c59bd9cb0649d9f8a6baa8b17d
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_魔术 vs 湖人_二路-皓篮球
-http://live.20191209.xyz:5888/txsport/100000:10022401038/300937/1767973100.m3u8?txtoken=b6f4fe82c89573b513d0885bdd5887e784b22162bac2603f5f8781b1871979f86a661667080d12b0103fc3896b14c71da1a6e708e4aa10955be180be3395c449fa77be5104918e941f35cf15970db4cc61e2339aca20ecc05daf363c2d85bb9f68513667c6608965079d8633f72c67a03ed13993e39918b34d604abb26
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_奇才 vs 猛龙_郑诚
-http://live.20191209.xyz:5888/txsport/100000:10022401039/300938/1383139600.m3u8?txtoken=cbc7cccb6036197781ceff84b99f1eee5c516d63ec99ca0b28fcf794e51d6829d8bbb6aa2d92234067ad6bb50fb3e4811d221f5e6c1c5055280cb03628e68e7328cf7caec5d6af2968e42ed53b922dc80ad156ddda49ab5d25de98bbb7dd21205287d7f973033f4d84855815d2ebb01083a4f9540630341fbff32623e7
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_奇才 vs 猛龙_英文原声
-http://live.20191209.xyz:5888/txsport/100000:10022401039/300938/1383139700.m3u8?txtoken=3efdb160d3a4e538202092a17fdb861a0af993451f71eafaaf6106d526caabebd0b3fd731bdf23df500c14f3590d7b527113c60d1ed9ed9e1de50c5b8b8a805458aad78b224bd9870a3e6d929e6b7c04128f9da4144e619d92ebcc18354fc01b2ffbda94fce5955bb00541210579b2e0cfbb53319984dbcc076565dba1
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:30:00_NBA常规赛_篮网 vs 独行侠_李雪儿
-http://live.20191209.xyz:5888/txsport/100000:10022401040/300939/1768042500.m3u8?txtoken=e686078b15d3392a6b8bb19e813c9cacaa508cd60c0de9922d89911709c3186ec924cfb002d4b470ff71040f92e6d32a7ca5bcbb029ead0f1b42c75cb941aa47fc8d08b75987162ca9f311af5d1517861cbc873c015e40e4b20b2c8792716eac0bcd2bcd7eff0cb6f7d8f2dcc5537f396c9efe2f09c08e8a06980a5363
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:30:00_NBA常规赛_篮网 vs 独行侠_英文原声
-http://live.20191209.xyz:5888/txsport/100000:10022401040/300939/1768042600.m3u8?txtoken=d44a44b5e3de49569e7d8738ed7807a8e8ba20b9683f7c382f5be7c3be45025b7ec9bb03c77b4fa88510cf1e072818f318a327a9799c66e8f4d70ad98aedbaee242251f5a6b79663d1b6f1460bdccab9a80e872ceb669099c8387a83737a2297e5dd201d1011b4559fddcfd984f7c6ab2f26db97a79da52ed8bda14d71
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 08:00:00_NBA常规赛_鹈鹕 vs 76人_金浩霆
-http://live.20191209.xyz:5888/txsport/100000:10022401041/300940/1767928200.m3u8?txtoken=2f0fcf806b13b7efba6757161388dd551a8aed6df4b9e9ac1be759dfdde8248a21614829299761e0ac6e8a528d9a6c321154cb6d292a0dafb21cb1c5e01339813d1916e2c5757fef1af520c6559ff917fe40f93af5e86c9d05a3a7a5b9420bc4a85edc06a7c22851bb87427e65e519ce2ce5539e3071ece926e4aea8ae
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 08:00:00_NBA常规赛_鹈鹕 vs 76人_英文原声
-http://live.20191209.xyz:5888/txsport/100000:10022401041/300940/1767928300.m3u8?txtoken=0073c5f1c01cfc000f8bf7cf03f129bb3d2c7773978caffd05be4d0dc07da77b5682c876b4d16002f591ead85c318393cbfc7a5c086c7791c956f26d2dd0f0af8095cddbc8fdcd947724bedcb8eb4799530b36b62e5cacb3d0c4f26e68b7cbdb7843fef5293c10ab8fc71f0e2b3e44d3257b6a6b501c40ad4f3c5b70d7
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 09:00:00_NBA常规赛_掘金 vs 公牛_石楷文
-http://live.20191209.xyz:5888/txsport/100000:10022401042/300941/1767928400.m3u8?txtoken=109f9b7000565f68935129caf0d36a87bfcbbe8ceb1a2940899fbaef6db601945488369ff3f5f3b3539e62657caf168f852ad25c91b2db2384496688bfcb69468c1b5e524a26da033e31c047b602d529727220a537b5ffd56a430f55c16d6cd066031f2439339bad7a001fbfed3f2b2cc646482f6df3049e6ecf230fba
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 09:00:00_NBA常规赛_掘金 vs 公牛_英文原声
-http://live.20191209.xyz:5888/txsport/100000:10022401042/300941/1767928500.m3u8?txtoken=c4e6e4786a8a2d5d58eff40af8bc96f2085fc881cb6297c1d73ad727303a087334fa338ee2d0ddf8a556ac9d39e9b1697d19bbc4f8f1da5397945fdd9beaedf250aee17bc8ef4606ab1d8ced9a2b3f26c73981e88decfd9079716dfa972f97cb0151a22b7f78d95fcac6170b80bd75f137322f045ab86660a36a8f5dc1
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="篮球直播节目", 2025-03-25 09:30:00_篮球直播节目_《早安 NBA》第146期：赛程惨烈，太阳能稳住第十么？_彭磊 吴谦 泱泱
-http://live.20191209.xyz:5888/txsport/100002:20253890/300851/1767921000.m3u8?txtoken=8491923142bff0d99c288ad9248cc3d35ad878a9ef15e5808decb0f380023948252da1ae6bf888d97d1a12df210b0eb88afb6c84d0c85e557dee5010f28668f11120c00c9251afc6e31ddd2e2e15a1dcaa6f68b8fd248390717e36a80f8aa0d4d41b9192cfcdfe4b696f41e80734670bae44f4a946ea4eca2b5c21119f
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="发布会", 2025-03-25 09:30:00_发布会_湖人vs魔术 赛后新闻发布会
-http://live.20191209.xyz:5888/txsport/100002:20253921/300993/1383148900.m3u8?txtoken=e40ae7c694b1708ee7bd3f0635c0db452cf73141b6938c4042031edbd28eb0974d0c4f17b2c6df759c4f2d493ebc858c02bd866975edbf0e5079a7eea4b1e882258d371fdc0ae6abbaf76e568feb9cd209ad34692e6beb5b49a447bff3b9b2477d563160f4e6a99802c792929ce511ef37f87a3341a37c1e92646f45fe
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛
-http://live.20191209.xyz:5888/txsport/100002:20253945/301068/1767959600.m3u8?txtoken=4b7e4d71a41f1deb4982965ae01db7ea49a38614095ae4e4a548031ea1fb6ec8087137c42a22f53b015f2545ad38e537907ffa33de1c2834e52377d5ae6785921602d3cae47424953a0add4d23d83a1e47f18281851daa91941f3a0f39e831da05c044bd20cc91095fbe13947b0af8b8e7e4da9e4f993a664789456b1f
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛_5号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253945/301068/1383171300.m3u8?txtoken=eb1c0d022bf98cefd8e632b93e8afcc38b4745d23239d69070f3f44cf095efcac665ddc5e0eb32f026238e5b73ef0b7ddd9a5acd40de232ef1e02197e3657a8b1798e27b24c4ff4b425aad38f660edf228773532581a5fb3dbf3bc968d49874c838efa5f2554faecbc24a86d7a3e3208fe8725efc73e48fb3e4516644e
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛_2号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253945/301068/1383171200.m3u8?txtoken=65a990123ff8c73ba8ac6e739b0e5f9523524cfd2f0bdf6c0a3b3718c3f40c581f8e93ae4a1b9fb8d0d25ac7d5925de47ec0f676dcbf3ea36ec7e1fb2eba633af9d590985c6eecb3009dfb28ffa0efd5700fc7dab07a4baecd5749dc85d7011ac8f718512559846ccb0a62761741ce8ec0d3c2f4cc306157df80f393aa
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛_3号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253945/301068/1767959700.m3u8?txtoken=245895ab573d2b0df22b6e853a629f901cbd735081f135f4bf7509d35a57f5ae4a51d977eb7acbff1666e75e6a657dc5eef88bae8523f96e3145042b92dc5d6e6ab6e3de0a63f451c16dea71b7907a7bbf666c73b656f9db48f8732e18fe830ccc8c8087b949626aa02a79f0870052979b0b38cb3cf96764baf92749d8
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛_4号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253945/301068/1767959800.m3u8?txtoken=a3cd1685193f43e2b807302f9d4b47d8d271d855fbac872af5b9c53a71883544def7cdf1dba5a1f85dc573593bd86387be58d2323f494c1a23e5f6a0e5dde3dad404016a3523341deaaf7c5819e9fc589ababfe24c45e3bb508d5ba5959fdbec9c264499a6d7684cf5cb4d4501d928e2c5d73c07227fe0c6acbc18cc77
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_太阳 vs 雄鹿_彭磊 吴谦 泱泱
-http://live.20191209.xyz:5888/txsport/100000:10022401043/300942/1767928600.m3u8?txtoken=12bd1a40aa153f6140e014523aaebb531712f2e2bbedfa4d865f946f4c60685d4b3b1635efb118cfe65b45569e674e8e4fdeda3dfe97c9a7b61b997e2c0c41a295375bc88947533ec4abc9044515def484fe6c8afd7ebb5acb7f7d3d1bca59e9780d5ccee8c99c61d0aebd23abb28fa3d83b3639d72c24e4fe8124598b
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_太阳 vs 雄鹿_英文原声
-http://live.20191209.xyz:5888/txsport/100000:10022401043/300942/1767928700.m3u8?txtoken=51f42f7c06c119a7baada29eb16b0b2289412582ad1b74a2f0fc666360e433a6e4db7cfc3bb3e22b0b2e6b31249c7d227f459f2fdfa3adf1ca9c49e11aa026095054dad9110d5383521ff35443ea2a44a0d7966865b018e515a4ed561d5a57e250167afc7cbc61b2d2cf05b62f5c8841b76575d3c65ae13ff207b00c21
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_太阳 vs 雄鹿_球星视角
-http://live.20191209.xyz:5888/txsport/100000:10022401043/300942/1383140400.m3u8?txtoken=85dfc64c469ed242defdbcb34c2868fe7af17c229666dbc0a1f6055180e9e2e513f22dd5a1eda1fe120f68597124b002fa61b575bf0eb3accb2e0cd0fd7230bd20ff9788f55c84c2f26e5e27dcb43c83de1486db1c7b5f496f0dbe95c4042eae8b0c3f2bc49ab224b6dec207b5d91b1fa39592850923cf7a0ad3cd66dc
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_国王 vs 凯尔特人_王兆丰
-http://live.20191209.xyz:5888/txsport/100000:10022401044/300943/1767928800.m3u8?txtoken=bfdedee15b0d4d77ac290c19df1ec42f7190c33fe2985f5db8610c0f2a86cf962f12f005434efc0e899dc243c8340a050290475a35a79972decb57223208f421f1c128a57c7c775148f532c92df80b2939352753ffdaf9e454898cf778677f5103e2b222b8605ebebde04c5185c8221f1b1a385bd4118a6841ae57aaea
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_国王 vs 凯尔特人_英文原声
-http://live.20191209.xyz:5888/txsport/100000:10022401044/300943/1383140500.m3u8?txtoken=b9f034d90547ec7cbbca749ed13891d7153bbff23d337dca6a0a20bd8205819d01fa3d50f08ac5b8aae62426d0bf30959246dea15785dff563645d87e43b34f7f8518c217d8c38df47a7ec28111a8762ff1249d29d52dc231bd7ed53f6df3b8af621efbf68fc9e6cab265a8b55c0e064e36d9ecfd382cc4b24746fb7ee
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="发布会", 2025-03-25 12:30:00_发布会_雄鹿vs太阳 赛后新闻发布会
-http://live.20191209.xyz:5888/txsport/100002:20253922/300994/1383149000.m3u8?txtoken=3a8a35b588b71f696c63fbc7dfb569b6f5308e788cc04cc5948662f31d349168dbb67e0dd5a5df997704ee0eb02d7245b7f2aebe7914326284fb3d1fd2520d0a1300efba84c59814d923e3959260d73397d0313a167b3d8d0688d269888824e835a6074b09305121b63e1f856b4d12fabe50e465f98b1a651df418b806
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-25 14:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 湖人vs魔术
-http://live.20191209.xyz:5888/txsport/100002:20253954/301186/1768033400.m3u8?txtoken=4cb693f31def3c738817543c0da57f917ae65340e89cff4a641c92c53b5de4b026046a02a2eebdd0d02639965e265919faba5f777e7441fc6e8b9317dca1f386b761811b6cb1485508f69eb941efd32b390843f9d8a11392efa9c17ed924e499ec8b96f89ff1808b3b18d6ea9e7f37b9f97262b20daf9308bcc66b885c
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-25 16:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 公牛vs掘金
-http://live.20191209.xyz:5888/txsport/100002:20253955/301188/1383249700.m3u8?txtoken=830ce70fe3fe4d917cc3916172c9eec40212f86a1509be956289e89494ab658d67d4846fd2da1e116e08be9c133ecf134c02d058bee4acf1b8cbc86324295e9b6705f489d04010b99b45dc99fa518dd02e3612247823e660c6fe370cab865388cb1eec13e42c0a22280822d4d1fdf43ac7906757940c0e0c6421f1b4f2
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛
-http://live.20191209.xyz:5888/txsport/100002:20253946/301069/1767959900.m3u8?txtoken=3ad89e494e6fa5dd533e54003332c41b847e51eff14c0536a16ad5909fcf00aaa71b5e42f87e0df98819474c39285e4854cd7addcc0fb9741a0db6ff17a163be93cfc109d7e70a3110760830c2e0725a46796eb3da3b57811eb32a46cb7282e6de2661a1ef4942bea96966e031f8adc25f4810daa121d13da07d929c45
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛_2号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253946/301069/1383171400.m3u8?txtoken=614d0e696bdf9c1b415c2fc262a159cd6231489df283237a253bc9f95bd05c958dd3402e36d94d31454f65843cf3edbeb9cebb1bf1e0f22126cfc150eeb4441cf4aded6cb8408a7fcceee275671f6834b7101176ff73bed5d1bc61f8a60f01d38f1a9e3816f49eceaae0d3f4d966ed9b385df764d7e2a77bbfb1045b5f
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛_3号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253946/301069/1767960000.m3u8?txtoken=cfd11061410efb4ad28e58865a9da21c8d29a3bcd33698d9aff9d5174c958770f7e112698787bdc26fa3bf547223068d0c06df4d8804e2186f8f111e4e192a139d678162457a176d77b094a61348e6d857f3c15f84d1892920ca78a5d2c8515283b43d98bcd566c797c7ad0fd225dfb930f5eb829a0bcdd2f1f98f4c46
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛_4号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253946/301069/1383171900.m3u8?txtoken=54aced482eae2d2e4b8d68b8f7b0a3e9fb6b329895d44aed1fa4ca8d2b661b810212029ef03ba376492dfa1ffa3da8aaa993bfc5fcd55554762f878e1f1549b677da7e3e879ad6b6c05a98cbd233759f159e59ed5f698fb63a6886a7a156d90d207bcf0892d12213eaae62bae96fe0c69f9af4474ad046629fb2112609
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛_5号赛台
-http://live.20191209.xyz:5888/txsport/100002:20253946/301069/1767960100.m3u8?txtoken=52931968a752ec3fd1e4321c87f043735a9a84e57a137ab9b36993c79341973c28bdb5f69c903a77065735403d41c2e9196d07f68100ea9c39bb98b7cbc0dfff96a157652b7b8ebf9469c1420d2208a1a6eed07a209d85c8ede15434d09ecbec8f296a60d3bfbb77b0ae2f9dbd463bbe08680ef934e2522a08a90d1635
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-25 18:00:00_NBA经典赛_《今日NBA》3月25日NBA集锦精彩回顾
-http://live.20191209.xyz:5888/txsport/100002:20253956/301189/1383249800.m3u8?txtoken=bcbf890659514da6f76165a8a5f36a9fa52a1a7db82342850f0d7e906aa7f8ca6c2ba2d9abf06136cb71064b46b52090f143595f4aba5e98d1c3f5c10b7eb1f645feee6651e9860526f810d7f16e3c96fc6680d1614e5f4d19fbd21e85000deaf35ee96f630e585cf4effae4849b76202854dfa74b07c7978aeb3d4870
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-25 20:00:00_NBA经典赛_有球必应精彩回顾：现今NBA联盟谁是各项技能之王？
-http://live.20191209.xyz:5888/txsport/100002:20253957/301190/1383249900.m3u8?txtoken=7f749bae43fb26d729724ab79b087369566dc42a6d05748752740000862bb06e9e522d5aca27360b0c4903dd068f824328830f8c9203cbb565d182e6058b631fe792c995d9f6709ebcb06a23882695116df5eff5a20c1b98a8e7bab7a4c1a38b587ee8b6254c6dd7107ddf7dfba4071ee3706a9234aa6d3ca32d94903e
-
-
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛
-http://tv.20191209.xyz:37377/txsport/100002:20253944/301066/1383170700.m3u8?txtoken=6119c6b9fb4ecde7c15fa1932db373c2630474ceb3436c32f63179ac69b295279fc29fea6f06129e88ef012034f9ba79caeeec85199cc7bc22709b69870cede77a1f83fd895982b95eaee22942955ab13fca4b399820b7edb4fc88fcb76c3e5b14d06a9e5277fd85236f8897c226ac1fa6d49032d2eb373c084c9966ea
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛_2号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253944/301066/1767959300.m3u8?txtoken=a75485a11fb7b51e761923b0ec01a823c4873a1f6cab9c5c30ff6d68a12d154f30326042f7cfef2a25f1d1d698c5a763251e7a6ea6c82ba198a38026475b40263f510606875a4943bcfbd75c70119f75a0f552adf59eb2f2c0ed469cb1ec60c40c1a92df59507fdc208b89ca656f39056809f723645b5fbfe365a5eab0
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛_3号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253944/301066/1767959400.m3u8?txtoken=0f69a3511d61ae49ab46553f99edf3535c437760b6294c104255abf982757cdcbff8733646094b1483f15d4e1d6965ee6c8ed4d596ebdddc3d614f92098ab1cb9869367b8cb79b3a559888bc5d79fb3deaef813eb1d21864bb10a7d96a174841228ea1e2bc8da04a1d170121f7c68ccc332141ab37423ab59ded0600e5
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛_4号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253944/301066/1383170800.m3u8?txtoken=0a9850a80ec4b7712bc5391f44ac5983f1b43253899efa3edfe8a1a9609fff3f95a30c31f81aec8fdd50abbdb9993eeb24ee36b972dd133cfe1f5ffa3b9a8a329c6f487079efb1db4076f5057f380a0856c20d8b4b84584d7f76165b1c95c5c8861140f0651b340705c47f3644bc6bddb64f03f7f43ca6eb638829b705
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-24 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/32决赛及单打1/64决赛_5号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253944/301066/1383171100.m3u8?txtoken=a0ad77bcc788447d35fedab8c85c30b768e6a78547213676dfb132e3de614a56e0faebdc20616e105cdeb988c7e35a6d45b17bd2c95d30e1c9b6ba4622881f29d60ed8856ee2abaf845c0855fca49dd9e673e50d6f957726fe8826460b8a04580c06900bea0a0ea5df16dca6f4cc51e67b794fa6fa5d23365b4650d1c6
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="篮球直播节目", 2025-03-24 19:00:00_篮球直播节目_有球必应：现今NBA联盟，各项技能之王分别是谁？
-http://tv.20191209.xyz:37377/txsport/100002:20253634/300024/1382857200.m3u8?txtoken=f2fc9b494a6bc85a31584842d34b501abeffec47c5434d9630e6076c518b45ad536cee237dc61e98dda9818bb80c1978989387f35186157e8d95e4eec6d7c49c92063774fb8c0f6f3568ea744419fcf19222ff307d515ab1e7df461710da4cfba39d2f17829c05768adde300328691e1112cf37ef9582e56e19794dd41
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA1000迈阿密站", 2025-03-24 23:00:00_WTA1000迈阿密站_WTA1000迈阿密站第4轮：斯瓦泰克、高芙、萨巴伦卡冲击8强_陈孝康 单文强
-http://tv.20191209.xyz:37377/txsport/100002:20253835/300649/1767846700.m3u8?txtoken=ecbf65379e17cb09dfdb604b92e160918f11b38bf95fe4e0e972ebf8ab37a8c14a3461e3fca5d6803157273b1f0245d3ba2875f5bfc2cbfc10516fdf76c4cd143ec5236823f71104db7710211fb338ed1f10a73336715a0a147de9acbb2658c9b94eafd4cf146eaabd5db26a6cb5dba06004b93b374c8250098e19fdca
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="WTA1000迈阿密站", 2025-03-24 23:00:00_WTA1000迈阿密站_WTA1000迈阿密站第4轮：斯瓦泰克、高芙、萨巴伦卡冲击8强_赛场原声
-http://tv.20191209.xyz:37377/txsport/100002:20253835/300649/1383046500.m3u8?txtoken=dc3747f7717b031b0ef36c4a807c94784a0511395fab6d0bed71551fced42dd24b154b601153a540a5606f91e70cd00e9e5370e1d129d3e1802003d115c12c6d9cdcaefaff6dc315e4b4448fdccde79697f517abf0300fa22b68577fc59d178d714dca4bde7e4963937a685718faaef2f89114f8498dcede5fb80ec61d
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100308.png" group-title="WTA1000迈阿密站1/8决赛", 2025-03-25 01:10:00_WTA1000迈阿密站1/8决赛_克鲁格 vs 郑钦文_刘钟鸣 胡力涛
-http://tv.20191209.xyz:37377/txsport/100308:3222/301193/1383275400.m3u8?txtoken=a31e0932efd43004e057dd3a3899882de7fc2dca1b8deaf1f62ad8f21b823562383af148ae021dad1c6d688eeea65f44bfc99ab746219ca5930466d3c0c7fa3930747e17b5dd42c96f2717d57b3b35f86be7ece18c1d3d61c906703c4e0dde8b5309a1a954d94e6575355b61a45068fcf05f3be1566c83f5cc956abab9
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100308.png" group-title="WTA1000迈阿密站1/8决赛", 2025-03-25 01:10:00_WTA1000迈阿密站1/8决赛_克鲁格 vs 郑钦文_赛场原声
-http://tv.20191209.xyz:37377/txsport/100308:3222/301193/1383275500.m3u8?txtoken=b0a0ba48e8564774fed3d5e1f7b449207079c2fc9cee9c1b89c0845babe3aea70525a549c3d2f97049504a84ea056c0d3023a7ca75a13fa1eba41bce04acfb55681e48347339a744cb6412433325aee1e38b4c988d010f6344abb67f29b62063e51abd231b4f8d76623f48e94803b3a90337c9e418f5f4bd2f3aa6b64c
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_步行者 vs 森林狼_王子星 沈知渝 辰辰
-http://tv.20191209.xyz:37377/txsport/100000:10022401037/300936/1383257200.m3u8?txtoken=76121131eab5655ddbcf8fe4500bf048f4e7ef156fcaf3a18ca59223bd1ad4df8a4e8bcb9f3335cd74df08b32c73ca208d234d323fd1b4d26e01dfbe174f50a7d40adce0f9b8bcfa8441670125851e0862c7a83d24be08bbd2b3b04b0a081fc67a339290730ac28606c31b4d0825d8e5d099320bf11e63b7c00d6005f5
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_步行者 vs 森林狼_英文原声
-http://tv.20191209.xyz:37377/txsport/100000:10022401037/300936/1383257300.m3u8?txtoken=ce6211b01a592ae28d648a78db5e312f2e87aecf931ca1cdd027f6ab6d46e8d7985a2a4442ee56511c2fec0bda44bc38370be3c8436f71436ada7f959803b7bcd7c7e10db2b8b11bf6480571eab505629f852fdb30b1e818809adebbbedd4eda9e01073168bd2da647fc514a1d8f0fa6d192c585b46a0baf8c5341515c
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_魔术 vs 湖人_王猛 苏群 美娜
-http://tv.20191209.xyz:37377/txsport/100000:10022401038/300937/1767927900.m3u8?txtoken=6a050970c55dd2d451922a9774aa91d7e54288173a6a59bdf6f7d62ee024846c88d991f6dbb40aed14b5291ec92d95b3c345229c64ea4d681153121be2be102f5df56f73c4f2a209ae46e40f01f8bd641f560d92f69b3e6b51a7c6c1a6b65687a355a365ae86758476e2408b59cf95cec3a4737eb9f8e3eead11e07941
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_魔术 vs 湖人_球星视角
-http://tv.20191209.xyz:37377/txsport/100000:10022401038/300937/1767928000.m3u8?txtoken=3b152c69d6d62696edd6f6bc25106464bfedd71120d7791c9bb77ce0582d74e7f1602b26c1f472482ec7a38dca07a89c394af7eded83beb3cae3e17fbcdeb4917f98e9d15aeb1eaaf7df2489ea4a718af09a7570405c23a421f30ee1735ac0232ac89fe2c74543c7cf3289b7450a838daabfbadf2826a67662c8216d0a
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_魔术 vs 湖人_二路-皓篮球
-http://tv.20191209.xyz:37377/txsport/100000:10022401038/300937/1767973100.m3u8?txtoken=9810515737048bd8d5b50c4e72a17ea2e7c44244a1b1420d6dfa2ce31333e984352feca712c93a2b335c3f6194e9d7539f26787b9ad31d2cbe5c6a660ebf9d5fa40075ec4b3a5c97539c0b67d6f4560e11e84ed7f526f6bb8b96ca7bb098ce3fdf510c77656770129af24442a2b21993569da84a6e155b811f71c124f9
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_魔术 vs 湖人_英文原声
-http://tv.20191209.xyz:37377/txsport/100000:10022401038/300937/1383140200.m3u8?txtoken=4ac398c5dff81e6fa9110575f87414e40b1317a6455d547a4df5fe892aaee80ef82a81f2f1f283bdbc225c1c1707b33dfc5c56e71d77bd3abca486f39c1d7921eeaadde087dc491213c39b5569cde9628e249de055b6139dbdff61f1e2595ce782403acd56d28b4c55b17aed24b741e64d5f67ddfe6a6b82695d89b781
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_奇才 vs 猛龙_郑诚
-http://tv.20191209.xyz:37377/txsport/100000:10022401039/300938/1383139600.m3u8?txtoken=f72ca20c2de4006de01538b9f4fecc0a637d335e19c22d9c0cef39b3942d787dde24fa274163a749bf4c5b8e5e322a8b0b82ddc94d3ff9394b3261a82ef614529fd1515e5b10bf1fdc9269a3289dae7864cede2fb222970af762cfc42d06c10a6deae7de9519183d03fe0d8ab4711f7c82e184c414c6b9aada93db6c7b
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:00:00_NBA常规赛_奇才 vs 猛龙_英文原声
-http://tv.20191209.xyz:37377/txsport/100000:10022401039/300938/1383139700.m3u8?txtoken=8260819b42af8ccbd43d33f170b108046a4e094cc0b8900c8cbc17f734736d3d70c610ca64e719b0909d4f7eeeb5db3aa79db748495546a74fd865d9f9e94f7f52b4eaae4c6ba590634d65954cb22941035bd6d2a1dc47eb651de5a70016dd37713fbcb123a7911af7d688af059790b631fe7fed769dc9baf1a9599f05
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:30:00_NBA常规赛_篮网 vs 独行侠_李雪儿
-http://tv.20191209.xyz:37377/txsport/100000:10022401040/300939/1768042500.m3u8?txtoken=2cdd631de01f8c8a89d44a4dbbf49a5130f6fca32ca0e1b630966543d594e40d29c59582e2fca714d0eb2575affd4b957b0314e4befba3d526020768b8df9a61c59aa08852674579944f9dd3f6cd082e33c564eced221025c79c46b9fb970c966ba5fa57be39930d5e6d97bd0db4a175fc06a511df90ae964d58590cf7
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 07:30:00_NBA常规赛_篮网 vs 独行侠_英文原声
-http://tv.20191209.xyz:37377/txsport/100000:10022401040/300939/1768042600.m3u8?txtoken=a80a85e4181dfa8523dab268ad0899cdd957da2cd6b818477f794f5cb276dd82e681a24f9ca846d7f40331b8de2a42b8a061470b90a33445ffcba8c83291b491b6e23c6d201d5fb843eb16ee725f25a2599e557a991290ef4ed81a21d2dac98678f9768e2a0198bda1e75cfba2d5a89c82a8ac350c02f73119a3f1713c
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 08:00:00_NBA常规赛_鹈鹕 vs 76人_金浩霆
-http://tv.20191209.xyz:37377/txsport/100000:10022401041/300940/1767928200.m3u8?txtoken=ca73c8de0025964a4fafc31151a21ce53c986a6384b1301a4b4a6dcc488c03a836ff0001c60f142473da7cfaf0c52c819c73ad66cf8b022406af600568b032fdd12cac20a3296e387aabb6813ff8c9e79ef3e06b418f2e7e8ca2057cd99a30c3b849ea9ab67ad6de74890ed3d5d35def26c6a17a6b35e818174e1e48e4
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 08:00:00_NBA常规赛_鹈鹕 vs 76人_英文原声
-http://tv.20191209.xyz:37377/txsport/100000:10022401041/300940/1767928300.m3u8?txtoken=84ed1da166d478bd08a5381d7452de68066bb7e0493fe02784b1c9c2aa4fd43e6cd333a89b21c258059cb5d4b731ca588aebd8505a9740b892ef3a65db18d1fd09668fb40aecdc4b39b58f3d19cb1391ceecde72f2172c95a1e58fd55abc4520eee7ac09537dbb949da0a9315f42e74c3f49d6b1c62085c85b76f43eb0
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 09:00:00_NBA常规赛_掘金 vs 公牛_石楷文
-http://tv.20191209.xyz:37377/txsport/100000:10022401042/300941/1767928400.m3u8?txtoken=eb7b2c65e4e7c5c0b813e1a596df63508aad4d800a4ac67b9ec1c33843d4c93e12968a1952c4604d7e0c1f0db9595b6615af238a8b8b13b57619377cb60e6ee120584bb00e3f61562df7d597e34cb935ff39c17547c7f5520e28ec4868bb915781473eee3d3caf207d87e13320b7eb53283a1a3461199612253204980e
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 09:00:00_NBA常规赛_掘金 vs 公牛_英文原声
-http://tv.20191209.xyz:37377/txsport/100000:10022401042/300941/1767928500.m3u8?txtoken=ea20049e0588c941b6be45a586009ef74f7e1cac078f34084c0fb15e73dfa08267ecc425a4fd399b70fa49ef48f82780c2d6b3b74d1e7ad202ddf464d48266b8bf0abb56a398f09362c70fc28835cfe2fda8da63a2dfa06f6e6b7f9a108e7a63a06502c646a2b2bffbe5a678ea117c1644dd1e0cfe73cb5b357f028835
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="篮球直播节目", 2025-03-25 09:30:00_篮球直播节目_《早安 NBA》第146期：赛程惨烈，太阳能稳住第十么？_彭磊 吴谦 泱泱
-http://tv.20191209.xyz:37377/txsport/100002:20253890/300851/1767921000.m3u8?txtoken=065a9aff954647a6f678fd2136fb4982d675cd804e0267f06dc69db0e682aa93453ff8acafb27ae7dfb1bfbd063d33b43575e58330f1a4c5ccddb4da6e268f11ea1e2dc633a73b347905ba1298fb9d1a579cde8a41a63f737b844d9675a825fd04775dadd3e5629a3e93c285e46a9a33d1de88ad9cfb5eb7f9de314a07
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="发布会", 2025-03-25 09:30:00_发布会_湖人vs魔术 赛后新闻发布会
-http://tv.20191209.xyz:37377/txsport/100002:20253921/300993/1383148900.m3u8?txtoken=77c6d1d01dab7bd2e0895dc105bf61086b9877814f9ddfd8313d6e3f1ba1247c68f1ff0e9f377dfc88e2c363794eb8476996643771dbf90f66286f0ae33a0cf871f697421983845fdb47735c6432e3b53ee2d34d627c7b2b097ff8db63bcc0b9ef224456395650643ec2c03b02f0295d7095420dd789f91eebbb9138d0
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛
-http://tv.20191209.xyz:37377/txsport/100002:20253945/301068/1767959600.m3u8?txtoken=33c16728e34d7e1da15518a8767c9711872a6de934a3db399b1ce9f566476026e942f2b1910e089e62a54a1dec18c2259956a80575fb29de6aade8892894c903a8e044a6dad63fadb12f9f5651f07cec77518fb09baeab5ab916251e4619ed0a976b4c16da85540c1101604099a852faf87807c617d1d7018ab90902a8
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛_3号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253945/301068/1767959700.m3u8?txtoken=668cb869a171107267a86b42fbba478038042215753aa5f8308895ee38964fd5eb14799276c9dc4002ad15f99384f732dfd97008032749dc542494dba6f1fdf65b4d9eeed61ad4ed2a8fd36b9956b8bcfdc558e1fdab567eeec995e4b0e63774cd0f53a0009a43dcd2c3a26daec236643d681eb946864e3f2caa88c556
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛_4号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253945/301068/1767959800.m3u8?txtoken=06ccd39a2e2d8b024ce9dde682756c58572eb476694be88d5dea5cb8d28ee8abf7586c2ee30a3e64ffd296e30090fe039dc866381e473f32a08daa821fb276cf400305d887b869863e2d251ed79d3c6eae1f9a3793015f18f5bdfb6fd52f3d0eab825f0ce5070eac6dbad01ed33dd803e0abaf766ffb9033d93efe39f2
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛_5号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253945/301068/1383171300.m3u8?txtoken=079cd902f70c2adde449a36b4c2fd08f790e843e2e406a7f30273136ec7ad556c6e88a13efca26e85a5367a80c838b810058abbd42da3c0e28feed635d2d5d2d1aeb09896ea1381faa67eca3efa36c2dbb1d74442cbfeb3cb6a3e7d48edffd674fa4c2c654c8828853c2d7c7739c3a095ff61e6d6d5c11f2bfb4e7cb0f
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 10:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双1/16决赛及单打1/32决赛_2号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253945/301068/1383171200.m3u8?txtoken=fb8d2a24b37f871502db6a2f49282878841234757eb15c40ab88b965561619adfcc76f428a8a30e06216b8625145e6d1b18f8a092a648e378b03c21d150a4fab3b45dc7205f907b7218e7b5771617d996e36b51c0ab005b8688d14dac19db1a9a71db1aa890ae14981b7bf3c26e6f4ece5bfa25c549ab6883a9aa73796
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_太阳 vs 雄鹿_彭磊 吴谦 泱泱
-http://tv.20191209.xyz:37377/txsport/100000:10022401043/300942/1767928600.m3u8?txtoken=23b312c2d97229a924d3b1f9c8aa6418f8965c38d5496eca83f45901eea22cd48bbe77d1a2a62520e8547328ef172691b9e5374a713134a0b3b94e36e50ea15f4c8e42fad0d17b0537398327b5ccda59ce7b5515e053ca8f31c5c5a019219dc8c9e38079fd11cea3ea548d39cbe2d232477a5d2f405e1d9d763eed8bef
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_太阳 vs 雄鹿_球星视角
-http://tv.20191209.xyz:37377/txsport/100000:10022401043/300942/1383140400.m3u8?txtoken=0b817c39ee65a567de12d6705d750bb5953b115ff085573b16401c2e0745aaa318ac6528d8992da90ae7cd51d5a79148c21320206efe9a223c4702d8eb8d5474a1647ab8a1a6b23be584360f7142f9c011f641d90d3b79bc915ab098b0ee892c865c6f22431dde36f8ca56520387b925c314784a57893b43590855e527
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_太阳 vs 雄鹿_英文原声
-http://tv.20191209.xyz:37377/txsport/100000:10022401043/300942/1767928700.m3u8?txtoken=b4e09d5975d9ad05fc8c997b4007f748d881b1de21aa5f493f2f89888da601a7298ccdf7b6cda7d83e8f6bf95de83745719645fe1a6c35151902478a912d2e33480173d7ded9cbd13a94dd02747566c0d8b515f7e8fba06b12969f4ed623a976c9f046a025d41129f7c196da1ebd0b1e43932db98209f8dc608da179b7
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_国王 vs 凯尔特人_王兆丰
-http://tv.20191209.xyz:37377/txsport/100000:10022401044/300943/1767928800.m3u8?txtoken=f1044f2dc0ba969655c9b4f993fac8a21227bb7a10762400e2da2c69463a1455cbcf1fa2cfe190d5b25ec837cc4a7e88aa5b9b52e84d3347fd98f1bfad3e6a372a616796cc93cadcae4ee36b1f84e00fbe8b403160c5c13e3708e0727bb7d7c5ec738e2301f9813250e8fe53025ad17213b10e332802ea3f8e4e703c06
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛", 2025-03-25 10:00:00_NBA常规赛_国王 vs 凯尔特人_英文原声
-http://tv.20191209.xyz:37377/txsport/100000:10022401044/300943/1383140500.m3u8?txtoken=5105bc6ff1c3c4a9b18aeeb80ff8d64794d54c99140df4f8b033e22edf04ca3a2c490676dadfbcc8189baa16bf4cb3f316b6da21fc6bf67f7b1866d6c2ed65b40b435150759a8be9f846d792c8e57099a326fcbb4a512c809b9519bdd0a40dc1bb5ab24dcc0436571e687058253c83213df9f00df4b61f7622f069bf57
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="发布会", 2025-03-25 12:30:00_发布会_雄鹿vs太阳 赛后新闻发布会
-http://tv.20191209.xyz:37377/txsport/100002:20253922/300994/1383149000.m3u8?txtoken=0bcaec741c9971a0b27990d95508351894927ecdc22a32f54b43f3952715f8ba5ccc7b775514ac8d6939e88e27d5452917cb18e01ef73da695ae588831347cb4b39827b934a9078a899f99fdb97ab0f63ad89f493f664627dbc94b38314180df6d7759376f8b366beb4d389a54a6dff9534199e0f71ae6f26c2c0f7706
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-25 14:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 湖人vs魔术
-http://tv.20191209.xyz:37377/txsport/100002:20253954/301186/1768033400.m3u8?txtoken=cd3946cc058b2286a5957cc5a445e12b634bce3688a34f9741430f88fb44e758755531c531c5deadf71875bb3f5968a0a21b4e2d3bec7545764ea6a862b72950e36e7e6be35c292e3a883b84e60386f3f8241d940b5385942030b8178445f5d84f100dea72a947f205e26077c8d47c6fd88ab7efbd0ba40e93a759ca1b
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-25 16:00:00_NBA经典赛_24-25赛季常规赛精彩回顾 公牛vs掘金
-http://tv.20191209.xyz:37377/txsport/100002:20253955/301188/1383249700.m3u8?txtoken=cfd98784de342497fc40d957b0e89786aa5663289bea7a2545a9a3c0adedf7614ff6804201af3062f31cd9c86c9574a2e5759185f7961094ce4afdc22a185799f63fe41af2515882c36ac20a45f90ca9222f5bfe043696e945f38a479bf208bcf28e24b199c074a53751678beb7f489f8c489c7ca96a675bd68a84aa35
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛
-http://tv.20191209.xyz:37377/txsport/100002:20253946/301069/1767959900.m3u8?txtoken=fc22a449ef9ff08440a10a2aa94fd7536206e3092cbb4f53a3ba82409c12b7e01a05e8b96fbc6e79eaaaf66d52c332314bf10a613a8e69c76e99024889f4158bc37eac6fbe0d8fa64024b87a7ce0a17d153dbb257b93c5cbd0b291689e796ec2f1dc91ad2a538f3f2f9899470b5233c6753292e763738df9e506e8719e
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛_2号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253946/301069/1383171400.m3u8?txtoken=7b74e1279fbb3502ba2d4eb189102819d57189e99b25acbcb005178a243bd9085afb1bcf24b51c3d98c3badae49370b4c17f9dd7f8efaf362253da5c4943264db27de3f697fd0d17dd4785accaf1ed33d0c3b527a89403a75710a23bea23d5b1b40c5970e8fdc9cf1b39a18d674d8bb6ef8c1f40aec92bc7ebd17179cc
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛_3号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253946/301069/1767960000.m3u8?txtoken=eb52598f9b57795c7892f650589bfa4c737e1eaeaf8514fef79615f25a257c2f8ba0f81e3be31d23ac3ef06a277eb03f0b949d78a43b1579cf68d873b3921d130cbf172e976f17436a17fd228983d62643a180b8ba82f7294c1b3a467d19cfee828d4366e8b6b0adbb1fd10ea27af21386c71e485a6b8603d476ccf473
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛_4号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253946/301069/1383171900.m3u8?txtoken=e47d77e5015f4dbdc77306dbfc43de96dcc5174a39e037f2cb69db252b1f886009234a3de1c5a9ad844ba7f119430256b1d5041c7201137a0ab3dac339f002878fb5d7b660f9977d218f4abc9d2b7d413444dbb7ce95034aad08ef7e6e1c6c4d9f64d6a7ae4012a5996ee6d23ba96c83af804cd37831d9eac6e0832eab
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/defaultTeamLogoDark.png" group-title="乒乓球", 2025-03-25 18:00:00_乒乓球_第十五届全国运动会乒乓球资格赛混双、单打1/16决赛_5号赛台
-http://tv.20191209.xyz:37377/txsport/100002:20253946/301069/1767960100.m3u8?txtoken=59ab4cb18cec638591b34570abbba965a6431851fc6082311060d7bbba7ce454b0a6e8ecf2093c019e720c681f31cd2bb668d19c2d4cbf8862a5efc5f9ccf77b55515a65157eb914139e5690a2ba7865c765c6adc3a04d314ce3cba9e339b22ef65204a36933550cb5bdf8b4425625f3666822420ff268049a01bb2155
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-25 18:00:00_NBA经典赛_《今日NBA》3月25日NBA集锦精彩回顾
-http://tv.20191209.xyz:37377/txsport/100002:20253956/301189/1383249800.m3u8?txtoken=82b3342ee51d47ccae69e8aeaa3b5d7079173420bbf5ce89e203b3df593f5818c9be74eabc3650a85222b62bf7c8f7f76ff0a7821e59379d8bd729635d35be9d65dd3e2489dbaa6b64266cc3ccc2caa40222bbd27bb98a9bf0187fd9c2ed366000b49c97b113452954056c8e0da8cbb57a081c967055b01052125c569f
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/usr/15/d38c0c38814147359fc038745e171c21.png" group-title="NBA经典赛", 2025-03-25 20:00:00_NBA经典赛_有球必应精彩回顾：现今NBA联盟谁是各项技能之王？
-http://tv.20191209.xyz:37377/txsport/100002:20253957/301190/1383249900.m3u8?txtoken=9f20243797578525a2ce28c523825766e8dd3bec0728194ff714ca91c446f4b745cd3b1e7846674ac1055fcbd1055b31b918f72f9861ee5c259ca89a795e04e4343780020683f494a61fc7d3ef6c000d7f0cde08e3ef59c022e9c32eaa51e6017f1524f77bab5752f4c3680c77ce73a1d0464de61e17b051c9d981f1ba
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🐉移动网专用💥",CCTV1
@@ -1613,9 +1419,6 @@ http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856739
 http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856740
 
 
-
-#EXTINF:-1,tvg-id="咪咕视频-1" tvg-name="咪咕视频-1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频1.png" group-title="🐉咪咕体育①🏅",咪咕视频-1
-http://nhljz.net:35455/itv/1000000001000023315.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-id="咪咕视频-2" tvg-name="咪咕视频-2" tvg-logo="https://live.fanmingming.com/tv/咪咕视频2.png" group-title="🐉咪咕体育①🏅",咪咕视频-2
 http://nhljz.net:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-id="咪咕视频-3" tvg-name="咪咕视频-3" tvg-logo="https://live.fanmingming.com/tv/咪咕视频3.png" group-title="🐉咪咕体育①🏅",咪咕视频-3
@@ -1776,86 +1579,77 @@ https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉香港频道⑴",👉上下键换台就行👈
 https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
-#EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" group-title="🐉香港频道⑴",鳳凰中文
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" group-title="🐉香港频道⑴",鳳凰資訊
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="🐉香港频道⑴",鳳凰香港
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVBPLUS.png" group-title="🐉香港频道⑴",TVB Plus
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1,tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.112114.xyz/logo/翡翠剧集台(北美).png" group-title="🐉香港频道⑴",翡翠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🐉香港频道⑴",翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="翡翠综合台(北美)" tvg-name="翡翠综合台(北美)" tvg-logo="https://epg.112114.xyz/logo/翡翠综合台(北美).png" group-title="🐉香港频道⑴",翡翠综合台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🐉香港频道⑴",翡翠台 4K
+http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🐉香港频道⑴",翡翠台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" group-title="🐉香港频道⑴",鳳凰中文
+http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" group-title="🐉香港频道⑴",鳳凰資訊
+http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" group-title="🐉香港频道⑴",鳳凰香港
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🐉香港频道⑴",黃金翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-#EXTINF:-1,tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.112114.xyz/logo/MYTVSUPER18台.png" group-title="🐉香港频道⑴",myTV SUPER 18台
-http://aktv_stream1.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="🐉香港频道⑴",无线新闻台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="千禧經典台(HK)" tvg-name="千禧經典台(HK)" tvg-logo="https://epg.112114.xyz/logo/千禧經典台(HK).png" group-title="🐉香港频道⑴",千禧經典台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-#EXTINF:-1,tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.112114.xyz/logo/娛樂新聞台(HK).png" group-title="🐉香港频道⑴",娛樂新聞台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-#EXTINF:-1,tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.112114.xyz/logo/明珠剧集台(北美).png" group-title="🐉香港频道⑴",明珠剧集台(北美)
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="🐉香港频道⑴",明珠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png" group-title="🐉香港频道⑴",無線新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://epg.112114.xyz/logo/美亞電影台(HK).png" group-title="🐉香港频道⑴",美亞電影台(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="🐉香港频道⑴",AXN
-http://aktv_stream1.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-#EXTINF:-1,tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="🐉香港频道⑴",Love Nature HD
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1,tvg-id="Love_The_Planet" tvg-name="Love_The_Planet" tvg-logo="https://epg.112114.xyz/logo/LOVE_THE_PLANET.png" group-title="🐉香港频道⑴",Love_The_Planet
-http://aktv_stream1.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
-#EXTINF:-1,tvg-id="28 AI 智慧賽馬" tvg-name="28 AI 智慧賽馬" tvg-logo="https://epg.112114.xyz/logo/28AI智慧賽馬.png" group-title="🐉香港频道⑴",28 AI 智慧賽馬
-http://aktv_stream1.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
-#EXTINF:-1,tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://epg.112114.xyz/logo/CHANNEL5.png" group-title="🐉香港频道⑴",Channel 5 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://epg.112114.xyz/logo/CHANNEL8.png" group-title="🐉香港频道⑴",Channel 8 HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.112114.xyz/logo/CHANNELU.png" group-title="🐉香港频道⑴",Channel U HD
-http://aktv_stream1.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.112114.xyz/logo/POPC.png" group-title="🐉香港频道⑴",PopC
-http://aktv_stream1.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-#EXTINF:-1,tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.112114.xyz/logo/ROCKACTION.png" group-title="🐉香港频道⑴",ROCK Action
-http://aktv_stream1.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="🐉香港频道⑴",tvN
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="🐉香港频道⑴",Animax(HK)
-http://aktv_stream1.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="🐉香港频道⑴",DW
-http://aktv_stream1.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="🐉香港频道⑴",France 24
-http://aktv_stream1.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-#EXTINF:-1,tvg-id="KIX" tvg-name="KIX" tvg-logo="https://epg.112114.xyz/logo/KIX.png" group-title="🐉香港频道⑴",KIX
-http://aktv_stream1.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="🐉香港频道⑴",NHK World-Japan
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="🐉香港频道⑴",NHK東京総合
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1,tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.112114.xyz/logo/NICKJR..png" group-title="🐉香港频道⑴",Nick Jr
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="🐉香港频道⑴",Nickelodeon
-http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="🐉香港频道⑴",Thrill
-http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="🐉香港频道⑴",Xite_Hits
-http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="🐉香港频道⑴",ZooMoo
-http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1,tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.112114.xyz/logo/亞洲新聞台.png" group-title="🐉香港频道⑴",亞洲新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://epg.112114.xyz/logo/東方衛視國際頻道.png" group-title="🐉香港频道⑴",東方衛視國際頻道
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
 #EXTINF:-1,tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://epg.112114.xyz/logo/無線衛星新聞台.png" group-title="🐉香港频道⑴",無線衛星新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,tvg-id="千禧經典台(HK)" tvg-name="千禧經典台(HK)" tvg-logo="https://epg.112114.xyz/logo/千禧經典台(HK).png" group-title="🐉香港频道⑴",千禧經典台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,tvg-id="娛樂新聞台(HK)" tvg-name="娛樂新聞台(HK)" tvg-logo="https://epg.112114.xyz/logo/娛樂新聞台(HK).png" group-title="🐉香港频道⑴",娛樂新聞台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+#EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台.png" group-title="🐉香港频道⑴",寰宇新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+#EXTINF:-1,tvg-id="明珠剧集台(北美)" tvg-name="明珠剧集台(北美)" tvg-logo="https://epg.112114.xyz/logo/明珠剧集台(北美).png" group-title="🐉香港频道⑴",明珠剧集台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="🐉香港频道⑴",明珠台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://epg.112114.xyz/logo/無線新聞台.png" group-title="🐉香港频道⑴",無線新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="美亞電影台(HK)" tvg-name="美亞電影台(HK)" tvg-logo="https://epg.112114.xyz/logo/美亞電影台(HK).png" group-title="🐉香港频道⑴",美亞電影台(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="翡翠剧集台(北美)" tvg-name="翡翠剧集台(北美)" tvg-logo="https://epg.112114.xyz/logo/翡翠剧集台(北美).png" group-title="🐉香港频道⑴",翡翠剧集台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="🐉香港频道⑴",无线新闻台(北美)
+http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.112114.xyz/logo/MYTVSUPER18台.png" group-title="🐉香港频道⑴",myTV SUPER 18台
+http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.112114.xyz/logo/POPC.png" group-title="🐉香港频道⑴",PopC
+http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
+#EXTINF:-1,tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.112114.xyz/logo/ROCKACTION.png" group-title="🐉香港频道⑴",ROCK Action
+http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVBPLUS.png" group-title="🐉香港频道⑴",TVB Plus
+http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="🐉香港频道⑴",tvN
+http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="https://epg.112114.xyz/logo/ASTROFOOTBALL.png" group-title="🐉香港频道⑴",Astro Football
+http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1,tvg-id="Astro IQIYI" tvg-name="Astro IQIYI" tvg-logo="https://epg.112114.xyz/logo/ASTROIQIYI.png" group-title="🐉香港频道⑴",Astro IQIYI
+http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+#EXTINF:-1,tvg-id="Astro QJ" tvg-name="Astro QJ" tvg-logo="https://epg.112114.xyz/logo/ASTROQJ.png" group-title="🐉香港频道⑴",Astro QJ
+http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+#EXTINF:-1,tvg-id="Astro 欢喜台" tvg-name="Astro 欢喜台" tvg-logo="https://epg.112114.xyz/logo/ASTRO欢喜台.png" group-title="🐉香港频道⑴",Astro 欢喜台
+http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="🐉香港频道⑴",NTV NEWS 24
+http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="🐉香港频道⑴",viuTV
+http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://epg.112114.xyz/logo/TVBJADE.png" group-title="🐉香港频道⑴",TVB Jade
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB Xing He" tvg-name="TVB Xing He" tvg-logo="https://epg.112114.xyz/logo/TVBXINGHE.png" group-title="🐉香港频道⑴",TVB Xing He
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+#EXTINF:-1,tvg-id="Unifi Sport" tvg-name="Unifi Sport" tvg-logo="https://epg.112114.xyz/logo/UNIFISPORT.png" group-title="🐉香港频道⑴",Unifi Sport
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1,tvg-id="Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://epg.112114.xyz/logo/CHANNEL5.png" group-title="🐉香港频道⑴",Channel 5 HD
+http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1,tvg-id="Channel 8 HD" tvg-name="Channel 8 HD" tvg-logo="https://epg.112114.xyz/logo/CHANNEL8.png" group-title="🐉香港频道⑴",Channel 8 HD
+http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1,tvg-id="Channel U HD" tvg-name="Channel U HD" tvg-logo="https://epg.112114.xyz/logo/CHANNELU.png" group-title="🐉香港频道⑴",Channel U HD
+http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1,tvg-id="28 AI 智慧賽馬" tvg-name="28 AI 智慧賽馬" tvg-logo="https://epg.112114.xyz/logo/28AI智慧賽馬.png" group-title="🐉香港频道⑴",28 AI 智慧賽馬
+http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
+
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="🐉香港频道⑵",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -2030,9 +1824,6 @@ https://eventcdn02-nowe.akamaized.net/hls/CH642/index.m3u8
 https://eventcdn02-nowe.akamaized.net/hls/CH638/index.m3u8
 #EXTINF:-1,tvg-id="beIN SPORTS 2" tvg-name="beIN SPORTS 2" tvg-logo="https://epg.112114.xyz/logo/BEINSPORTS2.png" group-title="🐉香港频道⑵",beIN SPORTS 2
 https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
-
-
-
 #EXTINF:-1,tvg-id="👉以下频道需要魔法👈" tvg-name="👉以下频道需要魔法👈" tvg-logo="https://epg.112114.xyz/logo/👉以下频道需要魔法👈.png" group-title="🐉香港频道⑵",👉以下频道需要魔法👈
 https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1,tvg-id="Now HK Now Sports 4K" tvg-name="Now HK Now Sports 4K" tvg-logo="https://epg.112114.xyz/logo/NOWHKNOWSPORTS4K.png" group-title="🐉香港频道⑵",Now HK Now Sports 4K
@@ -2051,8 +1842,11 @@ http://doubleclicktv.live/70376812/52663544/253019
 http://doubleclicktv.live/70376812/52663544/253018
 
 
+
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道①",👉请使用湾湾节点观看👈
 https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
+#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="🐉湾湾频道①",中天新聞
+https://zt.dracwoundshop.eu.org/live/stream.m3u8
 #EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.112114.xyz/logo/龙华电影.png" group-title="🐉湾湾频道①",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="🐉湾湾频道①",龙华经典
@@ -2068,574 +1862,90 @@ https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="🐉湾湾频道①",龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="🐉湾湾频道①",中天新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-#EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台.png" group-title="🐉湾湾频道①",寰宇新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台.png" group-title="🐉湾湾频道①",寰宇新聞台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="🐉湾湾频道①",東森新聞
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="🐉湾湾频道①",AMC電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="🐉湾湾频道①",TVBS精采台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1,tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://epg.112114.xyz/logo/三立綜合台.png" group-title="🐉湾湾频道①",三立綜合台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.112114.xyz/logo/亞洲新聞台.png" group-title="🐉湾湾频道①",亞洲新聞台
+http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://epg.112114.xyz/logo/ELTV.png" group-title="🐉湾湾频道①",ELTV生活英語台
+http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+#EXTINF:-1,tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立新聞INEWS.png" group-title="🐉湾湾频道①",三立新聞iNEWS
+http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 #EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="🐉湾湾频道①",中視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="🐉湾湾频道①",中視新聞
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+#EXTINF:-1,tvg-id="倪珍英語新聞" tvg-name="倪珍英語新聞" tvg-logo="https://epg.112114.xyz/logo/倪珍英語新聞.png" group-title="🐉湾湾频道①",倪珍英語新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="🐉湾湾频道①",台視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="🐉湾湾频道①",台視新聞
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://epg.112114.xyz/logo/愛爾達娛樂台.png" group-title="🐉湾湾频道①",愛爾達娛樂台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1,tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://epg.112114.xyz/logo/東森新聞台.png" group-title="🐉湾湾频道①",東森新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
-#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="🐉湾湾频道①",民視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="🐉湾湾频道①",民視台灣台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" group-title="🐉湾湾频道①",民視新聞台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1,tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" group-title="🐉湾湾频道①",民視第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://epg.112114.xyz/logo/民視綜藝台.png" group-title="🐉湾湾频道①",民視綜藝台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 #EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" group-title="🐉湾湾频道①",華視
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 #EXTINF:-1,tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://epg.112114.xyz/logo/龍華偶像台.png" group-title="🐉湾湾频道①",龍華偶像台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
 #EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://epg.112114.xyz/logo/龍華日韓台.png" group-title="🐉湾湾频道①",龍華日韓台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
+#EXTINF:-1,tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://epg.112114.xyz/logo/龍華經典台.png" group-title="🐉湾湾频道①",龍華經典台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
 #EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://epg.112114.xyz/logo/龍華電影台.png" group-title="🐉湾湾频道①",龍華電影台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="🐉湾湾频道①",中天新聞
-https://zt.dracwoundshop.eu.org/live/stream.m3u8
-#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="🐉湾湾频道①",鏡新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv075
-#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="🐉湾湾频道①",寰宇新聞
-http://tv543.cc/litv.php?id=litv-longturn14
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="🐉湾湾频道①",東森新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv152
-#EXTINF:-1,tvg-id="民視新聞 " tvg-name="民視新聞 " tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="🐉湾湾频道①",民視新聞 
-http://tv543.cc/litv.php?id=litv-ftv13
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道①",TVBS新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv072
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道①",TVBS
-http://tv543.cc/litv.php?id=4gtv-4gtv073
-#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="🐉湾湾频道①",東森財經
-http://tv543.cc/litv.php?id=4gtv-4gtv153
-#EXTINF:-1,tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" group-title="🐉湾湾频道①",非凡新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv010
-#EXTINF:-1,tvg-id="寰宇財經" tvg-name="寰宇財經" tvg-logo="https://epg.112114.xyz/logo/寰宇財經.png" group-title="🐉湾湾频道①",寰宇財經
-http://tv543.cc/litv.php?id=litv-longturn23
-#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="🐉湾湾频道①",AMC最愛電影
-http://tv543.cc/litv.php?id=4gtv-4gtv017
-#EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="🐉湾湾频道①",中視
-http://tv543.cc/litv.php?id=4gtv-4gtv040
-#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="🐉湾湾频道①",中視新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv074
-#EXTINF:-1,tvg-id="中視經典" tvg-name="中視經典" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" group-title="🐉湾湾频道①",中視經典
-http://tv543.cc/litv.php?id=4gtv-4gtv080
-#EXTINF:-1,tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://epg.112114.xyz/logo/中視菁采.png" group-title="🐉湾湾频道①",中視菁采
-http://tv543.cc/litv.php?id=4gtv-4gtv064
-#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="🐉湾湾频道①",民視
-http://tv543.cc/litv.php?id=4gtv-4gtv002
-#EXTINF:-1,tvg-id="民視第一" tvg-name="民視第一" tvg-logo="https://epg.112114.xyz/logo/民視第一.png" group-title="🐉湾湾频道①",民視第一
-http://tv543.cc/litv.php?id=4gtv-4gtv003
-#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="🐉湾湾频道①",民視新聞
-http://tv543.cc/litv.php?id=litv-ftv13
-#EXTINF:-1,tvg-id="民視台灣" tvg-name="民視台灣" tvg-logo="https://epg.112114.xyz/logo/民視台灣.png" group-title="🐉湾湾频道①",民視台灣
-http://tv543.cc/litv.php?id=4gtv-4gtv001
-#EXTINF:-1,tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://epg.112114.xyz/logo/公視戲劇.png" group-title="🐉湾湾频道①",公視戲劇
-http://tv543.cc/litv.php?id=4gtv-4gtv042
-#EXTINF:-1,tvg-id="客家電視" tvg-name="客家電視" tvg-logo="https://epg.112114.xyz/logo/客家電視.png" group-title="🐉湾湾频道①",客家電視
-http://tv543.cc/litv.php?id=4gtv-4gtv043
-#EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="🐉湾湾频道①",台視
-http://tv543.cc/litv.php?id=4gtv-4gtv066
-#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="🐉湾湾频道①",台視新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv051
-#EXTINF:-1,tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://epg.112114.xyz/logo/台視財經.png" group-title="🐉湾湾频道①",台視財經
-http://tv543.cc/litv.php?id=4gtv-4gtv056
-#EXTINF:-1,tvg-id="台灣戲劇" tvg-name="台灣戲劇" tvg-logo="https://epg.112114.xyz/logo/台灣戲劇.png" group-title="🐉湾湾频道①",台灣戲劇
-http://tv543.cc/litv.php?id=litv-longturn22
-#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="🐉湾湾频道①",華視新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv052
-#EXTINF:-1,tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://epg.112114.xyz/logo/豬哥亮歌廳秀.png" group-title="🐉湾湾频道①",豬哥亮歌廳秀
-http://tv543.cc/litv.php?id=4gtv-4gtv006
-#EXTINF:-1,tvg-id="i-Fun動漫" tvg-name="i-Fun動漫" tvg-logo="https://epg.112114.xyz/logo/IFUN動漫.png" group-title="🐉湾湾频道①",i-Fun動漫
-http://tv543.cc/litv.php?id=litv-ftv15
-#EXTINF:-1,tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://epg.112114.xyz/logo/八大精彩.png" group-title="🐉湾湾频道①",八大精彩
-http://tv543.cc/litv.php?id=4gtv-4gtv034
-#EXTINF:-1,tvg-id="八大綜藝" tvg-name="八大綜藝" tvg-logo="https://epg.112114.xyz/logo/八大綜藝.png" group-title="🐉湾湾频道①",八大綜藝
-http://tv543.cc/litv.php?id=4gtv-4gtv039
-#EXTINF:-1,tvg-id="ELTA娛樂" tvg-name="ELTA娛樂" tvg-logo="https://epg.112114.xyz/logo/ELTA娛樂.png" group-title="🐉湾湾频道①",ELTA娛樂
-http://tv543.cc/litv.php?id=4gtv-4gtv070
-#EXTINF:-1,tvg-id="ELTA生活英語" tvg-name="ELTA生活英語" tvg-logo="https://epg.112114.xyz/logo/ELTA生活英語.png" group-title="🐉湾湾频道①",ELTA生活英語
-http://tv543.cc/litv.php?id=litv-longturn20
-#EXTINF:-1,tvg-id="亞洲旅遊" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" group-title="🐉湾湾频道①",亞洲旅遊
-http://tv543.cc/litv.php?id=4gtv-4gtv076
-#EXTINF:-1,tvg-id="民視影劇" tvg-name="民視影劇" tvg-logo="https://epg.112114.xyz/logo/民視影劇.png" group-title="🐉湾湾频道①",民視影劇
-http://tv543.cc/litv.php?id=litv-ftv09
-#EXTINF:-1,tvg-id="民視綜藝" tvg-name="民視綜藝" tvg-logo="https://epg.112114.xyz/logo/民視綜藝.png" group-title="🐉湾湾频道①",民視綜藝
-http://tv543.cc/litv.php?id=4gtv-4gtv004
-#EXTINF:-1,tvg-id="民視旅遊" tvg-name="民視旅遊" tvg-logo="https://epg.112114.xyz/logo/民視旅遊.png" group-title="🐉湾湾频道①",民視旅遊
-http://tv543.cc/litv.php?id=litv-ftv07
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道①",TVBS歡樂
-http://tv543.cc/litv.php?id=4gtv-4gtv068
-#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="🐉湾湾频道①",TVBS精采
-http://tv543.cc/litv.php?id=4gtv-4gtv067
-#EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" group-title="🐉湾湾频道①",好消息
-http://tv543.cc/litv.php?id=litv-ftv16
-#EXTINF:-1,tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" group-title="🐉湾湾频道①",好消息2
-http://tv543.cc/litv.php?id=litv-ftv17
-#EXTINF:-1,tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="https://epg.112114.xyz/logo/博斯無限.png" group-title="🐉湾湾频道①",博斯無限
-http://tv543.cc/litv.php?id=litv-longturn10
-#EXTINF:-1,tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://epg.112114.xyz/logo/博斯無限2.png" group-title="🐉湾湾频道①",博斯無限2
-http://tv543.cc/litv.php?id=litv-longturn13
-#EXTINF:-1,tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" group-title="🐉湾湾频道①",博斯網球
-http://tv543.cc/litv.php?id=litv-longturn09
-#EXTINF:-1,tvg-id="博斯運動" tvg-name="博斯運動" tvg-logo="https://epg.112114.xyz/logo/博斯運動.png" group-title="🐉湾湾频道①",博斯運動
-http://tv543.cc/litv.php?id=litv-longturn07
-#EXTINF:-1,tvg-id="博斯運動2" tvg-name="博斯運動2" tvg-logo="https://epg.112114.xyz/logo/博斯運動2.png" group-title="🐉湾湾频道①",博斯運動2
-http://tv543.cc/litv.php?id=litv-longturn08
-#EXTINF:-1,tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="🐉湾湾频道①",博斯高球
-http://tv543.cc/litv.php?id=litv-longturn05
-#EXTINF:-1,tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png" group-title="🐉湾湾频道①",博斯高球2
-http://tv543.cc/litv.php?id=litv-longturn06
-#EXTINF:-1,tvg-id="博斯魅力网" tvg-name="博斯魅力网" tvg-logo="https://epg.112114.xyz/logo/博斯魅力网.png" group-title="🐉湾湾频道①",博斯魅力
-http://tv543.cc/litv.php?id=litv-longturn04
-#EXTINF:-1,tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://epg.112114.xyz/logo/時尚運動X.png" group-title="🐉湾湾频道①",時尚運動X
-http://tv543.cc/litv.php?id=4gtv-4gtv014
-#EXTINF:-1,tvg-id="智林體育" tvg-name="智林體育" tvg-logo="https://epg.112114.xyz/logo/智林體育.png" group-title="🐉湾湾频道①",智林體育
-http://tv543.cc/litv.php?id=4gtv-4gtv101
-#EXTINF:-1,tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="https://epg.112114.xyz/logo/中天亞洲.png" group-title="🐉湾湾频道①",中天亞洲
-http://tv543.cc/litv.php?id=4gtv-4gtv109
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="🐉湾湾频道①",靖天卡通
-http://tv543.cc/litv.php?id=4gtv-4gtv044
-#EXTINF:-1,tvg-id="靖天國際" tvg-name="靖天國際" tvg-logo="https://epg.112114.xyz/logo/靖天國際.png" group-title="🐉湾湾频道①",靖天國際
-http://tv543.cc/litv.php?id=4gtv-4gtv063
-#EXTINF:-1,tvg-id="靖天戲劇" tvg-name="靖天戲劇" tvg-logo="https://epg.112114.xyz/logo/靖天戲劇.png" group-title="🐉湾湾频道①",靖天戲劇
-http://tv543.cc/litv.php?id=4gtv-4gtv058
-#EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="🐉湾湾频道①",靖天日本
-http://tv543.cc/litv.php?id=4gtv-4gtv047
-#EXTINF:-1,tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://epg.112114.xyz/logo/靖天映畫.png" group-title="🐉湾湾频道①",靖天映畫
-http://tv543.cc/litv.php?id=4gtv-4gtv055
-#EXTINF:-1,tvg-id="靖天歡樂" tvg-name="靖天歡樂" tvg-logo="https://epg.112114.xyz/logo/靖天歡樂.png" group-title="🐉湾湾频道①",靖天歡樂
-http://tv543.cc/litv.php?id=4gtv-4gtv054
-#EXTINF:-1,tvg-id="靖天綜合" tvg-name="靖天綜合" tvg-logo="https://epg.112114.xyz/logo/靖天綜合.png" group-title="🐉湾湾频道①",靖天綜合
-http://tv543.cc/litv.php?id=4gtv-4gtv046
-#EXTINF:-1,tvg-id="靖天育樂" tvg-name="靖天育樂" tvg-logo="https://epg.112114.xyz/logo/靖天育樂.png" group-title="🐉湾湾频道①",靖天育樂
-http://tv543.cc/litv.php?id=4gtv-4gtv062
-#EXTINF:-1,tvg-id="靖天資訊" tvg-name="靖天資訊" tvg-logo="https://epg.112114.xyz/logo/靖天資訊.png" group-title="🐉湾湾频道①",靖天資訊
-http://tv543.cc/litv.php?id=4gtv-4gtv065
-#EXTINF:-1,tvg-id="靖天電影" tvg-name="靖天電影" tvg-logo="https://epg.112114.xyz/logo/靖天電影.png" group-title="🐉湾湾频道①",靖天電影
-http://tv543.cc/litv.php?id=4gtv-4gtv061
-#EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通台.png" group-title="🐉湾湾频道①",靖洋卡通
-http://tv543.cc/litv.php?id=4gtv-4gtv057
-#EXTINF:-1,tvg-id="靖洋戲劇" tvg-name="靖洋戲劇" tvg-logo="https://epg.112114.xyz/logo/靖洋戲劇.png" group-title="🐉湾湾频道①",靖洋戲劇
-http://tv543.cc/litv.php?id=4gtv-4gtv045
-#EXTINF:-1,tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="https://epg.112114.xyz/logo/龍華偶像.png" group-title="🐉湾湾频道①",龍華偶像
-http://tv543.cc/litv.php?id=litv-longturn12
-#EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://epg.112114.xyz/logo/龍華卡通.png" group-title="🐉湾湾频道①",龍華卡通
-http://tv543.cc/litv.php?id=litv-longturn01
-#EXTINF:-1,tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" group-title="🐉湾湾频道①",龍華戲劇
-http://tv543.cc/litv.php?id=litv-longturn18
-#EXTINF:-1,tvg-id="龍華日韓" tvg-name="龍華日韓" tvg-logo="https://epg.112114.xyz/logo/龍華日韓.png" group-title="🐉湾湾频道①",龍華日韓
-http://tv543.cc/litv.php?id=litv-longturn11
-#EXTINF:-1,tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="https://epg.112114.xyz/logo/龍華經典.png" group-title="🐉湾湾频道①",龍華經典
-http://tv543.cc/litv.php?id=litv-longturn21
-#EXTINF:-1,tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" group-title="🐉湾湾频道①",龍華電影
-http://tv543.cc/litv.php?id=litv-longturn03
-#EXTINF:-1,tvg-id="寰宇新聞2" tvg-name="寰宇新聞2" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞2.png" group-title="🐉湾湾频道①",寰宇新聞2
-http://tv543.cc/litv.php?id=litv-longturn15
-#EXTINF:-1,tvg-id="非凡商業" tvg-name="非凡商業" tvg-logo="https://epg.112114.xyz/logo/非凡商業.png" group-title="🐉湾湾频道①",非凡商業
-http://tv543.cc/litv.php?id=4gtv-4gtv048
-#EXTINF:-1,tvg-id="第1商業" tvg-name="第1商業" tvg-logo="https://epg.112114.xyz/logo/第1商業.png" group-title="🐉湾湾频道①",第1商業
-http://tv543.cc/litv.php?id=4gtv-4gtv104
-#EXTINF:-1,tvg-id="采昌影劇" tvg-name="采昌影劇" tvg-logo="https://epg.112114.xyz/logo/采昌影劇.png" group-title="🐉湾湾频道①",采昌影劇
-http://tv543.cc/litv.php?id=4gtv-4gtv049
-#EXTINF:-1,tvg-id="影迷數位電影" tvg-name="影迷數位電影" tvg-logo="https://epg.112114.xyz/logo/影迷數位電影.png" group-title="🐉湾湾频道①",影迷數位電影
-http://tv543.cc/litv.php?id=4gtv-4gtv011
-#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="🐉湾湾频道①",ArirangTV
-http://tv543.cc/litv.php?id=4gtv-4gtv079
-#EXTINF:-1,tvg-id="Classica古典樂" tvg-name="Classica古典樂" tvg-logo="https://epg.112114.xyz/logo/CLASSICA古典樂.png" group-title="🐉湾湾频道①",Classica古典樂
-http://tv543.cc/litv.php?id=4gtv-4gtv059
-#EXTINF:-1,tvg-id="Globetrotter環遊旅行家" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://epg.112114.xyz/logo/GLOBETROTTER環遊旅行家.png" group-title="🐉湾湾频道①",Globetrotter環遊旅行家
-http://tv543.cc/litv.php?id=4gtv-4gtv016
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
+#EXTINF:-1,tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://epg.112114.xyz/logo/東方衛視國際頻道.png" group-title="🐉湾湾频道①",東方衛視國際頻道
+http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="曼聯電視頻道" tvg-name="曼聯電視頻道" tvg-logo="https://epg.112114.xyz/logo/曼聯電視頻道.png" group-title="🐉湾湾频道①",曼聯電視頻道
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1,tvg-id="朝鮮恩情台" tvg-name="朝鮮恩情台" tvg-logo="https://epg.112114.xyz/logo/朝鮮恩情台.png" group-title="🐉湾湾频道①",朝鮮恩情台
+http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="🐉湾湾频道①",AXN
+http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="🐉湾湾频道①",Love Nature HD
+http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://epg.112114.xyz/logo/NATIONALGEOGRAPHIC.png" group-title="🐉湾湾频道①",National Geographic
+http://aktv-stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
+#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="🐉湾湾频道①",Animax(HK)
+http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="🐉湾湾频道①",DW
+http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="🐉湾湾频道①",France 24
+http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
+#EXTINF:-1,tvg-id="KIX" tvg-name="KIX" tvg-logo="https://epg.112114.xyz/logo/KIX.png" group-title="🐉湾湾频道①",KIX
+http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="🐉湾湾频道①",NHK World-Japan
+http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="🐉湾湾频道①",NHK東京総合
+http://aktv-stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1,tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.112114.xyz/logo/NICKJR..png" group-title="🐉湾湾频道①",Nick Jr
+http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="🐉湾湾频道①",Nickelodeon
+http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="🐉湾湾频道①",Thrill
+http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,tvg-id="HITS" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" group-title="🐉湾湾频道①",Xite Hits
+http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
+#EXTINF:-1,tvg-id="Xite Rock" tvg-name="Xite Rock" tvg-logo="https://epg.112114.xyz/logo/XITEROCK.png" group-title="🐉湾湾频道①",Xite Rock
+http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="🐉湾湾频道①",ZooMoo
+http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1,tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="https://epg.112114.xyz/logo/CELESTIALMOVIES.png" group-title="🐉湾湾频道①",Celestial Movies
+http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+#EXTINF:-1,tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://epg.112114.xyz/logo/CINEMAWORLD.png" group-title="🐉湾湾频道①",CINEMAWORLD
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1,tvg-id="FIGHT SPORTS" tvg-name="FIGHT SPORTS" tvg-logo="https://epg.112114.xyz/logo/FIGHTSPORTS.png" group-title="🐉湾湾频道①",FIGHT SPORTS
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1,tvg-id="Mediacorp Entertainment Chinese" tvg-name="Mediacorp Entertainment Chinese" tvg-logo="https://epg.112114.xyz/logo/MEDIACORPENTERTAINMENTCHINESE.png" group-title="🐉湾湾频道①",Mediacorp Entertainment Chinese
+http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+#EXTINF:-1,tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBATV.png" group-title="🐉湾湾频道①",NBA TV
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1,tvg-id="Sukan" tvg-name="Sukan" tvg-logo="https://epg.112114.xyz/logo/SUKAN.png" group-title="🐉湾湾频道①",Sukan
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="🐉湾湾频道①",TV9
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
 
 
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道②",👉请使用湾湾节点观看👈
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道④",👉请使用湾湾节点观看👈
 https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道③",👉请使用湾湾节点观看👈
-https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
-#EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="🐉湾湾频道②",中視
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv040
-#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="🐉湾湾频道②",中視新聞
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv074
-#EXTINF:-1,tvg-id="中視經典" tvg-name="中視經典" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" group-title="🐉湾湾频道②",中視經典
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv080
-#EXTINF:-1,tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://epg.112114.xyz/logo/中視菁采.png" group-title="🐉湾湾频道②",中視菁采
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv064
-#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="🐉湾湾频道②",民視
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv002
-#EXTINF:-1,tvg-id="民視第一" tvg-name="民視第一" tvg-logo="https://epg.112114.xyz/logo/民視第一.png" group-title="🐉湾湾频道②",民視第一
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv003
-#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="🐉湾湾频道②",民視新聞
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv13
-#EXTINF:-1,tvg-id="民視台灣" tvg-name="民視台灣" tvg-logo="https://epg.112114.xyz/logo/民視台灣.png" group-title="🐉湾湾频道②",民視台灣
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv001
-#EXTINF:-1,tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://epg.112114.xyz/logo/公視戲劇.png" group-title="🐉湾湾频道②",公視戲劇
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv042
-#EXTINF:-1,tvg-id="客家電視" tvg-name="客家電視" tvg-logo="https://epg.112114.xyz/logo/客家電視.png" group-title="🐉湾湾频道②",客家電視
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv043
-#EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="🐉湾湾频道②",台視
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv066
-#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="🐉湾湾频道②",台視新聞
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv051
-#EXTINF:-1,tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://epg.112114.xyz/logo/台視財經.png" group-title="🐉湾湾频道②",台視財經
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv056
-#EXTINF:-1,tvg-id="台灣戲劇" tvg-name="台灣戲劇" tvg-logo="https://epg.112114.xyz/logo/台灣戲劇.png" group-title="🐉湾湾频道②",台灣戲劇
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn22
-#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="🐉湾湾频道②",華視新聞
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv052
-#EXTINF:-1,tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://epg.112114.xyz/logo/豬哥亮歌廳秀.png" group-title="🐉湾湾频道②",豬哥亮歌廳秀
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv006
-#EXTINF:-1,tvg-id="i-Fun動漫" tvg-name="i-Fun動漫" tvg-logo="https://epg.112114.xyz/logo/IFUN動漫.png" group-title="🐉湾湾频道②",i-Fun動漫
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv15
-#EXTINF:-1,tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://epg.112114.xyz/logo/八大精彩.png" group-title="🐉湾湾频道②",八大精彩
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv034
-#EXTINF:-1,tvg-id="八大綜藝" tvg-name="八大綜藝" tvg-logo="https://epg.112114.xyz/logo/八大綜藝.png" group-title="🐉湾湾频道②",八大綜藝
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv039
-#EXTINF:-1,tvg-id="ELTA娛樂" tvg-name="ELTA娛樂" tvg-logo="https://epg.112114.xyz/logo/ELTA娛樂.png" group-title="🐉湾湾频道②",ELTA娛樂
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv070
-#EXTINF:-1,tvg-id="ELTA生活英語" tvg-name="ELTA生活英語" tvg-logo="https://epg.112114.xyz/logo/ELTA生活英語.png" group-title="🐉湾湾频道②",ELTA生活英語
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn20
-#EXTINF:-1,tvg-id="亞洲旅遊" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" group-title="🐉湾湾频道②",亞洲旅遊
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv076
-#EXTINF:-1,tvg-id="民視影劇" tvg-name="民視影劇" tvg-logo="https://epg.112114.xyz/logo/民視影劇.png" group-title="🐉湾湾频道②",民視影劇
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv09
-#EXTINF:-1,tvg-id="民視綜藝" tvg-name="民視綜藝" tvg-logo="https://epg.112114.xyz/logo/民視綜藝.png" group-title="🐉湾湾频道②",民視綜藝
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv004
-#EXTINF:-1,tvg-id="民視旅遊" tvg-name="民視旅遊" tvg-logo="https://epg.112114.xyz/logo/民視旅遊.png" group-title="🐉湾湾频道②",民視旅遊
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv07
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道②",TVBS歡樂
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv068
-#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="🐉湾湾频道②",TVBS精采
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv067
-#EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" group-title="🐉湾湾频道②",好消息
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv16
-#EXTINF:-1,tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" group-title="🐉湾湾频道②",好消息2
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv17
-#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="🐉湾湾频道②",鏡新聞
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv075
-#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="🐉湾湾频道②",寰宇新聞
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn14
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="🐉湾湾频道②",東森新聞
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv152
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="🐉湾湾频道②",中天新聞
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv009
-#EXTINF:-1,tvg-id="民視新聞 " tvg-name="民視新聞 " tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="🐉湾湾频道②",民視新聞 
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv13
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道②",TVBS新聞
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv072
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道②",TVBS
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv073
-#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="🐉湾湾频道②",東森財經
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv153
-#EXTINF:-1,tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" group-title="🐉湾湾频道②",非凡新聞
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv010
-#EXTINF:-1,tvg-id="寰宇財經" tvg-name="寰宇財經" tvg-logo="https://epg.112114.xyz/logo/寰宇財經.png" group-title="🐉湾湾频道②",寰宇財經
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn23
-#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="🐉湾湾频道②",AMC最愛電影
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv017
-#EXTINF:-1,tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="https://epg.112114.xyz/logo/博斯無限.png" group-title="🐉湾湾频道②",博斯無限
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn10
-#EXTINF:-1,tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://epg.112114.xyz/logo/博斯無限2.png" group-title="🐉湾湾频道②",博斯無限2
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn13
-#EXTINF:-1,tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" group-title="🐉湾湾频道②",博斯網球
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn09
-#EXTINF:-1,tvg-id="博斯運動" tvg-name="博斯運動" tvg-logo="https://epg.112114.xyz/logo/博斯運動.png" group-title="🐉湾湾频道②",博斯運動
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn07
-#EXTINF:-1,tvg-id="博斯運動2" tvg-name="博斯運動2" tvg-logo="https://epg.112114.xyz/logo/博斯運動2.png" group-title="🐉湾湾频道②",博斯運動2
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn08
-#EXTINF:-1,tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="🐉湾湾频道②",博斯高球
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn05
-#EXTINF:-1,tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png" group-title="🐉湾湾频道②",博斯高球2
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn06
-#EXTINF:-1,tvg-id="博斯魅力网" tvg-name="博斯魅力网" tvg-logo="https://epg.112114.xyz/logo/博斯魅力网.png" group-title="🐉湾湾频道②",博斯魅力
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn04
-#EXTINF:-1,tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://epg.112114.xyz/logo/時尚運動X.png" group-title="🐉湾湾频道②",時尚運動X
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv014
-#EXTINF:-1,tvg-id="智林體育" tvg-name="智林體育" tvg-logo="https://epg.112114.xyz/logo/智林體育.png" group-title="🐉湾湾频道②",智林體育
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv101
-#EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" group-title="🐉湾湾频道②",華視
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv041
-#EXTINF:-1,tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="https://epg.112114.xyz/logo/中天亞洲.png" group-title="🐉湾湾频道②",中天亞洲
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv109
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="🐉湾湾频道②",靖天卡通
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv044
-#EXTINF:-1,tvg-id="靖天國際" tvg-name="靖天國際" tvg-logo="https://epg.112114.xyz/logo/靖天國際.png" group-title="🐉湾湾频道②",靖天國際
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv063
-#EXTINF:-1,tvg-id="靖天戲劇" tvg-name="靖天戲劇" tvg-logo="https://epg.112114.xyz/logo/靖天戲劇.png" group-title="🐉湾湾频道②",靖天戲劇
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv058
-#EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="🐉湾湾频道②",靖天日本
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv047
-#EXTINF:-1,tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://epg.112114.xyz/logo/靖天映畫.png" group-title="🐉湾湾频道②",靖天映畫
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv055
-#EXTINF:-1,tvg-id="靖天歡樂" tvg-name="靖天歡樂" tvg-logo="https://epg.112114.xyz/logo/靖天歡樂.png" group-title="🐉湾湾频道②",靖天歡樂
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv054
-#EXTINF:-1,tvg-id="靖天綜合" tvg-name="靖天綜合" tvg-logo="https://epg.112114.xyz/logo/靖天綜合.png" group-title="🐉湾湾频道②",靖天綜合
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv046
-#EXTINF:-1,tvg-id="靖天育樂" tvg-name="靖天育樂" tvg-logo="https://epg.112114.xyz/logo/靖天育樂.png" group-title="🐉湾湾频道②",靖天育樂
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv062
-#EXTINF:-1,tvg-id="靖天資訊" tvg-name="靖天資訊" tvg-logo="https://epg.112114.xyz/logo/靖天資訊.png" group-title="🐉湾湾频道②",靖天資訊
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv065
-#EXTINF:-1,tvg-id="靖天電影" tvg-name="靖天電影" tvg-logo="https://epg.112114.xyz/logo/靖天電影.png" group-title="🐉湾湾频道②",靖天電影
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv061
-#EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通台.png" group-title="🐉湾湾频道②",靖洋卡通
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv057
-#EXTINF:-1,tvg-id="靖洋戲劇" tvg-name="靖洋戲劇" tvg-logo="https://epg.112114.xyz/logo/靖洋戲劇.png" group-title="🐉湾湾频道②",靖洋戲劇
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv045
-#EXTINF:-1,tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="https://epg.112114.xyz/logo/龍華偶像.png" group-title="🐉湾湾频道②",龍華偶像
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn12
-#EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://epg.112114.xyz/logo/龍華卡通.png" group-title="🐉湾湾频道②",龍華卡通
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn01
-#EXTINF:-1,tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" group-title="🐉湾湾频道②",龍華戲劇
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn18
-#EXTINF:-1,tvg-id="龍華日韓" tvg-name="龍華日韓" tvg-logo="https://epg.112114.xyz/logo/龍華日韓.png" group-title="🐉湾湾频道②",龍華日韓
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn11
-#EXTINF:-1,tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="https://epg.112114.xyz/logo/龍華經典.png" group-title="🐉湾湾频道②",龍華經典
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn21
-#EXTINF:-1,tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" group-title="🐉湾湾频道②",龍華電影
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn03
-#EXTINF:-1,tvg-id="寰宇新聞2" tvg-name="寰宇新聞2" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞2.png" group-title="🐉湾湾频道②",寰宇新聞2
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn15
-#EXTINF:-1,tvg-id="非凡商業" tvg-name="非凡商業" tvg-logo="https://epg.112114.xyz/logo/非凡商業.png" group-title="🐉湾湾频道②",非凡商業
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv048
-#EXTINF:-1,tvg-id="第1商業" tvg-name="第1商業" tvg-logo="https://epg.112114.xyz/logo/第1商業.png" group-title="🐉湾湾频道②",第1商業
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv104
-#EXTINF:-1,tvg-id="采昌影劇" tvg-name="采昌影劇" tvg-logo="https://epg.112114.xyz/logo/采昌影劇.png" group-title="🐉湾湾频道②",采昌影劇
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv049
-#EXTINF:-1,tvg-id="影迷數位電影" tvg-name="影迷數位電影" tvg-logo="https://epg.112114.xyz/logo/影迷數位電影.png" group-title="🐉湾湾频道②",影迷數位電影
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv011
-#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="🐉湾湾频道②",ArirangTV
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv079
-#EXTINF:-1,tvg-id="Classica古典樂" tvg-name="Classica古典樂" tvg-logo="https://epg.112114.xyz/logo/CLASSICA古典樂.png" group-title="🐉湾湾频道②",Classica古典樂
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv059
-#EXTINF:-1,tvg-id="GINXEsportsTV" tvg-name="GINXEsportsTV" tvg-logo="https://epg.112114.xyz/logo/GINXESPORTSTV.png" group-title="🐉湾湾频道②",GINXEsportsTV
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv053
-#EXTINF:-1,tvg-id="Globetrotter環遊旅行家" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://epg.112114.xyz/logo/GLOBETROTTER環遊旅行家.png" group-title="🐉湾湾频道②",Globetrotter環遊旅行家
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv016
-#EXTINF:-1,tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://epg.112114.xyz/logo/MEZZOLIVEHD.png" group-title="🐉湾湾频道②",MezzoLive
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv083
-#EXTINF:-1,tvg-id="Smart知識" tvg-name="Smart知識" tvg-logo="https://epg.112114.xyz/logo/SMART知識.png" group-title="🐉湾湾频道②",Smart知識
-http://zowzow.yundown.cf/php/litv.php?id=litv-longturn19
-#EXTINF:-1,tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="🐉湾湾频道②",TraceUrban
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv082
-#EXTINF:-1,tvg-id="TRACESPORTS" tvg-name="TRACESPORTS" tvg-logo="https://epg.112114.xyz/logo/TRACESPORTS.png" group-title="🐉湾湾频道②",TraceSports
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv077
-#EXTINF:-1,tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://epg.112114.xyz/logo/VOA美國之音.png" group-title="🐉湾湾频道②",VOA美國之音
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv03
-#EXTINF:-1,tvg-id="半島國際新聞" tvg-name="半島國際新聞" tvg-logo="https://epg.112114.xyz/logo/半島國際新聞.png" group-title="🐉湾湾频道②",半島國際新聞
-http://zowzow.yundown.cf/php/litv.php?id=litv-ftv10
-#EXTINF:-1,tvg-id="視納華仁紀實" tvg-name="視納華仁紀實" tvg-logo="https://epg.112114.xyz/logo/視納華仁紀實.png" group-title="🐉湾湾频道②",視納華仁紀實
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv013
-#EXTINF:-1,tvg-id="達文西" tvg-name="達文西" tvg-logo="https://epg.112114.xyz/logo/達文西.png" group-title="🐉湾湾频道②",達文西
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv018
-#EXTINF:-1,tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://epg.112114.xyz/logo/國會頻道1.png" group-title="🐉湾湾频道②",國會頻道1
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv084
-#EXTINF:-1,tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://epg.112114.xyz/logo/國會頻道2.png" group-title="🐉湾湾频道②",國會頻道2
-http://zowzow.yundown.cf/php/litv.php?id=4gtv-4gtv085
-
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道③",👉请使用湾湾节点观看👈
-https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道③",👉请使用湾湾节点观看👈
-https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
-#EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="🐉湾湾频道③",中視
-http://tv543.cc/litv.php?id=4gtv-4gtv040
-#EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="🐉湾湾频道③",中視新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv074
-#EXTINF:-1,tvg-id="中視經典" tvg-name="中視經典" tvg-logo="https://epg.112114.xyz/logo/中視經典.png" group-title="🐉湾湾频道③",中視經典
-http://tv543.cc/litv.php?id=4gtv-4gtv080
-#EXTINF:-1,tvg-id="中視菁采" tvg-name="中視菁采" tvg-logo="https://epg.112114.xyz/logo/中視菁采.png" group-title="🐉湾湾频道③",中視菁采
-http://tv543.cc/litv.php?id=4gtv-4gtv064
-#EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="🐉湾湾频道③",民視
-http://tv543.cc/litv.php?id=4gtv-4gtv002
-#EXTINF:-1,tvg-id="民視第一" tvg-name="民視第一" tvg-logo="https://epg.112114.xyz/logo/民視第一.png" group-title="🐉湾湾频道③",民視第一
-http://tv543.cc/litv.php?id=4gtv-4gtv003
-#EXTINF:-1,tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="🐉湾湾频道③",民視新聞
-http://tv543.cc/litv.php?id=litv-ftv13
-#EXTINF:-1,tvg-id="民視台灣" tvg-name="民視台灣" tvg-logo="https://epg.112114.xyz/logo/民視台灣.png" group-title="🐉湾湾频道③",民視台灣
-http://tv543.cc/litv.php?id=4gtv-4gtv001
-#EXTINF:-1,tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://epg.112114.xyz/logo/公視戲劇.png" group-title="🐉湾湾频道③",公視戲劇
-http://tv543.cc/litv.php?id=4gtv-4gtv042
-#EXTINF:-1,tvg-id="客家電視" tvg-name="客家電視" tvg-logo="https://epg.112114.xyz/logo/客家電視.png" group-title="🐉湾湾频道③",客家電視
-http://tv543.cc/litv.php?id=4gtv-4gtv043
-#EXTINF:-1,tvg-id="台視" tvg-name="台視" tvg-logo="https://epg.112114.xyz/logo/台視.png" group-title="🐉湾湾频道③",台視
-http://tv543.cc/litv.php?id=4gtv-4gtv066
-#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="🐉湾湾频道③",台視新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv051
-#EXTINF:-1,tvg-id="台視財經" tvg-name="台視財經" tvg-logo="https://epg.112114.xyz/logo/台視財經.png" group-title="🐉湾湾频道③",台視財經
-http://tv543.cc/litv.php?id=4gtv-4gtv056
-#EXTINF:-1,tvg-id="台灣戲劇" tvg-name="台灣戲劇" tvg-logo="https://epg.112114.xyz/logo/台灣戲劇.png" group-title="🐉湾湾频道③",台灣戲劇
-http://tv543.cc/litv.php?id=litv-longturn22
-#EXTINF:-1,tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" group-title="🐉湾湾频道③",華視新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv052
-#EXTINF:-1,tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://epg.112114.xyz/logo/豬哥亮歌廳秀.png" group-title="🐉湾湾频道③",豬哥亮歌廳秀
-http://tv543.cc/litv.php?id=4gtv-4gtv006
-#EXTINF:-1,tvg-id="i-Fun動漫" tvg-name="i-Fun動漫" tvg-logo="https://epg.112114.xyz/logo/IFUN動漫.png" group-title="🐉湾湾频道③",i-Fun動漫
-http://tv543.cc/litv.php?id=litv-ftv15
-#EXTINF:-1,tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://epg.112114.xyz/logo/八大精彩.png" group-title="🐉湾湾频道③",八大精彩
-http://tv543.cc/litv.php?id=4gtv-4gtv034
-#EXTINF:-1,tvg-id="八大綜藝" tvg-name="八大綜藝" tvg-logo="https://epg.112114.xyz/logo/八大綜藝.png" group-title="🐉湾湾频道③",八大綜藝
-http://tv543.cc/litv.php?id=4gtv-4gtv039
-#EXTINF:-1,tvg-id="ELTA娛樂" tvg-name="ELTA娛樂" tvg-logo="https://epg.112114.xyz/logo/ELTA娛樂.png" group-title="🐉湾湾频道③",ELTA娛樂
-http://tv543.cc/litv.php?id=4gtv-4gtv070
-#EXTINF:-1,tvg-id="ELTA生活英語" tvg-name="ELTA生活英語" tvg-logo="https://epg.112114.xyz/logo/ELTA生活英語.png" group-title="🐉湾湾频道③",ELTA生活英語
-http://tv543.cc/litv.php?id=litv-longturn20
-#EXTINF:-1,tvg-id="亞洲旅遊" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" group-title="🐉湾湾频道③",亞洲旅遊
-http://tv543.cc/litv.php?id=4gtv-4gtv076
-#EXTINF:-1,tvg-id="民視影劇" tvg-name="民視影劇" tvg-logo="https://epg.112114.xyz/logo/民視影劇.png" group-title="🐉湾湾频道③",民視影劇
-http://tv543.cc/litv.php?id=litv-ftv09
-#EXTINF:-1,tvg-id="民視綜藝" tvg-name="民視綜藝" tvg-logo="https://epg.112114.xyz/logo/民視綜藝.png" group-title="🐉湾湾频道③",民視綜藝
-http://tv543.cc/litv.php?id=4gtv-4gtv004
-#EXTINF:-1,tvg-id="民視旅遊" tvg-name="民視旅遊" tvg-logo="https://epg.112114.xyz/logo/民視旅遊.png" group-title="🐉湾湾频道③",民視旅遊
-http://tv543.cc/litv.php?id=litv-ftv07
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道③",TVBS歡樂
-http://tv543.cc/litv.php?id=4gtv-4gtv068
-#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="🐉湾湾频道③",TVBS精采
-http://tv543.cc/litv.php?id=4gtv-4gtv067
-#EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" group-title="🐉湾湾频道③",好消息
-http://tv543.cc/litv.php?id=litv-ftv16
-#EXTINF:-1,tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" group-title="🐉湾湾频道③",好消息2
-http://tv543.cc/litv.php?id=litv-ftv17
-#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="🐉湾湾频道③",鏡新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv075
-#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="🐉湾湾频道③",寰宇新聞
-http://tv543.cc/litv.php?id=litv-longturn14
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="🐉湾湾频道③",東森新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv152
-#EXTINF:-1,tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" group-title="🐉湾湾频道③",中天新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv009
-#EXTINF:-1,tvg-id="民視新聞 " tvg-name="民視新聞 " tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" group-title="🐉湾湾频道③",民視新聞 
-http://tv543.cc/litv.php?id=litv-ftv13
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道③",TVBS新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv072
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道③",TVBS
-http://tv543.cc/litv.php?id=4gtv-4gtv073
-#EXTINF:-1,tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://epg.112114.xyz/logo/東森財經.png" group-title="🐉湾湾频道③",東森財經
-http://tv543.cc/litv.php?id=4gtv-4gtv153
-#EXTINF:-1,tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" group-title="🐉湾湾频道③",非凡新聞
-http://tv543.cc/litv.php?id=4gtv-4gtv010
-#EXTINF:-1,tvg-id="寰宇財經" tvg-name="寰宇財經" tvg-logo="https://epg.112114.xyz/logo/寰宇財經.png" group-title="🐉湾湾频道③",寰宇財經
-http://tv543.cc/litv.php?id=litv-longturn23
-#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="🐉湾湾频道③",AMC最愛電影
-http://tv543.cc/litv.php?id=4gtv-4gtv017
-#EXTINF:-1,tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="https://epg.112114.xyz/logo/博斯無限.png" group-title="🐉湾湾频道③",博斯無限
-http://tv543.cc/litv.php?id=litv-longturn10
-#EXTINF:-1,tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://epg.112114.xyz/logo/博斯無限2.png" group-title="🐉湾湾频道③",博斯無限2
-http://tv543.cc/litv.php?id=litv-longturn13
-#EXTINF:-1,tvg-id="博斯網球" tvg-name="博斯網球" tvg-logo="https://epg.112114.xyz/logo/博斯網球.png" group-title="🐉湾湾频道③",博斯網球
-http://tv543.cc/litv.php?id=litv-longturn09
-#EXTINF:-1,tvg-id="博斯運動" tvg-name="博斯運動" tvg-logo="https://epg.112114.xyz/logo/博斯運動.png" group-title="🐉湾湾频道③",博斯運動
-http://tv543.cc/litv.php?id=litv-longturn07
-#EXTINF:-1,tvg-id="博斯運動2" tvg-name="博斯運動2" tvg-logo="https://epg.112114.xyz/logo/博斯運動2.png" group-title="🐉湾湾频道③",博斯運動2
-http://tv543.cc/litv.php?id=litv-longturn08
-#EXTINF:-1,tvg-id="博斯高球1台" tvg-name="博斯高球1台" tvg-logo="https://epg.112114.xyz/logo/博斯高球1台.png" group-title="🐉湾湾频道③",博斯高球
-http://tv543.cc/litv.php?id=litv-longturn05
-#EXTINF:-1,tvg-id="博斯高球2台" tvg-name="博斯高球2台" tvg-logo="https://epg.112114.xyz/logo/博斯高球2台.png" group-title="🐉湾湾频道③",博斯高球2
-http://tv543.cc/litv.php?id=litv-longturn06
-#EXTINF:-1,tvg-id="博斯魅力网" tvg-name="博斯魅力网" tvg-logo="https://epg.112114.xyz/logo/博斯魅力网.png" group-title="🐉湾湾频道③",博斯魅力
-http://tv543.cc/litv.php?id=litv-longturn04
-#EXTINF:-1,tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://epg.112114.xyz/logo/時尚運動X.png" group-title="🐉湾湾频道③",時尚運動X
-http://tv543.cc/litv.php?id=4gtv-4gtv014
-#EXTINF:-1,tvg-id="智林體育" tvg-name="智林體育" tvg-logo="https://epg.112114.xyz/logo/智林體育.png" group-title="🐉湾湾频道③",智林體育
-http://tv543.cc/litv.php?id=4gtv-4gtv101
-#EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" group-title="🐉湾湾频道③",華視
-http://tv543.cc/litv.php?id=4gtv-4gtv041
-#EXTINF:-1,tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="https://epg.112114.xyz/logo/中天亞洲.png" group-title="🐉湾湾频道③",中天亞洲
-http://tv543.cc/litv.php?id=4gtv-4gtv109
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="🐉湾湾频道③",靖天卡通
-http://tv543.cc/litv.php?id=4gtv-4gtv044
-#EXTINF:-1,tvg-id="靖天國際" tvg-name="靖天國際" tvg-logo="https://epg.112114.xyz/logo/靖天國際.png" group-title="🐉湾湾频道③",靖天國際
-http://tv543.cc/litv.php?id=4gtv-4gtv063
-#EXTINF:-1,tvg-id="靖天戲劇" tvg-name="靖天戲劇" tvg-logo="https://epg.112114.xyz/logo/靖天戲劇.png" group-title="🐉湾湾频道③",靖天戲劇
-http://tv543.cc/litv.php?id=4gtv-4gtv058
-#EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="🐉湾湾频道③",靖天日本
-http://tv543.cc/litv.php?id=4gtv-4gtv047
-#EXTINF:-1,tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://epg.112114.xyz/logo/靖天映畫.png" group-title="🐉湾湾频道③",靖天映畫
-http://tv543.cc/litv.php?id=4gtv-4gtv055
-#EXTINF:-1,tvg-id="靖天歡樂" tvg-name="靖天歡樂" tvg-logo="https://epg.112114.xyz/logo/靖天歡樂.png" group-title="🐉湾湾频道③",靖天歡樂
-http://tv543.cc/litv.php?id=4gtv-4gtv054
-#EXTINF:-1,tvg-id="靖天綜合" tvg-name="靖天綜合" tvg-logo="https://epg.112114.xyz/logo/靖天綜合.png" group-title="🐉湾湾频道③",靖天綜合
-http://tv543.cc/litv.php?id=4gtv-4gtv046
-#EXTINF:-1,tvg-id="靖天育樂" tvg-name="靖天育樂" tvg-logo="https://epg.112114.xyz/logo/靖天育樂.png" group-title="🐉湾湾频道③",靖天育樂
-http://tv543.cc/litv.php?id=4gtv-4gtv062
-#EXTINF:-1,tvg-id="靖天資訊" tvg-name="靖天資訊" tvg-logo="https://epg.112114.xyz/logo/靖天資訊.png" group-title="🐉湾湾频道③",靖天資訊
-http://tv543.cc/litv.php?id=4gtv-4gtv065
-#EXTINF:-1,tvg-id="靖天電影" tvg-name="靖天電影" tvg-logo="https://epg.112114.xyz/logo/靖天電影.png" group-title="🐉湾湾频道③",靖天電影
-http://tv543.cc/litv.php?id=4gtv-4gtv061
-#EXTINF:-1,tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通台.png" group-title="🐉湾湾频道③",靖洋卡通
-http://tv543.cc/litv.php?id=4gtv-4gtv057
-#EXTINF:-1,tvg-id="靖洋戲劇" tvg-name="靖洋戲劇" tvg-logo="https://epg.112114.xyz/logo/靖洋戲劇.png" group-title="🐉湾湾频道③",靖洋戲劇
-http://tv543.cc/litv.php?id=4gtv-4gtv045
-#EXTINF:-1,tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="https://epg.112114.xyz/logo/龍華偶像.png" group-title="🐉湾湾频道③",龍華偶像
-http://tv543.cc/litv.php?id=litv-longturn12
-#EXTINF:-1,tvg-id="龍華卡通" tvg-name="龍華卡通" tvg-logo="https://epg.112114.xyz/logo/龍華卡通.png" group-title="🐉湾湾频道③",龍華卡通
-http://tv543.cc/litv.php?id=litv-longturn01
-#EXTINF:-1,tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png" group-title="🐉湾湾频道③",龍華戲劇
-http://tv543.cc/litv.php?id=litv-longturn18
-#EXTINF:-1,tvg-id="龍華日韓" tvg-name="龍華日韓" tvg-logo="https://epg.112114.xyz/logo/龍華日韓.png" group-title="🐉湾湾频道③",龍華日韓
-http://tv543.cc/litv.php?id=litv-longturn11
-#EXTINF:-1,tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="https://epg.112114.xyz/logo/龍華經典.png" group-title="🐉湾湾频道③",龍華經典
-http://tv543.cc/litv.php?id=litv-longturn21
-#EXTINF:-1,tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" group-title="🐉湾湾频道③",龍華電影
-http://tv543.cc/litv.php?id=litv-longturn03
-#EXTINF:-1,tvg-id="寰宇新聞2" tvg-name="寰宇新聞2" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞2.png" group-title="🐉湾湾频道③",寰宇新聞2
-http://tv543.cc/litv.php?id=litv-longturn15
-#EXTINF:-1,tvg-id="非凡商業" tvg-name="非凡商業" tvg-logo="https://epg.112114.xyz/logo/非凡商業.png" group-title="🐉湾湾频道③",非凡商業
-http://tv543.cc/litv.php?id=4gtv-4gtv048
-#EXTINF:-1,tvg-id="第1商業" tvg-name="第1商業" tvg-logo="https://epg.112114.xyz/logo/第1商業.png" group-title="🐉湾湾频道③",第1商業
-http://tv543.cc/litv.php?id=4gtv-4gtv104
-#EXTINF:-1,tvg-id="采昌影劇" tvg-name="采昌影劇" tvg-logo="https://epg.112114.xyz/logo/采昌影劇.png" group-title="🐉湾湾频道③",采昌影劇
-http://tv543.cc/litv.php?id=4gtv-4gtv049
-#EXTINF:-1,tvg-id="影迷數位電影" tvg-name="影迷數位電影" tvg-logo="https://epg.112114.xyz/logo/影迷數位電影.png" group-title="🐉湾湾频道③",影迷數位電影
-http://tv543.cc/litv.php?id=4gtv-4gtv011
-#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="🐉湾湾频道③",ArirangTV
-http://tv543.cc/litv.php?id=4gtv-4gtv079
-#EXTINF:-1,tvg-id="Classica古典樂" tvg-name="Classica古典樂" tvg-logo="https://epg.112114.xyz/logo/CLASSICA古典樂.png" group-title="🐉湾湾频道③",Classica古典樂
-http://tv543.cc/litv.php?id=4gtv-4gtv059
-#EXTINF:-1,tvg-id="GINXEsportsTV" tvg-name="GINXEsportsTV" tvg-logo="https://epg.112114.xyz/logo/GINXESPORTSTV.png" group-title="🐉湾湾频道③",GINXEsportsTV
-http://tv543.cc/litv.php?id=4gtv-4gtv053
-#EXTINF:-1,tvg-id="Globetrotter環遊旅行家" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://epg.112114.xyz/logo/GLOBETROTTER環遊旅行家.png" group-title="🐉湾湾频道③",Globetrotter環遊旅行家
-http://tv543.cc/litv.php?id=4gtv-4gtv016
-#EXTINF:-1,tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://epg.112114.xyz/logo/MEZZOLIVEHD.png" group-title="🐉湾湾频道③",MezzoLive
-http://tv543.cc/litv.php?id=4gtv-4gtv083
-#EXTINF:-1,tvg-id="Smart知識" tvg-name="Smart知識" tvg-logo="https://epg.112114.xyz/logo/SMART知識.png" group-title="🐉湾湾频道③",Smart知識
-http://tv543.cc/litv.php?id=litv-longturn19
-#EXTINF:-1,tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="🐉湾湾频道③",TraceUrban
-http://tv543.cc/litv.php?id=4gtv-4gtv082
-#EXTINF:-1,tvg-id="TRACESPORTS" tvg-name="TRACESPORTS" tvg-logo="https://epg.112114.xyz/logo/TRACESPORTS.png" group-title="🐉湾湾频道③",TraceSports
-http://tv543.cc/litv.php?id=4gtv-4gtv077
-#EXTINF:-1,tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://epg.112114.xyz/logo/VOA美國之音.png" group-title="🐉湾湾频道③",VOA美國之音
-http://tv543.cc/litv.php?id=litv-ftv03
-#EXTINF:-1,tvg-id="半島國際新聞" tvg-name="半島國際新聞" tvg-logo="https://epg.112114.xyz/logo/半島國際新聞.png" group-title="🐉湾湾频道③",半島國際新聞
-http://tv543.cc/litv.php?id=litv-ftv10
-#EXTINF:-1,tvg-id="視納華仁紀實" tvg-name="視納華仁紀實" tvg-logo="https://epg.112114.xyz/logo/視納華仁紀實.png" group-title="🐉湾湾频道③",視納華仁紀實
-http://tv543.cc/litv.php?id=4gtv-4gtv013
-#EXTINF:-1,tvg-id="達文西" tvg-name="達文西" tvg-logo="https://epg.112114.xyz/logo/達文西.png" group-title="🐉湾湾频道③",達文西
-http://tv543.cc/litv.php?id=4gtv-4gtv018
-#EXTINF:-1,tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://epg.112114.xyz/logo/國會頻道1.png" group-title="🐉湾湾频道③",國會頻道1
-http://tv543.cc/litv.php?id=4gtv-4gtv084
-#EXTINF:-1,tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://epg.112114.xyz/logo/國會頻道2.png" group-title="🐉湾湾频道③",國會頻道2
-http://tv543.cc/litv.php?id=4gtv-4gtv085
-
-
 #EXTINF:-1 group-title="🐉湾湾频道④",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="🐉湾湾频道④",台视
@@ -2664,8 +1974,6 @@ rtmp://f13h.mine.nu/sat/tv741
 http://v4h.xiepeiru.top:1123/iptv/ga/CNAYaZhouXinWen
 #EXTINF:-1,tvg-id="CNA亚洲新闻" tvg-name="CNA亚洲新闻" tvg-logo="https://epg.112114.xyz/logo/CNA亚洲新闻.png" group-title="🐉湾湾频道④",CNA亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1,tvg-id="三立台灣台" tvg-name="三立台灣台" tvg-logo="https://epg.112114.xyz/logo/三立台灣台.png" group-title="🐉湾湾频道④",三立台灣台
-http://103.147.236.18:7774/play/a00g/index.m3u8
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="🐉湾湾频道④",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="🐉湾湾频道④",台视新闻
@@ -2693,8 +2001,6 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1,tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://epg.112114.xyz/logo/中华小当家.png" group-title="🐉湾湾频道④",中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="🐉湾湾频道④",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="🐉湾湾频道④",amc电影
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1,tvg-id="ASC搜索" tvg-name="ASC搜索" tvg-logo="https://epg.112114.xyz/logo/ASC搜索.png" group-title="🐉湾湾频道④",ASC搜索
 http://61.221.215.25:8800/hls/50/index.m3u8
@@ -2726,63 +2032,9 @@ http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4025/chunklist0.m3u8
 #EXTINF:-1,tvg-id="KTSF26" tvg-name="KTSF26" tvg-logo="https://epg.112114.xyz/logo/KTSF26.png" group-title="🐉湾湾频道④",KTSF26
 http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
-#EXTINF:-1,tvg-id="环球电视台" tvg-name="环球电视台" tvg-logo="https://epg.112114.xyz/logo/环球电视台.png" group-title="🐉湾湾频道④",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1,tvg-id="食尚玩家" tvg-name="食尚玩家" tvg-logo="https://epg.112114.xyz/logo/食尚玩家.png" group-title="🐉湾湾频道④",食尚玩家
 http://125.227.210.55:8187/VideoInput/play.ts
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道④",⬇️以下频道需要魔法⬇️
-https://cloud.wujiyan.cc/f/8Dmfb/3.MOV
-#EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="🐉湾湾频道④",中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道④",TVBS新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台.png" group-title="🐉湾湾频道④",寰宇新聞台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1,tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://epg.112114.xyz/logo/東森新聞.png" group-title="🐉湾湾频道④",東森新聞
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="🐉湾湾频道④",中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="🐉湾湾频道④",中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1,tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.112114.xyz/logo/亞洲新聞台.png" group-title="🐉湾湾频道④",亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="🐉湾湾频道④",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1,tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://epg.112114.xyz/logo/靖天電影台.png" group-title="🐉湾湾频道④",靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" group-title="🐉湾湾频道④",華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1,tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://epg.112114.xyz/logo/龍華電影台.png" group-title="🐉湾湾频道④",龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1,tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://epg.112114.xyz/logo/龍華經典台.png" group-title="🐉湾湾频道④",龍華經典台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://epg.112114.xyz/logo/龍華日韓台.png" group-title="🐉湾湾频道④",龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1,tvg-id="THRILL" tvg-name="THRILL" tvg-logo="https://epg.112114.xyz/logo/THRILL.png" group-title="🐉湾湾频道④",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="🐉湾湾频道④",France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="🐉湾湾频道④",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1,tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://epg.112114.xyz/logo/東方衛視國際頻道.png" group-title="🐉湾湾频道④",東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="NICKJR." tvg-name="NICKJR." tvg-logo="https://epg.112114.xyz/logo/NICKJR..png" group-title="🐉湾湾频道④",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.112114.xyz/logo/NICKELODEON.png" group-title="🐉湾湾频道④",Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="🐉湾湾频道④",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1,tvg-id="i-Fun 動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://epg.112114.xyz/logo/IFUN動漫台.png" group-title="🐉湾湾频道④",i-Fun 動漫台
-http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="🐉湾湾频道④",NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="🐉湾湾频道④",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="🐉湾湾频道④",NHK東京総合
-http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="🐉湾湾频道④",纬来体育台
-http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉日本频道",👉以下频道需要魔法👈
@@ -2901,7 +2153,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
-
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉韩国频道",👉以下频道需要魔法👈
 https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1 group-title="🐉韩国频道",Arirang 阿里郎
@@ -2966,6 +2217,7 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="🐉韩国频道",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉英国频道🦁",👉需要用英国节点👈
 https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
@@ -3463,7 +2715,6 @@ http://ns1.iptvcodes.org:8880/D12m1019/707833990/28887
 http://ns1.iptvcodes.org:8880/D12m1019/707833990/28882
 #EXTINF:-1 tvg-id="28840" tvg-name="UK219:CITV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK219CITVHD.png" group-title="🐉英国频道🦁",219:CITV
 http://ns1.iptvcodes.org:8880/D12m1019/707833990/28840
-
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉美国频道🦅",👉需要用美国节点👈
 https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
