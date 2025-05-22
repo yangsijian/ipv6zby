@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml,https://raw.githubusercontent.com/fongmitv/epg/main/EPG.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.v1.mk/fy.xml,https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/output/filtered_epg.xml"
 
 
+
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="🌟央视卫视-①🌟",CCTV1 综合
 http://66.siyba.cn/d44tC
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="🌟央视卫视-①🌟",CCTV2 财经
@@ -53,6 +54,8 @@ http://66.siyba.cn/a3aad
 http://66.siyba.cn/aNMFG
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="🌟央视卫视-①🌟",湖南卫视
 http://66.siyba.cn/aSrCd
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="🌟央视卫视-①🌟",芒果TV（我是歌手专用）
+https://mysupertv.pendy.dpdns.org/mgtv/mgtv.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="🌟央视卫视-①🌟",北京卫视
 http://66.siyba.cn/bD1wo
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="🌟央视卫视-①🌟",浙江卫视
@@ -353,10 +356,8 @@ http://66.siyba.cn/a0emr
 http://66.siyba.cn/breD3
 
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟央视卫视-④🌟",💎此分类需要等待10秒可看💎
-http://66.siyba.cn/7KJGE
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟央视卫视-④🌟",💎此分类需要等待10秒可看💎
-http://66.siyba.cn/7KJGE
+
+
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🌟央视卫视-④🌟",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🌟央视卫视-④🌟",CCTV2
@@ -840,6 +841,8 @@ https://7pal.short.gy/eusport4k
 https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="🌟4K-UHD🌟",NESN UHD
 https://7pal.short.gy/nesnuhd
+
+
 
 
 
@@ -1426,7 +1429,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="🌟咪咕体育②🌟",咪咕视频4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
 
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟香港频道①🌟",TVB翡翠台
@@ -2650,6 +2652,7 @@ https://ythls-v3.onrender.com/video/ExWAzLFCvWQ.m3u8?playlist=index
 https://ythls-v3.onrender.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8?playlist=index
 
 
+
 #EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="🌟韩国频道🌟",tvN 꽃보다할배
 https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8
 #EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="🌟韩国频道🌟",tvN 나의 아저씨
@@ -2902,7 +2905,6 @@ http://1tv41.icu:8080/30065823/63154294/35253
 http://1tv41.icu:8080/30065823/63154294/35252
 #EXTINF:-1 tvg-id="35249" tvg-name="UK MOVIES: SKY GREATS" group-title="🌟英国频道🌟",UK MOVIES: SKY GREATS
 http://1tv41.icu:8080/30065823/63154294/35249
-
 
 
 
@@ -5089,7 +5091,8 @@ https://cc05.tv12.xyz/162.m3u8
 
 
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="🌟上海频道🌟",五星体育 {比赛开始才有画面}
-https://pullhw.zhaoyangyang.cn/live/8792198.m3u8?auth_info=N8T4FVIavMwK4dqmHPjKDBnzs4OKrJOMW%2BWDa7wvaEI%3D.654531726e7373746e42546176656238
+https://pullhw.zhaoyangyang.cn/live/8792918.m3u8?auth_info=EciL6kg4mswFYo4IHnV9P1pjT5DM4Jwrxl%2BlT3X%2FQlc%3D.4e6f5937646f426374336534697a557a
+
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="🌟上海频道🌟",五星体育
 http://218.1.217.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="🌟上海频道🌟",五星体育
