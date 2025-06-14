@@ -223,8 +223,8 @@ https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_64
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2025
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml,https://raw.githubusercontent.com/fongmitv/epg/main/EPG.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.v1.mk/fy.xml,https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/output/filtered_epg.xml"
 
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml,https://raw.githubusercontent.com/fongmitv/epg/main/EPG.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.v1.mk/fy.xml,https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/output/filtered_epg.xml"
 
 
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV1.png" group-title="🌟央视卫视🌟" ,CCTV1
@@ -309,90 +309,88 @@ http://qwt.zhibotv.top:2016/全网通.php?id=西南卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/山西卫视.png" group-title="🌟央视卫视🌟",山西卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=陕西卫视
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CHC动作电影.png" group-title="🌟央视卫视🌟",CHC动作电影
-http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CHC影迷电影.png" group-title="🌟央视卫视🌟",CHC影迷电影
-http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CHC家庭影院.png" group-title="🌟央视卫视🌟",CHC家庭影院
-http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="🌟央视卫视-①🌟",CCTV-1 综合
-http://suo.im/dnPR0
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="🌟央视卫视-①🌟",CCTV-2 财经
- http://suo.im/7mRNf
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV3.png" group-title="🌟央视卫视-①🌟",CCTV-3 综艺
-http://suo.im/87uiI
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4.png" group-title="🌟央视卫视-①🌟",CCTV-4 中文国际
- http://suo.im/87xbV
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5.png" group-title="🌟央视卫视-①🌟",CCTV-5 体育
-http://suo.im/8S9Ho
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png" group-title="🌟央视卫视-①🌟",CCTV-5+ 体育赛事
-http://suo.im/9CMcR
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV6.png" group-title="🌟央视卫视-①🌟",CCTV-6 电影
-http://suo.im/anoGI
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV7.png" group-title="🌟央视卫视-①🌟",CCTV-7 国防军事
-http://suo.im/b7YAT
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV8.png" group-title="🌟央视卫视-①🌟",CCTV-8 电视剧
-http://suo.im/bSAQe
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV9.png" group-title="🌟央视卫视-①🌟",CCTV-9 纪录
-http://suo.im/cDdlH
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV10.png" group-title="🌟央视卫视-①🌟",CCTV-10 科教
-http://suo.im/dnPRa
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV11.png" group-title="🌟央视卫视-①🌟",CCTV-11 戏曲
-http://suo.im/7mRNp
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV12.png" group-title="🌟央视卫视-①🌟",CCTV-12 社会与法
-http://suo.im/87uiS
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="🌟央视卫视-①🌟",CCTV-13 新闻
-http://suo.im/87xc5
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV14.png" group-title="🌟央视卫视-①🌟",CCTV-14 少儿
-http://suo.im/8S9Hy
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV15.png" group-title="🌟央视卫视-①🌟",CCTV-15 音乐
-http://suo.im/9CMbp
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV17.png" group-title="🌟央视卫视-①🌟",CCTV-17 农业农村
-http://suo.im/anoGS
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="🌟央视卫视-①🌟",浙江卫视
-https://my5353.com/iaR4M
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏卫视.png" group-title="🌟央视卫视-①🌟",江苏卫视
-https://my5353.com/9d6GF
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/东方卫视.png" group-title="🌟央视卫视-①🌟",东方卫视
-https://my5353.com/Q5OrS
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视.png" group-title="🌟央视卫视-①🌟",北京卫视
-https://my5353.com/RoqBH
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东卫视.png" group-title="🌟央视卫视-①🌟",广东卫视
-https://my5353.com/ToKNJ
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/东南卫视.png" group-title="🌟央视卫视-①🌟",东南卫视
-https://my5353.com/amMik
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/湖北卫视.png" group-title="🌟央视卫视-①🌟",湖北卫视
-https://my5353.com/7ytZL
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江西卫视.png" group-title="🌟央视卫视-①🌟",江西卫视
-https://my5353.com/mCRDY
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/陕西卫视.png" group-title="🌟央视卫视-①🌟",陕西卫视
-https://my5353.com/avhjc
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古卫视.png" group-title="🌟央视卫视-①🌟",内蒙古卫视
-https://my5353.com/ULVfJ
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/新疆卫视.png" group-title="🌟央视卫视-①🌟",新疆卫视
-https://my5353.com/ojpai
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/西藏卫视.png" group-title="🌟央视卫视-①🌟",西藏卫视
-https://my5353.com/CunHt
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南卫视.png" group-title="🌟央视卫视-①🌟",河南卫视
-https://my5353.com/eOOSx
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/吉林卫视.png" group-title="🌟央视卫视-①🌟",吉林卫视
-https://my5353.com/ifDDS
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/青海卫视.png" group-title="🌟央视卫视-①🌟",青海卫视
-https://my5353.com/W2FBt
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/海南卫视.png" group-title="🌟央视卫视-①🌟",海南卫视
-https://my5353.com/6nyvx
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/大湾区卫视.png" group-title="🌟央视卫视-①🌟",大湾区卫视
-https://my5353.com/vVQT7
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="🌟央视卫视-①🌟",CHC家庭影院
-https://my5353.com/gpejG
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC动作电影.png" group-title="🌟央视卫视-①🌟",CHC动作电影
-https://my5353.com/sGBSA
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="🌟央视卫视-①🌟",CHC影迷电影
-https://my5353.com/RLLjd
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="🌟央视卫视-①🌟",重温经典
-https://my5353.com/MMmAv
 
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-1 综合
+https://bit.ly/Cctv-1
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-2 财经
+https://bit.ly/Ccctv-2
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/864/202204010055_1626679292691_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-3 综艺
+https://bit.ly/Cctv-3
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/947/202204010054_1626679457281_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-4 中文国际
+https://bit.ly/4mVYspp
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/171/202204010048_1626679645474_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-5 体育
+https://bit.ly/4dYrn8k
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/516/288/202204010048_1626679726956_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-5+ 体育赛事
+https://rebrand.ly/9b62cf
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/872/202204010054_1626679942827_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-6 电影
+https://rebrand.ly/c66fca
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/622/202204010054_1626680072401_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-7 国防军事
+https://rebrand.ly/f65992
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/868/202204010049_1626677144094_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-8 电视剧
+https://rebrand.ly/79bfd2
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/624/202204010054_1626677492322_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-9 纪录
+https://rebrand.ly/1f942d
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/874/202204010054_1626677759168_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-10 科教
+https://rebrand.ly/15aca0
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/988/610/202204010054_1626677917611_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-11 戏曲
+https://rebrand.ly/2deb4a
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/627/202204010053_1626678104342_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-12 社会与法
+https://my5353.com/mfixO
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/208/864/202204010051_2202208864_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-13 新闻
+https://my5353.com/GyZJ2
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/875/202204010054_1626678143105_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-14 少儿
+https://my5353.com/sG6eH
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-15 音乐
+https://my5353.com/K5muu
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CCTV-16 农业农村
+https://my5353.com/kjXtC
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="🌟央视卫视-①🌟",北京卫视
+https://my5353.com/YvYxi
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="🌟央视卫视-①🌟",湖南卫视
+https://my5353.com/Ybasg
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="🌟央视卫视-①🌟",湖南卫视（我是歌手专用）
+https://www.freetv.top/geshou/954827961.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="🌟央视卫视-①🌟",浙江卫视
+https://my5353.com/o53RM
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/058/351/202106171938_5100043384_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 东方卫视
+https://my5353.com/W5sAL
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/199/408/202104022140_5100156802_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 江苏卫视
+https://my5353.com/MqFKU
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 广东卫视
+https://my5353.com/vX27V
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/492/202303201551_1658134112236_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 江西卫视
+https://my5353.com/BJ4J1
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/585/202304031400_1679994685582_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 河南卫视
+https://my5353.com/Tqdmb
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/020/475/202207191732_1658131375175_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 陕西卫视
+https://my5353.com/w83bM
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/322/852/202304081513_1677570732561_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 大湾区卫视
+https://my5353.com/9h67m
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/163/202501231715_1658138621263_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 湖北卫视
+https://my5353.com/4Utat
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/164/202501231715_1658138745288_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 吉林卫视
+https://my5353.com/LTcMP
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/166/202501231715_1658138568499_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 青海卫视
+https://my5353.com/iuSuy
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/896/202504141808_1744624877831_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 东南卫视
+https://my5353.com/ELYLj
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/165/202501231715_1658138887282_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 海南卫视
+https://my5353.com/bf1Hc
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/897/202308111126_1690875414853_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 海峡卫视
+https://my5353.com/Amgfi
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/275/202107191641_5100001716_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 上海新闻综合
+https://my5353.com/O8JTu
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg" group-title="🌟央视卫视-①🌟", 上视东方影视
+https://my5353.com/7FbiK
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/008/312/202209271630_2201008312_H169_1080.jpg" group-title="🌟央视卫视-①🌟", 上海第一财经
+https://my5353.com/s7Rfq
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CHC影迷电影
+https://my5353.com/Okw18
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/795/202308221159_1692676692674_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CHC动作电影
+https://my5353.com/iwcxG
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="🌟央视卫视-①🌟", CHC家庭影院
+https://my5353.com/BtL6s
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="🌟央视卫视-②🌟",CCTV1
@@ -1239,6 +1237,11 @@ https://7pal.short.gy/nesnuhd
 
 
 
+
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟国际体育🌟",💎看哪个地区的台就用哪个地区的节点💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟国际体育🌟",💎看哪个地区的台就用哪个地区的节点💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
 #EXTINF:-1,tvg-id="TNT Sports 4K" tvg-name="TNT Sports 4K" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="🌟国际体育🌟",TNT Sports 4K
 https://7pal.short.gy/TNTUltimate
 #EXTINF:-1,tvg-id="TUDN 2" tvg-name="TUDN 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="🌟国际体育🌟",TUDN 2
@@ -1886,6 +1889,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟香港频道①🌟",💎以下频道需要魔法💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟香港频道①🌟",TVB翡翠台
 https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟香港频道①🌟",TVB翡翠台
@@ -2039,6 +2044,21 @@ https://cdn6.163189.xyz/live/chu/stream.m3u8
 
 
 
+
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟香港频道②🌟",💎以下频道需要用魔法💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟香港频道②🌟",💎以下频道需要用魔法💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟香港频道②🌟",翡翠台
+http://cdn.jdshipin.com/jisu.php?id=fct
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="🌟香港频道②🌟",无线新闻
+http://cdn.jdshipin.com/jisu.php?id=wxxw
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="🌟香港频道②🌟",凤凰中文
+http://cdn.jdshipin.com/jisu.php?id=fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="🌟香港频道②🌟",凤凰资讯
+http://cdn.jdshipin.com/jisu.php?id=fhzx
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="🌟香港频道②🌟",凤凰香港
+http://cdn.jdshipin.com/jisu.php?id=fhxg
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟香港频道②🌟",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🌟香港频道②🌟",翡翠台
@@ -2193,6 +2213,10 @@ https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
 
 
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟湾湾频道①🌟",💎以下频道需要用魔法💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟湾湾频道①🌟",💎以下频道需要用魔法💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="🌟湾湾频道①🌟",中天新闻
 https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="🌟湾湾频道①🌟",东森新闻
@@ -2380,6 +2404,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 
 
 
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟湾湾频道②🌟",💎以下频道需要用魔法💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟湾湾频道②🌟",💎以下频道需要用魔法💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="🌟湾湾频道②🌟",台視新聞台
 http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv051/index.m3u8
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="🌟湾湾频道②🌟",台視HD
@@ -2856,7 +2884,10 @@ http://xn--elt51t.azip.dpdns.org:5008/nnews-vn/index.m3u8
 http://xn--elt51t.azip.dpdns.org:5008/nnews-wf/index.m3u8
 
 
-
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟湾湾频道③🌟",💎以下频道需要用魔法💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟湾湾频道③🌟",💎以下频道需要用魔法💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="🌟湾湾频道③🌟",鏡電視新聞台
 http://4gtv.livednow.dpdns.org/li-4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="🌟湾湾频道③🌟",東森新聞
@@ -3314,6 +3345,8 @@ http://4gtv.livednow.dpdns.org/of-litv-longturn20/index.m3u8
 
 
 
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟湾湾频道④🌟",💎请使用湾湾节点观看💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1 group-title="🌟湾湾频道④🌟",民视
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 group-title="🌟湾湾频道④🌟",台视
@@ -3779,6 +3812,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 
 
 
+
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟日本频道🌟",💎以下频道需要魔法💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1,tvg-id="NHK" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" group-title="🌟日本频道🌟",NHK World-Japan
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 tvg-id="ＮＨＫ総合１・東京.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="🌟日本频道🌟",NHK総合 東京
@@ -4069,7 +4105,8 @@ https://ythls-v3.onrender.com/video/ExWAzLFCvWQ.m3u8?playlist=index
 https://ythls-v3.onrender.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8?playlist=index
 
 
-
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟韩国频道🌟",💎以下频道需要魔法💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="🌟韩国频道🌟",tvN 꽃보다할배
 https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8
 #EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="🌟韩国频道🌟",tvN 나의 아저씨
@@ -4150,7 +4187,10 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟英国频道🌟",💎需要用英国节点💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟英国频道🌟",💎需要用英国节点💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1 tvg-id="1001254" tvg-name="UK: CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="🌟英国频道🌟",UK: CNBC
 http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/1001254
 #EXTINF:-1 tvg-id="1001255" tvg-name="UK: CNN" tvg-logo="https://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="🌟英国频道🌟",UK: CNN
@@ -4572,8 +4612,10 @@ http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/1001429
 
 
 
-
-
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟美国频道🌟",💎需要用美国节点💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟美国频道🌟",💎需要用美国节点💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1 tvg-id="999751" tvg-name="US: ABC NEWS" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61dWCp2ZtWL.png" group-title="🌟美国频道🌟",US: ABC NEWS
 http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/999751
 #EXTINF:-1 tvg-id="999752" tvg-name="US: ACCU WEATHER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AccuWeather_Logo.svg/1280px-AccuWeather_Logo.svg.png" group-title="🌟美国频道🌟",US: ACCU WEATHER
@@ -4909,6 +4951,10 @@ http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/999455
 
 
 
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟加拿大频道🌟",💎需要用加拿大节点💎
+https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🌟加拿大频道🌟",💎需要用加拿大节点💎
+https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 #EXTINF:-1 tvg-id="1001079" tvg-name="CA: AL JAZEERA (E)" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="🌟加拿大频道🌟",CA: AL JAZEERA (E)
 http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/1001079
 #EXTINF:-1 tvg-id="1001080" tvg-name="CA: BBC World News" tvg-logo="https://i.ibb.co/kJJPSDw/bbc-world-news.png" group-title="🌟加拿大频道🌟",CA: BBC World News
@@ -5080,6 +5126,674 @@ http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/1001077
 #EXTINF:-1 tvg-id="1001078" tvg-name="CA: TCM (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="🌟加拿大频道🌟",CA: TCM (E)
 http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/1001078
 
+
+#EXTINF:-1 tvg-id="971640" tvg-name="FR: EVENEMENT SPORT HDR/UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EVENEMENT SPORT HDR/UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971640
+#EXTINF:-1 tvg-id="971641" tvg-name="FR: EVENEMENT SPORT UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EVENEMENT SPORT UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971641
+#EXTINF:-1 tvg-id="971691" tvg-name="FR: M6 UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: M6 UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971691
+#EXTINF:-1 tvg-id="971719" tvg-name="FR: RMC DECOUVERTE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: RMC DECOUVERTE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971719
+#EXTINF:-1 tvg-id="971720" tvg-name="FR: RMC STORY" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: RMC STORY
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971720
+#EXTINF:-1 tvg-id="971730" tvg-name="FR: TF1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TF1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971730
+#EXTINF:-1 tvg-id="971731" tvg-name="FR: TF1 HDR/UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TF1 HDR/UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971731
+#EXTINF:-1 tvg-id="971732" tvg-name="FR: TF1 SERIES FILMS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TF1 SERIES FILMS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971732
+#EXTINF:-1 tvg-id="971733" tvg-name="FR: TF1 UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TF1 UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971733
+#EXTINF:-1 tvg-id="971500" tvg-name="FR: 6TER" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: 6TER
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971500
+#EXTINF:-1 tvg-id="971501" tvg-name="FR: AB1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: AB1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971501
+#EXTINF:-1 tvg-id="971502" tvg-name="FR: ACTION" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: ACTION
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971502
+#EXTINF:-1 tvg-id="971503" tvg-name="FR: AL JAZEERA ARABIC" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: AL JAZEERA ARABIC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971503
+#EXTINF:-1 tvg-id="971504" tvg-name="FR: AL JAZEERA ENG" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: AL JAZEERA ENG
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971504
+#EXTINF:-1 tvg-id="971505" tvg-name="FR: ARIRANG TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: ARIRANG TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971505
+#EXTINF:-1 tvg-id="971506" tvg-name="FR: ARTE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: ARTE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971506
+#EXTINF:-1 tvg-id="971545" tvg-name="FR: CANAL+ PREMIER LEAGUE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ PREMIER LEAGUE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971545
+#EXTINF:-1 tvg-id="971606" tvg-name="FR: EUROSPORT 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EUROSPORT 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971606
+#EXTINF:-1 tvg-id="971607" tvg-name="FR: EUROSPORT 2" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EUROSPORT 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971607
+#EXTINF:-1 tvg-id="971546" tvg-name="FR: CANAL+ SERIES" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ SERIES
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971546
+#EXTINF:-1 tvg-id="971547" tvg-name="FR: CANAL+ SPORT" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ SPORT
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971547
+#EXTINF:-1 tvg-id="971548" tvg-name="FR: CANAL+ SPORT 360" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ SPORT 360
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971548
+#EXTINF:-1 tvg-id="971549" tvg-name="FR: CANAL+ UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971549
+#EXTINF:-1 tvg-id="971507" tvg-name="FR: ASTROCENTER TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: ASTROCENTER TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971507
+#EXTINF:-1 tvg-id="971508" tvg-name="FR: AUTOMOTO LA CHAINE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: AUTOMOTO LA CHAINE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971508
+#EXTINF:-1 tvg-id="971509" tvg-name="FR: BBC WORLD NEWS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BBC WORLD NEWS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971509
+#EXTINF:-1 tvg-id="971510" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971510
+#EXTINF:-1 tvg-id="971511" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971511
+#EXTINF:-1 tvg-id="971512" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971512
+#EXTINF:-1 tvg-id="971514" tvg-name="FR: BEIN SPORTS MAX 4" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS MAX 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971514
+#EXTINF:-1 tvg-id="971515" tvg-name="FR: BEIN SPORTS MAX 5" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS MAX 5
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971515
+#EXTINF:-1 tvg-id="971516" tvg-name="FR: BEIN SPORTS MAX 6" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS MAX 6
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971516
+#EXTINF:-1 tvg-id="971517" tvg-name="FR: BEIN SPORTS MAX 7" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS MAX 7
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971517
+#EXTINF:-1 tvg-id="971518" tvg-name="FR: BEIN SPORTS MAX 8" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS MAX 8
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971518
+#EXTINF:-1 tvg-id="971519" tvg-name="FR: BEIN SPORTS MAX 9" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS MAX 9
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971519
+#EXTINF:-1 tvg-id="971513" tvg-name="FR: BEIN SPORTS MAX 10" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BEIN SPORTS MAX 10
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971513
+#EXTINF:-1 tvg-id="971520" tvg-name="FR: BET" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BET
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971520
+#EXTINF:-1 tvg-id="971521" tvg-name="FR: BFM BUSINESS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BFM BUSINESS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971521
+#EXTINF:-1 tvg-id="971522" tvg-name="FR: BFM TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: BFM TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971522
+#EXTINF:-1 tvg-id="971523" tvg-name="FR: C8" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: C8
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971523
+#EXTINF:-1 tvg-id="971524" tvg-name="FR: CANAL J" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL J
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971524
+#EXTINF:-1 tvg-id="971525" tvg-name="FR: CANAL+" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971525
+#EXTINF:-1 tvg-id="971526" tvg-name="FR: CANAL+ BOX OFFICE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ BOX OFFICE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971526
+#EXTINF:-1 tvg-id="971527" tvg-name="FR: Canal+ Box Office UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Canal+ Box Office UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971527
+#EXTINF:-1 tvg-id="971528" tvg-name="FR: CANAL+ CINEMA" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ CINEMA
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971528
+#EXTINF:-1 tvg-id="971529" tvg-name="FR: CANAL+ Docs" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ Docs
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971529
+#EXTINF:-1 tvg-id="971530" tvg-name="FR: CANAL+ EVENT EXPERT 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971530
+#EXTINF:-1 tvg-id="971531" tvg-name="FR: CANAL+ EVENT EXPERT 2" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971531
+#EXTINF:-1 tvg-id="971532" tvg-name="FR: CANAL+ EVENT EXPERT 3" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971532
+#EXTINF:-1 tvg-id="971533" tvg-name="FR: CANAL+ EVENT EXPERT 4" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971533
+#EXTINF:-1 tvg-id="971534" tvg-name="FR: CANAL+ EVENT EXPERT 5" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT 5
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971534
+#EXTINF:-1 tvg-id="971535" tvg-name="FR: CANAL+ EVENT EXPERT 6" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT 6
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971535
+#EXTINF:-1 tvg-id="971536" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 01" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT CANAL 01
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971536
+#EXTINF:-1 tvg-id="971537" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 02" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT CANAL 02
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971537
+#EXTINF:-1 tvg-id="971538" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 03" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT CANAL 03
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971538
+#EXTINF:-1 tvg-id="971539" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 04" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT CANAL 04
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971539
+#EXTINF:-1 tvg-id="971540" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 05" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ EVENT EXPERT CANAL 05
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971540
+#EXTINF:-1 tvg-id="971541" tvg-name="FR: CANAL+ FAMILY" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ FAMILY
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971541
+#EXTINF:-1 tvg-id="971542" tvg-name="FR: CANAL+ FOOT" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ FOOT
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971542
+#EXTINF:-1 tvg-id="971543" tvg-name="FR: CANAL+ GRAND ECRAN" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ GRAND ECRAN
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971543
+#EXTINF:-1 tvg-id="971544" tvg-name="FR: CANAL+ Kids" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+ Kids
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971544
+
+#EXTINF:-1 tvg-id="971550" tvg-name="FR: CANAL+LIVE 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+LIVE 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971550
+#EXTINF:-1 tvg-id="971561" tvg-name="FR: CANAL+LIVE 2" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+LIVE 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971561
+#EXTINF:-1 tvg-id="971562" tvg-name="FR: CANAL+LIVE 3" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+LIVE 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971562
+#EXTINF:-1 tvg-id="971563" tvg-name="FR: CANAL+LIVE 4" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+LIVE 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971563
+#EXTINF:-1 tvg-id="971564" tvg-name="FR: CANAL+LIVE 5" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CANAL+LIVE 5
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971564
+#EXTINF:-1 tvg-id="971569" tvg-name="FR: CARTOON NETWORK" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CARTOON NETWORK
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971569
+#EXTINF:-1 tvg-id="971570" tvg-name="FR: CARTOONITO" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CARTOONITO
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971570
+#EXTINF:-1 tvg-id="971571" tvg-name="FR: CHAINE EVENEMENT" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CHAINE EVENEMENT
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971571
+#EXTINF:-1 tvg-id="971572" tvg-name="FR: CHERIE 25" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CHERIE 25
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971572
+#EXTINF:-1 tvg-id="971573" tvg-name="FR: CHRONOS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CHRONOS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971573
+#EXTINF:-1 tvg-id="971574" tvg-name="FR: CINE+ CLASSIC" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CINE+ CLASSIC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971574
+#EXTINF:-1 tvg-id="971575" tvg-name="FR: CINE+ EMOTION" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CINE+ EMOTION
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971575
+#EXTINF:-1 tvg-id="971576" tvg-name="FR: CINE+ FAMILY" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CINE+ FAMILY
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971576
+#EXTINF:-1 tvg-id="971577" tvg-name="FR: CINE+ FESTIVAL" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CINE+ FESTIVAL
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971577
+#EXTINF:-1 tvg-id="971578" tvg-name="FR: CINE+ FRISSON" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CINE+ FRISSON
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971578
+#EXTINF:-1 tvg-id="971579" tvg-name="FR: CINE+ PREMIER (OCS)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CINE+ PREMIER (OCS)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971579
+#EXTINF:-1 tvg-id="971580" tvg-name="FR: CNBC" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CNBC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971580
+#EXTINF:-1 tvg-id="971581" tvg-name="FR: CNEWS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CNEWS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971581
+#EXTINF:-1 tvg-id="971582" tvg-name="FR: COMEDIE+" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: COMEDIE+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971582
+#EXTINF:-1 tvg-id="971583" tvg-name="FR: COMEDY CENTRAL" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: COMEDY CENTRAL
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971583
+#EXTINF:-1 tvg-id="971584" tvg-name="FR: CSTAR" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CSTAR
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971584
+#EXTINF:-1 tvg-id="971585" tvg-name="FR: CSTAR HITS FRANCE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: CSTAR HITS FRANCE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971585
+#EXTINF:-1 tvg-id="971586" tvg-name="FR: Dazn 1 (FHD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 1 (FHD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971586
+#EXTINF:-1 tvg-id="971588" tvg-name="FR: Dazn 2 (FHD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 2 (FHD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971588
+#EXTINF:-1 tvg-id="971589" tvg-name="FR: Dazn 2 (HD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 2 (HD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971589
+#EXTINF:-1 tvg-id="971591" tvg-name="FR: Dazn 3 (FHD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 3 (FHD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971591
+#EXTINF:-1 tvg-id="971592" tvg-name="FR: Dazn 3 (HD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 3 (HD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971592
+#EXTINF:-1 tvg-id="971594" tvg-name="FR: Dazn 4 (FHD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 4 (FHD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971594
+#EXTINF:-1 tvg-id="971595" tvg-name="FR: Dazn 4 (HD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 4 (HD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971595
+#EXTINF:-1 tvg-id="971597" tvg-name="FR: Dazn 5 (FHD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 5 (FHD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971597
+#EXTINF:-1 tvg-id="971598" tvg-name="FR: Dazn 5 (HD)" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Dazn 5 (HD)
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971598
+#EXTINF:-1 tvg-id="971600" tvg-name="FR: DISCOVERY CHANNEL" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: DISCOVERY CHANNEL
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971600
+#EXTINF:-1 tvg-id="971601" tvg-name="FR: DISCOVERY INVESTIGATION" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: DISCOVERY INVESTIGATION
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971601
+#EXTINF:-1 tvg-id="971602" tvg-name="FR: DISNEY CHANNEL" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: DISNEY CHANNEL
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971602
+#EXTINF:-1 tvg-id="971603" tvg-name="FR: DISNEY CHANNEL +1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: DISNEY CHANNEL +1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971603
+#EXTINF:-1 tvg-id="971604" tvg-name="FR: DISNEY JUNIOR" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: DISNEY JUNIOR
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971604
+#EXTINF:-1 tvg-id="971605" tvg-name="FR: EQUIDIA" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EQUIDIA
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971605
+#EXTINF:-1 tvg-id="971608" tvg-name="FR: EUROSPORT 360 1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EUROSPORT 360 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971608
+#EXTINF:-1 tvg-id="971619" tvg-name="FR: EUROSPORT 360 2" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EUROSPORT 360 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971619
+#EXTINF:-1 tvg-id="971630" tvg-name="FR: EUROSPORT 360 3" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EUROSPORT 360 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971630
+#EXTINF:-1 tvg-id="971634" tvg-name="FR: EUROSPORT 360 4" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EUROSPORT 360 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971634
+#EXTINF:-1 tvg-id="971635" tvg-name="FR: EUROSPORT 360 5" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: EUROSPORT 360 5
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971635
+#EXTINF:-1 tvg-id="971642" tvg-name="FR: F3 ALPES" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 ALPES
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971642
+#EXTINF:-1 tvg-id="971643" tvg-name="FR: F3 ALSACE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 ALSACE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971643
+#EXTINF:-1 tvg-id="971644" tvg-name="FR: F3 AQUITAINE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 AQUITAINE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971644
+#EXTINF:-1 tvg-id="971645" tvg-name="FR: F3 AUVERGNE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 AUVERGNE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971645
+#EXTINF:-1 tvg-id="971646" tvg-name="FR: F3 BNORMANDIE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 BNORMANDIE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971646
+#EXTINF:-1 tvg-id="971647" tvg-name="FR: F3 BOURGOGNE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 BOURGOGNE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971647
+#EXTINF:-1 tvg-id="971648" tvg-name="FR: F3 BRETAGNE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 BRETAGNE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971648
+#EXTINF:-1 tvg-id="971649" tvg-name="FR: F3 CENTRE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 CENTRE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971649
+#EXTINF:-1 tvg-id="971650" tvg-name="FR: F3 CHAMP ARDENNE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 CHAMP ARDENNE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971650
+#EXTINF:-1 tvg-id="971651" tvg-name="FR: F3 COTE D\'AZUR" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 COTE D\'AZUR
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971651
+#EXTINF:-1 tvg-id="971652" tvg-name="FR: F3 FRANCHE COMTE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 FRANCHE COMTE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971652
+#EXTINF:-1 tvg-id="971653" tvg-name="FR: F3 HNORMANDIE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 HNORMANDIE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971653
+#EXTINF:-1 tvg-id="971654" tvg-name="FR: F3 LANGUEDOCROU" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 LANGUEDOCROU
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971654
+#EXTINF:-1 tvg-id="971655" tvg-name="FR: F3 LIMOUSIN" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 LIMOUSIN
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971655
+#EXTINF:-1 tvg-id="971656" tvg-name="FR: F3 LORRAINE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 LORRAINE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971656
+#EXTINF:-1 tvg-id="971657" tvg-name="FR: F3 MIDI PYRENEES" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 MIDI PYRENEES
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971657
+#EXTINF:-1 tvg-id="971658" tvg-name="FR: F3 NORD PDC" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 NORD PDC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971658
+#EXTINF:-1 tvg-id="971659" tvg-name="FR: F3 PARIS IDF" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 PARIS IDF
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971659
+#EXTINF:-1 tvg-id="971660" tvg-name="FR: F3 PAYS DE LA LOIRE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 PAYS DE LA LOIRE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971660
+#EXTINF:-1 tvg-id="971661" tvg-name="FR: F3 PICARDIE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 PICARDIE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971661
+#EXTINF:-1 tvg-id="971662" tvg-name="FR: F3 POITOUCHAR" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 POITOUCHAR
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971662
+#EXTINF:-1 tvg-id="971663" tvg-name="FR: F3 PROV ALPES" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 PROV ALPES
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971663
+#EXTINF:-1 tvg-id="971664" tvg-name="FR: F3 RHONE ALPES" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: F3 RHONE ALPES
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971664
+#EXTINF:-1 tvg-id="971665" tvg-name="FR: FRANCE 2" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCE 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971665
+#EXTINF:-1 tvg-id="971666" tvg-name="FR: FRANCE 2 HDR/UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCE 2 HDR/UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971666
+#EXTINF:-1 tvg-id="971667" tvg-name="FR: France 2 UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: France 2 UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971667
+#EXTINF:-1 tvg-id="971670" tvg-name="FR: FRANCE 3" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCE 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971670
+#EXTINF:-1 tvg-id="971671" tvg-name="FR: FRANCE 4" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCE 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971671
+#EXTINF:-1 tvg-id="971672" tvg-name="FR: FRANCE 5" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCE 5
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971672
+#EXTINF:-1 tvg-id="971668" tvg-name="FR: FRANCE 24" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCE 24
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971668
+#EXTINF:-1 tvg-id="971669" tvg-name="FR: FRANCE 24 ENG" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCE 24 ENG
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971669
+#EXTINF:-1 tvg-id="971673" tvg-name="FR: FRANCE TV SERIES" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCE TV SERIES
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971673
+#EXTINF:-1 tvg-id="971674" tvg-name="FR: FRANCEINFO" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: FRANCEINFO
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971674
+#EXTINF:-1 tvg-id="971675" tvg-name="FR: GAME ONE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: GAME ONE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971675
+#EXTINF:-1 tvg-id="971676" tvg-name="FR: GOLF+" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: GOLF+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971676
+#EXTINF:-1 tvg-id="971677" tvg-name="FR: GP" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: GP
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971677
+#EXTINF:-1 tvg-id="971678" tvg-name="FR: GULLI" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: GULLI
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971678
+#EXTINF:-1 tvg-id="971679" tvg-name="FR: HISTOIRE TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: HISTOIRE TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971679
+#EXTINF:-1 tvg-id="971680" tvg-name="FR: I24 NEWS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: I24 NEWS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971680
+#EXTINF:-1 tvg-id="971681" tvg-name="FR: J-ONE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: J-ONE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971681
+#EXTINF:-1 tvg-id="971682" tvg-name="FR: L'EQUIPE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: L'EQUIPE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971682
+#EXTINF:-1 tvg-id="971683" tvg-name="FR: LA CHAINE METEO" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: LA CHAINE METEO
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971683
+#EXTINF:-1 tvg-id="971684" tvg-name="FR: LCI" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: LCI
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971684
+#EXTINF:-1 tvg-id="971685" tvg-name="FR: LCP" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: LCP
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971685
+#EXTINF:-1 tvg-id="971686" tvg-name="FR: LE FIGARO TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: LE FIGARO TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971686
+#EXTINF:-1 tvg-id="971687" tvg-name="FR: Loupe Art UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: Loupe Art UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971687
+#EXTINF:-1 tvg-id="971688" tvg-name="FR: LUXE TV UHD/4K" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: LUXE TV UHD/4K
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971688
+#EXTINF:-1 tvg-id="971689" tvg-name="FR: M6" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: M6
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971689
+#EXTINF:-1 tvg-id="971690" tvg-name="FR: M6 MUSIC" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: M6 MUSIC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971690
+#EXTINF:-1 tvg-id="971692" tvg-name="FR: MANGAS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: MANGAS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971692
+#EXTINF:-1 tvg-id="971693" tvg-name="FR: MCM" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: MCM
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971693
+#EXTINF:-1 tvg-id="971694" tvg-name="FR: MGG TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: MGG TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971694
+#EXTINF:-1 tvg-id="971695" tvg-name="FR: MOSAIQUE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: MOSAIQUE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971695
+#EXTINF:-1 tvg-id="971696" tvg-name="FR: MTV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: MTV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971696
+#EXTINF:-1 tvg-id="971697" tvg-name="FR: MUSEUM" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: MUSEUM
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971697
+#EXTINF:-1 tvg-id="971698" tvg-name="FR: NAT GEO" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NAT GEO
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971698
+#EXTINF:-1 tvg-id="971699" tvg-name="FR: NAT GEO WILD" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NAT GEO WILD
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971699
+#EXTINF:-1 tvg-id="971700" tvg-name="FR: NFOSPORT+" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NFOSPORT+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971700
+#EXTINF:-1 tvg-id="971701" tvg-name="FR: NHK WORLD-JAPAN" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NHK WORLD-JAPAN
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971701
+#EXTINF:-1 tvg-id="971702" tvg-name="FR: NICKELODEON" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NICKELODEON
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971702
+#EXTINF:-1 tvg-id="971703" tvg-name="FR: NICKELODEON JUNIOR" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NICKELODEON JUNIOR
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971703
+#EXTINF:-1 tvg-id="971704" tvg-name="FR: NICKELODEON TEEN" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NICKELODEON TEEN
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971704
+#EXTINF:-1 tvg-id="971705" tvg-name="FR: NICKELODEON+1" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NICKELODEON+1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971705
+#EXTINF:-1 tvg-id="971706" tvg-name="FR: NOA" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NOA
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971706
+#EXTINF:-1 tvg-id="971707" tvg-name="FR: NOVELAS TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NOVELAS TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971707
+#EXTINF:-1 tvg-id="971708" tvg-name="FR: NRJ 12" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NRJ 12
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971708
+#EXTINF:-1 tvg-id="971709" tvg-name="FR: NRJ HITS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: NRJ HITS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971709
+#EXTINF:-1 tvg-id="971710" tvg-name="FR: OLYMPIA TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: OLYMPIA TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971710
+#EXTINF:-1 tvg-id="971711" tvg-name="FR: PARAMOUNT CHANNEL" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: PARAMOUNT CHANNEL
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971711
+#EXTINF:-1 tvg-id="971712" tvg-name="FR: PARIS PREMIERE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: PARIS PREMIERE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971712
+#EXTINF:-1 tvg-id="971713" tvg-name="FR: PIWI+" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: PIWI+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971713
+#EXTINF:-1 tvg-id="971714" tvg-name="FR: PLANETE+" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: PLANETE+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971714
+#EXTINF:-1 tvg-id="971715" tvg-name="FR: PLANETE+ AVENTURE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: PLANETE+ AVENTURE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971715
+#EXTINF:-1 tvg-id="971716" tvg-name="FR: PLANETE+ CRIME" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: PLANETE+ CRIME
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971716
+#EXTINF:-1 tvg-id="971717" tvg-name="FR: POLAR+" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: POLAR+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971717
+#EXTINF:-1 tvg-id="971718" tvg-name="FR: RFM TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: RFM TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971718
+#EXTINF:-1 tvg-id="971721" tvg-name="FR: RTL9" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: RTL9
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971721
+#EXTINF:-1 tvg-id="971722" tvg-name="FR: SCIENCE ET VIE TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: SCIENCE ET VIE TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971722
+#EXTINF:-1 tvg-id="971723" tvg-name="FR: SERIE CLUB" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: SERIE CLUB
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971723
+#EXTINF:-1 tvg-id="971724" tvg-name="FR: SKWEEK 24/7" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: SKWEEK 24/7
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971724
+#EXTINF:-1 tvg-id="971725" tvg-name="FR: SPORT FRANCE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: SPORT FRANCE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971725
+#EXTINF:-1 tvg-id="971726" tvg-name="FR: STANDS" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: STANDS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971726
+#EXTINF:-1 tvg-id="971727" tvg-name="FR: TCM CINEMA" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TCM CINEMA
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971727
+#EXTINF:-1 tvg-id="971728" tvg-name="FR: TELETOON+" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TELETOON+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971728
+#EXTINF:-1 tvg-id="971729" tvg-name="FR: TEVA" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TEVA
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971729
+#EXTINF:-1 tvg-id="971734" tvg-name="FR: TFX" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TFX
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971734
+#EXTINF:-1 tvg-id="971735" tvg-name="FR: TIJI" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TIJI
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971735
+#EXTINF:-1 tvg-id="971736" tvg-name="FR: TLC" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TLC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971736
+#EXTINF:-1 tvg-id="971737" tvg-name="FR: TMC" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TMC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971737
+#EXTINF:-1 tvg-id="971738" tvg-name="FR: TOUTE L'HISTOIRE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TOUTE L'HISTOIRE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971738
+#EXTINF:-1 tvg-id="971739" tvg-name="FR: TRACE LATINA" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TRACE LATINA
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971739
+#EXTINF:-1 tvg-id="971740" tvg-name="FR: TRACE URBAN" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TRACE URBAN
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971740
+#EXTINF:-1 tvg-id="971741" tvg-name="FR: TV BREIZH" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TV BREIZH
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971741
+#EXTINF:-1 tvg-id="971742" tvg-name="FR: TV MONACO" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TV MONACO
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971742
+#EXTINF:-1 tvg-id="971743" tvg-name="FR: TV5 MONDE" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: TV5 MONDE
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971743
+#EXTINF:-1 tvg-id="971744" tvg-name="FR: USHUAIA TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: USHUAIA TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971744
+#EXTINF:-1 tvg-id="971745" tvg-name="FR: W9" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: W9
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971745
+#EXTINF:-1 tvg-id="971746" tvg-name="FR: WARNER TV" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: WARNER TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971746
+#EXTINF:-1 tvg-id="971747" tvg-name="FR: WARNER TV NEXT" tvg-logo="https://www.pngmart.com/files/17/France-Map-Region-Transparent-PNG.png" group-title="🌟法国频道🌟",FR: WARNER TV NEXT
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/971747
+
+
+#EXTINF:-1 tvg-id="856801" tvg-name="MY: 8TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: 8TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856801
+#EXTINF:-1 tvg-id="856802" tvg-name="MY: ABC Australia" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: ABC Australia
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856802
+#EXTINF:-1 tvg-id="856803" tvg-name="MY: Adithya" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Adithya
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856803
+#EXTINF:-1 tvg-id="856804" tvg-name="MY: AFC" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: AFC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856804
+#EXTINF:-1 tvg-id="856805" tvg-name="MY: Animal Planet" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Animal Planet
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856805
+#EXTINF:-1 tvg-id="856806" tvg-name="MY: ARENA_HD_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: ARENA_HD_50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856806
+#EXTINF:-1 tvg-id="856807" tvg-name="MY: Astro AOD 351" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro AOD 351
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856807
+#EXTINF:-1 tvg-id="856808" tvg-name="MY: Astro AOD 353" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro AOD 353
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856808
+#EXTINF:-1 tvg-id="856810" tvg-name="MY: Astro Arena" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Arena
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856810
+#EXTINF:-1 tvg-id="856811" tvg-name="MY: Astro Arena 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Arena 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856811
+#EXTINF:-1 tvg-id="856812" tvg-name="MY: Astro Aura" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Aura
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856812
+#EXTINF:-1 tvg-id="856813" tvg-name="MY: Astro Awani" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Awani
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856813
+#EXTINF:-1 tvg-id="856814" tvg-name="MY: Astro Awani" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Awani
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856814
+#EXTINF:-1 tvg-id="856815" tvg-name="MY: Astro Cricket" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Cricket
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856815
+#EXTINF:-1 tvg-id="856816" tvg-name="MY: Astro Hua Hee Dai" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Hua Hee Dai
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856816
+#EXTINF:-1 tvg-id="856817" tvg-name="MY: Astro Oasis" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Oasis
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856817
+#EXTINF:-1 tvg-id="856818" tvg-name="MY: Astro Premier 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Premier 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856818
+#EXTINF:-1 tvg-id="856819" tvg-name="MY: Astro Premier 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Premier 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856819
+#EXTINF:-1 tvg-id="856820" tvg-name="MY: Astro Rania" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Rania
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856820
+#EXTINF:-1 tvg-id="856821" tvg-name="MY: Astro Supersport 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856821
+#EXTINF:-1 tvg-id="856822" tvg-name="MY: Astro Supersport 1" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 1
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856822
+#EXTINF:-1 tvg-id="856823" tvg-name="MY: Astro Supersport 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856823
+#EXTINF:-1 tvg-id="856824" tvg-name="MY: Astro Supersport 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856824
+#EXTINF:-1 tvg-id="856825" tvg-name="MY: Astro Supersport 2_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 2_50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856825
+#EXTINF:-1 tvg-id="856826" tvg-name="MY: Astro Supersport 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856826
+#EXTINF:-1 tvg-id="856827" tvg-name="MY: Astro Supersport 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856827
+#EXTINF:-1 tvg-id="856828" tvg-name="MY: Astro Supersport 3_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 3_50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856828
+#EXTINF:-1 tvg-id="856829" tvg-name="MY: Astro Supersport 4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856829
+#EXTINF:-1 tvg-id="856830" tvg-name="MY: Astro Supersport 4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856830
+#EXTINF:-1 tvg-id="856831" tvg-name="MY: Astro Supersport 4_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 4_50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856831
+#EXTINF:-1 tvg-id="856832" tvg-name="MY: Astro Supersport 5" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport 5
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856832
+#EXTINF:-1 tvg-id="856833" tvg-name="MY: Astro SuperSport Events 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro SuperSport Events 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856833
+#EXTINF:-1 tvg-id="856834" tvg-name="MY: Astro SuperSport Events 4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro SuperSport Events 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856834
+#EXTINF:-1 tvg-id="856835" tvg-name="MY: Astro Supersport_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Supersport_50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856835
+#EXTINF:-1 tvg-id="856836" tvg-name="MY: Astro Tutor TV SK" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Tutor TV SK
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856836
+#EXTINF:-1 tvg-id="856837" tvg-name="MY: Astro Tutor TV SMK" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Tutor TV SMK
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856837
+#EXTINF:-1 tvg-id="856838" tvg-name="MY: Astro Tutor TV UPSR" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Tutor TV UPSR
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856838
+#EXTINF:-1 tvg-id="856839" tvg-name="MY: Astro Vellithirai" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Vellithirai
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856839
+#EXTINF:-1 tvg-id="856840" tvg-name="MY: Astro Xiao Tai Yang" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Astro Xiao Tai Yang
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856840
+#EXTINF:-1 tvg-id="856841" tvg-name="MY: ASTRO_CRICKET_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: ASTRO_CRICKET_50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856841
+#EXTINF:-1 tvg-id="856842" tvg-name="MY: Awesome TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Awesome TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856842
+#EXTINF:-1 tvg-id="856843" tvg-name="MY: AXN" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: AXN
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856843
+#EXTINF:-1 tvg-id="856844" tvg-name="MY: BBC CBeebies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: BBC CBeebies
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856844
+#EXTINF:-1 tvg-id="856845" tvg-name="MY: beIN Sports" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: beIN Sports
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856845
+#EXTINF:-1 tvg-id="856846" tvg-name="MY: beIN Sports 2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: beIN Sports 2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856846
+#EXTINF:-1 tvg-id="856847" tvg-name="MY: beIN Sports 2 50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: beIN Sports 2 50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856847
+#EXTINF:-1 tvg-id="856848" tvg-name="MY: beIN Sports 3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: beIN Sports 3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856848
+#EXTINF:-1 tvg-id="856849" tvg-name="MY: beIN Sports 3 50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: beIN Sports 3 50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856849
+#EXTINF:-1 tvg-id="856850" tvg-name="MY: beIN Sports 4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: beIN Sports 4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856850
+#EXTINF:-1 tvg-id="856851" tvg-name="MY: beIN Sports 5" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: beIN Sports 5
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856851
+#EXTINF:-1 tvg-id="856852" tvg-name="MY: beIN Sports 50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: beIN Sports 50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856852
+#EXTINF:-1 tvg-id="856853" tvg-name="MY: Bernama" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Bernama
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856853
+#EXTINF:-1 tvg-id="856854" tvg-name="MY: Bisnet Adventure" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Bisnet Adventure
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856854
+#EXTINF:-1 tvg-id="856855" tvg-name="MY: Bloomberg TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Bloomberg TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856855
+#EXTINF:-1 tvg-id="856856" tvg-name="MY: BOO" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: BOO
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856856
+#EXTINF:-1 tvg-id="856857" tvg-name="MY: CCTV4" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: CCTV4
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856857
+#EXTINF:-1 tvg-id="856858" tvg-name="MY: Celestial" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Celestial
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856858
+#EXTINF:-1 tvg-id="856859" tvg-name="MY: Celestial Classic Movies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Celestial Classic Movies
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856859
+#EXTINF:-1 tvg-id="856860" tvg-name="MY: CGTN" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: CGTN
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856860
+#EXTINF:-1 tvg-id="856861" tvg-name="MY: Cinemax" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Cinemax
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856861
+#EXTINF:-1 tvg-id="856862" tvg-name="MY: CNA" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: CNA
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856862
+#EXTINF:-1 tvg-id="856863" tvg-name="MY: CNBC" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: CNBC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856863
+#EXTINF:-1 tvg-id="856864" tvg-name="MY: Colors Tamil" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Colors Tamil
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856864
+#EXTINF:-1 tvg-id="856865" tvg-name="MY: Crime Investigation" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Crime Investigation
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856865
+#EXTINF:-1 tvg-id="856866" tvg-name="MY: CTI Asia" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: CTI Asia
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856866
+#EXTINF:-1 tvg-id="856867" tvg-name="MY: DISCOVERY ASIA" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: DISCOVERY ASIA
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856867
+#EXTINF:-1 tvg-id="856868" tvg-name="MY: Discovery Asia" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Discovery Asia
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856868
+#EXTINF:-1 tvg-id="856869" tvg-name="MY: Discovery Channel" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Discovery Channel
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856869
+#EXTINF:-1 tvg-id="856870" tvg-name="MY: Discovery Science" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Discovery Science
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856870
+#EXTINF:-1 tvg-id="856871" tvg-name="MY: Disney Junior" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Disney Junior
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856871
+#EXTINF:-1 tvg-id="856872" tvg-name="MY: Dmax" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Dmax
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856872
+#EXTINF:-1 tvg-id="856873" tvg-name="MY: Dream Works" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Dream Works
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856873
+#EXTINF:-1 tvg-id="856874" tvg-name="MY: DW" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: DW
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856874
+#EXTINF:-1 tvg-id="856875" tvg-name="MY: Eurosport" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Eurosport
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856875
+#EXTINF:-1 tvg-id="856876" tvg-name="MY: Eurosport" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Eurosport
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856876
+#EXTINF:-1 tvg-id="856877" tvg-name="MY: Food Network" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Food Network
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856877
+#EXTINF:-1 tvg-id="856878" tvg-name="MY: Global Trekker" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Global Trekker
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856878
+#EXTINF:-1 tvg-id="856879" tvg-name="MY: Golf Channel" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Golf Channel
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856879
+#EXTINF:-1 tvg-id="856880" tvg-name="MY: GOLF_CHANNEL_HD_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: GOLF_CHANNEL_HD_50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856880
+#EXTINF:-1 tvg-id="856881" tvg-name="MY: HBO Family" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: HBO Family
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856881
+#EXTINF:-1 tvg-id="856882" tvg-name="MY: HBO Hits" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: HBO Hits
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856882
+#EXTINF:-1 tvg-id="856883" tvg-name="MY: HBO Signature" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: HBO Signature
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856883
+#EXTINF:-1 tvg-id="856884" tvg-name="MY: History" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: History
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856884
+#EXTINF:-1 tvg-id="856885" tvg-name="MY: Hits" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Hits
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856885
+#EXTINF:-1 tvg-id="856886" tvg-name="MY: Hits Movies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Hits Movies
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856886
+#EXTINF:-1 tvg-id="856887" tvg-name="MY: iQIYI" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: iQIYI
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856887
+#EXTINF:-1 tvg-id="856888" tvg-name="MY: K+" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: K+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856888
+#EXTINF:-1 tvg-id="856889" tvg-name="MY: K+" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: K+
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856889
+#EXTINF:-1 tvg-id="856890" tvg-name="MY: KBS World" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: KBS World
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856890
+#EXTINF:-1 tvg-id="856891" tvg-name="MY: KTV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: KTV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856891
+#EXTINF:-1 tvg-id="856892" tvg-name="MY: Lifetime" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Lifetime
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856892
+#EXTINF:-1 tvg-id="856893" tvg-name="MY: Love Nature" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Love Nature
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856893
+#EXTINF:-1 tvg-id="856894" tvg-name="MY: Moonbug Kids" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Moonbug Kids
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856894
+#EXTINF:-1 tvg-id="856895" tvg-name="MY: MTV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: MTV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856895
+#EXTINF:-1 tvg-id="856896" tvg-name="MY: Nick JR" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Nick JR
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856896
+#EXTINF:-1 tvg-id="856897" tvg-name="MY: Nickelodeon" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Nickelodeon
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856897
+#EXTINF:-1 tvg-id="856898" tvg-name="MY: NTV7" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: NTV7
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856898
+#EXTINF:-1 tvg-id="856899" tvg-name="MY: One" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: One
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856899
+#EXTINF:-1 tvg-id="856900" tvg-name="MY: Paramount" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Paramount
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856900
+#EXTINF:-1 tvg-id="856901" tvg-name="MY: Phoenix" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Phoenix
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856901
+#EXTINF:-1 tvg-id="856902" tvg-name="MY: Phoenix News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Phoenix News
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856902
+#EXTINF:-1 tvg-id="856903" tvg-name="MY: Rugby Pass" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Rugby Pass
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856903
+#EXTINF:-1 tvg-id="856904" tvg-name="MY: RUGBY_PASS_50fps" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: RUGBY_PASS_50fps
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856904
+#EXTINF:-1 tvg-id="856905" tvg-name="MY: Showcase Movies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Showcase Movies
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856905
+#EXTINF:-1 tvg-id="856906" tvg-name="MY: Sky News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Sky News
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856906
+#EXTINF:-1 tvg-id="856907" tvg-name="MY: Sports SPO TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Sports SPO TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856907
+#EXTINF:-1 tvg-id="856908" tvg-name="MY: SPOTV2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: SPOTV2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856908
+#EXTINF:-1 tvg-id="856909" tvg-name="MY: Star Vijay" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Star Vijay
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856909
+#EXTINF:-1 tvg-id="856910" tvg-name="MY: Sun Life" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Sun Life
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856910
+#EXTINF:-1 tvg-id="856911" tvg-name="MY: SUN Music" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: SUN Music
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856911
+#EXTINF:-1 tvg-id="856912" tvg-name="MY: Sun News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Sun News
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856912
+#EXTINF:-1 tvg-id="856913" tvg-name="MY: SUN TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: SUN TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856913
+#EXTINF:-1 tvg-id="856914" tvg-name="MY: TLC" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TLC
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856914
+#EXTINF:-1 tvg-id="856915" tvg-name="MY: TV Alhijrah" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TV Alhijrah
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856915
+#EXTINF:-1 tvg-id="856916" tvg-name="MY: TV Okey" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TV Okey
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856916
+#EXTINF:-1 tvg-id="856917" tvg-name="MY: TV2" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TV2
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856917
+#EXTINF:-1 tvg-id="856918" tvg-name="MY: TV3" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TV3
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856918
+#EXTINF:-1 tvg-id="856919" tvg-name="MY: TV9" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TV9
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856919
+#EXTINF:-1 tvg-id="856920" tvg-name="MY: TVB Classic" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TVB Classic
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856920
+#EXTINF:-1 tvg-id="856921" tvg-name="MY: TVB E News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TVB E News
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856921
+#EXTINF:-1 tvg-id="856922" tvg-name="MY: TVB Jade" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TVB Jade
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856922
+#EXTINF:-1 tvg-id="856923" tvg-name="MY: TVB News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TVB News
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856923
+#EXTINF:-1 tvg-id="856924" tvg-name="MY: TVB Xing He" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TVB Xing He
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856924
+#EXTINF:-1 tvg-id="856925" tvg-name="MY: TVBS Asia" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TVBS Asia
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856925
+#EXTINF:-1 tvg-id="856926" tvg-name="MY: TVBS News" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TVBS News
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856926
+#EXTINF:-1 tvg-id="856927" tvg-name="MY: tvN" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: tvN
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856927
+#EXTINF:-1 tvg-id="856928" tvg-name="MY: tvN Movies" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: tvN Movies
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856928
+#EXTINF:-1 tvg-id="856929" tvg-name="MY: TVS" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: TVS
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856929
+#EXTINF:-1 tvg-id="856930" tvg-name="MY: Warner TV" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: Warner TV
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856930
+#EXTINF:-1 tvg-id="856933" tvg-name="MY: ZEE Tamil" tvg-logo="https://clipground.com/images/asia-png-14.png" group-title="🌟马来西亚🌟",MY: ZEE Tamil
+http://ua-iptv.com:8080//jopelligrino@gmail.com/q9Evde8E25gM/856933
 
 
 #EXTINF:-1 tvg-name="新昌影院" tvg-logo="https://live.fanmingming.com/tv/新昌影院.png" group-title="🌟电影频道🌟",新昌影院
@@ -6244,8 +6958,26 @@ https://181166.xyz/wxty1
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="🌟上海频道🌟",五星体育
 http://218.1.217.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,tvg-id="上海卫视" tvg-name="上海卫视" tvg-logo="https://epg.112114.xyz/logo/上海卫视.png"group-title="🌟上海频道🌟",上海卫视
-http://218.1.217.21:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="🌟上海频道🌟",东方卫视
+http://8.138.7.223/tv/shtv.php?id=dfws
+#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="🌟上海频道🌟",上海新闻综合
+http://8.138.7.223/tv/shtv.php?id=xwzh
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="🌟上海频道🌟",第一财经
+http://8.138.7.223/tv/shtv.php?id=dycj
+#EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="🌟上海频道🌟",上海都市
+http://8.138.7.223/tv/shtv.php?id=ds
+#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="🌟上海频道🌟",五星体育
+http://8.138.7.223/tv/shtv.php?id=wxty
+#EXTINF:-1,tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://epg.112114.xyz/logo/上海新纪实.png" group-title="🌟上海频道🌟",上海新纪实
+http://8.138.7.223/tv/shtv.php?id=xjs
+#EXTINF:-1,tvg-id="上海魔都眼" tvg-name="上海魔都眼" tvg-logo="https://epg.112114.xyz/logo/上海魔都眼.png" group-title="🌟上海频道🌟",上海魔都眼
+http://8.138.7.223/tv/shtv.php?id=mdy
+#EXTINF:-1,tvg-id="上海乐游" tvg-name="上海乐游" tvg-logo="https://epg.112114.xyz/logo/上海乐游.png" group-title="🌟上海频道🌟",上海乐游
+http://8.138.7.223/tv/shtv.php?id=ly
+
+
 #EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png"group-title="🌟上海频道🌟",新闻综合
 http://218.1.217.21:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png"group-title="🌟上海频道🌟",都市频道
@@ -6626,6 +7358,20 @@ https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 group-title="🌟地方频道🌟",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1,tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://epg.112114.xyz/logo/河南都市.png" group-title="🌟地方频道🌟",河南都市
+http://v4d.xiepeiru.top:1123/iptv/hm/HeNanDuShi
+#EXTINF:-1,tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://epg.112114.xyz/logo/河南民生.png" group-title="🌟地方频道🌟",河南民生
+http://v4d.xiepeiru.top:1123/iptv/hm/HeNanMinSheng
+#EXTINF:-1,tvg-id="河南法治" tvg-name="河南法治" tvg-logo="https://epg.112114.xyz/logo/河南法治.png" group-title="🌟地方频道🌟",河南法治
+http://v4d.xiepeiru.top:1123/iptv/hm/HeNanFaZhi
+#EXTINF:-1,tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://epg.112114.xyz/logo/河南电视剧.png" group-title="🌟地方频道🌟",河南电视剧
+http://v4d.xiepeiru.top:1123/iptv/hm/HeNanDianShiJu
+#EXTINF:-1,tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://epg.112114.xyz/logo/河南新闻.png" group-title="🌟地方频道🌟",河南新闻
+http://v4d.xiepeiru.top:1123/iptv/hm/HeNanXinWen
+#EXTINF:-1,tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://epg.112114.xyz/logo/河南公共.png" group-title="🌟地方频道🌟",河南公共
+http://v4d.xiepeiru.top:1123/iptv/hm/HeNanGongGong
+#EXTINF:-1,tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://epg.112114.xyz/logo/河南乡村.png" group-title="🌟地方频道🌟",河南乡村
+http://v4d.xiepeiru.top:1123/iptv/hm/HeNanXiangCun
 
 #EXTINF:-1,tvg-id="扬州1套-新闻" tvg-name="扬州1套-新闻" tvg-logo="https://epg.112114.xyz/logo/扬州1套新闻.png" group-title="🌟地方频道🌟",扬州1套-新闻
 http://cm-wshls.homecdn.com/live/8bb.m3u8
