@@ -245,6 +245,7 @@ https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_64
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚2025
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 
+
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV1
@@ -3155,8 +3156,74 @@ https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title="国际频道",NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 
-
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://e.erw.cc/all.xml,http://epg2.733240.com/xmltv/epg_HK.xml,https://epg.pw/xmltv/epg_TW.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_JP1.xml,https://raw.githubusercontent.com/fongmitv/epg/main/EPG.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://epg.v1.mk/fy.xml,https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/output/filtered_epg.xml"
+
+
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="🌟央卫频道🌟",CCTV-1 综合
+https://migu.188766.xyz/?migutoken=eaf1767ca36cc84fd6368bbb0ea524d9&id=CCTV1&type=yy
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="🌟央卫频道🌟",CCTV-2 财经
+https://migu.188766.xyz/?migutoken=57b495e0e9dbf4a1a490fa59fc3a02e9&id=CCTV2&type=yy
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV3.png" group-title="🌟央卫频道🌟",CCTV-3 综艺
+https://migu.188766.xyz/?migutoken=d618d0f2f6acfc2d3b206d5b48821a14&id=CCTV3&type=yy
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4.png" group-title="🌟央卫频道🌟",CCTV-4 中文国际
+https://migu.188766.xyz/?migutoken=aa6e31a6f6980d2c90e28103d09935f6&id=CCTV4&type=yy
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5.png" group-title="🌟央卫频道🌟",CCTV-5 体育
+https://migu.188766.xyz/?migutoken=3c07c9c12a9b30c4d024686b57d80d4a&id=CCTV5&type=yy
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png" group-title="🌟央卫频道🌟",CCTV-5+ 体育赛事
+https://migu.188766.xyz/?migutoken=c182b09496543f0c3286792b9c702cc2&id=CCTV5p&type=yy
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV6.png" group-title="🌟央卫频道🌟",CCTV-6 电影
+https://migu.188766.xyz/?migutoken=e8e35ff69087f39b1d04b101e68feb9e&id=CCTV6&type=yy
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV7.png" group-title="🌟央卫频道🌟",CCTV-7 国防军事
+https://migu.188766.xyz/?migutoken=dd75c10f3166b4fe466cb05142bbe1f2&id=CCTV7&type=yy
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV8.png" group-title="🌟央卫频道🌟",CCTV-8 电视剧
+https://migu.188766.xyz/?migutoken=52a5b5ef7507390484b109905f7218b0&id=CCTV8&type=yy
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV9.png" group-title="🌟央卫频道🌟",CCTV-9 纪录
+https://migu.188766.xyz/?migutoken=e123587fb8d90548d10d85d484eaf7c8&id=CCTV9&type=yy
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV10.png" group-title="🌟央卫频道🌟",CCTV-10 科教
+https://migu.188766.xyz/?migutoken=775e33e2a339d8648fde412da9877460&id=CCTV10&type=yy
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV11.png" group-title="🌟央卫频道🌟",CCTV-11 戏曲
+https://migu.188766.xyz/?migutoken=71744a8dc2ecf70186f0c44aaef803c5&id=CCTV11&type=yy
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV12.png" group-title="🌟央卫频道🌟",CCTV-12 社会与法
+https://migu.188766.xyz/?migutoken=d2864408f73665869780a96115bac178&id=CCTV12&type=yy
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="🌟央卫频道🌟",CCTV-13 新闻
+https://migu.188766.xyz/?migutoken=2e5149b75b52face19dcaaa14a2bf092&id=CCTV13&type=yy
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV14.png" group-title="🌟央卫频道🌟",CCTV-14 少儿
+https://migu.188766.xyz/?migutoken=4d6a257d8a2f59a0842f8da52992b0c2&id=CCTV14&type=yy
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV15.png" group-title="🌟央卫频道🌟",CCTV-15 音乐
+https://migu.188766.xyz/?migutoken=bc83ecafa5b7f7464311b8c2ec1ae0ee&id=CCTV15&type=yy
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV17.png" group-title="🌟央卫频道🌟",CCTV-17 农业农村
+https://migu.188766.xyz/?migutoken=965b53acb74e3120cd813d449bbd511f&id=CCTV17&type=yy
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4欧洲.png" group-title="🌟央卫频道🌟",CCTV-4 中文国际 欧洲
+https://migu.188766.xyz/?migutoken=cb0498fb52424e3b771858a2f5c9dbe0&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" group-title="🌟央卫频道🌟",CCTV-4 中文国际 美洲
+https://migu.188766.xyz/?migutoken=c860790bf6c7c700b8b46f2cf8da414e&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="🌟央卫频道🌟",浙江卫视
+https://migu.188766.xyz/?migutoken=d8eb91a3b94d8f6d1e1fd8e9ee9b6152&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="🌟央卫频道🌟",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江苏卫视.png" group-title="🌟央卫频道🌟",江苏卫视
+https://migu.188766.xyz/?migutoken=0e1fca8927651e1a1e1aae195c3e0f0f&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/东方卫视.png" group-title="🌟央卫频道🌟",东方卫视
+https://migu.188766.xyz/?migutoken=278a72ab12aa710702dcbfac37644efb&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东卫视.png" group-title="🌟央卫频道🌟",广东卫视
+https://migu.188766.xyz/?migutoken=1a335afc3fc3eb8452e74c680cb8b09d&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/湖北卫视.png" group-title="🌟央卫频道🌟",湖北卫视
+https://migu.188766.xyz/?migutoken=5b4582204987db096b9bd94663f4c57c&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/江西卫视.png" group-title="🌟央卫频道🌟",江西卫视
+https://migu.188766.xyz/?migutoken=330e53ecfbdf465d31eb9a1151d610d1&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/河南卫视.png" group-title="🌟央卫频道🌟",河南卫视
+https://migu.188766.xyz/?migutoken=038d335e00c3d82bc0ad5f6d41b3905e&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/陕西卫视.png" group-title="🌟央卫频道🌟",陕西卫视
+https://migu.188766.xyz/?migutoken=32e8dc7d4d72ac764909deffdaae513c&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/内蒙古卫视.png" group-title="🌟央卫频道🌟",内蒙古卫视
+https://migu.188766.xyz/?migutoken=b1060cdb5b28c80ef58d7d6c34510f75&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/兵团卫视.png" group-title="🌟央卫频道🌟",兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/大湾区卫视.png" group-title="🌟央卫频道🌟",大湾区卫视
+https://migu.188766.xyz/?migutoken=82ee7f6eff14da5f96946e366c4cddc6&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+
 
 
 
@@ -3486,213 +3553,128 @@ http://148.135.93.213/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 http://148.135.93.213/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 
 
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://11.112114.xyz/logo/广州综合.png" group-title="🌟央视卫视-④🌟",广州综合
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMzA0NC5tM3U4
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://11.112114.xyz/logo/广州新闻.png" group-title="🌟央视卫视-④🌟",广州新闻
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjk1OC5tM3U4
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://11.112114.xyz/logo/广东珠江.png" group-title="🌟央视卫视-④🌟",广东珠江
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjg5Ny5tM3U4
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://11.112114.xyz/logo/广东新闻.png" group-title="🌟央视卫视-④🌟",广东新闻
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjgyNS5tM3U4
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://11.112114.xyz/logo/广东民生.png" group-title="🌟央视卫视-④🌟",广东民生
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9kZndzLm0zdTg=
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://11.112114.xyz/logo/广东体育.png" group-title="🌟央视卫视-④🌟",广东体育
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMjkxNS5tM3U4
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://11.112114.xyz/logo/广东影视.png" group-title="🌟央视卫视-④🌟",广东影视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTc2Mi5tM3U4
-#EXTINF:-1 tvg-name="广东湾区" tvg-logo="https://11.112114.xyz/logo/广东湾区.png" group-title="🌟央视卫视-④🌟",广东湾区
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL25laW1lbmdndS5tM3U4
-#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://11.112114.xyz/logo/广东经济.png" group-title="🌟央视卫视-④🌟",广东经济
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMzAwMS5tM3U4
-#EXTINF:-1 tvg-name="广东现代" tvg-logo="https://11.112114.xyz/logo/广东现代.png" group-title="🌟央视卫视-④🌟",广东现代
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMzA4Ny5tM3U4
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://11.112114.xyz/logo/广东少儿.png" group-title="🌟央视卫视-④🌟",广东少儿
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTU3MC5tM3U4
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="🌟央视卫视-④🌟",嘉佳卡通
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTMyOC5tM3U4
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="🌟央视卫视-④🌟",优漫卡通
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9jdXN0b20xMS5tM3U4
-#EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://11.112114.xyz/logo/CCTV01.png" group-title="🌟央视卫视-④🌟",CCTV-01
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxLm0zdTg=
-#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://11.112114.xyz/logo/CCTV02.png" group-title="🌟央视卫视-④🌟",CCTV-02
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYyLm0zdTg=
-#EXTINF:-1 tvg-name="CCTV03" tvg-logo="https://11.112114.xyz/logo/CCTV03.png" group-title="🌟央视卫视-④🌟",CCTV-03
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYzLm0zdTg=
-#EXTINF:-1 tvg-name="CCTV04" tvg-logo="https://11.112114.xyz/logo/CCTV04.png" group-title="🌟央视卫视-④🌟",CCTV-04
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY0Lm0zdTg=
-#EXTINF:-1 tvg-name="CCTV05" tvg-logo="https://11.112114.xyz/logo/CCTV05.png" group-title="🌟央视卫视-④🌟",CCTV-05
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY1Lm0zdTg=
-#EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://11.112114.xyz/logo/CCTV06.png" group-title="🌟央视卫视-④🌟",CCTV-06
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY2Lm0zdTg=
-#EXTINF:-1 tvg-name="CCTV07" tvg-logo="https://11.112114.xyz/logo/CCTV07.png" group-title="🌟央视卫视-④🌟",CCTV-07
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY3Lm0zdTg=
-#EXTINF:-1 tvg-name="CCTV08" tvg-logo="https://11.112114.xyz/logo/CCTV08.png" group-title="🌟央视卫视-④🌟",CCTV-08
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY4Lm0zdTg=
-#EXTINF:-1 tvg-name="CCTV09" tvg-logo="https://11.112114.xyz/logo/CCTV09.png" group-title="🌟央视卫视-④🌟",CCTV-09
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY5Lm0zdTg=
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="🌟央视卫视-④🌟",CCTV-10
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMC5tM3U4
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="🌟央视卫视-④🌟",CCTV-11
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMS5tM3U4
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="🌟央视卫视-④🌟",CCTV-12
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMi5tM3U4
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="🌟央视卫视-④🌟",CCTV-13
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="🌟央视卫视-④🌟",CCTV-14
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNC5tM3U4
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="🌟央视卫视-④🌟",CCTV-15
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNS5tM3U4
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="🌟央视卫视-④🌟",CCTV-16
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY1cC5tM3U4
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="🌟央视卫视-④🌟",CCTV-17
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNy5tM3U4
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="🌟央视卫视-④🌟",北京卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9iandzLm0zdTg=
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="🌟央视卫视-④🌟",浙江卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy96andzLm0zdTg=
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="🌟央视卫视-④🌟",江苏卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2pzd3MubTN1OA==
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="🌟央视卫视-④🌟",湖南卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2h1bmFud3MubTN1OA==
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="🌟央视卫视-④🌟",广东卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2dkd3MubTN1OA==
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="🌟央视卫视-④🌟",深圳卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zendzLm0zdTg=
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="🌟央视卫视-④🌟",安徽卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9haHdzLm0zdTg=
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="🌟央视卫视-④🌟",山东卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zZHdzLm0zdTg=
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="🌟央视卫视-④🌟",山西卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zeHdzLm0zdTg=
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="🌟央视卫视-④🌟",河南卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9obndzLm0zdTg=
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="🌟央视卫视-④🌟",江西卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9qeHdzLm0zdTg=
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="🌟央视卫视-④🌟",四川卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9zY3dzLm0zdTg=
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="🌟央视卫视-④🌟",广西卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9neHdzLm0zdTg=
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="🌟央视卫视-④🌟",云南卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL3lud3MubTN1OA==
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="🌟央视卫视-④🌟",东南卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2Rud3MubTN1OA==
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="🌟央视卫视-④🌟",厦门卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy90andzLm0zdTg=
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="🌟央视卫视-④🌟",宁夏卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saW54d3MubTN1OA==
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="🌟央视卫视-④🌟",青海卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saXZlMTA5Ni5tM3U4
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="🌟央视卫视-④🌟",吉林卫视
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9qbHdzLm0zdTg=
-
-
 
 广西电信
 
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="🌟电信网络专用🌟",CCTV-1综合
-http://116.11.153.12:9999/udp/239.81.0.102:4056
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="🌟电信网络专用🌟",CCTV-2财经
-http://116.11.153.12:9999/udp/239.81.0.115:4056
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3.png" group-title="🌟电信网络专用🌟",CCTV-3综艺
-http://116.11.153.12:9999/udp/239.81.0.231:4056
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="🌟电信网络专用🌟",CCTV-4中文国际
-http://116.11.153.12:9999/udp/239.81.0.96:4056
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5.png" group-title="🌟电信网络专用🌟",CCTV-5体育
-http://116.11.153.12:9999/udp/239.81.0.232:4056
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="🌟电信网络专用🌟",CCTV-5+体育赛事
-http://116.11.153.12:9999/udp/239.81.0.101:4056
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="🌟电信网络专用🌟",CCTV-6电影
-http://116.11.153.12:9999/udp/239.81.0.233:4056
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="🌟电信网络专用🌟",CCTV-7国防军事
-http://116.11.153.12:9999/udp/239.81.0.116:4056
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8.png" group-title="🌟电信网络专用🌟",CCTV-8电视剧
-http://116.11.153.12:9999/udp/239.81.0.234:4056
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="🌟电信网络专用🌟",CCTV-9纪录
-http://116.11.153.12:9999/udp/239.81.0.117:4056
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="🌟电信网络专用🌟",CCTV-10科教
-http://116.11.153.12:9999/udp/239.81.0.118:4056
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11.png" group-title="🌟电信网络专用🌟",CCTV-11戏曲
-http://116.11.153.12:9999/udp/239.81.0.229:4056
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="🌟电信网络专用🌟",CCTV-12社会与法
-http://116.11.153.12:9999/udp/239.81.0.119:4056
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="🌟电信网络专用🌟",CCTV-13新闻
-http://116.11.153.12:9999/udp/239.81.0.206:4056
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="🌟电信网络专用🌟",CCTV-14少儿
-http://116.11.153.12:9999/udp/239.81.0.120:4056
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="🌟电信网络专用🌟",CCTV-15音乐
-http://116.11.153.12:9999/udp/239.81.0.230:4056
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="🌟电信网络专用🌟",CCTV-17农业农村
-http://116.11.153.12:9999/udp/239.81.0.228:4056
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="🌟电信网络专用🌟",北京卫视
-http://116.11.153.12:9999/udp/239.81.0.109:4056
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="🌟电信网络专用🌟",天津卫视
-http://116.11.153.12:9999/udp/239.81.0.113:4056
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="🌟电信网络专用🌟",东方卫视
-http://116.11.153.12:9999/udp/239.81.0.111:4056
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="🌟电信网络专用🌟",浙江卫视
-http://116.11.153.12:9999/udp/239.81.0.108:4056
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="🌟电信网络专用🌟",安徽卫视
-http://116.11.153.12:9999/udp/239.81.0.211:4056
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="🌟电信网络专用🌟",江苏卫视
-http://116.11.153.12:9999/udp/239.81.0.106:4056
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="🌟电信网络专用🌟",山东卫视
-http://116.11.153.12:9999/udp/239.81.0.114:4056
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="🌟电信网络专用🌟",广东卫视
-http://116.11.153.12:9999/udp/239.81.0.104:4056
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="🌟电信网络专用🌟",四川卫视
-http://116.11.153.12:9999/udp/239.81.0.130:4056
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="🌟电信网络专用🌟",深圳卫视
-http://116.11.153.12:9999/udp/239.81.0.103:4056
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="🌟电信网络专用🌟",湖南卫视
-http://116.11.153.12:9999/udp/239.81.0.110:4056
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="🌟电信网络专用🌟",湖北卫视
-http://116.11.153.12:9999/udp/239.81.0.112:4056
-#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="🌟电信网络专用🌟",河北卫视
-http://116.11.153.12:9999/udp/239.81.0.94:4056
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="🌟电信网络专用🌟",江西卫视
-http://116.11.153.12:9999/udp/239.81.0.204:4056
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="🌟电信网络专用🌟",东南卫视
-http://116.11.153.12:9999/udp/239.81.0.215:4056
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="🌟电信网络专用🌟",贵州卫视
-http://116.11.153.12:9999/udp/239.81.0.95:4056
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="🌟电信网络专用🌟",辽宁卫视
-http://116.11.153.12:9999/udp/239.81.0.210:4056
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="🌟电信网络专用🌟",黑龙江卫视
-http://116.11.153.12:9999/udp/239.81.0.105:4056
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://11.112114.xyz/logo/甘肃卫视.png" group-title="🌟电信网络专用🌟",甘肃卫视
-http://116.11.153.12:9999/udp/239.81.0.207:4056
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="🌟电信网络专用🌟",重庆卫视
-http://116.11.153.12:9999/udp/239.81.0.47:4056
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="🌟电信网络专用🌟",吉林卫视
-http://116.11.153.12:9999/udp/239.81.0.58:4056
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://11.112114.xyz/logo/陕西卫视.png" group-title="🌟电信网络专用🌟",陕西卫视
-http://116.11.153.12:9999/udp/239.81.0.89:4056
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://11.112114.xyz/logo/山西卫视.png" group-title="🌟电信网络专用🌟",山西卫视
-http://116.11.153.12:9999/udp/239.81.0.49:4056
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="🌟电信网络专用🌟",河南卫视
-http://116.11.153.12:9999/udp/239.81.0.44:4056
-#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://11.112114.xyz/logo/宁夏卫视.png" group-title="🌟电信网络专用🌟",宁夏卫视
-http://116.11.153.12:9999/udp/239.81.0.60:4056
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://11.112114.xyz/logo/内蒙古卫视.png" group-title="🌟电信网络专用🌟",内蒙古卫视
-http://116.11.153.12:9999/udp/239.81.0.54:4056
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="🌟电信网络专用🌟",青海卫视
-http://116.11.153.12:9999/udp/239.81.0.53:4056
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://11.112114.xyz/logo/新疆卫视.png" group-title="🌟电信网络专用🌟",新疆卫视
-http://116.11.153.12:9999/udp/239.81.0.46:4056
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://11.112114.xyz/logo/西藏卫视.png" group-title="🌟电信网络专用🌟",西藏卫视
-http://116.11.153.12:9999/udp/239.81.0.55:4056
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="🌟电信网络专用🌟",云南卫视
-http://116.11.153.12:9999/udp/239.81.0.45:4056
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="🌟电信网络专用🌟",海南卫视
-http://116.11.153.12:9999/udp/239.81.0.48:4056
-#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://11.112114.xyz/logo/三沙卫视.png" group-title="🌟电信网络专用🌟",三沙卫视
-http://116.11.153.12:9999/udp/239.81.0.242:4056
-#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://11.112114.xyz/logo/大湾区卫视.png" group-title="🌟电信网络专用🌟",大湾区卫视
-http://116.11.153.12:9999/udp/239.81.0.32:4056
-#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://11.112114.xyz/logo/厦门卫视.png" group-title="🌟电信网络专用🌟",厦门卫视
-http://116.11.153.12:9999/udp/239.81.0.212:4056
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="🌟电信网络专用🌟",兵团卫视
-http://116.11.153.12:9999/udp/239.81.0.213:4056
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="🌟电信网络专用🌟",CCTV1
+http://180.136.233.111:10099/udp/239.81.0.102:4056
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="🌟电信网络专用🌟",CCTV2
+http://180.136.233.111:10099/udp/239.81.0.115:4056
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="🌟电信网络专用🌟",CCTV3
+http://180.136.233.111:10099/udp/239.81.0.231:4056
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🌟电信网络专用🌟",CCTV4
+http://180.136.233.111:10099/udp/239.81.0.96:4056
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="🌟电信网络专用🌟",CCTV5
+http://180.136.233.111:10099/udp/239.81.0.232:4056
+#EXTINF:-1 tvg-name="CCTV5＋" tvg-logo="https://live.fanmingming.cn/tv/CCTV5＋.png" group-title="🌟电信网络专用🌟",CCTV5＋
+http://180.136.233.111:10099/udp/239.81.0.101:4056
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="🌟电信网络专用🌟",CCTV6
+http://180.136.233.111:10099/udp/239.81.0.233:4056
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="🌟电信网络专用🌟",CCTV7
+http://180.136.233.111:10099/udp/239.81.0.116:4056
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="🌟电信网络专用🌟",CCTV8
+http://180.136.233.111:10099/udp/239.81.0.234:4056
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="🌟电信网络专用🌟",CCTV9
+http://180.136.233.111:10099/udp/239.81.0.117:4056
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="🌟电信网络专用🌟",CCTV10
+http://180.136.233.111:10099/udp/239.81.0.118:4056
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="🌟电信网络专用🌟",CCTV11
+http://180.136.233.111:10099/udp/239.81.0.229:4056
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="🌟电信网络专用🌟",CCTV12
+http://180.136.233.111:10099/udp/239.81.0.119:4056
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="🌟电信网络专用🌟",CCTV13
+http://180.136.233.111:10099/udp/239.81.0.206:4056
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="🌟电信网络专用🌟",CCTV14
+http://180.136.233.111:10099/udp/239.81.0.120:4056
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="🌟电信网络专用🌟",CCTV15
+http://180.136.233.111:10099/udp/239.81.0.230:4056
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="🌟电信网络专用🌟",CCTV17
+http://180.136.233.111:10099/udp/239.81.0.228:4056
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="🌟电信网络专用🌟",北京卫视
+http://180.136.233.111:10099/udp/239.81.0.109:4056
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="🌟电信网络专用🌟",江苏卫视
+http://180.136.233.111:10099/udp/239.81.0.106:4056
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="🌟电信网络专用🌟",湖南卫视
+http://180.136.233.111:10099/udp/239.81.0.110:4056
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="🌟电信网络专用🌟",东方卫视
+http://180.136.233.111:10099/udp/239.81.0.111:4056
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🌟电信网络专用🌟",浙江卫视
+http://180.136.233.111:10099/udp/239.81.0.108:4056
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🌟电信网络专用🌟",山东卫视
+http://180.136.233.111:10099/udp/239.81.0.114:4056
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🌟电信网络专用🌟",天津卫视
+http://180.136.233.111:10099/udp/239.81.0.113:4056
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="🌟电信网络专用🌟",广东卫视
+http://180.136.233.111:10099/udp/239.81.0.104:4056
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🌟电信网络专用🌟",深圳卫视
+http://180.136.233.111:10099/udp/239.81.0.103:4056
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="🌟电信网络专用🌟",安徽卫视
+http://180.136.233.111:10099/udp/239.81.0.211:4056
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="🌟电信网络专用🌟",辽宁卫视
+http://180.136.233.111:10099/udp/239.81.0.210:4056
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="🌟电信网络专用🌟",黑龙江卫视
+http://180.136.233.111:10099/udp/239.81.0.105:4056
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="🌟电信网络专用🌟",甘肃卫视
+http://180.136.233.111:10099/udp/239.81.0.207:4056
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="🌟电信网络专用🌟",兵团卫视
+http://180.136.233.111:10099/udp/239.81.0.213:4056
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🌟电信网络专用🌟",四川卫视
+http://180.136.233.111:10099/udp/239.81.0.130:4056
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="🌟电信网络专用🌟",三沙卫视
+http://180.136.233.111:10099/udp/239.81.0.242:4056
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="🌟电信网络专用🌟",湖北卫视
+http://180.136.233.111:10099/udp/239.81.0.112:4056
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="🌟电信网络专用🌟",江西卫视
+http://180.136.233.111:10099/udp/239.81.0.204:4056
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="🌟电信网络专用🌟",东南卫视
+http://180.136.233.111:10099/udp/239.81.0.215:4056
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🌟电信网络专用🌟",厦门卫视
+http://180.136.233.111:10099/udp/239.81.0.212:4056
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="🌟电信网络专用🌟",山东教育
+http://180.136.233.111:10099/udp/239.81.0.93:4056
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.cn/tv/新动漫.png" group-title="🌟电信网络专用🌟",新动漫
+http://180.136.233.111:10099/udp/239.81.0.235:4056
+#EXTINF:-1 tvg-name="求索" tvg-logo="https://live.fanmingming.cn/tv/求索.png" group-title="🌟电信网络专用🌟",求索
+http://180.136.233.111:10099/udp/239.81.0.202:4056
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="🌟电信网络专用🌟",CCTV4K
+http://180.136.233.111:10099/udp/239.81.0.69:4056
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="🌟电信网络专用🌟",CCTV4K
+http://180.136.233.111:10099/udp/239.81.0.71:4056
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="🌟电信网络专用🌟",CCTV4K
+http://180.136.233.111:10099/udp/239.81.0.196:4056
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16 4K.png" group-title="🌟电信网络专用🌟",CCTV16 4K
+http://180.136.233.111:10099/udp/239.81.0.144:4056
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视4K.png" group-title="🌟电信网络专用🌟",湖南卫视4K
+http://180.136.233.111:10099/udp/239.81.0.72:4056
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视4K.png" group-title="🌟电信网络专用🌟",江苏卫视4K
+http://180.136.233.111:10099/udp/239.81.0.73:4056
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视4K.png" group-title="🌟电信网络专用🌟",浙江卫视4K
+http://180.136.233.111:10099/udp/239.81.0.75:4056
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.cn/tv/东方卫视4K.png" group-title="🌟电信网络专用🌟",东方卫视4K
+http://180.136.233.111:10099/udp/239.81.0.76:4056
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/山东卫视4K.png" group-title="🌟电信网络专用🌟",山东卫视4K
+http://180.136.233.111:10099/udp/239.81.0.78:4056
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.cn/tv/四川卫视4K.png" group-title="🌟电信网络专用🌟",四川卫视4K
+http://180.136.233.111:10099/udp/239.81.0.80:4056
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="🌟电信网络专用🌟",广东卫视4K
+http://180.136.233.111:10099/udp/239.81.0.252:4056
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="🌟电信网络专用🌟",深圳卫视4K
+http://180.136.233.111:10099/udp/239.81.0.254:4056
+#EXTINF:-1 tvg-name="华数电影4K" tvg-logo="https://live.fanmingming.cn/tv/华数电影4K.png" group-title="🌟电信网络专用🌟",华数电影4K
+http://180.136.233.111:10099/rtp://239.81.0.123:4056
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="🌟电信网络专用🌟",广西卫视
+http://180.136.233.111:10099/udp/239.81.0.107:4056
+#EXTINF:-1 tvg-name="广西综艺" tvg-logo="https://live.fanmingming.cn/tv/广西综艺.png" group-title="🌟电信网络专用🌟",广西综艺
+http://180.136.233.111:10099/udp/239.81.0.214:4056
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://live.fanmingming.cn/tv/广西影视.png" group-title="🌟电信网络专用🌟",广西影视
+http://180.136.233.111:10099/udp/239.81.0.250:4056
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://live.fanmingming.cn/tv/广西新闻.png" group-title="🌟电信网络专用🌟",广西新闻
+http://180.136.233.111:10099/udp/239.81.0.248:4056
+#EXTINF:-1 tvg-name="广西公共" tvg-logo="https://live.fanmingming.cn/tv/广西公共.png" group-title="🌟电信网络专用🌟",广西公共
+http://180.136.233.111:10099/udp/239.81.0.249:4056
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://live.fanmingming.cn/tv/广西都市.png" group-title="🌟电信网络专用🌟",广西都市
+http://180.136.233.111:10099/udp/239.81.0.247:4056
+
 
 
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="🌟电信网络专用🌟",CCTV-1
@@ -4593,34 +4575,28 @@ http://live.iill.top/huya.php?id=23728674
 
 
 
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="🌟4K-频道🌟",CCTV4K
-http://116.11.153.12:9999/udp/239.81.0.196:4056
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="🌟4K-频道🌟",CCTV4K
-http://116.11.153.12:9999/udp/239.81.0.196:4056
-#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16 4K.png" group-title="🌟4K-频道🌟",CCTV16 4K
-http://116.11.153.12:9999/udp/239.81.0.144:4056
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="🌟4K-频道🌟",北京卫视4K
-http://116.11.153.12:9999/udp/239.81.0.226:4056
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="🌟4K-频道🌟",北京卫视4K
-http://116.11.153.12:9999/udp/239.81.0.225:4056
-#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.cn/tv/东方卫视4K.png" group-title="🌟4K-频道🌟",东方卫视4K
-http://116.11.153.12:9999/udp/239.81.0.76:4056
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="🌟4K-频道🌟",广东卫视4K
-http://116.11.153.12:9999/udp/239.81.0.252:4056
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="🌟4K-频道🌟",深圳卫视4K
-http://116.11.153.12:9999/udp/239.81.0.254:4056
 #EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视4K.png" group-title="🌟4K-频道🌟",湖南卫视4K
-http://116.11.153.12:9999/udp/239.81.0.72:4056
-#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/山东卫视4K.png" group-title="🌟4K-频道🌟",山东卫视4K
-http://116.11.153.12:9999/udp/239.81.0.78:4056
-#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.cn/tv/四川卫视4K.png" group-title="🌟4K-频道🌟",四川卫视4K
-http://116.11.153.12:9999/udp/239.81.0.80:4056
+https://4k.11cn.dpdns.org/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视4K.png" group-title="🌟4K-频道🌟",浙江卫视4K
-http://116.11.153.12:9999/udp/239.81.0.75:4056
+https://4k.11cn.dpdns.org/2.m3u8
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视4K.png" group-title="🌟4K-频道🌟",江苏卫视4K
-http://116.11.153.12:9999/udp/239.81.0.73:4056
-#EXTINF:-1 tvg-name="华数电影4K" tvg-logo="https://live.fanmingming.cn/tv/华数电影4K.png" group-title="🌟4K-频道🌟",华数电影4K
-http://116.11.153.12:9999/udp/239.81.0.123:4056
+https://4k.11cn.dpdns.org/3.m3u8
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.cn/tv/东方卫视4K.png" group-title="🌟4K-频道🌟",东方卫视4K
+https://4k.11cn.dpdns.org/4.m3u8
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="🌟4K-频道🌟",北京卫视4K
+https://4k.11cn.dpdns.org/5.m3u8
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="🌟4K-频道🌟",深圳卫视4K
+https://4k.11cn.dpdns.org/6.m3u8
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/山东卫视4K.png" group-title="🌟4K-频道🌟",山东卫视4K
+https://4k.11cn.dpdns.org/7.m3u8
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="🌟4K-频道🌟",深圳卫视4K
+https://cdn3.163189.xyz/163189/szws4k
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="🌟4K-频道🌟",北京卫视4K
+https://潇雨萌萌公众号.tv12.xyz/1
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://live.fanmingming.cn/tv/苏州4K.png" group-title="🌟4K-频道🌟",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-name="河北4K" tvg-logo="https://live.fanmingming.cn/tv/河北4K.png" group-title="🌟4K-频道🌟",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
 
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="🌟4K-频道🌟",江苏卫视 4k
 http://free.cnlive.club/channel/n59e8ed26/index.m3u8
@@ -4677,16 +4653,69 @@ https://7pal.short.gy/nesnuhd
 
 
 
-#EXTINF:-1,tvg-id="TNT Sports 4K" tvg-name="TNT Sports 4K" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="🌟国际体育🌟",TNT Sports 4K
-http://bes5.alphatx.me:80//d7a2c1852c/486257866967/1595637
-#EXTINF:-1,tvg-id="US| TENNIS CHANNEL" tvg-name="US| TENNIS CHANNEL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="🌟国际体育🌟",US| TENNIS CHANNEL
-http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
-#EXTINF:-1,tvg-id="US| TENNIS CHANNEL 2" tvg-name="US| TENNIS CHANNEL 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="🌟国际体育🌟",US| TENNIS CHANNEL 2
-http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
-#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🌟国际体育🌟",EuroSport 4K 
-https://7pal.short.gy/eusport4k
+#EXTINF:-1,tvg-id="迪拜体育" tvg-name="迪拜体育" tvg-logo="https://11.112114.xyz/logo/迪拜体育.png" group-title="🌟国际体育🌟",迪拜体育
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: EuroSport 1 UK
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53713
+#EXTINF:-1,tvg-id="UK: MUTV" tvg-name="UK: MUTV" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: MUTV
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53717
+#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: SKY NEWS
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/77166
+#EXTINF:-1,tvg-id="UK: Sky Sports News" tvg-name="UK: Sky Sports News" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports News
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35241
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Main Event
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35243
+#EXTINF:-1,tvg-id="UK: Sky Sports F1" tvg-name="UK: Sky Sports F1" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports F1
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53704
+#EXTINF:-1,tvg-id="UK: Sky Sports F1" tvg-name="UK: Sky Sports F1" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports F1
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35244
+#EXTINF:-1,tvg-id="UK: Sky Sports Golf" tvg-name="UK: Sky Sports Golf" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Golf
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35240
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Cinema Animation
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53698
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Cinema Family
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53699
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Cinema Premier
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35256
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Cinema Comedy 
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53661
+#EXTINF:-1,tvg-id="UK: Sky Sports Action" tvg-name="UK: Sky Sports Action" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Action
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53705
+#EXTINF:-1,tvg-id="UK: Sky Sports Arena" tvg-name="UK: Sky Sports Arena" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Arena
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35238
+#EXTINF:-1,tvg-id="UK: Sky Sports Mix" tvg-name="UK: Sky Sports Mix" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Mix
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53706
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: SKY SciFI
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53663
+#EXTINF:-1,tvg-id="US: ESPN 2" tvg-name="US: ESPN 2" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: ESPN 2
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/2210
+#EXTINF:-1,tvg-id="US: ESPN 1 (HD)" tvg-name="US: ESPN 1 (HD)" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: ESPN 1 (HD)
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/14197
+#EXTINF:-1,tvg-id="US: ESPN 1 (HD)" tvg-name="US: ESPN 1 (HD)" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: ESPN 1 (HD)
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9802
+#EXTINF:-1,tvg-id="US: ESPNU College Sports" tvg-name="US: ESPNU College Sports" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: ESPNU College Sports
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10255
+#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: FOX Sports 1
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46792
+#EXTINF:-1,tvg-id="US: NBA TV" tvg-name="US: NBA TV" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: NBA TV
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20073
+#EXTINF:-1,tvg-id="US: Golf Channel" tvg-name="US: Golf Channel" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: Golf Channel
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9806
+#EXTINF:-1,tvg-id="US: NESN" tvg-name="US: NESN" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: NESN
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46726
+#EXTINF:-1,tvg-id="US: NHL Network" tvg-name="US: NHL Network" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: NHL Network
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20179
+#EXTINF:-1,tvg-id="US: NFL" tvg-name="US: NFL" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: NFL
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/208896
+#EXTINF:-1,tvg-id="US: WWE NETWORK" tvg-name="US: WWE NETWORK" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: WWE NETWORK
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/11645
+
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="🌟国际体育🌟",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="🌟国际体育🌟",Astro Sports UHD
+https://7pal.short.gy/astrouhd
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="🌟国际体育🌟",beIN 4K
+https://7pal.short.gy/bein-uhd
 #EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="🌟国际体育🌟",Now Sports 1 4k
 https://7pal.short.gy/nowsport4k
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="🌟国际体育🌟",Hub Premier 2 UHD
@@ -4695,10 +4724,6 @@ https://7pal.short.gy/HubP2uhd
 https://7pal.short.gy/VSportUHD
 #EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="🌟国际体育🌟",TNT Sport Ultimate
 https://7pal.short.gy/TNTUltimate
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="🌟国际体育🌟",Astro Sports UHD
-https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://i.imgur.com/eb3S5pZ.png" group-title="🌟国际体育🌟",beIN 4K
-https://7pal.short.gy/bein-uhd
 #EXTINF:-1 tvg-id="Eleven.Sports.1.4K.pl" tvg-logo="https://i.imgur.com/PUaJPaE.png" group-title="🌟国际体育🌟",ElevenSport1 4K
 https://7pal.short.gy/11sports1
 #EXTINF:-1 tvg-id="Prima.4K.ro" tvg-logo="https://i.imgur.com/TrumXXV.png" group-title="🌟国际体育🌟",Prima4K
@@ -4709,11 +4734,12 @@ https://7pal.short.gy/SSF1uhd
 https://7pal.short.gy/ZiggoSport
 #EXTINF:-1 tvg-id="Sport.5.4K.il" tvg-logo="https://pixvid.org/images/2025/01/23/Sport5.png" group-title="🌟国际体育🌟",Sport5_4k
 https://7pal.short.gy/5sport
+#EXTINF:-1 tvg-id="Eurosport.4K.ro" tvg-logo="https://i.imgur.com/DVSdQFj.png" group-title="🌟国际体育🌟",EuroSport 4K 
+https://7pal.short.gy/eusport4k
 #EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-logo="https://i.imgur.com/26c7mQb.png" group-title="🌟国际体育🌟",M+LaLiga UHD 
 https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="🌟国际体育🌟",NESN UHD
 https://7pal.short.gy/nesnuhd
-
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="🌟国际体育🌟", Hub Premier1 FHD
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="🌟国际体育🌟", Hub Premier2 FHD
@@ -4766,6 +4792,36 @@ https://7pal.short.gy/ssportsnw
 https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="🌟国际体育🌟", Sky Sports Box Office
 https://7pal.short.gy/ssportsbo
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="🌟国际体育🌟", Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="🌟国际体育🌟", Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="🌟国际体育🌟", Sky Sport3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="🌟国际体育🌟", Sky Sport4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="🌟国际体育🌟", Sky Sport5 NZ FHD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="🌟国际体育🌟", Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="🌟国际体育🌟", Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="🌟国际体育🌟", Sky Sport Premier League FHD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="🌟国际体育🌟", Fox Sports 501
+https://7pal.short.gy/fox501au
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="🌟国际体育🌟", Fox Sports 502
+https://7pal.short.gy/fox502au
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="🌟国际体育🌟", Fox Sports 503
+https://7pal.short.gy/fox503au
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="🌟国际体育🌟", Fox Sports 504
+https://7pal.short.gy/fox504au
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="🌟国际体育🌟", Fox Sports 505
+https://7pal.short.gy/fox505au
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://i.imgur.com/XkOpNPe.png group-title="🌟国际体育🌟", Fox Sports 506
+https://7pal.short.gy/fox506au
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="🌟国际体育🌟", Fox Sports 507
+https://7pal.short.gy/fox507au
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://i.imgur.com/ttlElcO.png" group-title="🌟国际体育🌟", Sportsnet ONE
 https://7pal.short.gy/sptsnet1
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/oKnzVLr.png" group-title="🌟国际体育🌟", Sportsnet 360
@@ -4816,58 +4872,10 @@ https://7pal.short.gy/yesnw
 https://7pal.short.gy/fs1us
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="🌟国际体育🌟", FS 2
 https://7pal.short.gy/fs2us
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="🌟国际体育🌟", Sky Sport1 NZ FHD
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="🌟国际体育🌟", Sky Sport2 NZ FHD
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="🌟国际体育🌟", Sky Sport3 NZ FHD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="🌟国际体育🌟", Sky Sport4 NZ FHD
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="🌟国际体育🌟", Sky Sport5 NZ FHD
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="🌟国际体育🌟", Sky Sport6 NZ FHD
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="🌟国际体育🌟", Sky Sport7 NZ FHD
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="🌟国际体育🌟", Sky Sport Premier League FHD
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="🌟国际体育🌟", Fox Sports 501
-https://7pal.short.gy/fox501au
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="🌟国际体育🌟", Fox Sports 502
-https://7pal.short.gy/fox502au
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="🌟国际体育🌟", Fox Sports 503
-https://7pal.short.gy/fox503au
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="🌟国际体育🌟", Fox Sports 504
-https://7pal.short.gy/fox504au
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="🌟国际体育🌟", Fox Sports 505
-https://7pal.short.gy/fox505au
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://i.imgur.com/XkOpNPe.png group-title="🌟国际体育🌟", Fox Sports 506
-https://7pal.short.gy/fox506au
-#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="🌟国际体育🌟", Fox Sports 507
-https://7pal.short.gy/fox507au
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="🌟国际体育🌟", PremierSports1-FHD
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="🌟国际体育🌟", PremierSports2-FHD
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="🌟国际体育🌟", Supersport_Premier_League-FHD
-https://7pal.short.gy/spersppl
-#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="🌟国际体育🌟", Supersport_Football-FHD
-https://7pal.short.gy/sperspfb
-#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="🌟国际体育🌟", Supersport_Laliga-FHD
-https://7pal.short.gy/sperspllg
-#EXTINF:-1 tvg-id="PSL.za" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" group-title="🌟国际体育🌟", Supersport_PSL-FHD
-https://7pal.short.gy/spersppsl
-#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-logo="https://i.imgur.com/WpL99ea.png" group-title="🌟国际体育🌟", Supersport_Motosport-FHD
-https://7pal.short.gy/sperspmts
-#EXTINF:-1 tvg-id="ACTION.za" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" group-title="🌟国际体育🌟", Supersport_Action-FHD
-https://7pal.short.gy/sperspat
-#EXTINF:-1 tvg-id="RUGBY.za" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="🌟国际体育🌟", Supersport_Rugby-FHD
-https://7pal.short.gy/spersprb
-#EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="🌟国际体育🌟", Supersport_Golf-FHD
-https://7pal.short.gy/sperspgf
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="hhttps://i.imgur.com/SfYpvJj.png" group-title="🌟国际体育🌟", Supersport_Tennis-FHD
-https://7pal.short.gy/spersptns
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="🌟国际体育🌟",Ziggo Sport FHD
 https://7pal.short.gy/zigosfhd
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="🌟国际体育🌟", Event 1
@@ -4878,62 +4886,7 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="🌟国际体育🌟", Event 4
 https://7pal.short.gy/event4
-#EXTINF:-1,tvg-id="迪拜体育" tvg-name="迪拜体育" tvg-logo="https://11.112114.xyz/logo/迪拜体育.png" group-title="🌟国际体育🌟",迪拜体育
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: EuroSport 1 UK
-http://1tv41.icu:8080/30065823/63154294/53713
-#EXTINF:-1,tvg-id="UK: MUTV" tvg-name="UK: MUTV" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: MUTV
-http://1tv41.icu:8080/30065823/63154294/53717
-#EXTINF:-1,tvg-id="SKYNEWS" tvg-name="SKYNEWS" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: SKY NEWS
-http://1tv41.icu:8080/30065823/63154294/77166
-#EXTINF:-1,tvg-id="UK: Sky Sports News" tvg-name="UK: Sky Sports News" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports News
-http://1tv41.icu:8080/30065823/63154294/35241
-#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Main Event
-http://1tv41.icu:8080/30065823/63154294/35243
-#EXTINF:-1,tvg-id="UK: Sky Sports F1" tvg-name="UK: Sky Sports F1" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports F1
-http://1tv41.icu:8080/30065823/63154294/53704
-#EXTINF:-1,tvg-id="UK: Sky Sports F1" tvg-name="UK: Sky Sports F1" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports F1
-http://1tv41.icu:8080/30065823/63154294/35244
-#EXTINF:-1,tvg-id="UK: Sky Sports Golf" tvg-name="UK: Sky Sports Golf" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Golf
-http://1tv41.icu:8080/30065823/63154294/35240
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Cinema Animation
-http://1tv41.icu:8080/30065823/63154294/53698
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Cinema Family
-http://1tv41.icu:8080/30065823/63154294/53699
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Cinema Premier
-http://1tv41.icu:8080/30065823/63154294/35256
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Cinema Comedy 
-http://1tv41.icu:8080/30065823/63154294/53661
-#EXTINF:-1,tvg-id="UK: Sky Sports Action" tvg-name="UK: Sky Sports Action" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Action
-http://1tv41.icu:8080/30065823/63154294/53705
-#EXTINF:-1,tvg-id="UK: Sky Sports Arena" tvg-name="UK: Sky Sports Arena" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Arena
-http://1tv41.icu:8080/30065823/63154294/35238
-#EXTINF:-1,tvg-id="UK: Sky Sports Mix" tvg-name="UK: Sky Sports Mix" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: Sky Sports Mix
-http://1tv41.icu:8080/30065823/63154294/53706
-#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",UK: SKY SciFI
-http://1tv41.icu:8080/30065823/63154294/53663
-#EXTINF:-1,tvg-id="US: ESPN 2" tvg-name="US: ESPN 2" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: ESPN 2
-http://1tv41.icu:8080/30065823/63154294/2210
-#EXTINF:-1,tvg-id="US: ESPN 1 (HD)" tvg-name="US: ESPN 1 (HD)" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: ESPN 1 (HD)
-http://1tv41.icu:8080/30065823/63154294/14197
-#EXTINF:-1,tvg-id="US: ESPN 1 (HD)" tvg-name="US: ESPN 1 (HD)" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: ESPN 1 (HD)
-http://1tv41.icu:8080/30065823/63154294/9802
-#EXTINF:-1,tvg-id="US: ESPNU College Sports" tvg-name="US: ESPNU College Sports" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: ESPNU College Sports
-http://1tv41.icu:8080/30065823/63154294/10255
-#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: FOX Sports 1
-http://1tv41.icu:8080/30065823/63154294/46792
-#EXTINF:-1,tvg-id="US: NBA TV" tvg-name="US: NBA TV" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: NBA TV
-http://1tv41.icu:8080/30065823/63154294/20073
-#EXTINF:-1,tvg-id="US: Golf Channel" tvg-name="US: Golf Channel" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: Golf Channel
-http://1tv41.icu:8080/30065823/63154294/9806
-#EXTINF:-1,tvg-id="US: NESN" tvg-name="US: NESN" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: NESN
-http://1tv41.icu:8080/30065823/63154294/46726
-#EXTINF:-1,tvg-id="US: NHL Network" tvg-name="US: NHL Network" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: NHL Network
-http://1tv41.icu:8080/30065823/63154294/20179
-#EXTINF:-1,tvg-id="US: NFL" tvg-name="US: NFL" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: NFL
-http://1tv41.icu:8080/30065823/63154294/208896
-#EXTINF:-1,tvg-id="US: WWE NETWORK" tvg-name="US: WWE NETWORK" tvg-logo="https://v0.ekuai.asia/tvbox/gy/999/logo.php" group-title="🌟国际体育🌟",US: WWE NETWORK
-http://1tv41.icu:8080/30065823/63154294/11645
+
 
 
 
@@ -5029,7 +4982,6 @@ http://47.107.164.20:31855/itv/3000000010000027691.m3u8?cdn=FifastbLive
 http://47.107.164.20:31855/itv/3000000010000031669.m3u8?cdn=FifastbLive
 
 
-
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🌟咪咕视频②🌟",晴彩少年
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🌟咪咕视频②🌟",晴彩竞技
@@ -5116,6 +5068,8 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="🌟咪咕视频②🌟",咪咕视频 𝟛𝟠
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+
+
 
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://11.112114.xyz/logo/翡翠台.png" group-title="🌟香港频道①🌟",TVB翡翠台
@@ -5342,6 +5296,7 @@ http://php.jdshipin.com/PLTV/iptv.php?id=as
 http://php.jdshipin.com/PLTV/iptv.php?id=asam
 #EXTINF:-1,tvg-id="重温经典频高" tvg-name="重温经典频高" tvg-logo="https://11.112114.xyz/logo/重温经典频高.png" group-title="🌟香港频道①🌟",重温经典频高
 http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+
 
 
 
@@ -5746,7 +5701,6 @@ https://php.946985.xyz/iptv/jacktv.php?id=z5idt5
 https://php.946985.xyz/iptv/jacktv.php?id=28ivx9
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://11.112114.xyz/logo/龙华洋片.png" group-title="🌟湾湾频道②🌟",龙华洋片
 https://php.946985.xyz/iptv/jacktv.php?id=7hnu0v
-
 
 
 #EXTINF:-1,tvg-id="今日新闻" tvg-name="今日新闻" tvg-logo="https://epg.112114.xyz/logo/今日新闻.png" group-title="🌟湾湾频道③🌟",今日新闻
@@ -6223,7 +6177,6 @@ http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv016/index.m3u8?proxy=true
 http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv082/index.m3u8?proxy=true
 #EXTINF:-1,tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://epg.112114.xyz/logo/MEZZOLIVEHD.png" group-title="🌟湾湾频道③🌟",MEZZOl
 http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv083/index.m3u8?proxy=true
-
 
 
 
@@ -6852,899 +6805,892 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="53757" tvg-name="UK: BBC NEWS" group-title="🌟英国频道🌟",BBC NEWS
-http://1tv41.icu:8080/30065823/63154294/53757
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53757
 #EXTINF:-1 tvg-id="53649" tvg-name="UK-BBC One" group-title="🌟英国频道🌟",BBC One
-http://1tv41.icu:8080/30065823/63154294/53649
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53649
 #EXTINF:-1 tvg-id="53718" tvg-name="UK-Boomerang" group-title="🌟英国频道🌟",Boomerang
-http://1tv41.icu:8080/30065823/63154294/53718
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53718
 #EXTINF:-1 tvg-id="79108" tvg-name="UK: RTE NEWS" group-title="🌟英国频道🌟",RTE NEWS
-http://1tv41.icu:8080/30065823/63154294/79108
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/79108
 #EXTINF:-1 tvg-id="53684" tvg-name="UK-Discovery Channel" group-title="🌟英国频道🌟",Discovery Channel
-http://1tv41.icu:8080/30065823/63154294/53684
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53684
 #EXTINF:-1 tvg-id="53694" tvg-name="UK-Discovery History" group-title="🌟英国频道🌟",Discovery History
-http://1tv41.icu:8080/30065823/63154294/53694
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53694
 #EXTINF:-1 tvg-id="53695" tvg-name="UK-Discovery Science" group-title="🌟英国频道🌟",Discovery Science
-http://1tv41.icu:8080/30065823/63154294/53695
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53695
 #EXTINF:-1 tvg-id="53713" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",EuroSport 1 UK
-http://1tv41.icu:8080/30065823/63154294/53713
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53713
 #EXTINF:-1 tvg-id="53717" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",MUTV
-http://1tv41.icu:8080/30065823/63154294/53717
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53717
 #EXTINF:-1 tvg-id="77166" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports NEWS
-http://1tv41.icu:8080/30065823/63154294/77166
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/77166
 #EXTINF:-1 tvg-id="1001378" tvg-name="SKY SPORTS Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports Premier League
 http://vocotv.pro:8080//IPTV123/IPTV123/276905
 #EXTINF:-1 tvg-id="35241" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports News
-http://1tv41.icu:8080/30065823/63154294/35241
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35241
 #EXTINF:-1 tvg-id="35243" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports Main Event
-http://1tv41.icu:8080/30065823/63154294/35243
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35243
 #EXTINF:-1 tvg-id="53704" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports F1
-http://1tv41.icu:8080/30065823/63154294/53704
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53704
 #EXTINF:-1 tvg-id="35244" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports F1
-http://1tv41.icu:8080/30065823/63154294/35244
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35244
 #EXTINF:-1 tvg-id="35240" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports Golf
-http://1tv41.icu:8080/30065823/63154294/35240
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35240
 #EXTINF:-1 tvg-id="53698" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Cinema Animation
-http://1tv41.icu:8080/30065823/63154294/53698
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53698
 #EXTINF:-1 tvg-id="53699" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Cinema Family
-http://1tv41.icu:8080/30065823/63154294/53699
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53699
 #EXTINF:-1 tvg-id="35256" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Cinema Premier
-http://1tv41.icu:8080/30065823/63154294/35256
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35256
 #EXTINF:-1 tvg-id="53661" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Cinema Comedy 
-http://1tv41.icu:8080/30065823/63154294/53661
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53661
 #EXTINF:-1 tvg-id="53705" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports Action
-http://1tv41.icu:8080/30065823/63154294/53705
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53705
 #EXTINF:-1 tvg-id="35238" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports Arena
-http://1tv41.icu:8080/30065823/63154294/35238
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35238
 #EXTINF:-1 tvg-id="53706" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",Sky Sports Mix
-http://1tv41.icu:8080/30065823/63154294/53706
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53706
 #EXTINF:-1 tvg-id="53663" tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="🌟英国频道🌟",SKY SciFI
-http://1tv41.icu:8080/30065823/63154294/53663
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53663
 #EXTINF:-1 tvg-id="53675" tvg-name="UK-5 " group-title="🌟英国频道🌟",UK-5 
-http://1tv41.icu:8080/30065823/63154294/53675
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53675
 #EXTINF:-1 tvg-id="59030" tvg-name="UK-Alibi" group-title="🌟英国频道🌟",Alibi
-http://1tv41.icu:8080/30065823/63154294/59030
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/59030
 #EXTINF:-1 tvg-id="53754" tvg-name="UK-Blaze" group-title="🌟英国频道🌟",Blaze
-http://1tv41.icu:8080/30065823/63154294/53754
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53754
 #EXTINF:-1 tvg-id="53719" tvg-name="UK-Cartoon Network" group-title="🌟英国频道🌟",Cartoon Network
-http://1tv41.icu:8080/30065823/63154294/53719
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53719
 #EXTINF:-1 tvg-id="53720" tvg-name="UK-CBBC" group-title="🌟英国频道🌟",CBBC
-http://1tv41.icu:8080/30065823/63154294/53720
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53720
 #EXTINF:-1 tvg-id="53752" tvg-name="UK CBS Reality" group-title="🌟英国频道🌟",CBS Reality
-http://1tv41.icu:8080/30065823/63154294/53752
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53752
 #EXTINF:-1 tvg-id="53653" tvg-name="UK-Channel 5" group-title="🌟英国频道🌟",Channel 5
-http://1tv41.icu:8080/30065823/63154294/53653
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53653
 #EXTINF:-1 tvg-id="53660" tvg-name="UK-Comedy Central" group-title="🌟英国频道🌟",Comedy Central
-http://1tv41.icu:8080/30065823/63154294/53660
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53660
 #EXTINF:-1 tvg-id="53689" tvg-name="UK Crime & Investigation FHD (D)" group-title="🌟英国频道🌟",Crime & Investigation FHD
-http://1tv41.icu:8080/30065823/63154294/53689
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53689
 #EXTINF:-1 tvg-id="53686" tvg-name="UK History  Channel" group-title="🌟英国频道🌟",History  Channel
-http://1tv41.icu:8080/30065823/63154294/53686
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53686
 #EXTINF:-1 tvg-id="53687" tvg-name="UK-Investigation Discovery" group-title="🌟英国频道🌟",Investigation Discovery
-http://1tv41.icu:8080/30065823/63154294/53687
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53687
 #EXTINF:-1 tvg-id="53651" tvg-name="UK-ITV" group-title="🌟英国频道🌟",ITV
-http://1tv41.icu:8080/30065823/63154294/53651
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53651
 #EXTINF:-1 tvg-id="53665" tvg-name="UK-ITV 3" group-title="🌟英国频道🌟",ITV 3
-http://1tv41.icu:8080/30065823/63154294/53665
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53665
 #EXTINF:-1 tvg-id="53666" tvg-name="UK-ITV 4" group-title="🌟英国频道🌟",ITV 4
-http://1tv41.icu:8080/30065823/63154294/53666
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53666
 #EXTINF:-1 tvg-id="53671" tvg-name="UK ITV2 HD " group-title="🌟英国频道🌟",ITV2 HD 
-http://1tv41.icu:8080/30065823/63154294/53671
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53671
 #EXTINF:-1 tvg-id="53673" tvg-name="UK-More4" group-title="🌟英国频道🌟",More4
-http://1tv41.icu:8080/30065823/63154294/53673
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53673
 #EXTINF:-1 tvg-id="53734" tvg-name="US MTV Classic (A)" group-title="🌟英国频道🌟",US MTV Classic
-http://1tv41.icu:8080/30065823/63154294/53734
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53734
 #EXTINF:-1 tvg-id="53735" tvg-name="UK-MTV Hits" group-title="🌟英国频道🌟",MTV Hits
-http://1tv41.icu:8080/30065823/63154294/53735
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53735
 #EXTINF:-1 tvg-id="53737" tvg-name="UK-MTV UK" group-title="🌟英国频道🌟",MTV UK
-http://1tv41.icu:8080/30065823/63154294/53737
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53737
 #EXTINF:-1 tvg-id="53693" tvg-name="UK-Nat Geo Wild" group-title="🌟英国频道🌟",Nat Geo Wild
-http://1tv41.icu:8080/30065823/63154294/53693
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53693
 #EXTINF:-1 tvg-id="53728" tvg-name="UK: NICKELODEON" group-title="🌟英国频道🌟",NICKELODEON
-http://1tv41.icu:8080/30065823/63154294/53728
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53728
 #EXTINF:-1 tvg-id="53682" tvg-name="UK-Quest" group-title="🌟英国频道🌟",Quest
-http://1tv41.icu:8080/30065823/63154294/53682
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53682
 #EXTINF:-1 tvg-id="53741" tvg-name="UK: RACING UK" group-title="🌟英国频道🌟",RACING UK
-http://1tv41.icu:8080/30065823/63154294/53741
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53741
 #EXTINF:-1 tvg-id="53730" tvg-name="UK- Pop" group-title="🌟英国频道🌟", Pop
-http://1tv41.icu:8080/30065823/63154294/53730
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53730
 #EXTINF:-1 tvg-id="99138" tvg-name="UK: Channel 4" group-title="🌟英国频道🌟",Channel 4
-http://1tv41.icu:8080/30065823/63154294/99138
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/99138
 #EXTINF:-1 tvg-id="134942" tvg-name="UK: CBS JUSTICE" group-title="🌟英国频道🌟",CBS JUSTICE
-http://1tv41.icu:8080/30065823/63154294/134942
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/134942
 #EXTINF:-1 tvg-id="35254" tvg-name="UK: SKY CINEMA ACTION FHD" group-title="🌟英国频道🌟",SKY CINEMA ACTION FHD
-http://1tv41.icu:8080/30065823/63154294/35254
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35254
 #EXTINF:-1 tvg-id="35251" tvg-name="UK MOVIES: SKY CINEMA DRAMA" group-title="🌟英国频道🌟",MOVIES: SKY CINEMA DRAMA
-http://1tv41.icu:8080/30065823/63154294/35251
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35251
 #EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD  " group-title="🌟英国频道🌟",Sky Cinema Scifi & Horror FHD  
-http://1tv41.icu:8080/30065823/63154294/35248
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35248
 #EXTINF:-1 tvg-id="35253" tvg-name="UK MOVIES: SKY COMEDY" group-title="🌟英国频道🌟",MOVIES: SKY COMEDY
-http://1tv41.icu:8080/30065823/63154294/35253
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35253
 #EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="🌟英国频道🌟",MOVIES: SKY CRIME THRILLER
-http://1tv41.icu:8080/30065823/63154294/35252
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35252
 #EXTINF:-1 tvg-id="35249" tvg-name="UK MOVIES: SKY GREATS" group-title="🌟英国频道🌟",MOVIES: SKY GREATS
-http://1tv41.icu:8080/30065823/63154294/35249
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/35249
 
-
-
-
-#EXTINF:-1,tvg-id="US| TENNIS CHANNEL" tvg-name="US| TENNIS CHANNEL" tvg-logo="https://11.112114.xyz/logo/US|TENNISCHANNEL.png" group-title="🌟美国频道🌟",TENNIS CHANNEL
-http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
-#EXTINF:-1,tvg-id="US| TENNIS CHANNEL 2" tvg-name="US| TENNIS CHANNEL 2" tvg-logo="https://11.112114.xyz/logo/US|TENNISCHANNEL2.png" group-title="🌟美国频道🌟",TENNIS CHANNEL 2
-http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
 #EXTINF:-1 tvg-id="9815" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="🌟美国频道🌟",CNBC 
-http://1tv41.icu:8080/30065823/63154294/9815
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9815
 #EXTINF:-1 tvg-id="20860" tvg-name="US CNBC World" tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="🌟美国频道🌟",CNBC World
-http://1tv41.icu:8080/30065823/63154294/20860
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20860
 #EXTINF:-1 tvg-id="1817" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="🌟美国频道🌟",CNN 
-http://1tv41.icu:8080/30065823/63154294/1817
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/1817
 #EXTINF:-1 tvg-id="104884" tvg-name="US CNN " group-title="🌟美国频道🌟",CNN 
-http://1tv41.icu:8080/30065823/63154294/104884
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/104884
 #EXTINF:-1 tvg-id="15158" tvg-name="US Bloomberg" tvg-logo="https://www.flirtey.com/wp-content/uploads/2018/04/bloomberg-logo.png" group-title="🌟美国频道🌟",Bloomberg
-http://1tv41.icu:8080/30065823/63154294/15158
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/15158
 #EXTINF:-1 tvg-id="20194" tvg-name="US BBC America" tvg-logo="https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png" group-title="🌟美国频道🌟",BBC America
-http://1tv41.icu:8080/30065823/63154294/20194
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20194
 #EXTINF:-1 tvg-id="20073" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="🌟美国频道🌟",NBA TV
-http://1tv41.icu:8080/30065823/63154294/20073
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20073
 #EXTINF:-1 tvg-id="208896" tvg-name="USA | NFL " group-title="🌟美国频道🌟",USA | NFL 
-http://1tv41.icu:8080/30065823/63154294/208896
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/208896
 #EXTINF:-1 tvg-id="11645" tvg-name="US: WWE NETWORK" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="🌟美国频道🌟",US: WWE NETWORK
-http://1tv41.icu:8080/30065823/63154294/11645
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/11645
 #EXTINF:-1 tvg-id="17707" tvg-name="US ESPN NEWS" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPN NEWS
-http://1tv41.icu:8080/30065823/63154294/17707
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17707
 #EXTINF:-1 tvg-id="2210" tvg-name="US ESPN 2 " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPN 2 
-http://1tv41.icu:8080/30065823/63154294/2210
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/2210
 #EXTINF:-1 tvg-id="14197" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPN 1 (HD) 
-http://1tv41.icu:8080/30065823/63154294/14197
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/14197
 #EXTINF:-1 tvg-id="9802" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPN 1 (HD) 
-http://1tv41.icu:8080/30065823/63154294/9802
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9802
 #EXTINF:-1 tvg-id="10255" tvg-name="US ESPNU College Sports " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPNU College Sports 
-http://1tv41.icu:8080/30065823/63154294/10255
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10255
 #EXTINF:-1 tvg-id="46754" tvg-name="US CBSN New York (D)" group-title="🌟美国频道🌟",CBSN New York (D)
-http://1tv41.icu:8080/30065823/63154294/46754
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46754
 #EXTINF:-1 tvg-id="46792" tvg-name="US FOX Sports 1 " group-title="🌟美国频道🌟",FOX Sports 1 
-http://1tv41.icu:8080/30065823/63154294/46792
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46792
 #EXTINF:-1 tvg-id="2201" tvg-name="US A&E (A)" tvg-logo="https://juicetv.app/channellogo/ae.png" group-title="🌟美国频道🌟",A&E (A)
-http://1tv41.icu:8080/30065823/63154294/2201
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/2201
 #EXTINF:-1 tvg-id="22990" tvg-name="USA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="🌟美国频道🌟",USA: ABC
-http://1tv41.icu:8080/30065823/63154294/22990
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/22990
 #EXTINF:-1 tvg-id="9273" tvg-name="US ACC Network (A)" tvg-logo="https://b.thumbs.redditmedia.com/vjPoCrRZM-0Guub5k9HskQWodjmjP1OF3myBvaqLWGE.png" group-title="🌟美国频道🌟",ACC Network (A)
-http://1tv41.icu:8080/30065823/63154294/9273
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9273
 #EXTINF:-1 tvg-id="21013" tvg-name="US ActionMAX (East) " group-title="🌟美国频道🌟",ActionMAX (East) 
-http://1tv41.icu:8080/30065823/63154294/21013
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21013
 #EXTINF:-1 tvg-id="11644" tvg-name="CA Adult Swim (R)" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="🌟美国频道🌟",CA Adult Swim (R)
-http://1tv41.icu:8080/30065823/63154294/11644
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/11644
 #EXTINF:-1 tvg-id="79545" tvg-name="US Altitude Sports HD " group-title="🌟美国频道🌟",Altitude Sports HD 
-http://1tv41.icu:8080/30065823/63154294/79545
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/79545
 #EXTINF:-1 tvg-id="18925" tvg-name="US AMC " tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="🌟美国频道🌟",AMC 
-http://1tv41.icu:8080/30065823/63154294/18925
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/18925
 #EXTINF:-1 tvg-id="10456" tvg-name="US American Heroes Channel " group-title="🌟美国频道🌟",American Heroes Channel 
-http://1tv41.icu:8080/30065823/63154294/10456
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10456
 #EXTINF:-1 tvg-id="17870" tvg-name="US Animal Planet " tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" group-title="🌟美国频道🌟",Animal Planet 
-http://1tv41.icu:8080/30065823/63154294/17870
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17870
 #EXTINF:-1 tvg-id="20180" tvg-name="US Antenna TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="🌟美国频道🌟",Antenna TV 
-http://1tv41.icu:8080/30065823/63154294/20180
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20180
 #EXTINF:-1 tvg-id="21927" tvg-name="US Aspire (A)" group-title="🌟美国频道🌟",Aspire (A)
-http://1tv41.icu:8080/30065823/63154294/21927
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21927
 #EXTINF:-1 tvg-id="48324" tvg-name="US AXS TV " group-title="🌟美国频道🌟",AXS TV 
-http://1tv41.icu:8080/30065823/63154294/48324
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/48324
 #EXTINF:-1 tvg-id="58765" tvg-name="USA: Baby First HD" group-title="🌟美国频道🌟",USA: Baby First HD
-http://1tv41.icu:8080/30065823/63154294/58765
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/58765
 #EXTINF:-1 tvg-id="46703" tvg-name="US BET (East) " group-title="🌟美国频道🌟",BET (East) 
-http://1tv41.icu:8080/30065823/63154294/46703
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46703
 #EXTINF:-1 tvg-id="66080" tvg-name="USA: Bet Gospel" group-title="🌟美国频道🌟",USA: Bet Gospel
-http://1tv41.icu:8080/30065823/63154294/66080
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66080
 #EXTINF:-1 tvg-id="13702" tvg-name="US BET (East)  " tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="🌟美国频道🌟",BET (East)  
-http://1tv41.icu:8080/30065823/63154294/13702
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13702
 #EXTINF:-1 tvg-id="21844" tvg-name="USA: BET SOUL" group-title="🌟美国频道🌟",USA: BET SOUL
-http://1tv41.icu:8080/30065823/63154294/21844
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21844
 #EXTINF:-1 tvg-id="9828" tvg-name="US Big Ten HD" tvg-logo="https://btn.com/wp-content/uploads/2019/12/btn.png" group-title="🌟美国频道🌟",Big Ten HD
-http://1tv41.icu:8080/30065823/63154294/9828
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9828
 #EXTINF:-1 tvg-id="14741" tvg-name="US Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="🌟美国频道🌟",Boomerang 
-http://1tv41.icu:8080/30065823/63154294/14741
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/14741
 #EXTINF:-1 tvg-id="48323" tvg-name="US Bounce XL " group-title="🌟美国频道🌟",Bounce XL 
-http://1tv41.icu:8080/30065823/63154294/48323
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/48323
 #EXTINF:-1 tvg-id="20859" tvg-name="US Bravo (East)   " tvg-logo="https://www.clipartmax.com/png/middle/114-1140555_bravotv-my-sad-addiction-bravo-tv-logo-png.png" group-title="🌟美国频道🌟",Bravo (East)   
-http://1tv41.icu:8080/30065823/63154294/20859
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20859
 #EXTINF:-1 tvg-id="21896" tvg-name="US BUZZR (STV)" group-title="🌟美国频道🌟",BUZZR (STV)
-http://1tv41.icu:8080/30065823/63154294/21896
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21896
 #EXTINF:-1 tvg-id="46708" tvg-name="US Cartoon Network " group-title="🌟美国频道🌟",Cartoon Network 
-http://1tv41.icu:8080/30065823/63154294/46708
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46708
 #EXTINF:-1 tvg-id="10454" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="🌟美国频道🌟",CBS Sports Network HD 
-http://1tv41.icu:8080/30065823/63154294/10454
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10454
 #EXTINF:-1 tvg-id="21259" tvg-name="US CBS News " group-title="🌟美国频道🌟",CBS News 
-http://1tv41.icu:8080/30065823/63154294/21259
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21259
 #EXTINF:-1 tvg-id="13380" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="🌟美国频道🌟",Cinemax (East) 
-http://1tv41.icu:8080/30065823/63154294/13380
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13380
 #EXTINF:-1 tvg-id="46706" tvg-name="USA: CMT" group-title="🌟美国频道🌟",USA: CMT
-http://1tv41.icu:8080/30065823/63154294/46706
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46706
 #EXTINF:-1 tvg-id="10476" tvg-name="USA: CMT HD" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="🌟美国频道🌟",USA: CMT HD
-http://1tv41.icu:8080/30065823/63154294/10476
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10476
 #EXTINF:-1 tvg-id="7466" tvg-name="US Comedy Central (East) " tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png" group-title="🌟美国频道🌟",Comedy Central (East) 
-http://1tv41.icu:8080/30065823/63154294/7466
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/7466
 #EXTINF:-1 tvg-id="66244" tvg-name="US Comet (S)" group-title="🌟美国频道🌟",Comet (S)
-http://1tv41.icu:8080/30065823/63154294/66244
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66244
 #EXTINF:-1 tvg-id="9229" tvg-name="US Cooking Channel " tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.cook/icon/icon.png" group-title="🌟美国频道🌟",Cooking Channel 
-http://1tv41.icu:8080/30065823/63154294/9229
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9229
 #EXTINF:-1 tvg-id="11868" tvg-name="US Cozi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="🌟美国频道🌟",Cozi
-http://1tv41.icu:8080/30065823/63154294/11868
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/11868
 #EXTINF:-1 tvg-id="20189" tvg-name="US Decades " tvg-logo="https://decades.com/images/logo_tagline.png" group-title="🌟美国频道🌟",Decades 
-http://1tv41.icu:8080/30065823/63154294/20189
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20189
 #EXTINF:-1 tvg-id="14222" tvg-name="US Destination America (A)" tvg-logo="https://fontmeme.com/images/destination-america-new-logo.png" group-title="🌟美国频道🌟",Destination America (A)
-http://1tv41.icu:8080/30065823/63154294/14222
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/14222
 #EXTINF:-1 tvg-id="46720" tvg-name="US Discovery Channel (East)" group-title="🌟美国频道🌟",Discovery Channel (East)
-http://1tv41.icu:8080/30065823/63154294/46720
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46720
 #EXTINF:-1 tvg-id="9811" tvg-name="US Discovery Channel East " tvg-logo="https://logodix.com/logo/997920.png" group-title="🌟美国频道🌟",Discovery Channel East 
-http://1tv41.icu:8080/30065823/63154294/9811
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9811
 #EXTINF:-1 tvg-id="10538" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="🌟美国频道🌟",USA: DISCOVERY FAMILY
-http://1tv41.icu:8080/30065823/63154294/10538
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10538
 #EXTINF:-1 tvg-id="9861" tvg-name="USA: Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="🌟美国频道🌟",USA: Discovery Life HD
-http://1tv41.icu:8080/30065823/63154294/9861
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9861
 #EXTINF:-1 tvg-id="46212" tvg-name="CA Discovery Velocity HD " group-title="🌟美国频道🌟",CA Discovery Velocity HD 
-http://1tv41.icu:8080/30065823/63154294/46212
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46212
 #EXTINF:-1 tvg-id="10503" tvg-name="US DIY Network " tvg-logo="https://dockanddeck.com/wp-content/uploads/2019/02/diy.png" group-title="🌟美国频道🌟",DIY Network 
-http://1tv41.icu:8080/30065823/63154294/10503
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10503
 #EXTINF:-1 tvg-id="53539" tvg-name="USA: DOGTV" group-title="🌟美国频道🌟",USA: DOGTV
-http://1tv41.icu:8080/30065823/63154294/53539
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53539
 #EXTINF:-1 tvg-id="11651" tvg-name="US E! Entertainment Television East " tvg-logo="https://cdn.tvpassport.com/image/station/240x135/eentertain.png" group-title="🌟美国频道🌟",E! Entertainment Television East 
-http://1tv41.icu:8080/30065823/63154294/11651
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/11651
 #EXTINF:-1 tvg-id="13214" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="🌟美国频道🌟",EPIX (East) 
-http://1tv41.icu:8080/30065823/63154294/13214
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13214
 #EXTINF:-1 tvg-id="14193" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="🌟美国频道🌟",Epix Drive IN (S)
-http://1tv41.icu:8080/30065823/63154294/14193
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/14193
 #EXTINF:-1 tvg-id="12744" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="🌟美国频道🌟",USA: Epix Hits
-http://1tv41.icu:8080/30065823/63154294/12744
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/12744
 #EXTINF:-1 tvg-id="12730" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="🌟美国频道🌟",EPIX2 (East)
-http://1tv41.icu:8080/30065823/63154294/12730
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/12730
 #EXTINF:-1 tvg-id="2210" tvg-name="US ESPN 2 " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPN 2 
-http://1tv41.icu:8080/30065823/63154294/2210
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/2210
 #EXTINF:-1 tvg-id="14197" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPN 1 (HD) 
-http://1tv41.icu:8080/30065823/63154294/14197
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/14197
 #EXTINF:-1 tvg-id="9802" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPN 1 (HD) 
-http://1tv41.icu:8080/30065823/63154294/9802
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9802
 #EXTINF:-1 tvg-id="10255" tvg-name="US ESPNU College Sports " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="🌟美国频道🌟",ESPNU College Sports 
-http://1tv41.icu:8080/30065823/63154294/10255
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10255
 #EXTINF:-1 tvg-id="7323" tvg-name="USA: Food Network HD" tvg-logo="https://ww2.chemistry.gatech.edu/software/Conferencing/Default/AppData/Roaming/Kodi/userdata/Thumbnails/c/c272278f.png" group-title="🌟美国频道🌟",USA: Food Network HD
-http://1tv41.icu:8080/30065823/63154294/7323
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/7323
 #EXTINF:-1 tvg-id="17639" tvg-name="US Fox Business Network" tvg-logo="https://www.openthebooks.com/assets/1/6/Fox_Business1.png" group-title="🌟美国频道🌟",Fox Business Network
-http://1tv41.icu:8080/30065823/63154294/17639
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17639
 #EXTINF:-1 tvg-id="1818" tvg-name="US Fox News  " tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="🌟美国频道🌟",Fox News  
-http://1tv41.icu:8080/30065823/63154294/1818
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/1818
 #EXTINF:-1 tvg-id="1846" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="🌟美国频道🌟",Fox Sports 1 
-http://1tv41.icu:8080/30065823/63154294/1846
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/1846
 #EXTINF:-1 tvg-id="1847" tvg-name="US Fox Sports 2 (A)" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="🌟美国频道🌟",Fox Sports 2 (A)
-http://1tv41.icu:8080/30065823/63154294/1847
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/1847
 #EXTINF:-1 tvg-id="20928" tvg-name="US Bally Sports North (A)" group-title="🌟美国频道🌟",Bally Sports North (A)
-http://1tv41.icu:8080/30065823/63154294/20928
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20928
 #EXTINF:-1 tvg-id="20929" tvg-name="US Bally Sports Carolinas (A)" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="🌟美国频道🌟",Bally Sports Carolinas (A)
-http://1tv41.icu:8080/30065823/63154294/20929
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20929
 #EXTINF:-1 tvg-id="20931" tvg-name="US Bally Sports South" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="🌟美国频道🌟",Bally Sports South
-http://1tv41.icu:8080/30065823/63154294/20931
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20931
 #EXTINF:-1 tvg-id="20922" tvg-name="US FanDuel Sports South (A)" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png" group-title="🌟美国频道🌟",FanDuel Sports South (A)
-http://1tv41.icu:8080/30065823/63154294/20922
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20922
 #EXTINF:-1 tvg-id="13370" tvg-name="US Freeform East" tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="🌟美国频道🌟",Freeform East
-http://1tv41.icu:8080/30065823/63154294/13370
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13370
 #EXTINF:-1 tvg-id="46701" tvg-name="US Fuse " group-title="🌟美国频道🌟",Fuse 
-http://1tv41.icu:8080/30065823/63154294/46701
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46701
 #EXTINF:-1 tvg-id="46690" tvg-name="US FX East " group-title="🌟美国频道🌟",FX East 
-http://1tv41.icu:8080/30065823/63154294/46690
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46690
 #EXTINF:-1 tvg-id="10260" tvg-name="US FXM " tvg-logo="https://lamac.org/wp-content/uploads/2020/04/Group-63@2x.png" group-title="🌟美国频道🌟",FXM 
-http://1tv41.icu:8080/30065823/63154294/10260
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10260
 #EXTINF:-1 tvg-id="46699" tvg-name="US FXX (East) " group-title="🌟美国频道🌟",FXX (East) 
-http://1tv41.icu:8080/30065823/63154294/46699
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46699
 #EXTINF:-1 tvg-id="9240" tvg-name="US FYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" group-title="🌟美国频道🌟",FYI
-http://1tv41.icu:8080/30065823/63154294/9240
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9240
 #EXTINF:-1 tvg-id="58770" tvg-name="US Latin Galavision" group-title="🌟美国频道🌟",Latin Galavision
-http://1tv41.icu:8080/30065823/63154294/58770
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/58770
 #EXTINF:-1 tvg-id="18366" tvg-name="US GetTV " tvg-logo="https://logodix.com/logo/1826254.png" group-title="🌟美国频道🌟",GetTV 
-http://1tv41.icu:8080/30065823/63154294/18366
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/18366
 #EXTINF:-1 tvg-id="17640" tvg-name="US Great American Country " tvg-logo="https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png" group-title="🌟美国频道🌟",Great American Country 
-http://1tv41.icu:8080/30065823/63154294/17640
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17640
 #EXTINF:-1 tvg-id="20861" tvg-name="US Grit TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" group-title="🌟美国频道🌟",Grit TV
-http://1tv41.icu:8080/30065823/63154294/20861
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20861
 #EXTINF:-1 tvg-id="46719" tvg-name="US Hallmark Channel" group-title="🌟美国频道🌟",Hallmark Channel
-http://1tv41.icu:8080/30065823/63154294/46719
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46719
 #EXTINF:-1 tvg-id="9307" tvg-name="US Hallmark Drama " tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" group-title="🌟美国频道🌟",Hallmark Drama 
-http://1tv41.icu:8080/30065823/63154294/9307
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9307
 #EXTINF:-1 tvg-id="10289" tvg-name="US Hallmark Movies & Mysteries " tvg-logo="https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png" group-title="🌟美国频道🌟",Hallmark Movies & Mysteries 
-http://1tv41.icu:8080/30065823/63154294/10289
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10289
 #EXTINF:-1 tvg-id="46713" tvg-name="US HBO East HD  " group-title="🌟美国频道🌟",HBO East HD  
-http://1tv41.icu:8080/30065823/63154294/46713
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46713
 #EXTINF:-1 tvg-id="9264" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="🌟美国频道🌟",HBO 
-http://1tv41.icu:8080/30065823/63154294/9264
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9264
 #EXTINF:-1 tvg-id="9816" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="🌟美国频道🌟",HBO 2 (A)
-http://1tv41.icu:8080/30065823/63154294/9816
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9816
 #EXTINF:-1 tvg-id="17773" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="🌟美国频道🌟",HBO Comedy (East) 
-http://1tv41.icu:8080/30065823/63154294/17773
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17773
 #EXTINF:-1 tvg-id="17772" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="🌟美国频道🌟",HBO Family (East) 
-http://1tv41.icu:8080/30065823/63154294/17772
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17772
 #EXTINF:-1 tvg-id="9266" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="🌟美国频道🌟",HBO SIGNATURE (East) 
-http://1tv41.icu:8080/30065823/63154294/9266
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9266
 #EXTINF:-1 tvg-id="9265" tvg-name="US HBO Zone (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="🌟美国频道🌟",HBO Zone (East) 
-http://1tv41.icu:8080/30065823/63154294/9265
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9265
 #EXTINF:-1 tvg-id="16265" tvg-name="US HDNET MOVIES " tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="🌟美国频道🌟",HDNET MOVIES 
-http://1tv41.icu:8080/30065823/63154294/16265
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/16265
 #EXTINF:-1 tvg-id="66087" tvg-name="US Heroes & Icons (Los Angeles) " group-title="🌟美国频道🌟",Heroes & Icons (Los Angeles) 
-http://1tv41.icu:8080/30065823/63154294/66087
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66087
 #EXTINF:-1 tvg-id="46717" tvg-name="US HGTV (East) " group-title="🌟美国频道🌟",HGTV (East) 
-http://1tv41.icu:8080/30065823/63154294/46717
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46717
 #EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="🌟美国频道🌟",HISTORY 
-http://1tv41.icu:8080/30065823/63154294/46724
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46724
 #EXTINF:-1 tvg-id="15017" tvg-name="US History Channel " tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="🌟美国频道🌟",History Channel 
-http://1tv41.icu:8080/30065823/63154294/15017
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/15017
 #EXTINF:-1 tvg-id="17748" tvg-name="US HLN " tvg-logo="https://cdn.strivecloud.io/wp-content/uploads/2020/07/14143602/hln-273x202.png" group-title="🌟美国频道🌟",HLN 
-http://1tv41.icu:8080/30065823/63154294/17748
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17748
 #EXTINF:-1 tvg-id="9272" tvg-name="US IFC " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1412745090/blg54azaoqz0cj3at5zd.png" group-title="🌟美国频道🌟",IFC 
-http://1tv41.icu:8080/30065823/63154294/9272
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9272
 #EXTINF:-1 tvg-id="16262" tvg-name="US insp " tvg-logo="https://ww1.prweb.com/prfiles/2016/09/14/14127507/gI_84595_INSP%20HD%20logo.png" group-title="🌟美国频道🌟",insp 
-http://1tv41.icu:8080/30065823/63154294/16262
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/16262
 #EXTINF:-1 tvg-id="46810" tvg-name="US ID Investigation Discovery " group-title="🌟美国频道🌟",ID Investigation Discovery 
-http://1tv41.icu:8080/30065823/63154294/46810
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46810
 #EXTINF:-1 tvg-id="9297" tvg-name="US ION " tvg-logo="https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png" group-title="🌟美国频道🌟",ION 
-http://1tv41.icu:8080/30065823/63154294/9297
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9297
 #EXTINF:-1 tvg-id="17777" tvg-name="US Laff (KNVA)" tvg-logo="https://sky21.com/wp-content/uploads/2019/02/LAFF.png" group-title="🌟美国频道🌟",Laff (KNVA)
-http://1tv41.icu:8080/30065823/63154294/17777
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17777
 #EXTINF:-1 tvg-id="46714" tvg-name="US Lifetime " group-title="🌟美国频道🌟",Lifetime 
-http://1tv41.icu:8080/30065823/63154294/46714
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46714
 #EXTINF:-1 tvg-id="9275" tvg-name="US Lifetime" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/281.png" group-title="🌟美国频道🌟",Lifetime
-http://1tv41.icu:8080/30065823/63154294/9275
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9275
 #EXTINF:-1 tvg-id="2208" tvg-name="US Lifetime Movie" tvg-logo="https://juicetv.app/channellogo/lmn2.png" group-title="🌟美国频道🌟",Lifetime Movie
-http://1tv41.icu:8080/30065823/63154294/2208
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/2208
 #EXTINF:-1 tvg-id="20862" tvg-name="USA: LOGO TV" tvg-logo="https://n7.nextpng.com/sticker-png/347/134/sticker-png-logo-tv-television-channel-viacom-media-networks-others.png" group-title="🌟美国频道🌟",USA: LOGO TV
-http://1tv41.icu:8080/30065823/63154294/20862
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20862
 #EXTINF:-1 tvg-id="13379" tvg-name="US Marquee Sports Network (HD) (A)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41WaYQ28QLL.png" group-title="🌟美国频道🌟",Marquee Sports Network (HD) (A)
-http://1tv41.icu:8080/30065823/63154294/13379
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13379
 #EXTINF:-1 tvg-id="20977" tvg-name="US MAV TV (F)" tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="🌟美国频道🌟",MAV TV (F)
-http://1tv41.icu:8080/30065823/63154294/20977
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20977
 #EXTINF:-1 tvg-id="16149" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="🌟美国频道🌟",MeTV Network East
-http://1tv41.icu:8080/30065823/63154294/16149
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/16149
 #EXTINF:-1 tvg-id="17776" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="🌟美国频道🌟",More Max 
-http://1tv41.icu:8080/30065823/63154294/17776
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17776
 #EXTINF:-1 tvg-id="10399" tvg-name="US MotorTrend (A)" tvg-logo="https://www.affaritaliani.it/static/upl2018_restyle/moto/motortrend-logo1.PNG" group-title="🌟美国频道🌟",MotorTrend (A)
-http://1tv41.icu:8080/30065823/63154294/10399
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10399
 #EXTINF:-1 tvg-id="13480" tvg-name="US MovieMAX (East) " tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="🌟美国频道🌟",MovieMAX (East) 
-http://1tv41.icu:8080/30065823/63154294/13480
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13480
 #EXTINF:-1 tvg-id="1829" tvg-name="US MoviePlex (East)" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="🌟美国频道🌟",MoviePlex (East)
-http://1tv41.icu:8080/30065823/63154294/1829
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/1829
 #EXTINF:-1 tvg-id="9276" tvg-name="US MSG Plus " tvg-logo="https://billboardmats-m63qtmyjwd.stackpathdns.com/wp-content/uploads/2017/01/MSG-madisonsquaregarden-saftmat-billboardmats.png" group-title="🌟美国频道🌟",MSG Plus 
-http://1tv41.icu:8080/30065823/63154294/9276
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9276
 #EXTINF:-1 tvg-id="21090" tvg-name="US MSG (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/520px-Msg_plus.png" group-title="🌟美国频道🌟",MSG (A)
-http://1tv41.icu:8080/30065823/63154294/21090
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21090
 #EXTINF:-1 tvg-id="21376" tvg-name="US MSNBC" tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="🌟美国频道🌟",MSNBC
-http://1tv41.icu:8080/30065823/63154294/21376
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21376
 #EXTINF:-1 tvg-id="9296" tvg-name="US MSNBC " tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="🌟美国频道🌟",MSNBC 
-http://1tv41.icu:8080/30065823/63154294/9296
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9296
 #EXTINF:-1 tvg-id="9818" tvg-name="US MTV " tvg-logo="https://image.flaticon.com/icons/png/128/871/871009.png" group-title="🌟美国频道🌟",MTV 
-http://1tv41.icu:8080/30065823/63154294/9818
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9818
 #EXTINF:-1 tvg-id="9308" tvg-name="US MTV2 " tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png" group-title="🌟美国频道🌟",MTV2 
-http://1tv41.icu:8080/30065823/63154294/9308
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9308
 #EXTINF:-1 tvg-id="11664" tvg-name="US Nat Geo Wild East (A)" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="🌟美国频道🌟",Nat Geo Wild East (A)
-http://1tv41.icu:8080/30065823/63154294/11664
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/11664
 #EXTINF:-1 tvg-id="46722" tvg-name="US National Geographic " group-title="🌟美国频道🌟",National Geographic 
-http://1tv41.icu:8080/30065823/63154294/46722
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46722
 #EXTINF:-1 tvg-id="9277" tvg-name="US National Geographic (East) " tvg-logo="https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png" group-title="🌟美国频道🌟",National Geographic (East) 
-http://1tv41.icu:8080/30065823/63154294/9277
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9277
 #EXTINF:-1 tvg-id="20073" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="🌟美国频道🌟",USA: NBA TV
-http://1tv41.icu:8080/30065823/63154294/20073
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20073
 #EXTINF:-1 tvg-id="46687" tvg-name="USA: NBC" group-title="🌟美国频道🌟",USA: NBC
-http://1tv41.icu:8080/30065823/63154294/46687
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46687
 #EXTINF:-1 tvg-id="9806" tvg-name="US Golf Channel " tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="🌟美国频道🌟",Golf Channel 
-http://1tv41.icu:8080/30065823/63154294/9806
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9806
 #EXTINF:-1 tvg-id="46726" tvg-name="US NESN " group-title="🌟美国频道🌟",NESN 
-http://1tv41.icu:8080/30065823/63154294/46726
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46726
 #EXTINF:-1 tvg-id="18939" tvg-name="US Newsmax TV " tvg-logo="https://image.roku.com/developer_channels/prod/54d11237dc9d300eb0bfcf2b596c820d1f513459a3a4d4b7f69716d69aebe8d0.png" group-title="🌟美国频道🌟",Newsmax TV 
-http://1tv41.icu:8080/30065823/63154294/18939
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/18939
 #EXTINF:-1 tvg-id="20179" tvg-name="US NHL Network " tvg-logo="https://w0.pngwave.com/png/667/452/national-hockey-league-ice-hockey-stanley-cup-playoffs-logo-1967-nhl-expansion-nhl-logo-png-clip-art.png" group-title="🌟美国频道🌟",NHL Network 
-http://1tv41.icu:8080/30065823/63154294/20179
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20179
 #EXTINF:-1 tvg-id="46710" tvg-name="US Nick Jr " group-title="🌟美国频道🌟",Nick Jr 
-http://1tv41.icu:8080/30065823/63154294/46710
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46710
 #EXTINF:-1 tvg-id="9807" tvg-name="US Nick JR East (A) " tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png" group-title="🌟美国频道🌟",Nick JR East (A) 
-http://1tv41.icu:8080/30065823/63154294/9807
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9807
 #EXTINF:-1 tvg-id="53527" tvg-name="USA: NTD NEWS. " group-title="🌟美国频道🌟",USA: NTD NEWS. 
-http://1tv41.icu:8080/30065823/63154294/53527
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/53527
 #EXTINF:-1 tvg-id="21752" tvg-name="US One America News" group-title="🌟美国频道🌟",One America News
-http://1tv41.icu:8080/30065823/63154294/21752
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21752
 #EXTINF:-1 tvg-id="9244" tvg-name="US Outdoor Channel" tvg-logo="https://i2.wp.com/tva.onscreenasia.com/wp-content/uploads/2018/06/TVA-19-June-5.png" group-title="🌟美国频道🌟",Outdoor Channel
-http://1tv41.icu:8080/30065823/63154294/9244
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9244
 #EXTINF:-1 tvg-id="21012" tvg-name="US Cinemax Outermax (X)" group-title="🌟美国频道🌟",Cinemax Outermax (X)
-http://1tv41.icu:8080/30065823/63154294/21012
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21012
 #EXTINF:-1 tvg-id="20865" tvg-name="USA: OUTSIDE TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71iXofscZDL.png" group-title="🌟美国频道🌟",USA: OUTSIDE TV
-http://1tv41.icu:8080/30065823/63154294/20865
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20865
 #EXTINF:-1 tvg-id="46698" tvg-name="USA: OWN" group-title="🌟美国频道🌟",USA: OWN
-http://1tv41.icu:8080/30065823/63154294/46698
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46698
 #EXTINF:-1 tvg-id="46695" tvg-name="US Oxygen (A)" group-title="🌟美国频道🌟",Oxygen (A)
-http://1tv41.icu:8080/30065823/63154294/46695
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46695
 #EXTINF:-1 tvg-id="9245" tvg-name="US Oxygen (East)   " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Oxygen_2008.png" group-title="🌟美国频道🌟",Oxygen (East)   
-http://1tv41.icu:8080/30065823/63154294/9245
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9245
 #EXTINF:-1 tvg-id="16201" tvg-name="US Paramount Network " tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" group-title="🌟美国频道🌟",Paramount Network 
-http://1tv41.icu:8080/30065823/63154294/16201
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/16201
 #EXTINF:-1 tvg-id="46694" tvg-name="US Paramount Network " group-title="🌟美国频道🌟",Paramount Network 
-http://1tv41.icu:8080/30065823/63154294/46694
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46694
 #EXTINF:-1 tvg-id="10464" tvg-name="US Paramount TV " tvg-logo="https://e7.pngegg.com/pngimages/707/232/png-clipart-paramount-logo-brand-park-font-park-text-photography-thumbnail.png" group-title="🌟美国频道🌟",Paramount TV 
-http://1tv41.icu:8080/30065823/63154294/10464
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10464
 #EXTINF:-1 tvg-id="21648" tvg-name="US PixL (S)" group-title="🌟美国频道🌟",PixL (S)
-http://1tv41.icu:8080/30065823/63154294/21648
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21648
 #EXTINF:-1 tvg-id="22888" tvg-name="US Pursuit UP" group-title="🌟美国频道🌟",Pursuit UP
-http://1tv41.icu:8080/30065823/63154294/22888
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/22888
 #EXTINF:-1 tvg-id="10526" tvg-name="US Reelz " tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" group-title="🌟美国频道🌟",Reelz 
-http://1tv41.icu:8080/30065823/63154294/10526
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10526
 #EXTINF:-1 tvg-id="66379" tvg-name="US RetroPlex (East) " group-title="🌟美国频道🌟",RetroPlex (East) 
-http://1tv41.icu:8080/30065823/63154294/66379
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66379
 #EXTINF:-1 tvg-id="39276" tvg-name="US Revolt " group-title="🌟美国频道🌟",Revolt 
-http://1tv41.icu:8080/30065823/63154294/39276
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/39276
 #EXTINF:-1 tvg-id="17868" tvg-name="US RFD-TV " tvg-logo="https://www.logolynx.com/images/logolynx/29/29694e6e70adeb8ed1c66a5f40c42af2.png" group-title="🌟美国频道🌟",RFD-TV 
-http://1tv41.icu:8080/30065823/63154294/17868
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17868
 #EXTINF:-1 tvg-id="75654" tvg-name="US GAC Living (S)" group-title="🌟美国频道🌟",GAC Living (S)
-http://1tv41.icu:8080/30065823/63154294/75654
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/75654
 #EXTINF:-1 tvg-id="66243" tvg-name="USA: AMC Thrillers" group-title="🌟美国频道🌟",USA: AMC Thrillers
-http://1tv41.icu:8080/30065823/63154294/66243
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66243
 #EXTINF:-1 tvg-id="20866" tvg-name="US Discovery Science " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="🌟美国频道🌟",Discovery Science 
-http://1tv41.icu:8080/30065823/63154294/20866
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20866
 #EXTINF:-1 tvg-id="46214" tvg-name="US Showtime East " group-title="🌟美国频道🌟",Showtime East 
-http://1tv41.icu:8080/30065823/63154294/46214
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46214
 #EXTINF:-1 tvg-id="13219" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="🌟美国频道🌟",Showtime 2 (East) (H)
-http://1tv41.icu:8080/30065823/63154294/13219
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13219
 #EXTINF:-1 tvg-id="13220" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="🌟美国频道🌟",Showtime Extreme (East) (SP)
-http://1tv41.icu:8080/30065823/63154294/13220
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13220
 #EXTINF:-1 tvg-id="13481" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="🌟美国频道🌟",Showtime Family Zone (East) 
-http://1tv41.icu:8080/30065823/63154294/13481
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/13481
 #EXTINF:-1 tvg-id="17778" tvg-name="US Showtime Women (East) " tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="🌟美国频道🌟",Showtime Women (East) 
-http://1tv41.icu:8080/30065823/63154294/17778
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17778
 #EXTINF:-1 tvg-id="31150" tvg-name="US Smithsonian Channel (East)   " group-title="🌟美国频道🌟",Smithsonian Channel (East)   
-http://1tv41.icu:8080/30065823/63154294/31150
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/31150
 #EXTINF:-1 tvg-id="20938" tvg-name="US Sportsnet New York (SNY) (A)" tvg-logo="https://png.pngitem.com/pimgs/s/244-2442993_sny-logo-png-transparent-png.png" group-title="🌟美国频道🌟",Sportsnet New York (SNY) (A)
-http://1tv41.icu:8080/30065823/63154294/20938
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20938
 #EXTINF:-1 tvg-id="79913" tvg-name="US Sportsman Channel (A)" group-title="🌟美国频道🌟",Sportsman Channel (A)
-http://1tv41.icu:8080/30065823/63154294/79913
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/79913
 #EXTINF:-1 tvg-id="17775" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="🌟美国频道🌟",Starz Cinema (East) 
-http://1tv41.icu:8080/30065823/63154294/17775
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17775
 #EXTINF:-1 tvg-id="9301" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="🌟美国频道🌟",Starz Cinema (East) 
-http://1tv41.icu:8080/30065823/63154294/9301
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9301
 #EXTINF:-1 tvg-id="9299" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="🌟美国频道🌟",Starz East (S)
-http://1tv41.icu:8080/30065823/63154294/9299
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9299
 #EXTINF:-1 tvg-id="16263" tvg-name="US Starz Encore Westerns (East) " tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="🌟美国频道🌟",Starz Encore Westerns (East) 
-http://1tv41.icu:8080/30065823/63154294/16263
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/16263
 #EXTINF:-1 tvg-id="17779" tvg-name="US Starz in Black (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="🌟美国频道🌟",Starz in Black (East) 
-http://1tv41.icu:8080/30065823/63154294/17779
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17779
 #EXTINF:-1 tvg-id="21091" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="🌟美国频道🌟",Starz West (S)
-http://1tv41.icu:8080/30065823/63154294/21091
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21091
 #EXTINF:-1 tvg-id="46712" tvg-name="US SUNDANCE " group-title="🌟美国频道🌟",SUNDANCE 
-http://1tv41.icu:8080/30065823/63154294/46712
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46712
 #EXTINF:-1 tvg-id="46685" tvg-name="US Syfy (East)   " group-title="🌟美国频道🌟",Syfy (East)   
-http://1tv41.icu:8080/30065823/63154294/46685
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46685
 #EXTINF:-1 tvg-id="21895" tvg-name="US TBN " group-title="🌟美国频道🌟",TBN 
-http://1tv41.icu:8080/30065823/63154294/21895
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/21895
 #EXTINF:-1 tvg-id="20867" tvg-name="US TBS " tvg-logo="https://image.flaticon.com/icons/png/128/826/826355.png" group-title="🌟美国频道🌟",TBS 
-http://1tv41.icu:8080/30065823/63154294/20867
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20867
 #EXTINF:-1 tvg-id="46728" tvg-name="US Golf Channel " group-title="🌟美国频道🌟",Golf Channel 
-http://1tv41.icu:8080/30065823/63154294/46728
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46728
 #EXTINF:-1 tvg-id="18926" tvg-name="US The Weather Channel " group-title="🌟美国频道🌟",The Weather Channel 
-http://1tv41.icu:8080/30065823/63154294/18926
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/18926
 #EXTINF:-1 tvg-id="17774" tvg-name="US ThrillerMax (East)" tvg-logo="https://archive.org/download/thrillermax/thrillermax.png" group-title="🌟美国频道🌟",ThrillerMax (East)
-http://1tv41.icu:8080/30065823/63154294/17774
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/17774
 #EXTINF:-1 tvg-id="46691" tvg-name="US TLC (East)  " group-title="🌟美国频道🌟",TLC (East)  
-http://1tv41.icu:8080/30065823/63154294/46691
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46691
 #EXTINF:-1 tvg-id="12734" tvg-name="US TLC East " tvg-logo="https://logos.xmltv.se/en.tlc.discovery.dk.png" group-title="🌟美国频道🌟",TLC East 
-http://1tv41.icu:8080/30065823/63154294/12734
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/12734
 #EXTINF:-1 tvg-id="47703" tvg-name="US TLC (east) " group-title="🌟美国频道🌟",TLC (east) 
-http://1tv41.icu:8080/30065823/63154294/47703
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47703
 #EXTINF:-1 tvg-id="46688" tvg-name="US TNT (West) " group-title="🌟美国频道🌟",TNT (West) 
-http://1tv41.icu:8080/30065823/63154294/46688
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46688
 #EXTINF:-1 tvg-id="10455" tvg-name="US TNT East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="🌟美国频道🌟",TNT East 
-http://1tv41.icu:8080/30065823/63154294/10455
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10455
 #EXTINF:-1 tvg-id="9315" tvg-name="US Travel Channel East " tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png" group-title="🌟美国频道🌟",Travel Channel East 
-http://1tv41.icu:8080/30065823/63154294/9315
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9315
 #EXTINF:-1 tvg-id="10224" tvg-name="US TRUTV East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="🌟美国频道🌟",TRUTV East 
-http://1tv41.icu:8080/30065823/63154294/10224
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10224
 #EXTINF:-1 tvg-id="11885" tvg-name="US Latin TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="🌟美国频道🌟",Latin TUDN
-http://1tv41.icu:8080/30065823/63154294/11885
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/11885
 #EXTINF:-1 tvg-id="66242" tvg-name="CA Turner Classic Movies" group-title="🌟美国频道🌟",CA Turner Classic Movies
-http://1tv41.icu:8080/30065823/63154294/66242
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66242
 #EXTINF:-1 tvg-id="46696" tvg-name="US TV Land " group-title="🌟美国频道🌟",TV Land 
-http://1tv41.icu:8080/30065823/63154294/46696
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46696
 #EXTINF:-1 tvg-id="9271" tvg-name="USA: TV Land Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png" group-title="🌟美国频道🌟",USA: TV Land Classic HD
-http://1tv41.icu:8080/30065823/63154294/9271
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9271
 #EXTINF:-1 tvg-id="20868" tvg-name="US TV One " tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png" group-title="🌟美国频道🌟",TV One 
-http://1tv41.icu:8080/30065823/63154294/20868
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20868
 #EXTINF:-1 tvg-id="10259" tvg-name="US TVG Network " tvg-logo="https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png" group-title="🌟美国频道🌟",TVG Network 
-http://1tv41.icu:8080/30065823/63154294/10259
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10259
 #EXTINF:-1 tvg-id="18940" tvg-name="US TVG2 Network " tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tvg2.png" group-title="🌟美国频道🌟",TVG2 Network 
-http://1tv41.icu:8080/30065823/63154294/18940
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/18940
 #EXTINF:-1 tvg-id="9235" tvg-name="US Universal Kids (A)" tvg-logo="https://uploads-ssl.webflow.com/5ebd62d4a1ba4b3f936afa91/5ec45fc36cfa8576ef84d3e5_Universal.png" group-title="🌟美国频道🌟",Universal Kids (A)
-http://1tv41.icu:8080/30065823/63154294/9235
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9235
 #EXTINF:-1 tvg-id="46692" tvg-name="US Univision (East) (SP)" group-title="🌟美国频道🌟",Univision (East) (SP)
-http://1tv41.icu:8080/30065823/63154294/46692
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46692
 #EXTINF:-1 tvg-id="10525" tvg-name="US Up TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Upmoji-orange.png" group-title="🌟美国频道🌟",Up TV 
-http://1tv41.icu:8080/30065823/63154294/10525
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10525
 #EXTINF:-1 tvg-id="10252" tvg-name="US USA Network (East)  " tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="🌟美国频道🌟",USA Network (East)  
-http://1tv41.icu:8080/30065823/63154294/10252
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10252
 #EXTINF:-1 tvg-id="46705" tvg-name="US VH1 (East) " group-title="🌟美国频道🌟",VH1 (East) 
-http://1tv41.icu:8080/30065823/63154294/46705
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46705
 #EXTINF:-1 tvg-id="7404" tvg-name="US VH1 " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1413371145/ziqmu9l76bjxx9rz9qat.png" group-title="🌟美国频道🌟",VH1 
-http://1tv41.icu:8080/30065823/63154294/7404
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/7404
 #EXTINF:-1 tvg-id="46697" tvg-name="US VICELAND " group-title="🌟美国频道🌟",VICELAND 
-http://1tv41.icu:8080/30065823/63154294/46697
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/46697
 #EXTINF:-1 tvg-id="18941" tvg-name="US VSiN (F)" tvg-logo="https://www.crossovermediagroup.com/wp-content/uploads/2018/09/vsin.png" group-title="🌟美国频道🌟",VSiN (F)
-http://1tv41.icu:8080/30065823/63154294/18941
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/18941
 #EXTINF:-1 tvg-id="76481" tvg-name="US WAPA America " group-title="🌟美国频道🌟",WAPA America 
-http://1tv41.icu:8080/30065823/63154294/76481
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/76481
 #EXTINF:-1 tvg-id="9237" tvg-name="US WE tv " tvg-logo="https://godish.com/wp-content/uploads/channel-logos/we.png" group-title="🌟美国频道🌟",WE tv 
-http://1tv41.icu:8080/30065823/63154294/9237
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9237
 #EXTINF:-1 tvg-id="10477" tvg-name="US World Fishing Network (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" group-title="🌟美国频道🌟",World Fishing Network (F)
-http://1tv41.icu:8080/30065823/63154294/10477
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10477
 
 
 
 
 #EXTINF:-1 tvg-id="57320" tvg-name="CA : APTN" group-title="🌟加拿大频道🌟",: APTN
-http://1tv41.icu:8080/30065823/63154294/57320
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57320
 #EXTINF:-1 tvg-id="57476" tvg-name="CA: A&E" group-title="🌟加拿大频道🌟",A&E
-http://1tv41.icu:8080/30065823/63154294/57476
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57476
 #EXTINF:-1 tvg-id="57264" tvg-name="CA A&E " group-title="🌟加拿大频道🌟",A&E 
-http://1tv41.icu:8080/30065823/63154294/57264
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57264
 #EXTINF:-1 tvg-id="57375" tvg-name="CA: ABC SPARK" group-title="🌟加拿大频道🌟",ABC SPARK
-http://1tv41.icu:8080/30065823/63154294/57375
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57375
 #EXTINF:-1 tvg-id="57376" tvg-name="CA: AMC" group-title="🌟加拿大频道🌟",AMC
-http://1tv41.icu:8080/30065823/63154294/57376
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57376
 #EXTINF:-1 tvg-id="57377" tvg-name="CA: Animal Planet" group-title="🌟加拿大频道🌟",Animal Planet
-http://1tv41.icu:8080/30065823/63154294/57377
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57377
 #EXTINF:-1 tvg-id="57358" tvg-name="CA: BNN Bloomberg HD" group-title="🌟加拿大频道🌟",BNN Bloomberg HD
-http://1tv41.icu:8080/30065823/63154294/57358
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57358
 #EXTINF:-1 tvg-id="57379" tvg-name="CA: Bravo" group-title="🌟加拿大频道🌟",Bravo
-http://1tv41.icu:8080/30065823/63154294/57379
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57379
 #EXTINF:-1 tvg-id="57380" tvg-name="CA Cartoon Network " group-title="🌟加拿大频道🌟",Cartoon Network 
-http://1tv41.icu:8080/30065823/63154294/57380
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57380
 #EXTINF:-1 tvg-id="57356" tvg-name="CA Cartoon Network (E)" group-title="🌟加拿大频道🌟",Cartoon Network (E)
-http://1tv41.icu:8080/30065823/63154294/57356
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57356
 #EXTINF:-1 tvg-id="57304" tvg-name="CA CBC NEWS NETWORK (E)" group-title="🌟加拿大频道🌟",CBC NEWS NETWORK (E)
-http://1tv41.icu:8080/30065823/63154294/57304
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57304
 #EXTINF:-1 tvg-id="57381" tvg-name="CA CBC Calgary HD " group-title="🌟加拿大频道🌟",CBC Calgary HD 
-http://1tv41.icu:8080/30065823/63154294/57381
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57381
 #EXTINF:-1 tvg-id="57382" tvg-name="CA CBC Charlottetown HD (D)" group-title="🌟加拿大频道🌟",CBC Charlottetown HD (D)
-http://1tv41.icu:8080/30065823/63154294/57382
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57382
 #EXTINF:-1 tvg-id="57384" tvg-name="CA: CBC Edmonton" group-title="🌟加拿大频道🌟",CBC Edmonton
-http://1tv41.icu:8080/30065823/63154294/57384
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57384
 #EXTINF:-1 tvg-id="57385" tvg-name="CA CBC Halifax HD " group-title="🌟加拿大频道🌟",CBC Halifax HD 
-http://1tv41.icu:8080/30065823/63154294/57385
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57385
 #EXTINF:-1 tvg-id="57387" tvg-name="CA CBC Montreal HD (D) " group-title="🌟加拿大频道🌟",CBC Montreal HD (D) 
-http://1tv41.icu:8080/30065823/63154294/57387
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57387
 #EXTINF:-1 tvg-id="57305" tvg-name="CA: CBC OTTAWA" group-title="🌟加拿大频道🌟",CBC OTTAWA
-http://1tv41.icu:8080/30065823/63154294/57305
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57305
 #EXTINF:-1 tvg-id="57260" tvg-name="CA CBC Toronto " group-title="🌟加拿大频道🌟",CBC Toronto 
-http://1tv41.icu:8080/30065823/63154294/57260
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57260
 #EXTINF:-1 tvg-id="57306" tvg-name="CA: CBC TORONTO" group-title="🌟加拿大频道🌟",CBC TORONTO
-http://1tv41.icu:8080/30065823/63154294/57306
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57306
 #EXTINF:-1 tvg-id="57391" tvg-name="CA: CBC Vancouver" group-title="🌟加拿大频道🌟",CBC Vancouver
-http://1tv41.icu:8080/30065823/63154294/57391
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57391
 #EXTINF:-1 tvg-id="57393" tvg-name="CA CHCH (E)" group-title="🌟加拿大频道🌟",CHCH (E)
-http://1tv41.icu:8080/30065823/63154294/57393
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57393
 #EXTINF:-1 tvg-id="75653" tvg-name="CA: CHRGD" group-title="🌟加拿大频道🌟",CHRGD
-http://1tv41.icu:8080/30065823/63154294/75653
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/75653
 #EXTINF:-1 tvg-id="75652" tvg-name="CA CITY TV CALGARY (E)" group-title="🌟加拿大频道🌟",CITY TV CALGARY (E)
-http://1tv41.icu:8080/30065823/63154294/75652
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/75652
 #EXTINF:-1 tvg-id="57394" tvg-name="CA City TV Toronto (D)" group-title="🌟加拿大频道🌟",City TV Toronto (D)
-http://1tv41.icu:8080/30065823/63154294/57394
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57394
 #EXTINF:-1 tvg-id="57307" tvg-name="CA: CITY TV TORONTO HD" group-title="🌟加拿大频道🌟",CITY TV TORONTO HD
-http://1tv41.icu:8080/30065823/63154294/57307
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57307
 #EXTINF:-1 tvg-id="57395" tvg-name="CA CITY TV VANCOUVER (E)" group-title="🌟加拿大频道🌟",CITY TV VANCOUVER (E)
-http://1tv41.icu:8080/30065823/63154294/57395
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57395
 #EXTINF:-1 tvg-id="57258" tvg-name="CA CMT" group-title="🌟加拿大频道🌟",CMT
-http://1tv41.icu:8080/30065823/63154294/57258
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57258
 #EXTINF:-1 tvg-id="57398" tvg-name="CA: CNN " group-title="🌟加拿大频道🌟",CNN 
-http://1tv41.icu:8080/30065823/63154294/57398
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57398
 #EXTINF:-1 tvg-id="47213" tvg-name="CA CNN " group-title="🌟加拿大频道🌟",CNN 
-http://1tv41.icu:8080/30065823/63154294/47213
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47213
 #EXTINF:-1 tvg-id="47217" tvg-name="CA Cottage Life HD (B)" group-title="🌟加拿大频道🌟",Cottage Life HD (B)
-http://1tv41.icu:8080/30065823/63154294/47217
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47217
 #EXTINF:-1 tvg-id="57357" tvg-name="CA CP24 News HD (D)" group-title="🌟加拿大频道🌟",CP24 News HD (D)
-http://1tv41.icu:8080/30065823/63154294/57357
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57357
 #EXTINF:-1 tvg-id="57401" tvg-name="CA CP24 News HD (E)" group-title="🌟加拿大频道🌟",CP24 News HD (E)
-http://1tv41.icu:8080/30065823/63154294/57401
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57401
 #EXTINF:-1 tvg-id="57345" tvg-name="CA CP24 HD " group-title="🌟加拿大频道🌟",CP24 HD 
-http://1tv41.icu:8080/30065823/63154294/57345
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57345
 #EXTINF:-1 tvg-id="47218" tvg-name="CA: CP24 FHD" group-title="🌟加拿大频道🌟",CP24 FHD
-http://1tv41.icu:8080/30065823/63154294/47218
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47218
 #EXTINF:-1 tvg-id="57257" tvg-name="CA: CP24 HD" group-title="🌟加拿大频道🌟",CP24 HD
-http://1tv41.icu:8080/30065823/63154294/57257
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57257
 #EXTINF:-1 tvg-id="57402" tvg-name="CA: CPAC" group-title="🌟加拿大频道🌟",CPAC
-http://1tv41.icu:8080/30065823/63154294/57402
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57402
 #EXTINF:-1 tvg-id="57352" tvg-name="CA: CPAC English" group-title="🌟加拿大频道🌟",CPAC English
-http://1tv41.icu:8080/30065823/63154294/57352
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57352
 #EXTINF:-1 tvg-id="57351" tvg-name="CA CPAC HD " group-title="🌟加拿大频道🌟",CPAC HD 
-http://1tv41.icu:8080/30065823/63154294/57351
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57351
 #EXTINF:-1 tvg-id="57309" tvg-name="CA: CRAVE 1 HD" group-title="🌟加拿大频道🌟",CRAVE 1 HD
-http://1tv41.icu:8080/30065823/63154294/57309
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57309
 #EXTINF:-1 tvg-id="57310" tvg-name="CA: CRAVE 2 HD" group-title="🌟加拿大频道🌟",CRAVE 2 HD
-http://1tv41.icu:8080/30065823/63154294/57310
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57310
 #EXTINF:-1 tvg-id="57322" tvg-name="CA: CRAVE 3" group-title="🌟加拿大频道🌟",CRAVE 3
-http://1tv41.icu:8080/30065823/63154294/57322
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57322
 #EXTINF:-1 tvg-id="57311" tvg-name="CA: CRAVE 4 HD" group-title="🌟加拿大频道🌟",CRAVE 4 HD
-http://1tv41.icu:8080/30065823/63154294/57311
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57311
 #EXTINF:-1 tvg-id="57256" tvg-name="CA: CRIME & INVESTIGATION" group-title="🌟加拿大频道🌟",CRIME & INVESTIGATION
-http://1tv41.icu:8080/30065823/63154294/57256
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57256
 #EXTINF:-1 tvg-id="79547" tvg-name="CA CTV Two Atlantic " group-title="🌟加拿大频道🌟",CTV Two Atlantic 
-http://1tv41.icu:8080/30065823/63154294/79547
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/79547
 #EXTINF:-1 tvg-id="57964" tvg-name="CA CTV CALGARY (E)" group-title="🌟加拿大频道🌟",CTV CALGARY (E)
-http://1tv41.icu:8080/30065823/63154294/57964
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57964
 #EXTINF:-1 tvg-id="57408" tvg-name="CA CTV Comedy Channel " group-title="🌟加拿大频道🌟",CTV Comedy Channel 
-http://1tv41.icu:8080/30065823/63154294/57408
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57408
 #EXTINF:-1 tvg-id="57254" tvg-name="CA CTV Drama Channel (R)" group-title="🌟加拿大频道🌟",CTV Drama Channel (R)
-http://1tv41.icu:8080/30065823/63154294/57254
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57254
 #EXTINF:-1 tvg-id="58725" tvg-name="CA CTV Edmonton Alberta HD (D)" group-title="🌟加拿大频道🌟",CTV Edmonton Alberta HD (D)
-http://1tv41.icu:8080/30065823/63154294/58725
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/58725
 #EXTINF:-1 tvg-id="57410" tvg-name="CA CTV Halifax Nova Scotia HD " group-title="🌟加拿大频道🌟",CTV Halifax Nova Scotia HD 
-http://1tv41.icu:8080/30065823/63154294/57410
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57410
 #EXTINF:-1 tvg-id="58557" tvg-name="CA CTV Kitchener " group-title="🌟加拿大频道🌟",CTV Kitchener 
-http://1tv41.icu:8080/30065823/63154294/58557
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/58557
 #EXTINF:-1 tvg-id="58546" tvg-name="CA CTV 2 London HD " group-title="🌟加拿大频道🌟",CTV 2 London HD 
-http://1tv41.icu:8080/30065823/63154294/58546
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/58546
 #EXTINF:-1 tvg-id="47234" tvg-name="CA CTV Montreal HD " group-title="🌟加拿大频道🌟",CTV Montreal HD 
-http://1tv41.icu:8080/30065823/63154294/47234
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47234
 #EXTINF:-1 tvg-id="57350" tvg-name="CA: CTV NEWS CHANNEL HD" group-title="🌟加拿大频道🌟",CTV NEWS CHANNEL HD
-http://1tv41.icu:8080/30065823/63154294/57350
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57350
 #EXTINF:-1 tvg-id="47237" tvg-name="CA: CTV OTTAWA" group-title="🌟加拿大频道🌟",CTV OTTAWA
-http://1tv41.icu:8080/30065823/63154294/47237
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47237
 #EXTINF:-1 tvg-id="66381" tvg-name="CA CTV Regina Saskatchewan HD (D)" group-title="🌟加拿大频道🌟",CTV Regina Saskatchewan HD (D)
-http://1tv41.icu:8080/30065823/63154294/66381
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66381
 #EXTINF:-1 tvg-id="66382" tvg-name="CA CTV Saskatoon Saskatchewan HD (D)" group-title="🌟加拿大频道🌟",CTV Saskatoon Saskatchewan HD (D)
-http://1tv41.icu:8080/30065823/63154294/66382
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66382
 #EXTINF:-1 tvg-id="57253" tvg-name="CA CTV Sci-Fi Channel (B)" group-title="🌟加拿大频道🌟",CTV Sci-Fi Channel (B)
-http://1tv41.icu:8080/30065823/63154294/57253
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57253
 #EXTINF:-1 tvg-id="47296" tvg-name="CA CTV Toronto HD (R)" group-title="🌟加拿大频道🌟",CTV Toronto HD (R)
-http://1tv41.icu:8080/30065823/63154294/47296
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47296
 #EXTINF:-1 tvg-id="57316" tvg-name="CA: CTV2 Vancouver" group-title="🌟加拿大频道🌟",CTV2 Vancouver
-http://1tv41.icu:8080/30065823/63154294/57316
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57316
 #EXTINF:-1 tvg-id="77165" tvg-name="CA CTV2 Windsor HD (B)" group-title="🌟加拿大频道🌟",CTV2 Windsor HD (B)
-http://1tv41.icu:8080/30065823/63154294/77165
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/77165
 #EXTINF:-1 tvg-id="57373" tvg-name="CA CTV Barrie Ontario HD " group-title="🌟加拿大频道🌟",CTV Barrie Ontario HD 
-http://1tv41.icu:8080/30065823/63154294/57373
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57373
 #EXTINF:-1 tvg-id="57252" tvg-name="CA Discovery Channel " group-title="🌟加拿大频道🌟",Discovery Channel 
-http://1tv41.icu:8080/30065823/63154294/57252
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57252
 #EXTINF:-1 tvg-id="57418" tvg-name="CA: Discovery Science" group-title="🌟加拿大频道🌟",Discovery Science
-http://1tv41.icu:8080/30065823/63154294/57418
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57418
 #EXTINF:-1 tvg-id="57349" tvg-name="CA Disney Junior " group-title="🌟加拿大频道🌟",Disney Junior 
-http://1tv41.icu:8080/30065823/63154294/57349
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57349
 #EXTINF:-1 tvg-id="57420" tvg-name="CA Disney XD (R)" group-title="🌟加拿大频道🌟",Disney XD (R)
-http://1tv41.icu:8080/30065823/63154294/57420
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57420
 #EXTINF:-1 tvg-id="47258" tvg-name="CA: DIY NETWORK FHD" group-title="🌟加拿大频道🌟",DIY NETWORK FHD
-http://1tv41.icu:8080/30065823/63154294/47258
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47258
 #EXTINF:-1 tvg-id="57250" tvg-name="CA: DTOUR HD" group-title="🌟加拿大频道🌟",DTOUR HD
-http://1tv41.icu:8080/30065823/63154294/57250
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57250
 #EXTINF:-1 tvg-id="57422" tvg-name="CA E! (R)" group-title="🌟加拿大频道🌟",E! (R)
-http://1tv41.icu:8080/30065823/63154294/57422
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57422
 #EXTINF:-1 tvg-id="57249" tvg-name="CA: E! CANADA HD" group-title="🌟加拿大频道🌟",E! CANADA HD
-http://1tv41.icu:8080/30065823/63154294/57249
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57249
 #EXTINF:-1 tvg-id="57288" tvg-name="CA (FR) TV5 " group-title="🌟加拿大频道🌟",(FR) TV5 
-http://1tv41.icu:8080/30065823/63154294/57288
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57288
 #EXTINF:-1 tvg-id="57347" tvg-name="US Discovery Family " group-title="🌟加拿大频道🌟",US Discovery Family 
-http://1tv41.icu:8080/30065823/63154294/57347
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57347
 #EXTINF:-1 tvg-id="57346" tvg-name="CA: Family Jr HD" group-title="🌟加拿大频道🌟",Family Jr HD
-http://1tv41.icu:8080/30065823/63154294/57346
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57346
 #EXTINF:-1 tvg-id="57247" tvg-name="CA Food Network" group-title="🌟加拿大频道🌟",Food Network
-http://1tv41.icu:8080/30065823/63154294/57247
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57247
 #EXTINF:-1 tvg-id="47281" tvg-name="CA FOX NEWS" group-title="🌟加拿大频道🌟",FOX NEWS
-http://1tv41.icu:8080/30065823/63154294/47281
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47281
 #EXTINF:-1 tvg-id="57268" tvg-name="CA: FX HD" group-title="🌟加拿大频道🌟",FX HD
-http://1tv41.icu:8080/30065823/63154294/57268
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57268
 #EXTINF:-1 tvg-id="57429" tvg-name="CA FXX " group-title="🌟加拿大频道🌟",FXX 
-http://1tv41.icu:8080/30065823/63154294/57429
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57429
 #EXTINF:-1 tvg-id="57430" tvg-name="CA Game Show Network HD " group-title="🌟加拿大频道🌟",Game Show Network HD 
-http://1tv41.icu:8080/30065823/63154294/57430
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57430
 #EXTINF:-1 tvg-id="57431" tvg-name="CA: Ginx esports TV" group-title="🌟加拿大频道🌟",Ginx esports TV
-http://1tv41.icu:8080/30065823/63154294/57431
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57431
 #EXTINF:-1 tvg-id="57432" tvg-name="CA Global News Kingston (D)" group-title="🌟加拿大频道🌟",Global News Kingston (D)
-http://1tv41.icu:8080/30065823/63154294/57432
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57432
 #EXTINF:-1 tvg-id="58724" tvg-name="CA Global Edmonton News (E)" group-title="🌟加拿大频道🌟",Global Edmonton News (E)
-http://1tv41.icu:8080/30065823/63154294/58724
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/58724
 #EXTINF:-1 tvg-id="57434" tvg-name="CA: Global Halifax News" group-title="🌟加拿大频道🌟",Global Halifax News
-http://1tv41.icu:8080/30065823/63154294/57434
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57434
 #EXTINF:-1 tvg-id="66384" tvg-name="CA Global News Regina (D)" group-title="🌟加拿大频道🌟",Global News Regina (D)
-http://1tv41.icu:8080/30065823/63154294/66384
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66384
 #EXTINF:-1 tvg-id="66383" tvg-name="CA Global Saskatoon (B)" group-title="🌟加拿大频道🌟",Global Saskatoon (B)
-http://1tv41.icu:8080/30065823/63154294/66383
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66383
 #EXTINF:-1 tvg-id="57435" tvg-name="CA GLOBAL TORONTO" group-title="🌟加拿大频道🌟",GLOBAL TORONTO
-http://1tv41.icu:8080/30065823/63154294/57435
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57435
 #EXTINF:-1 tvg-id="57302" tvg-name="CA: GLOBAL TORONTO" group-title="🌟加拿大频道🌟",GLOBAL TORONTO
-http://1tv41.icu:8080/30065823/63154294/57302
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57302
 #EXTINF:-1 tvg-id="57436" tvg-name="CA: Global Vancouver" group-title="🌟加拿大频道🌟",Global Vancouver
-http://1tv41.icu:8080/30065823/63154294/57436
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57436
 #EXTINF:-1 tvg-id="57362" tvg-name="CA: Golf Channel HD" group-title="🌟加拿大频道🌟",Golf Channel HD
-http://1tv41.icu:8080/30065823/63154294/57362
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57362
 #EXTINF:-1 tvg-id="57437" tvg-name="CA: HBO 1 " group-title="🌟加拿大频道🌟",HBO 1 
-http://1tv41.icu:8080/30065823/63154294/57437
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57437
 #EXTINF:-1 tvg-id="57438" tvg-name="CA HBO 2 (R)" group-title="🌟加拿大频道🌟",HBO 2 (R)
-http://1tv41.icu:8080/30065823/63154294/57438
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57438
 #EXTINF:-1 tvg-id="57273" tvg-name="CA HGTV " group-title="🌟加拿大频道🌟",HGTV 
-http://1tv41.icu:8080/30065823/63154294/57273
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57273
 #EXTINF:-1 tvg-id="47302" tvg-name="CA HISTORY " group-title="🌟加拿大频道🌟",HISTORY 
-http://1tv41.icu:8080/30065823/63154294/47302
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47302
 #EXTINF:-1 tvg-id="57272" tvg-name="CA HISTORY (E)" group-title="🌟加拿大频道🌟",HISTORY (E)
-http://1tv41.icu:8080/30065823/63154294/57272
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57272
 #EXTINF:-1 tvg-id="57441" tvg-name="CA: HLN" group-title="🌟加拿大频道🌟",HLN
-http://1tv41.icu:8080/30065823/63154294/57441
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57441
 #EXTINF:-1 tvg-id="57442" tvg-name="CA Investigation Discovery HD (E)" group-title="🌟加拿大频道🌟",Investigation Discovery HD (E)
-http://1tv41.icu:8080/30065823/63154294/57442
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57442
 #EXTINF:-1 tvg-id="57271" tvg-name="CA Lifetime " group-title="🌟加拿大频道🌟",Lifetime 
-http://1tv41.icu:8080/30065823/63154294/57271
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57271
 #EXTINF:-1 tvg-id="57444" tvg-name="CA: Lifetime Movie Network" group-title="🌟加拿大频道🌟",Lifetime Movie Network
-http://1tv41.icu:8080/30065823/63154294/57444
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57444
 #EXTINF:-1 tvg-id="47324" tvg-name="CA Love Nature HD " group-title="🌟加拿大频道🌟",Love Nature HD 
-http://1tv41.icu:8080/30065823/63154294/47324
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47324
 #EXTINF:-1 tvg-id="57270" tvg-name="CA: MAKEFUL" group-title="🌟加拿大频道🌟",MAKEFUL
-http://1tv41.icu:8080/30065823/63154294/57270
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57270
 #EXTINF:-1 tvg-id="47331" tvg-name="CA: MOVIETIME HD" group-title="🌟加拿大频道🌟",MOVIETIME HD
-http://1tv41.icu:8080/30065823/63154294/47331
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47331
 #EXTINF:-1 tvg-id="47332" tvg-name="CA MSNBC (R)" group-title="🌟加拿大频道🌟",MSNBC (R)
-http://1tv41.icu:8080/30065823/63154294/47332
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47332
 #EXTINF:-1 tvg-id="57446" tvg-name="CA: MTV" group-title="🌟加拿大频道🌟",MTV
-http://1tv41.icu:8080/30065823/63154294/57446
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57446
 #EXTINF:-1 tvg-id="57447" tvg-name="CA MTV2 (E)" group-title="🌟加拿大频道🌟",MTV2 (E)
-http://1tv41.icu:8080/30065823/63154294/57447
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57447
 #EXTINF:-1 tvg-id="57368" tvg-name="CA: MTV HD" group-title="🌟加拿大频道🌟",MTV HD
-http://1tv41.icu:8080/30065823/63154294/57368
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57368
 #EXTINF:-1 tvg-id="57281" tvg-name="CA: National Geographics" group-title="🌟加拿大频道🌟",National Geographics
-http://1tv41.icu:8080/30065823/63154294/57281
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57281
 #EXTINF:-1 tvg-id="47338" tvg-name="CA: National Geographic  HD" group-title="🌟加拿大频道🌟",National Geographic  HD
-http://1tv41.icu:8080/30065823/63154294/47338
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47338
 #EXTINF:-1 tvg-id="57450" tvg-name="CA National Geographic Wild (R)" group-title="🌟加拿大频道🌟",National Geographic Wild (R)
-http://1tv41.icu:8080/30065823/63154294/57450
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57450
 #EXTINF:-1 tvg-id="57280" tvg-name="CA National Geographic Wild " group-title="🌟加拿大频道🌟",National Geographic Wild 
-http://1tv41.icu:8080/30065823/63154294/57280
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57280
 #EXTINF:-1 tvg-id="47339" tvg-name="CA: NATIONAL GEOGRAPHIC" group-title="🌟加拿大频道🌟",NATIONAL GEOGRAPHIC
-http://1tv41.icu:8080/30065823/63154294/47339
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47339
 #EXTINF:-1 tvg-id="47346" tvg-name="CA: NFL NETWORK HD" group-title="🌟加拿大频道🌟",NFL NETWORK HD
-http://1tv41.icu:8080/30065823/63154294/47346
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47346
 #EXTINF:-1 tvg-id="47349" tvg-name="CA Nickelodeon (R)" group-title="🌟加拿大频道🌟",Nickelodeon (R)
-http://1tv41.icu:8080/30065823/63154294/47349
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47349
 #EXTINF:-1 tvg-id="58023" tvg-name="CA (ZH) NTD (E)" group-title="🌟加拿大频道🌟",(ZH) NTD (E)
-http://1tv41.icu:8080/30065823/63154294/58023
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/58023
 #EXTINF:-1 tvg-id="57478" tvg-name="CA NTV St. John`s " group-title="🌟加拿大频道🌟",NTV St. John`s 
-http://1tv41.icu:8080/30065823/63154294/57478
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57478
 #EXTINF:-1 tvg-id="57366" tvg-name="CA OLN (E)" group-title="🌟加拿大频道🌟",OLN (E)
-http://1tv41.icu:8080/30065823/63154294/57366
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57366
 #EXTINF:-1 tvg-id="57365" tvg-name="CA: OMNI1 HD" group-title="🌟加拿大频道🌟",OMNI1 HD
-http://1tv41.icu:8080/30065823/63154294/57365
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57365
 #EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="🌟加拿大频道🌟",OWN 
-http://1tv41.icu:8080/30065823/63154294/57277
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57277
 #EXTINF:-1 tvg-id="57276" tvg-name="CA: PBS HD" group-title="🌟加拿大频道🌟",PBS HD
-http://1tv41.icu:8080/30065823/63154294/57276
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57276
 #EXTINF:-1 tvg-id="47362" tvg-name="CA Peachtree TV HD (R)" group-title="🌟加拿大频道🌟",Peachtree TV HD (R)
-http://1tv41.icu:8080/30065823/63154294/47362
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47362
 #EXTINF:-1 tvg-id="57325" tvg-name="CA (FR) RDS (R)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/tv1_rdsinfo.png" group-title="🌟加拿大频道🌟",(FR) RDS (R)
-http://1tv41.icu:8080/30065823/63154294/57325
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57325
 #EXTINF:-1 tvg-id="47366" tvg-name="CA: Showcase HD" group-title="🌟加拿大频道🌟",Showcase HD
-http://1tv41.icu:8080/30065823/63154294/47366
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47366
 #EXTINF:-1 tvg-id="57274" tvg-name="CA Slice TV " group-title="🌟加拿大频道🌟",Slice TV 
-http://1tv41.icu:8080/30065823/63154294/57274
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57274
 #EXTINF:-1 tvg-id="47369" tvg-name="CA Smithsonian Channel (B)" group-title="🌟加拿大频道🌟",Smithsonian Channel (B)
-http://1tv41.icu:8080/30065823/63154294/47369
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47369
 #EXTINF:-1 tvg-id="2219" tvg-name="CA Sportsnet 360 HD " tvg-logo="https://images.radio.orange.com/radios/large_cfac_960_am_calgary_alberta.png" group-title="🌟加拿大频道🌟",Sportsnet 360 HD 
-http://1tv41.icu:8080/30065823/63154294/2219
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/2219
 #EXTINF:-1 tvg-id="57299" tvg-name="CA Sportsnet 360 (HD)" group-title="🌟加拿大频道🌟",Sportsnet 360 (HD)
-http://1tv41.icu:8080/30065823/63154294/57299
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57299
 #EXTINF:-1 tvg-id="57298" tvg-name="CA Sportsnet East HD (F)" group-title="🌟加拿大频道🌟",Sportsnet East HD (F)
-http://1tv41.icu:8080/30065823/63154294/57298
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57298
 #EXTINF:-1 tvg-id="57297" tvg-name="CA Sportsnet One (FHD) " group-title="🌟加拿大频道🌟",Sportsnet One (FHD) 
-http://1tv41.icu:8080/30065823/63154294/57297
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57297
 #EXTINF:-1 tvg-id="47379" tvg-name="CA Sportsnet One (HD) " group-title="🌟加拿大频道🌟",Sportsnet One (HD) 
-http://1tv41.icu:8080/30065823/63154294/47379
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47379
 #EXTINF:-1 tvg-id="57463" tvg-name="CA: Sportsnet Ontario" group-title="🌟加拿大频道🌟",Sportsnet Ontario
-http://1tv41.icu:8080/30065823/63154294/57463
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57463
 #EXTINF:-1 tvg-id="57296" tvg-name="CA Sportsnet Ontario HD " group-title="🌟加拿大频道🌟",Sportsnet Ontario HD 
-http://1tv41.icu:8080/30065823/63154294/57296
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57296
 #EXTINF:-1 tvg-id="11649" tvg-name="CA Sportsnet Ontario (FHD) " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="🌟加拿大频道🌟",Sportsnet Ontario (FHD) 
-http://1tv41.icu:8080/30065823/63154294/11649
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/11649
 #EXTINF:-1 tvg-id="9860" tvg-name="CA Sportsnet Pacific (FHD) " tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="🌟加拿大频道🌟",Sportsnet Pacific (FHD) 
-http://1tv41.icu:8080/30065823/63154294/9860
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/9860
 #EXTINF:-1 tvg-id="47387" tvg-name="CA Sportsnet Pacific HD" group-title="🌟加拿大频道🌟",Sportsnet Pacific HD
-http://1tv41.icu:8080/30065823/63154294/47387
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47387
 #EXTINF:-1 tvg-id="20975" tvg-name="CA Sportsnet West (FHD)" tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="🌟加拿大频道🌟",Sportsnet West (FHD)
-http://1tv41.icu:8080/30065823/63154294/20975
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/20975
 #EXTINF:-1 tvg-id="57300" tvg-name="CA: SPORTSNET WEST" group-title="🌟加拿大频道🌟",SPORTSNET WEST
-http://1tv41.icu:8080/30065823/63154294/57300
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57300
 #EXTINF:-1 tvg-id="75675" tvg-name="CA Sportsnet World HD " group-title="🌟加拿大频道🌟",Sportsnet World HD 
-http://1tv41.icu:8080/30065823/63154294/75675
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/75675
 #EXTINF:-1 tvg-id="57464" tvg-name="CA CTV SCI-FI " group-title="🌟加拿大频道🌟",CTV SCI-FI 
-http://1tv41.icu:8080/30065823/63154294/57464
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57464
 #EXTINF:-1 tvg-id="57372" tvg-name="CA Teletoon East (E)" group-title="🌟加拿大频道🌟",Teletoon East (E)
-http://1tv41.icu:8080/30065823/63154294/57372
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57372
 #EXTINF:-1 tvg-id="57291" tvg-name="CA: TFO  (FR)" group-title="🌟加拿大频道🌟",TFO  (FR)
-http://1tv41.icu:8080/30065823/63154294/57291
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57291
 #EXTINF:-1 tvg-id="57290" tvg-name="CA TLC " group-title="🌟加拿大频道🌟",TLC 
-http://1tv41.icu:8080/30065823/63154294/57290
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57290
 #EXTINF:-1 tvg-id="57371" tvg-name="CA Treehouse (R)" group-title="🌟加拿大频道🌟",Treehouse (R)
-http://1tv41.icu:8080/30065823/63154294/57371
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57371
 #EXTINF:-1 tvg-id="57370" tvg-name="CA : The Shopping Channel (B)" group-title="🌟加拿大频道🌟",: The Shopping Channel (B)
-http://1tv41.icu:8080/30065823/63154294/57370
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57370
 #EXTINF:-1 tvg-id="57292" tvg-name="CA TSN 1 (E)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="🌟加拿大频道🌟",TSN 1 (E)
-http://1tv41.icu:8080/30065823/63154294/57292
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57292
 #EXTINF:-1 tvg-id="47440" tvg-name="CA TSN 1 (R)" group-title="🌟加拿大频道🌟",TSN 1 (R)
-http://1tv41.icu:8080/30065823/63154294/47440
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47440
 #EXTINF:-1 tvg-id="16129" tvg-name="CA TSN 2 (R)" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="🌟加拿大频道🌟",TSN 2 (R)
-http://1tv41.icu:8080/30065823/63154294/16129
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/16129
 #EXTINF:-1 tvg-id="47442" tvg-name="CA TSN 2 HD " group-title="🌟加拿大频道🌟",TSN 2 HD 
-http://1tv41.icu:8080/30065823/63154294/47442
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47442
 #EXTINF:-1 tvg-id="10389" tvg-name="CA TSN 3 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="🌟加拿大频道🌟",TSN 3 HD 
-http://1tv41.icu:8080/30065823/63154294/10389
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/10389
 #EXTINF:-1 tvg-id="47444" tvg-name="CA TSN 3 HD " group-title="🌟加拿大频道🌟",TSN 3 HD 
-http://1tv41.icu:8080/30065823/63154294/47444
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47444
 #EXTINF:-1 tvg-id="66783" tvg-name="CA TSN 4 " group-title="🌟加拿大频道🌟",TSN 4 
-http://1tv41.icu:8080/30065823/63154294/66783
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/66783
 #EXTINF:-1 tvg-id="47446" tvg-name="CA TSN 4 (B)" group-title="🌟加拿大频道🌟",TSN 4 (B)
-http://1tv41.icu:8080/30065823/63154294/47446
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/47446
 #EXTINF:-1 tvg-id="57467" tvg-name="CA TSN 5 " group-title="🌟加拿大频道🌟",TSN 5 
-http://1tv41.icu:8080/30065823/63154294/57467
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57467
 #EXTINF:-1 tvg-id="16131" tvg-name="CA TSN 5 HD " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="🌟加拿大频道🌟",TSN 5 HD 
-http://1tv41.icu:8080/30065823/63154294/16131
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/16131
 #EXTINF:-1 tvg-id="57295" tvg-name="CA TSN 5 " group-title="🌟加拿大频道🌟",TSN 5 
-http://1tv41.icu:8080/30065823/63154294/57295
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57295
 #EXTINF:-1 tvg-id="57369" tvg-name="CA: TV Ontario HD" group-title="🌟加拿大频道🌟",TV Ontario HD
-http://1tv41.icu:8080/30065823/63154294/57369
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57369
 #EXTINF:-1 tvg-id="57468" tvg-name="CA: Vision" group-title="🌟加拿大频道🌟",Vision
-http://1tv41.icu:8080/30065823/63154294/57468
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57468
 #EXTINF:-1 tvg-id="57284" tvg-name="CA W Network East (E)" group-title="🌟加拿大频道🌟",W Network East (E)
-http://1tv41.icu:8080/30065823/63154294/57284
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57284
 #EXTINF:-1 tvg-id="57470" tvg-name="CA: Weather Network Toronto" group-title="🌟加拿大频道🌟",Weather Network Toronto
-http://1tv41.icu:8080/30065823/63154294/57470
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57470
 #EXTINF:-1 tvg-id="57471" tvg-name="CA: World Fishing Network" group-title="🌟加拿大频道🌟",World Fishing Network
-http://1tv41.icu:8080/30065823/63154294/57471
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57471
 #EXTINF:-1 tvg-id="57472" tvg-name="CA YES TV " group-title="🌟加拿大频道🌟",YES TV 
-http://1tv41.icu:8080/30065823/63154294/57472
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/57472
 #EXTINF:-1 tvg-id="85269" tvg-name="CA Global Peterborough News (E)" group-title="🌟加拿大频道🌟",Global Peterborough News (E)
-http://1tv41.icu:8080/30065823/63154294/85269
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/85269
 #EXTINF:-1 tvg-id="86749" tvg-name="CA: CBC Windsor" group-title="🌟加拿大频道🌟",CBC Windsor
-http://1tv41.icu:8080/30065823/63154294/86749
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/86749
 #EXTINF:-1 tvg-id="100453" tvg-name="CA Global Durham (CHEX-DT-2) " group-title="🌟加拿大频道🌟",Global Durham (CHEX-DT-2) 
-http://1tv41.icu:8080/30065823/63154294/100453
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100453
 #EXTINF:-1 tvg-id="100454" tvg-name="CA CTV Sudbury Ontario HD (D)" group-title="🌟加拿大频道🌟",CTV Sudbury Ontario HD (D)
-http://1tv41.icu:8080/30065823/63154294/100454
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100454
 #EXTINF:-1 tvg-id="100455" tvg-name="CA CTV Timmins Ontario HD (D)" group-title="🌟加拿大频道🌟",CTV Timmins Ontario HD (D)
-http://1tv41.icu:8080/30065823/63154294/100455
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100455
 #EXTINF:-1 tvg-id="100456" tvg-name="CA WILD TV " group-title="🌟加拿大频道🌟",WILD TV 
-http://1tv41.icu:8080/30065823/63154294/100456
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100456
 #EXTINF:-1 tvg-id="100460" tvg-name="CA Super Channel Heart & Home " group-title="🌟加拿大频道🌟",Super Channel Heart & Home 
-http://1tv41.icu:8080/30065823/63154294/100460
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100460
 #EXTINF:-1 tvg-id="100628" tvg-name="CA: CBC Winnipeg" group-title="🌟加拿大频道🌟",CBC Winnipeg
-http://1tv41.icu:8080/30065823/63154294/100628
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100628
 #EXTINF:-1 tvg-id="100629" tvg-name="CA Global News Winnipeg (D)" group-title="🌟加拿大频道🌟",Global News Winnipeg (D)
-http://1tv41.icu:8080/30065823/63154294/100629
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100629
 #EXTINF:-1 tvg-id="100630" tvg-name="CA CTV WINNIPEG (E)" group-title="🌟加拿大频道🌟",CTV WINNIPEG (E)
-http://1tv41.icu:8080/30065823/63154294/100630
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100630
 #EXTINF:-1 tvg-id="100631" tvg-name="CA CITY TV WINNIPEG (E)" group-title="🌟加拿大频道🌟",CITY TV WINNIPEG (E)
-http://1tv41.icu:8080/30065823/63154294/100631
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/100631
 #EXTINF:-1 tvg-id="107190" tvg-name="CA Silver Screen (E)" group-title="🌟加拿大频道🌟",Silver Screen (E)
-http://1tv41.icu:8080/30065823/63154294/107190
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/107190
 #EXTINF:-1 tvg-id="107960" tvg-name="CA COOKING Channel " group-title="🌟加拿大频道🌟",COOKING Channel 
-http://1tv41.icu:8080/30065823/63154294/107960
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/107960
 #EXTINF:-1 tvg-id="108136" tvg-name="CA: Travel Escape" group-title="🌟加拿大频道🌟",Travel Escape
-http://1tv41.icu:8080/30065823/63154294/108136
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/108136
 #EXTINF:-1 tvg-id="111067" tvg-name="CA Global News Calgary (D)" group-title="🌟加拿大频道🌟",Global News Calgary (D)
-http://1tv41.icu:8080/30065823/63154294/111067
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/111067
 #EXTINF:-1 tvg-id="115349" tvg-name="CA Global Calgary " group-title="🌟加拿大频道🌟",Global Calgary 
-http://1tv41.icu:8080/30065823/63154294/115349
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/115349
 #EXTINF:-1 tvg-id="116506" tvg-name="CA CTV LIFE (E)" group-title="🌟加拿大频道🌟",CTV LIFE (E)
-http://1tv41.icu:8080/30065823/63154294/116506
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/116506
 
 
 #EXTINF:-1 tvg-id="121055" tvg-name="FR Euronews HD" group-title="🌟法国频道🌟",FR Euronews HD
-http://1tv41.icu:8080/30065823/63154294/121055
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/121055
 #EXTINF:-1 tvg-id="160297" tvg-name="FR: FRANCE 2 FHD" group-title="🌟法国频道🌟",FRANCE 2 FHD
-http://1tv41.icu:8080/30065823/63154294/160297
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160297
 #EXTINF:-1 tvg-id="160298" tvg-name="FR: FRANCE 3 FHD" group-title="🌟法国频道🌟",FRANCE 3 FHD
-http://1tv41.icu:8080/30065823/63154294/160298
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160298
 #EXTINF:-1 tvg-id="160299" tvg-name="FR: FRANCE 4 FHD" group-title="🌟法国频道🌟",FRANCE 4 FHD
-http://1tv41.icu:8080/30065823/63154294/160299
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160299
 #EXTINF:-1 tvg-id="160300" tvg-name="FR: FRANCE 5 FHD" group-title="🌟法国频道🌟",FRANCE 5 FHD
-http://1tv41.icu:8080/30065823/63154294/160300
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160300
 #EXTINF:-1 tvg-id="160302" tvg-name="FR: AB3 HD" group-title="🌟法国频道🌟",AB3 HD
-http://1tv41.icu:8080/30065823/63154294/160302
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160302
 #EXTINF:-1 tvg-id="160303" tvg-name="FR: MCM" group-title="🌟法国频道🌟",MCM
-http://1tv41.icu:8080/30065823/63154294/160303
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160303
 #EXTINF:-1 tvg-id="160305" tvg-name="FR: C8 FHD" group-title="🌟法国频道🌟",C8 FHD
-http://1tv41.icu:8080/30065823/63154294/160305
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160305
 #EXTINF:-1 tvg-id="160306" tvg-name="FR: CANAL+ DECALE FHD" group-title="🌟法国频道🌟",CANAL+ DECALE FHD
-http://1tv41.icu:8080/30065823/63154294/160306
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160306
 #EXTINF:-1 tvg-id="160308" tvg-name="FR: CINE+ FAMIZ FHD" group-title="🌟法国频道🌟",CINE+ FAMIZ FHD
-http://1tv41.icu:8080/30065823/63154294/160308
+http://1tv41.icu:8080/tx77044@yahoo.com/tx77044@2023/160308
 
 
 
