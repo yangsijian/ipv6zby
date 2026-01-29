@@ -9729,3 +9729,184 @@ https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title="国际频道",NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://gyssi.link/iptv/chinaiptv/%E6%B5%99%E6%B1%9F%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI0NDUxOTY1NjY5MjEzOTUsImlhdCI6MTc2Nzg3ODMzMiwiZXhwIjoxODAwNzEwMzMyfQ.hwlW9DMSmnfIVvstBQC2vDHnZwosLNUeOSDSGNPnzqc
+
+#EXTINF:-1 group-title="未分类",CCTV1-综合
+http://220.187.218.141:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV2-财经
+http://220.187.218.141:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV3-综艺
+http://220.187.218.141:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV4-国际
+http://220.187.218.141:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV5-体育
+http://220.187.218.141:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV6-电影
+http://220.187.218.141:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV7-军农
+http://220.187.218.141:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV8-电视剧
+http://220.187.218.141:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV9-纪录
+http://220.187.218.141:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV10-科教
+http://220.187.218.141:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV11-戏曲
+http://220.187.218.141:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV12-社会与法
+http://220.187.218.141:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV13-新闻
+http://220.187.218.141:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV14-少儿
+http://220.187.218.141:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV15-音乐
+http://220.187.218.141:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://220.187.218.141:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://220.187.218.141:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://220.187.218.141:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",上海卫视
+http://220.187.218.141:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",北京卫视
+http://220.187.218.141:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",天津卫视
+http://220.187.218.141:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",山东卫视
+http://220.187.218.141:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",广西卫视
+http://220.187.218.141:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://220.187.218.141:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",东南卫视
+http://220.187.218.141:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",江西卫视
+http://220.187.218.141:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://220.187.218.141:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",四川卫视
+http://220.187.218.141:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://220.187.218.141:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",广东卫视
+http://220.187.218.141:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://220.187.218.141:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",河南卫视
+http://220.187.218.141:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://220.187.218.141:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://220.187.218.141:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://220.187.218.141:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://220.187.218.141:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",山西卫视
+http://220.187.218.141:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",河北卫视
+http://220.187.218.141:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",云南卫视
+http://220.187.218.141:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",旅游卫视
+http://220.187.218.141:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://gyssi.link/iptv/chinaiptv/%E5%8C%97%E4%BA%AC%E5%B8%82.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjI0NDUxOTY1NjY5MjEzOTUsImlhdCI6MTc2Nzg3ODMzMiwiZXhwIjoxODAwNzEwMzMyfQ.hwlW9DMSmnfIVvstBQC2vDHnZwosLNUeOSDSGNPnzqc
+
+#EXTINF:-1 group-title="未分类",CCTV1-综合
+http://223.72.123.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV2-财经
+http://223.72.123.57:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV3-综艺
+http://223.72.123.57:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV4-国际
+http://223.72.123.57:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV5-体育
+http://223.72.123.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV6-电影
+http://223.72.123.57:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV7-军农
+http://223.72.123.57:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV8-电视剧
+http://223.72.123.57:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV9-纪录
+http://223.72.123.57:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV10-科教
+http://223.72.123.57:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV11-戏曲
+http://223.72.123.57:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV12-社会与法
+http://223.72.123.57:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV13-新闻
+http://223.72.123.57:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV14-少儿
+http://223.72.123.57:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV15-音乐
+http://223.72.123.57:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",CCTV-16 奥林匹克
+http://223.72.123.57:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",BTV北京卫视
+http://223.72.123.57:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",BTV文艺
+http://223.72.123.57:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",BTV科教
+http://223.72.123.57:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",BTV影视
+http://223.72.123.57:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",BTV新闻
+http://223.72.123.57:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",BTV卡酷少儿
+http://223.72.123.57:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://223.72.123.57:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://223.72.123.57:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://223.72.123.57:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://223.72.123.57:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",天津卫视
+http://223.72.123.57:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://223.72.123.57:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",北京体育休闲
+http://223.72.123.57:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",河南卫视
+http://223.72.123.57:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",四川卫视
+http://223.72.123.57:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",江西卫视
+http://223.72.123.57:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://223.72.123.57:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://223.72.123.57:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://223.72.123.57:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",东方卫视
+http://223.72.123.57:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://223.72.123.57:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",东南卫视
+http://223.72.123.57:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",河北卫视
+http://223.72.123.57:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",广东卫视
+http://223.72.123.57:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",广西卫视
+http://223.72.123.57:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://223.72.123.57:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",北京财经
+http://223.72.123.57:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="未分类",北京科教
+http://223.72.123.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
