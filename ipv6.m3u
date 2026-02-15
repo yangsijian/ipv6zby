@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://112.234.21.166:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://112.234.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://112.234.21.166:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://112.234.21.166:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://112.234.21.166:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://112.234.21.166:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://112.234.21.166:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://112.234.21.166:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://112.234.21.166:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://112.234.21.166:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://112.234.21.166:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV15-音乐
+#EXTINF:-1,CCTV15
 http://112.234.21.166:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,山东影视
 http://112.234.21.166:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -143,35 +143,35 @@ http://112.234.21.166:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=
 http://112.234.21.166:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://139.227.221.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://139.227.221.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://139.227.221.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://139.227.221.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://139.227.221.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://139.227.221.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://139.227.221.119:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://139.227.221.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://139.227.221.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://139.227.221.119:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://139.227.221.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://139.227.221.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://139.227.221.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://139.227.221.119:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV15-音乐
+#EXTINF:-1,CCTV15
 http://139.227.221.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,CGTN
 http://139.227.221.119:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -210,33 +210,33 @@ http://139.227.221.119:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://110.19.169.55:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://110.19.169.55:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://110.19.169.55:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://110.19.169.55:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://110.19.169.55:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://110.19.169.55:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://110.19.169.55:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://110.19.169.55:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://110.19.169.55:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://110.19.169.55:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://110.19.169.55:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://110.19.169.55:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://110.19.169.55:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://110.19.169.55:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV5+体育赛事
 http://110.19.169.55:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -343,35 +343,35 @@ http://110.19.169.55:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://118.193.115.2:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://118.193.115.2:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://118.193.115.2:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://118.193.115.2:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://118.193.115.2:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://118.193.115.2:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://118.193.115.2:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://118.193.115.2:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://118.193.115.2:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://118.193.115.2:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://118.193.115.2:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://118.193.115.2:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://118.193.115.2:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://118.193.115.2:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV15-音乐
+#EXTINF:-1,CCTV15
 http://118.193.115.2:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV5+体育赛事
 http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -442,35 +442,35 @@ http://118.193.115.2:9901/tsfile/live/0128_2.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://139.212.204.128:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://139.212.204.128:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://139.212.204.128:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://139.212.204.128:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://139.212.204.128:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://139.212.204.128:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV7-国防军事
 http://139.212.204.128:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://139.212.204.128:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://139.212.204.128:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://139.212.204.128:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://139.212.204.128:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://139.212.204.128:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://139.212.204.128:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://139.212.204.128:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV15-音乐
+#EXTINF:-1,CCTV15
 http://139.212.204.128:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-16 奥林匹克
 http://139.212.204.128:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -655,60 +655,60 @@ http://112.30.73.119:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.30.73.119:9901/tsfile/live/0002_3.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,aCCTV4
 http://112.30.73.119:9901/tsfile/live/0004_3.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,sCCTV1-综合
+#EXTINF:-1,sCCTV1
 http://112.30.73.119:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV2-财经
+#EXTINF:-1,sCCTV2
 http://112.30.73.119:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV3-综艺
+#EXTINF:-1,sCCTV3
 http://112.30.73.119:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV4-国际
+#EXTINF:-1,sCCTV4
 http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV5-体育
+#EXTINF:-1,sCCTV5
 http://112.30.73.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV6-电影
+#EXTINF:-1,sCCTV6
 http://112.30.73.119:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV8-电视剧
+#EXTINF:-1,sCCTV8
 http://112.30.73.119:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV9-纪录
+#EXTINF:-1,sCCTV9
 http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV10-科教
+#EXTINF:-1,sCCTV10
 http://112.30.73.119:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV11-戏曲
+#EXTINF:-1,sCCTV11
 http://112.30.73.119:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV12-社会与法
+#EXTINF:-1,sCCTV12
 http://112.30.73.119:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV13-新闻
+#EXTINF:-1,sCCTV13
 http://112.30.73.119:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV14-少儿
+#EXTINF:-1,sCCTV14
 http://112.30.73.119:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,sCCTV15-音乐
+#EXTINF:-1,sCCTV15
 http://112.30.73.119:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://112.234.21.166:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://112.234.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://112.234.21.166:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://112.234.21.166:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://112.234.21.166:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://112.234.21.166:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://112.234.21.166:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://112.234.21.166:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://112.234.21.166:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://112.234.21.166:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://112.234.21.166:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV15-音乐
+#EXTINF:-1,CCTV15
 http://112.234.21.166:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,山东影视
 http://112.234.21.166:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -832,35 +832,35 @@ http://112.234.21.166:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://118.77.65.217:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://118.77.65.217:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://118.77.65.217:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://118.77.65.217:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV5+
 http://118.77.65.217:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://118.77.65.217:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://118.77.65.217:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://118.77.65.217:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://118.77.65.217:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://118.77.65.217:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://118.77.65.217:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://118.77.65.217:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://118.77.65.217:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://118.77.65.217:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV15-音乐
+#EXTINF:-1,CCTV15
 http://118.77.65.217:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,东方卫视
 http://118.77.65.217:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -926,7 +926,7 @@ http://118.77.65.217:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://118.77.65.217:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,黄河电视台
 http://118.77.65.217:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://118.77.65.217:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
@@ -1306,35 +1306,35 @@ http://120.70.60.179:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://218.92.37.174:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://218.92.37.174:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://218.92.37.174:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://218.92.37.174:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://218.92.37.174:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://218.92.37.174:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://218.92.37.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://218.92.37.174:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://218.92.37.174:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://218.92.37.174:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://218.92.37.174:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://218.92.37.174:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://218.92.37.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://218.92.37.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV15-音乐
+#EXTINF:-1,CCTV15
 http://218.92.37.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,湖南卫视
 http://218.92.37.174:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1403,33 +1403,33 @@ http://218.92.37.174:9901/tsfile/live/0120_7.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://27.188.8.115:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://27.188.8.115:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://27.188.8.115:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://27.188.8.115:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://27.188.8.115:9901/tsfile/live/faacts/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://27.188.8.115:9901/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://27.188.8.115:9901/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://27.188.8.115:9901/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://27.188.8.115:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://27.188.8.115:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://27.188.8.115:9901/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://27.188.8.115:9901/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://27.188.8.115:9901/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://27.188.8.115:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-15
 http://27.188.8.115:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1830,19 +1830,19 @@ http://122.228.104.230:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,IPTV 8
 http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1945,7 +1945,7 @@ http://175.10.170.126:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=
 http://175.10.170.126:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV2高清
 http://175.10.170.126:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://175.10.170.126:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV4高清
 http://175.10.170.126:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2030,33 +2030,33 @@ http://175.10.170.126:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://218.104.239.114:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://218.104.239.114:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://218.104.239.114:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://218.104.239.114:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://218.104.239.114:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://218.104.239.114:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://218.104.239.114:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://218.104.239.114:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://218.104.239.114:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://218.104.239.114:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://218.104.239.114:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://218.104.239.114:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://218.104.239.114:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV15-音乐
+#EXTINF:-1,CCTV15
 http://218.104.239.114:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV17
 http://218.104.239.114:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -2113,31 +2113,31 @@ http://218.104.239.114:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://111.120.8.205:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://111.120.8.205:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://111.120.8.205:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://111.120.8.205:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://111.120.8.205:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://111.120.8.205:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://111.120.8.205:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://111.120.8.205:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://111.120.8.205:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://111.120.8.205:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://111.120.8.205:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://111.120.8.205:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
+#EXTINF:-1,CCTV14
 http://111.120.8.205:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,贵州卫视
 http://111.120.8.205:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2242,31 +2242,31 @@ http://111.120.8.205:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://60.20.206.55:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://60.20.206.55:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://60.20.206.55:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-国际
+#EXTINF:-1,CCTV4
 http://60.20.206.55:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://60.20.206.55:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://60.20.206.55:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-军农
+#EXTINF:-1,CCTV7
 http://60.20.206.55:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://60.20.206.55:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
+#EXTINF:-1,CCTV9
 http://60.20.206.55:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
+#EXTINF:-1,CCTV10
 http://60.20.206.55:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
+#EXTINF:-1,CCTV11
 http://60.20.206.55:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
+#EXTINF:-1,CCTV12
 http://60.20.206.55:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
+#EXTINF:-1,CCTV13
 http://60.20.206.55:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-14少儿频道
 http://60.20.206.55:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2366,35 +2366,35 @@ http://60.20.206.55:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 http://60.20.206.55:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,风云剧场
 http://60.20.206.55:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://60.20.206.55:9901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://60.20.206.55:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3
 http://60.20.206.55:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
 
 
 
 #EXTM3U
-#EXTINF:-1,CCTV1-综合
+#EXTINF:-1,CCTV1
 http://123.146.60.67:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经
+#EXTINF:-1,CCTV2
 http://123.146.60.67:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺-高清
+#EXTINF:-1,CCTV3-高清
 http://123.146.60.67:9901rtsp://123.147.113.180:554/04000001/01000000004000000000000000000302?
-#EXTINF:-1,CCTV4-国际-高清
+#EXTINF:-1,CCTV4-高清
 http://123.146.60.67:9901/tsfile/live/0004_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV5-体育
+#EXTINF:-1,CCTV5
 http://123.146.60.67:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV5+体育赛事-高清
 http://123.146.60.67:9901/tsfile/live/0016_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV6-电影
+#EXTINF:-1,CCTV6
 http://123.146.60.67:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
+#EXTINF:-1,CCTV8
 http://123.146.60.67:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV9-纪录-高清
+#EXTINF:-1,CCTV9-高清
 http://123.146.60.67:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1,CCTV12-社会与法-高清
+#EXTINF:-1,CCTV12-高清
 http://123.146.60.67:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,重庆卫视
 http://123.146.60.67:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -12945,7 +12945,7 @@ rtsp://10.15.250.13/PLTV/88888888/224/3221226653/1000010000000006000000000301457
 rtsp://10.15.250.13/PLTV/88888888/224/3221226743/10000100000000060000000006603048_0.smil
 #EXTINF:-1 tvg-name="CGTN-" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN-.png" group-title="辽宁联通(内)",CGTN-英语新闻
 rtsp://10.15.250.13/PLTV/88888888/224/3221226756/10000100000000060000000006569861_0.smil
-#EXTINF:-1 tvg-name="CGTN-()" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN-().png" group-title="辽宁联通(内)",CGTN-纪录(国际版)
+#EXTINF:-1 tvg-name="CGTN-()" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN-().png" group-title="辽宁联通(内)",CGTN(国际版)
 rtsp://10.15.250.13/PLTV/88888888/224/3221226758/10000100000000060000000006569863_0.smil
 #EXTINF:-1 tvg-name="CGTN-" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CGTN-.png" group-title="辽宁联通(内)",CGTN-俄语国际
 rtsp://10.15.250.13/PLTV/88888888/224/3221226739/10000100000000060000000006582732_0.smil
@@ -19969,67 +19969,67 @@ http://vd2.bdstatic.com/mda-nd384m3rzh8wedid/cae_h264_delogo/1650056726340486031
 http://txmov2.a.kwimgs.com/upic/2022/06/11/08/BMjAyMjA2MTEwODUzMTNfOTU2MzA3MDg4Xzc2NTAxOTgwNTA5XzJfMw==_b_B744fae1b95faa2f8b96efc598c1f5eea.mp4
 #EXTINF:-1 tvg-name="BYD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BYD.png" group-title="🆗爱广场舞",BYD蹦野迪
 http://txmov2.a.kwimgs.com/upic/2022/05/20/06/BMjAyMjA1MjAwNjEwNDJfOTU2MzA3MDg4Xzc0ODAzNDM0NzE2XzJfMw==_b_B14d95469a28d1b07ed6d6565286a8ebf.mp4
-#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗-音乐吧-",汪明荃30首经典
+#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗吧-",汪明荃30首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5202502102851767269_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",梅朵40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",梅朵40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5215449953961824145_hlsb.m3u8
-#EXTINF:-1 tvg-name="42" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/42.png" group-title="🆗-音乐吧-",张茜42首经典
+#EXTINF:-1 tvg-name="42" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/42.png" group-title="🆗吧-",张茜42首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251478751616846395_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",甄妮40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",甄妮40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199405879311116082_hlsb.m3u8
-#EXTINF:-1 tvg-name="34" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/34.png" group-title="🆗-音乐吧-",林志炫34首经典
+#EXTINF:-1 tvg-name="34" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/34.png" group-title="🆗吧-",林志炫34首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5253449075409106514_hlsb.m3u8
-#EXTINF:-1 tvg-name="38" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/38.png" group-title="🆗-音乐吧-",金海心38首经典
+#EXTINF:-1 tvg-name="38" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/38.png" group-title="🆗吧-",金海心38首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5202783577818793385_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",毛阿敏40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",毛阿敏40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5196028179371386236_hlsb.m3u8
-#EXTINF:-1 tvg-name="20" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/20.png" group-title="🆗-音乐吧-",李翊君20首经典
+#EXTINF:-1 tvg-name="20" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/20.png" group-title="🆗吧-",李翊君20首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5189835729521538666_hlsb.m3u8
-#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗-音乐吧-",许蒿30首经典
+#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗吧-",许蒿30首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",张杰40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",张杰40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5252886123455427055_hlsb.m3u8
-#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗-音乐吧-",陶喆30首经典
+#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗吧-",陶喆30首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
-#EXTINF:-1 tvg-name="31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/31.png" group-title="🆗-音乐吧-",林俊杰31首经典
+#EXTINF:-1 tvg-name="31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/31.png" group-title="🆗吧-",林俊杰31首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
-#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗-音乐吧-",陈慧娴30首经典
+#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗吧-",陈慧娴30首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5218827651929954317_hlsb.m3u8
-#EXTINF:-1 tvg-name="16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/16.png" group-title="🆗-音乐吧-",王力宏16首经典
+#EXTINF:-1 tvg-name="16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/16.png" group-title="🆗吧-",王力宏16首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5205035380900810284_hlsb.m3u8
-#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗-音乐吧-",林忆莲30首经典
+#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗吧-",林忆莲30首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
-#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗-音乐吧-",腾格尔30首经典
+#EXTINF:-1 tvg-name="30" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/30.png" group-title="🆗吧-",腾格尔30首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5242471550986018227_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",汤潮40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",汤潮40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5204472429700768764_hlsb.m3u8
-#EXTINF:-1 tvg-name="32" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/32.png" group-title="🆗-音乐吧-",陈淑桦32首经典
+#EXTINF:-1 tvg-name="32" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/32.png" group-title="🆗吧-",陈淑桦32首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5207850128833175307_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",冷漠40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",冷漠40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5212916677664919326_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",梦然40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",梦然40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5228679277594646633_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",卓依婷40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",卓依婷40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",姜育恒40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",姜育恒40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5228116320942620413_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",童安格40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",童安格40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251760219003853218_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",魏佳艺40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",魏佳艺40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5226427471582302532_hlsb.m3u8
-#EXTINF:-1 tvg-name="42" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/42.png" group-title="🆗-音乐吧-",刘若英42首经典
+#EXTINF:-1 tvg-name="42" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/42.png" group-title="🆗吧-",刘若英42首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5221923876251083359_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",云朵40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",云朵40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5246412201505505933_hlsb.m3u8
-#EXTINF:-1 tvg-name="42" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/42.png" group-title="🆗-音乐吧-",乔玲儿42首经典
+#EXTINF:-1 tvg-name="42" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/42.png" group-title="🆗吧-",乔玲儿42首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231494028805004923_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",云菲菲40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",云菲菲40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5207287179922382380_hlsb.m3u8
-#EXTINF:-1 tvg-name="36" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/36.png" group-title="🆗-音乐吧-",陈瑞36首经典
+#EXTINF:-1 tvg-name="36" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/36.png" group-title="🆗吧-",陈瑞36首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5204472429788093934_hlsb.m3u8
-#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗-音乐吧-",韩宝仪40首经典
+#EXTINF:-1 tvg-name="40" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/40.png" group-title="🆗吧-",韩宝仪40首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5250634324924434598_hlsb.m3u8
-#EXTINF:-1 tvg-name="36" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/36.png" group-title="🆗-音乐吧-",任贤齐36首经典
+#EXTINF:-1 tvg-name="36" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/36.png" group-title="🆗吧-",任贤齐36首经典
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254012023525680703_hlsb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/.png" group-title="🆗热门歌曲",烟雨人间
 http://mobi.kuwo.cn/tmevideo/tme1257648.mp4
