@@ -8352,19 +8352,19 @@ http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 tvg-name="TVB翡翠(馬來)" tvg-logo="https://epg.112114.xyz/logo/TVB翡翠(馬來).png" group-title="港澳台",TVB翡翠(馬來)
 http://iptv.4666888.xyz/iptv2A.php?id=28
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://epg.112114.xyz/logo/TVB明珠.png" group-title="港澳台",TVB明珠
-http://iptv.4666888.xyz/iptv2A.php?id=29
+http://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://epg.112114.xyz/logo/TVBJ1.png" group-title="港澳台",TVBJ1
 http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://epg.112114.xyz/logo/TVB1.png" group-title="港澳台",TVB1
 http://iptv.4666888.xyz/iptv2A.php?id=25
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://epg.112114.xyz/logo/HOY77.png" group-title="港澳台",HOY77
-http://iptv.4666888.xyz/iptv2A.php?id=35
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-name="TVB-獎門人" tvg-logo="https://epg.112114.xyz/logo/TVB-獎門人.png" group-title="港澳台",TVB-獎門人
 http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-name="TVB-金曲" tvg-logo="https://epg.112114.xyz/logo/TVB-金曲.png" group-title="港澳台",TVB-金曲
 http://iptv.4666888.xyz/iptv2A.php?id=57
 #EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="港澳台",RTHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="TVB娛樂新聞" tvg-logo="https://epg.112114.xyz/logo/TVB娛樂新聞.png" group-title="港澳台",TVB娛樂新聞
 http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 tvg-name="MYTV黃金翡翠" tvg-logo="https://epg.112114.xyz/logo/MYTV黃金翡翠.png" group-title="港澳台",MYTV黃金翡翠
@@ -8372,7 +8372,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1 tvg-name="TVB翡翠劇集" tvg-logo="https://epg.112114.xyz/logo/TVB翡翠劇集.png" group-title="港澳台",TVB翡翠劇集
 http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 tvg-name="澳視澳門" tvg-logo="https://epg.112114.xyz/logo/澳視澳門.png" group-title="港澳台",澳視澳門
-http://iptv.4666888.xyz/iptv2A.php?id=41
+http://r.jdshipin.com/n2YZI
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://epg.112114.xyz/logo/TVBS新聞.png" group-title="港澳台",TVBS新聞
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="港澳台",民視
@@ -8403,6 +8403,8 @@ http://74.91.26.218:82/live/ctv.m3u8
 http://74.91.26.218:82/live/pts.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视
 http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="港澳台",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="港澳台",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://epg.112114.xyz/logo/TVB明珠.png" group-title="港澳台",TVB明珠
@@ -8412,7 +8414,7 @@ https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" group-title="港澳台",TVB Plus
 http://74.91.26.218:82/live/j2.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
+http://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.xyz/logo/华丽翡翠台.png" group-title="港澳台",华丽翡翠台
 https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
@@ -8435,6 +8437,8 @@ http://74.91.26.218:82/live/ftvnews.m3u8
 https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="港澳台",台视新闻
 http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港澳台",无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://epg.112114.xyz/logo/华视新闻.png" group-title="港澳台",华视新闻
@@ -8779,6 +8783,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=7G62ua4RruQ
 #EXTINF:-1 group-title="港澳台",東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 group-title="港澳台",东森电影HD
+https://stream1.freetv.fun/03a525697bd27ffa8edc59291674fd228f88ab708849df54d0faf4dd09e8bd3e.m3u8
 #EXTINF:-1 group-title="港澳台",東森財經新聞HD
 https://www.youtube.com/watch?v=1I2iq41Akmo
 #EXTINF:-1 group-title="港澳台",東森財經股市
