@@ -3,7 +3,7 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.githubusercontent.com/yangsijian/ipv6zby/refs/heads/main/ipv6.m3u
 
-#EXTINF:-1 group-title="苹果盒子在线升级",微信
+#EXTINF:-1 group-title="苹果盒子",在线升级
 https://d.kstore.dev/download/13888/copy_07D382E3-A3B1-49FA-B556-12513030E709.mp4
 
 #EXTINF:-1 group-title="央视频道",CCTV1
