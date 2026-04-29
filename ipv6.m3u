@@ -6,6 +6,87 @@
 #EXTINF:-1 group-title="苹果盒子",在线升级
 https://d.kstore.dev/download/13888/copy_07D382E3-A3B1-49FA-B556-12513030E709.mp4
 
+
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://183.222.15.202:4321/rtp/239.11.0.65:5140
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://223.86.170.98:4500/rtp/239.11.0.65:5140
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://183.222.15.202:4321/rtp/239.11.0.108:5140
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://223.86.170.98:4500/rtp/239.11.0.108:5140
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://183.222.15.202:4321/rtp/239.11.0.101:5140
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://223.86.170.98:4500/rtp/239.11.0.101:5140
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://183.222.15.202:4321/rtp/239.11.0.109:5140
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://223.86.170.98:4500/rtp/239.11.0.109:5140
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://183.222.15.202:4321/rtp/239.11.0.100:5140
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://223.86.170.98:4500/rtp/239.11.0.100:5140
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+
+http://183.222.15.202:4321/rtp/239.11.0.241:5140
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道",CCTV5+
+http://223.86.170.98:4500/rtp/239.11.0.241:5140
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV6
+http://183.222.15.202:4321/rtp/239.11.0.102:5140
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道",CCTV6
+http://223.86.170.98:4500/rtp/239.11.0.102:5140
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://183.222.15.202:4321/rtp/239.11.0.110:5140
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://223.86.170.98:4500/rtp/239.11.0.110:5140
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV8
+http://183.222.15.202:4321/rtp/239.11.0.103:5140
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道",CCTV8
+http://223.86.170.98:4500/rtp/239.11.0.103:5140
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://183.222.15.202:4321/rtp/239.11.0.111:5140
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://223.86.170.98:4500/rtp/239.11.0.111:5140
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV10
+http://183.222.15.202:4321/rtp/239.11.0.112:5140
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道",CCTV10
+http://223.86.170.98:4500/rtp/239.11.0.112:5140
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://183.222.15.202:4321/rtp/239.11.0.22:5140
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://223.86.170.98:4500/rtp/239.11.0.22:5140
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道",CCTV12
+http://223.86.170.98:4500/rtp/239.11.0.113:5140
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://183.222.15.202:4321/rtp/239.11.0.24:5140
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://223.86.170.98:4500/rtp/239.11.0.24:5140
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14
+http://183.222.15.202:4321/rtp/239.11.0.114:5140
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV14
+http://223.86.170.98:4500/rtp/239.11.0.114:5140
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://183.222.15.202:4321/rtp/239.11.0.26:5140
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://223.86.170.98:4500/rtp/239.11.0.26:5140
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://183.222.15.202:4321/rtp/239.11.0.107:5140
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://223.86.170.98:4500/rtp/239.11.0.107:5140
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="央视频道",CCTV世界地理
+http://183.222.15.202:4321/rtp/239.10.0.190:5140
+#EXTINF:-1 tvg-name="CCTV世界地理" group-title="央视频道",CCTV世界地理
+http://223.86.170.98:4500/rtp/239.10.0.190:5140
+#EXTINF:-1 tvg-name="CCTV高网频道" group-title="央视频道",CCTV高网频道
+http://183.222.15.202:4321/rtp/239.10.0.164:5140
+#EXTINF:-1 tvg-name="CCTV高网频道" group-title="央视频道",CCTV高网频道
+http://183.222.15.202:4321/rtp/239.10.0.224:5140
+#EXTINF:-1 tvg-name="CCTV高网频道" group-title="央视频道",CCTV高网频道
+http://223.86.170.98:4500/rtp/239.10.0.164:5140
+#EXTINF:-1 tvg-name="CCTV高网频道" group-title="央视频道",CCTV高网频道
+http://223.86.170.98:4500/rtp/239.10.0.224:5140
+
+
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://223.95.198.3:8000/hls/1/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV2
