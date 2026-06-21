@@ -1,55 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://kafeizhibo.com/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://kafeizhibo.com/static/screenshots/2222.jpg?v=1780171883879" group-title="⚽世界杯专场",CCTV5
 https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-#EXTINF:-1 tvg-name="ELTA体育1台" tvg-logo="https://kafeizhibo.com/static/screenshots/2026.jpg?v=1780171883879" group-title="世界杯",ELTA体育1台
+#EXTINF:-1 tvg-name="ELTA体育1台" tvg-logo="https://kafeizhibo.com/static/screenshots/2026.jpg?v=1780171883879" group-title="⚽世界杯专场",ELTA体育1台
 https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://kafeizhibo.com/static/screenshots/5555.jpg?v=1780171883879" group-title="世界杯",广东体育
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://kafeizhibo.com/static/screenshots/5555.jpg?v=1780171883879" group-title="⚽世界杯专场",广东体育
 https://live.666666.zip/stream/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
-#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://kafeizhibo.com/static/screenshots/777.jpg?v=1780171883879" group-title="世界杯",澳门体育
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://kafeizhibo.com/static/screenshots/777.jpg?v=1780171883879" group-title="⚽世界杯专场",澳门体育
 https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
-#EXTINF:-1 tvg-name="村超 - 色边村 vs 大利村 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1003.jpg?v=1780171883879" group-title="村超",村超 - 色边村 vs 大利村 (线路1)
-https://live.666666.zip/live/4537393.m3u8
-#EXTINF:-1 tvg-name="村超 - 色边村 vs 大利村 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1003.jpg?v=1780171883879" group-title="村超",村超 - 色边村 vs 大利村 (线路2)
-https://pul-tenm.nbs3g.com/live/sd-1-4537393.m3u8?txSecret=1b4b2b185ed6118704ffc4202b396188&txTime=6A38DD70
-#EXTINF:-1 tvg-name="澳维超 - 圣奥尔本斯圣徒 vs 阿尔托纳魔术 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1009.jpg?v=1780171883879" group-title="澳维超",澳维超 - 圣奥尔本斯圣徒 vs 阿尔托纳魔术 (线路1)
-https://live.666666.zip/live/4476128.m3u8
-#EXTINF:-1 tvg-name="澳维超 - 圣奥尔本斯圣徒 vs 阿尔托纳魔术 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1009.jpg?v=1780171883879" group-title="澳维超",澳维超 - 圣奥尔本斯圣徒 vs 阿尔托纳魔术 (线路2)
-https://pul-tenm.nbs3g.com/live/sd-1-4476128.m3u8?txSecret=beb9fc77f83df5f73ccd215d294ae6e7&txTime=6A38DD70
-#EXTINF:-1 tvg-name="澳威超 - 黑镇市FC vs 莱卡特老虎" tvg-logo="https://kafeizhibo.com/static/screenshots/1012.jpg?v=1780171883879" group-title="澳威超",澳威超 - 黑镇市FC vs 莱卡特老虎
-https://live.666666.zip/live/4473468.m3u8
-#EXTINF:-1 tvg-name="日职女甲 - 静冈产大女足 vs 伊贺FC女足 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1002.jpg?v=1780171883879" group-title="日职女甲",日职女甲 - 静冈产大女足 vs 伊贺FC女足 (线路1)
-https://live.666666.zip/live/4510849.m3u8
-#EXTINF:-1 tvg-name="日职女甲 - 静冈产大女足 vs 伊贺FC女足 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1002.jpg?v=1780171883879" group-title="日职女甲",日职女甲 - 静冈产大女足 vs 伊贺FC女足 (线路2)
-https://pul-tenm.nbs3g.com/live/sd-1-4510849.m3u8?txSecret=b1117b65ca08877f08b7db422315f287&txTime=6A38DD70
-#EXTINF:-1 tvg-name="澳昆超 - 布里斯班奥林匹克 vs 半岛电力 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1014.jpg?v=1780171883879" group-title="澳昆超",澳昆超 - 布里斯班奥林匹克 vs 半岛电力 (线路1)
-https://live.666666.zip/live/4457378.m3u8
-#EXTINF:-1 tvg-name="澳昆超 - 布里斯班奥林匹克 vs 半岛电力 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1014.jpg?v=1780171883879" group-title="澳昆超",澳昆超 - 布里斯班奥林匹克 vs 半岛电力 (线路2)
-https://pul-tenm.nbs3g.com/live/sd-1-4457378.m3u8?txSecret=3de5e7b9311c572acda24027819d3e12&txTime=6A38DD70
-#EXTINF:-1 tvg-name="澳塔女超 - 金布洛治狮队女足 vs 塔洛纳女足" tvg-logo="https://kafeizhibo.com/static/screenshots/1015.jpg?v=1780171883879" group-title="澳塔女超",澳塔女超 - 金布洛治狮队女足 vs 塔洛纳女足
-https://live.666666.zip/live/4556887.m3u8
-#EXTINF:-1 tvg-name="韩K4联 - 晋州市民 vs 中浪野马" tvg-logo="https://kafeizhibo.com/static/screenshots/1017.jpg?v=1780171883879" group-title="韩K4联",韩K4联 - 晋州市民 vs 中浪野马
-https://live.666666.zip/live/4507616.m3u8
-#EXTINF:-1 tvg-name="澳西女超 - UWA尼德兰兹女足 vs 珀斯红星女足 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1018.jpg?v=1780171883879" group-title="澳西女超",澳西女超 - UWA尼德兰兹女足 vs 珀斯红星女足 (线路1)
-https://live.666666.zip/live/4516105.m3u8
-#EXTINF:-1 tvg-name="澳西女超 - UWA尼德兰兹女足 vs 珀斯红星女足 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1018.jpg?v=1780171883879" group-title="澳西女超",澳西女超 - UWA尼德兰兹女足 vs 珀斯红星女足 (线路2)
-https://pul-tenm.nbs3g.com/live/sd-1-4516105.m3u8?txSecret=bdfae134526da511c9891dc74ffb43a3&txTime=6A38DD70
-#EXTINF:-1 tvg-name="澳西女超 - 索伦托女足 vs 费雷曼特尔城女足 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1019.jpg?v=1780171883879" group-title="澳西女超",澳西女超 - 索伦托女足 vs 费雷曼特尔城女足 (线路1)
-https://live.666666.zip/live/4516106.m3u8
-#EXTINF:-1 tvg-name="澳西女超 - 索伦托女足 vs 费雷曼特尔城女足 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1019.jpg?v=1780171883879" group-title="澳西女超",澳西女超 - 索伦托女足 vs 费雷曼特尔城女足 (线路2)
-https://pul-tenm.nbs3g.com/live/sd-1-4516106.m3u8?txSecret=45284114ec6401990c99505a1b0abdb0&txTime=6A38DD70
-#EXTINF:-1 tvg-name="澳维女超 - 海德堡联女足 vs 博士山联女足 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1026.jpg?v=1780171883879" group-title="澳维女超",澳维女超 - 海德堡联女足 vs 博士山联女足 (线路1)
-https://live.666666.zip/live/4536963.m3u8
-#EXTINF:-1 tvg-name="澳维女超 - 海德堡联女足 vs 博士山联女足 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1026.jpg?v=1780171883879" group-title="澳维女超",澳维女超 - 海德堡联女足 vs 博士山联女足 (线路2)
-https://pul-tenm.nbs3g.com/live/sd-1-4536963.m3u8?txSecret=c0ef4500aea81e733a2b49ecffda126b&txTime=6A38DD70
-#EXTINF:-1 tvg-name="澳威超 - 马可尼种马 vs 新南威尔士大学" tvg-logo="https://kafeizhibo.com/static/screenshots/1027.jpg?v=1780171883879" group-title="澳威超",澳威超 - 马可尼种马 vs 新南威尔士大学
-https://live.666666.zip/live/4473419.m3u8
-#EXTINF:-1 tvg-name="澳昆女超 - 黄金海岸联女足 vs 南部联合SC女足" tvg-logo="https://kafeizhibo.com/static/screenshots/1028.jpg?v=1780171883879" group-title="澳昆女超",澳昆女超 - 黄金海岸联女足 vs 南部联合SC女足
-https://live.666666.zip/live/4556621.m3u8
-#EXTINF:-1 tvg-name="澳达超 - 卡苏阿利纳FC vs 达尔文之心 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1030.jpg?v=1780171883879" group-title="澳达超",澳达超 - 卡苏阿利纳FC vs 达尔文之心 (线路1)
-https://live.666666.zip/live/4555118.m3u8
-#EXTINF:-1 tvg-name="澳达超 - 卡苏阿利纳FC vs 达尔文之心 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1030.jpg?v=1780171883879" group-title="澳达超",澳达超 - 卡苏阿利纳FC vs 达尔文之心 (线路2)
-https://pul-tenm.nbs3g.com/live/sd-1-4555118.m3u8?txSecret=f81ef85730bc838178cace944fcf4f34&txTime=6A38DD70
-
+#EXTINF:-1 tvg-name="爱尔达体育" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育.png" group-title="⚽世界杯专场",爱尔达体育
+https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+#EXTINF:-1 tvg-name="爱尔达体育" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育.png" group-title="⚽世界杯专场",爱尔达体育
+https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://epg.112114.xyz/logo/澳门体育.png" group-title="⚽世界杯专场",澳门体育
+https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://epg.112114.xyz/logo/澳门体育.png" group-title="⚽世界杯专场",澳门体育
+https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="⚽世界杯专场",广东体育
+https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="⚽世界杯专场",广东体育
+https://live.666666.zip/stream/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://epg.112114.xyz/logo/CCTV5体育.png" group-title="⚽世界杯专场",CCTV5体育
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://epg.112114.xyz/logo/CCTV5体育.png" group-title="⚽世界杯专场",CCTV5体育
+https://live.666666.zip/stream/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
 
 
 #EXTM3U
