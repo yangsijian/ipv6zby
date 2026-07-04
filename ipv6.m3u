@@ -1,11 +1,11 @@
 
 #EXTM3U
 #EXTINF:-1 group-title="世界杯节目",CCTV-5 [CCTV-5]
-https://live.666666.zip/cctv/5.m3u8
+http://183.237.71.182:40000/hls/16/index.m3u8
 #EXTINF:-1 group-title="世界杯节目",CCTV-5+ [CCTV-5+]
-https://live.666666.zip/cctv/5p.m3u8
+http://183.237.71.182:40000/hls/16/index.m3u8
 #EXTINF:-1 group-title="世界杯节目",ELTA世界杯 [ELTA]
-https://live.666666.zip/elta/index.m3u8
+http://183.237.71.182:40000/hls/16/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1HD.png" group-title="央视频道",CCTV1
