@@ -2929,3 +2929,70 @@ http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 http://61.221.215.25:8800/hls/49/index.m3u8
 #EXTINF:-1 tvg-id="安徽综艺体育" tvg-name="安徽综艺体育" tvg-logo="https://tb.zbds.top/logo/安徽综艺体育.png" group-title="综合频道",安徽综艺体育
 http://112.27.235.94:8000/hls/25/index.m3u8
+
+#EXTINF:-1 tvg-id="stream-1cd6c369-03a1-41a4-9b24-ba9da140f924" tvg-name="NOW Sports 616 4K (Not 24/7)" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="FIFA World Cup 2026",NOW Sports 616 4K (Not 24/7)
+https://iptv.852851.xyz/l/CBFRtCMnk2BHjuklMYcNGkoUZHfHFyBiAf2ndcMcR-TMeJrdrgzMZmYxxPpixuED/index.m3u8
+#EXTINF:-1 tvg-id="stream-3b7b1abd-df41-4b99-9692-d9579265dfc9" tvg-name="FOX 4K (Not 24/7) 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K (Not 24/7) 01
+https://iptv.852851.xyz/l/rM3k5k3XE6ms3UOqhaqwx7snC1cLbXpiPwYMg6vxReovII69EvDrjZi-xba62Mrs/index.m3u8
+#EXTINF:-1 tvg-id="stream-574ef217-b7e9-4ff1-b5a8-a3e62e84480d" tvg-name="FOX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX
+https://iptv.852851.xyz/l/9TXUxeEM4MAUF0E7RJbhoqUNVVKmDJvWaG3NqphuAqkgHyabPxEH6m519nMxi3oW/index.m3u8
+#EXTINF:-1 tvg-id="stream-91f39c20-64cf-4ad7-8cca-b65c9bfdd6a3" tvg-name="广东体育" group-title="FIFA World Cup 2026",广东体育
+https://iptv.852851.xyz/l/GpqmKafPfWbJokwHnXXkNgNAIGMRxht4a8EgrxJfTfGiL8NXpKXQXejs7ND4sqTp/index.m3u8
+#EXTINF:-1 tvg-id="stream-19f686c0-2a40-4f04-88aa-1c284b154b9e" tvg-name="FS1 4K (Not 24/7)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 4K (Not 24/7)
+https://iptv.852851.xyz/l/dfktfO8r_zU8XYjvRGR88IrsuHBGEOH5vh7HnDG9yzWFzYYOI4zogMqvx7pP24a7/raw
+#EXTINF:-1 tvg-id="stream-6b3a167d-da3b-490c-a6f9-8a3c32a62a8b" tvg-name="TSN 4K CA 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA 01
+https://iptv.852851.xyz/l/UhZY8PJkMfWA9gAImptVO6jlhd1FSrpEYn23aqFq9NosZA86cURTQBhYYCK-70Fv/index.m3u8
+#EXTINF:-1 tvg-id="stream-ab79832c-6b10-40dd-96b1-84110a3a7213" tvg-name="TSN 4K CA 02" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA 02
+https://iptv.852851.xyz/l/ZQw0vanzkQ34iQzQ2qEp5tXf5HaWIfsoPxlhrXnajYFCMtFC801vQsRVC8T2j8GO/index.m3u8
+#EXTINF:-1 tvg-id="stream-27f43da9-b887-4f64-9583-3a01d850dd01" tvg-name="Telemundo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="FIFA World Cup 2026",Telemundo
+https://iptv.852851.xyz/l/5e2ljFP979AHXax1yQdND4qXn2GMGhKWb2M4R8dg6jmDJ09OdcVIWnw7UpCpdt1i/index.m3u8
+#EXTINF:-1 tvg-id="stream-7c759c01-d052-4281-95c3-c25653536b85" tvg-name="Universo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-universo-us.png?raw=true" group-title="FIFA World Cup 2026",Universo
+https://iptv.852851.xyz/l/t-vyfjnL77LL5EDtBKUDL9zXq4fuHctlZ8OGVfV4a5IH7uCr1HsC2TJmNT2W7K-2/index.m3u8
+#EXTINF:-1 tvg-id="stream-93512679-2f5a-422f-9a0a-07e5902657b8" tvg-name="M6 4K FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="FIFA World Cup 2026",M6 4K FR
+https://iptv.852851.xyz/l/Dsuz0YBdQCZlRQXrDUGOwcG0imHfvSXtjF-J76bHl_FRCMX62B9UItNo8fHfKqZy/index.m3u8
+#EXTINF:-1 tvg-id="stream-9b4a279f-2041-4c25-a91d-282b9d8f0d30" tvg-name="Fussball.TV 1 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 1 4K DE
+https://iptv.852851.xyz/l/JenTIdRgqymOljdwtLS99vyfPK82VrUVq3MNOPmboWiuA9cRpp5LgZTPlvADXjXb/index.m3u8
+#EXTINF:-1 tvg-id="stream-2cd52741-8d05-4f98-8366-e1a5001bd57d" tvg-name="Now Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="FIFA World Cup 2026",Now Sports 618
+https://iptv.852851.xyz/l/1KagV0QmN4oNX2jch4B4J45surhjCWhQFCWynstV5stU55jn5DiQwyKs2fiwqsSy/index.m3u8
+#EXTINF:-1 tvg-id="stream-18a4bbaf-3fdb-42be-a973-0daec5213f8b" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="FIFA World Cup 2026",NOW Sports 619
+https://iptv.852851.xyz/l/Y1VetEz977TVwTHjYBNfMGqZNgZFnEV4Y-eEG2WYvEGcPMP8M8Hfe0TTBtH88R4y/index.m3u8
+#EXTINF:-1 tvg-id="stream-e67f5161-ba96-4647-8a39-4dd42e19e2cb" tvg-name="Fussball.TV 2 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="FIFA World Cup 2026",Fussball.TV 2 4K DE
+https://iptv.852851.xyz/l/4HzaEuiiQL6bD2gTlJW8S-pOeeG0xRhKdX6-hWR4Zn9njwKifz9Dvcy57jUO0kvL/index.m3u8
+#EXTINF:-1 tvg-id="stream-dae31f66-3e1a-4a7c-9703-e3482989fb83" tvg-name="One Sports+" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="FIFA World Cup 2026",One Sports+
+https://iptv.852851.xyz/l/H6CCYR43QiU386mZ4HaA557-bM5wdvb9D3UJ-KVyx6ZfOmQpVlepgxJfMH6wvcu4/index.m3u8
+#EXTINF:-1 tvg-id="stream-ca0ebcd6-5e22-4205-a293-710c189a950f" tvg-name="BBC 4K UK (Not 24/7)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC 4K UK (Not 24/7)
+https://iptv.852851.xyz/l/H7rQy4E_U-OVUoFf5dLvWuKf-k6CR2v2KOihZ0ARdK4y-T5umU9Rqt8xPqYjEjdf/index.m3u8
+#EXTINF:-1 tvg-id="stream-a3d93a47-87aa-45c2-8e64-dd8bcaef6fec" tvg-name="FUSSBALL.TV 1 UHD" group-title="4K UHD",FUSSBALL.TV 1 UHD
+https://iptv.852851.xyz/l/st2OtmNO6QNdmU7SCGpZv8jWMgJohk5buhEVglr4kBUBOqrmdg1hFkwTSn4B8p1x/index.m3u8
+#EXTINF:-1 tvg-id="stream-8430824f-4ec0-44c9-ab7c-58e10c61a4b8" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="4K UHD",TSN 4K CA
+https://iptv.852851.xyz/l/zYwchsBqWS3AUVSDF63J1ruwqIoy4Zsoc0uKcmVJNE4W7nCbq1KIejnvozgrT4JO/index.m3u8
+#EXTINF:-1 tvg-id="stream-210aca4f-52e3-4310-b331-366b27665100" tvg-name="TNT Sports Ultimate 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-ultimate-uk.png?raw=true" group-title="4K UHD",TNT Sports Ultimate 4K UK
+https://iptv.852851.xyz/l/WBqoqz4Nv3AlL4WS-oHVNrVwr1vRp7vBsSXvTmgbiWjwcGNtrtSfTrdvu8Bfq2NW/index.m3u8
+#EXTINF:-1 tvg-id="stream-f0b0756f-1ce4-4c6d-98f3-7f88279497ae" tvg-name="Sky Sports Main Event 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports Main Event 4K UK
+https://iptv.852851.xyz/l/S7CSzK6bdx9Lg2_4bhK8xJjRbPShddonu4tMehDlXaHry8FS-8PpWirrfFuSr9Bi/index.m3u8
+#EXTINF:-1 tvg-id="stream-e6c1a1ef-9d68-4a55-bf5e-fcaf55bbff3b" tvg-name="Stingray NOW 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/stingray-now-4k-ca.png?raw=true" group-title="4K UHD",Stingray NOW 4K CA
+https://iptv.852851.xyz/l/hMJkcL3C1tJZoqdvcRZJePE03U_ilFEuT_MTzgZpsMQ3RaLSVfNs1K4RhBn_5qw-/index.m3u8
+#EXTINF:-1 tvg-id="stream-4095f821-0971-4dcb-af0e-5a82f566a459" tvg-name="Stingray Festival 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/stingray-festival-4k-es.png?raw=true" group-title="4K UHD",Stingray Festival 4K CA
+https://iptv.852851.xyz/l/ndufKYjqtuGIloNN2HQliKip0BOKQeJ_bQYWntRfAWZtfDWqZZiWxwr-X89EmJgr/index.m3u8
+#EXTINF:-1 tvg-id="stream-2ffa105d-31c8-4ab3-a05f-937b955ca973" tvg-name="Sportsnet One 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true" group-title="4K UHD",Sportsnet One 4K CA
+https://iptv.852851.xyz/l/9heQBrdi1M_bASg7ir0g3sHr_EcqWokrFBibcO13pICQwPswLgsH_gpjq8N31B_f/index.m3u8
+#EXTINF:-1 tvg-id="stream-d94e80ae-8b18-45dc-a769-16212a1316fc" tvg-name="Sportsnet 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn-4k-ca.png?raw=true" group-title="4K UHD",Sportsnet 4K CA
+https://iptv.852851.xyz/l/0HDmnVyUQXlfrpwfMYBTifbT1u7bmeude2CD0N127e55UUTb8iZ3jDjT198MrYjj/index.m3u8
+#EXTINF:-1 tvg-id="stream-06d3f860-e89e-48d5-bb57-600bbef3b138" tvg-name="Love Nature 4K CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/500px-Love_Nature_logo_%282025%29.svg.png" group-title="4K UHD",Love Nature 4K CA
+https://iptv.852851.xyz/l/Dg8FTf2iboB-hKCaIp2PA4D47GBr2e7tf9ICfRG0i9dlDrybF0Kg1gGFc-2me9Ta/index.m3u8
+#EXTINF:-1 tvg-id="stream-6a987d0a-ebe4-4577-8195-618f9c09ecde" tvg-name="Love Nature 4K" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Love_Nature.png" group-title="4K UHD",Love Nature 4K
+https://iptv.852851.xyz/l/71_axArj_xIpPKZ6wqKdcZ95SWc7GEwZ-rFOdlf_zher1fddnRdQEqplhV-Vd2In/index.m3u8
+#EXTINF:-1 tvg-id="stream-4966e3dd-f5e1-4273-a639-e2e3ecdf8364" tvg-name="INULTRA 4K PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/inultra-cz.png?raw=true" group-title="4K UHD",INULTRA 4K PL
+https://iptv.852851.xyz/l/hLK_fKgQVvIo9mtkMvNJrFoGdyLtsb4v4RW923FdooBDstix_sK55L-ddEtbHqLE/index.m3u8
+#EXTINF:-1 tvg-id="stream-33e4bb43-94cb-4752-9f74-16931f4286bb" tvg-name="Sky Sports F1 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports F1 4K
+https://iptv.852851.xyz/l/-nuGGxVUHKuCQk7SPLZLLGL5DxDvhIyckqtvtTMphuyaBaGD9z9Rke5J5ufyIXxK/index.m3u8
+#EXTINF:-1 tvg-id="stream-e7a565ef-1e07-4aad-864a-4e3c638ee70b" tvg-name="FUSSBALL.TV 2 UHD" group-title="4K UHD",FUSSBALL.TV 2 UHD
+https://iptv.852851.xyz/l/HyIT-bHku-V5dYGpHz7dBKUDpFhZ9u1ffEHsVqyAqJK4x8634pETOSYKgTiygDfX/index.m3u8
+#EXTINF:-1 tvg-id="stream-70f91bbe-7f69-4bcd-aa1c-f15d26129d60" tvg-name="FUSSBALL.TV 3 UHD" group-title="4K UHD",FUSSBALL.TV 3 UHD
+https://iptv.852851.xyz/l/sd2I1Y5g2QIaJbsBh6tOFjXahZm7vjYqqpui001q8NlX_pxMDdQEUfVEqC8hyxO6/index.m3u8
+#EXTINF:-1 tvg-id="stream-cd3c924b-b533-4a36-8d66-97b1708f5c93" tvg-name="Sportsnet One 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sn1-4k-ca.png?raw=true" group-title="4K UHD",Sportsnet One 4K CA
+https://iptv.852851.xyz/l/QTxY3vgOcwIBIYVJHwlPC6LJ3WKSmzf8rRrNzIc_TuS_SL3zVfdTj1PyfKSk-C9T/index.m3u8
+#EXTINF:-1 tvg-id="stream-ca061193-0efa-4c78-9138-35c1a4069bc0" tvg-name="Sky Sports UHD 1 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports UHD 1 UK
+https://iptv.852851.xyz/l/Io5xvJAPmE0jB2MaLI9CsB5lXnomaEZSwhBY9citGOtlfraNDHgLABce0N0Ea3T7/index.m3u8
+#EXTINF:-1 tvg-id="stream-99bcf102-0260-4e9b-8ba9-fcab70f38d45" tvg-name="Sky Sports UHD 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-uhd-uk.png?raw=true" group-title="4K UHD",Sky Sports UHD 2 UK
+https://iptv.852851.xyz/l/fqRuN95firuDM3jLnlJnBC0gpewPSAYJ2DsoHD3oQ1N_3GoO6sU0BPPcIYzuPvD5/index.m3u8
