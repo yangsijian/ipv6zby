@@ -1,9 +1,4 @@
-#EXTM3U url-tvg="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
 
-#EXTINF:-1 tvg-name="更新时间2026.7.3" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.7.3.png" group-title="更新时间2026.7.3",更新时间2026.7.13
-http://60.10.139.113:8801/hls/1/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
