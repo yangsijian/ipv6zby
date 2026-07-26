@@ -1,5 +1,50 @@
-#EXTM3U x-tvg-url=""
-#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 group-title="央视",CCTV1
+http://183.220.107.138:4022/rtp/239.11.0.130:5140
+#EXTINF:-1 group-title="央视",CCTV1
+http://183.220.107.138:4022/rtp/239.11.0.65:5140
+#EXTINF:-1 group-title="央视",CCTV2
+http://183.220.107.138:4022/rtp/239.11.0.108:5140
+#EXTINF:-1 group-title="央视",CCTV3
+http://183.220.107.138:4022/rtp/239.11.0.101:5140
+#EXTINF:-1 group-title="央视",CCTV4
+http://183.220.107.138:4022/rtp/239.11.0.109:5140
+#EXTINF:-1 group-title="央视",CCTV5
+http://183.220.107.138:4022/rtp/239.10.0.200:5140
+#EXTINF:-1 group-title="央视",CCTV5
+http://183.220.107.138:4022/rtp/239.11.0.100:5140
+#EXTINF:-1 group-title="央视",CCTV5
+http://183.220.107.138:4022/rtp/239.11.0.66:5140
+#EXTINF:-1 group-title="央视",CCTV5+
+http://183.220.107.138:4022/rtp/239.11.0.241:5140
+#EXTINF:-1 group-title="央视",CCTV6
+http://183.220.107.138:4022/rtp/239.11.0.102:5140
+#EXTINF:-1 group-title="央视",CCTV7
+http://183.220.107.138:4022/rtp/239.11.0.110:5140
+#EXTINF:-1 group-title="央视",CCTV8
+http://183.220.107.138:4022/rtp/239.11.0.103:5140
+#EXTINF:-1 group-title="央视",CCTV9
+http://183.220.107.138:4022/rtp/239.11.0.111:5140
+#EXTINF:-1 group-title="央视",CCTV10
+http://183.220.107.138:4022/rtp/239.11.0.112:5140
+#EXTINF:-1 group-title="央视",CCTV11
+http://183.220.107.138:4022/rtp/239.11.0.22:5140
+#EXTINF:-1 group-title="央视",CCTV12
+http://183.220.107.138:4022/rtp/239.11.0.113:5140
+#EXTINF:-1 group-title="央视",CCTV13
+http://183.220.107.138:4022/rtp/239.11.0.24:5140
+#EXTINF:-1 group-title="央视",CCTV14
+http://183.220.107.138:4022/rtp/239.11.0.114:5140
+#EXTINF:-1 group-title="央视",CCTV15
+http://183.220.107.138:4022/rtp/239.11.0.26:5140
+#EXTINF:-1 group-title="央视",CCTV17
+http://183.220.107.138:4022/rtp/239.11.0.107:5140
+#EXTINF:-1 group-title="央视",CCTV世界地理
+http://183.220.107.138:4022/rtp/239.10.0.190:5140
+#EXTINF:-1 group-title="央视",CCTV高网频道
+http://183.220.107.138:4022/rtp/239.10.0.164:5140
+#EXTINF:-1 group-title="央视",CCTV高网频道
+http://183.220.107.138:4022/rtp/239.10.0.224:5140
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-1" tvg-logo="",CCTV-1 [1920x1080]
 http://123.160.235.136:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视" tvg-name="CCTV-1" tvg-logo="",CCTV-1 [1920x1080]
