@@ -2,6 +2,48 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE merge
 
+
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道",CCTV-1
+http://43.226.47.21:28429/ysp.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道",CCTV-2
+http://43.226.47.21:28429/ysp.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道",CCTV-3
+http://43.226.47.21:28429/ysp.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道",CCTV-4
+http://43.226.47.21:28429/ysp.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" group-title="央视频道",CCTV-4K
+http://43.226.47.21:28429/ysp.php?id=cctv4k
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道",CCTV-5
+http://43.226.47.21:28429/ysp.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道",CCTV-5+
+http://43.226.47.21:28429/ysp.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道",CCTV-6
+http://43.226.47.21:28429/ysp.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道",CCTV-7
+http://43.226.47.21:28429/ysp.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="央视频道",CCTV-8
+http://43.226.47.21:28429/ysp.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV-8K" tvg-logo="https://tb.zbds.top/logo/CCTV8K.png" group-title="央视频道",CCTV-8K
+http://43.226.47.21:28429/ysp.php?id=cctv8k
+#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视频道",CCTV-9
+http://43.226.47.21:28429/ysp.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://tb.zbds.top/logo/CCTV10.png" group-title="央视频道",CCTV-10
+http://43.226.47.21:28429/ysp.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道",CCTV-11
+http://43.226.47.21:28429/ysp.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视频道",CCTV-12
+http://43.226.47.21:28429/ysp.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道",CCTV-13
+http://43.226.47.21:28429/ysp.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视频道",CCTV-14
+http://43.226.47.21:28429/ysp.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="央视频道",CCTV-15
+http://43.226.47.21:28429/ysp.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视频道",CCTV-16
+http://43.226.47.21:28429/ysp.php?id=cctv16
+#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道",CCTV-17
+http://43.226.47.21:28429/ysp.php?id=cctv17
+
 #EXTINF:-1 group-title="央视频道",CCTV1
 http://112.44.179.115:10086/rtp/239.11.0.65:5140
 #EXTINF:-1 group-title="央视频道",CCTV2
