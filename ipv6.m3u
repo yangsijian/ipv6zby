@@ -1354,6 +1354,11 @@ http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://tb.zbds.top/logo/明珠台.png" group-title="港澳台",明珠台
 http://112.92.129.96:9898/hls/110/index.m3u8
 
+
+#EXTINF:-1 tvg-id="TVBNewsHK-1" tvg-name="TVB无线新闻台" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="港澳台",01 TVB新闻台 官方CDN限时1080p
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1795397698~exp=1797989698~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=dd50e06e7cda9e4873575648bb38f7be58f19102347eee317812bc4b92f70eef&p=3000
+#EXTINF:-1 tvg-id="TVBNewsHK-2" tvg-name="TVB无线新闻台" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="港澳台",02 TVB新闻台 KylinTV HLS
+https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 #EXTINF:-1 tvg-id="368363" tvg-name="无线新闻台" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="港澳台",无线新闻台
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1795397698~exp=1797989698~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=dd50e06e7cda9e4873575648bb38f7be58f19102347eee317812bc4b92f70eef&p=3000
 #EXTINF:-1 tvg-id="368363" tvg-name="无线新闻台" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="无线新闻台",无线新闻台
